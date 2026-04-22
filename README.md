@@ -31,22 +31,28 @@ Skrypt pobiera informacje o zawodnikach oraz klubach, parsuje je z formatu HTML 
 1. Sklonuj repozytorium:
 
    ```bash
-   git clone [https://github.com/PolishKnight/cr-pzszach-scraper.git](https://github.com/PolishKnight/cr-pzszach-scraper.git)
+   git clone https://github.com/PolishKnight/cr-pzszach-scraper.git
    ```
 
-2. Zainstaluj zależności:
+2. Przejdź do katalogu:
+
+   ```bash
+   cd cr-pzszach-scraper
+   ```
+
+3. Zainstaluj zależności:
 
    ```bash
    npm install
    ```
 
-3. Aby rozpocząć proces scrapowania, uruchom:
+4. Aby rozpocząć proces scrapowania, uruchom:
 
    ```bash
    node index.js
    ```
 
-4. Otrzymasz gotowe pliki w katalogu `export_files/`
+5. Otrzymasz gotowe pliki w katalogu `export_files/`
 
 ---
 
