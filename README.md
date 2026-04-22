@@ -1,5 +1,7 @@
 # CR PZSzach Scraper
 
+![PZSzach Scraper Status](https://github.com/PolishKnight/cr-pzszach-scraper/actions/workflows/scraper.yml/badge.svg)
+
 **PL:** Ekstraktor danych z Centralnego Rejestru Polskiego Związku Szachowego.  
 **EN:** Data extractor for the Polish Chess Federation Central Registry.
 
