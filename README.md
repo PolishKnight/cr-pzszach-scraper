@@ -96,6 +96,18 @@ Każdy wygenerowany plik JSON posiada metadane ułatwiające późniejszą anali
 
 ---
 
+## 🤖 Automatyzacja (GitHub Actions)
+
+Projekt posiada skonfigurowany mechanizm **GitHub Actions**, który:
+
+- **Aktualizuje dane codziennie o godzinie 02:00 UTC.**
+- Automatycznie pobiera najnowsze rankingi i listy klubów.
+- Zapisuje zmiany bezpośrednio w repozytorium w folderze `export_files/`.
+
+Status ostatniego uruchomienia możesz sprawdzić w zakładce **Actions** swojego repozytorium.
+
+---
+
 ## 🛠 Technologie
 
 Projekt wykorzystuje sprawdzone biblioteki:
