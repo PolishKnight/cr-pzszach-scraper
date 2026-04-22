@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:42.977Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "38364",
+      "nazwisko_imie": "PSYK Radosław",
+      "tytul_kategoria": "K++",
+      "rank_fide": "2501",
+      "klub": "KSz PIˇTKA Skierniewice",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "1803",
+      "nazwisko_imie": "SOPUR Lech",
+      "tytul_kategoria": "M",
+      "rank_fide": "2396",
+      "klub": "Łódzka Liga Szachowa",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "1750",
+      "nazwisko_imie": "LUCZAK Andrzej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2370",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "1834",
+      "nazwisko_imie": "WOLNY Ryszard",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2305",
+      "klub": "Łódzka Liga Szachowa",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "1814",
+      "nazwisko_imie": "¦WIĆ Waldemar",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2297",
+      "klub": "Łódzka Liga Szachowa",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "1538",
+      "nazwisko_imie": "MACHAJ Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2275",
+      "klub": "KSz PIˇTKA Skierniewice",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "1844",
+      "nazwisko_imie": "ZIELINSKI Marek",
+      "tytul_kategoria": "M",
+      "rank_fide": "2275",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "1800",
+      "nazwisko_imie": "SKORA Waldemar",
+      "tytul_kategoria": "K",
+      "rank_fide": "2250",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "1740",
+      "nazwisko_imie": "KWIECINSKI Ryszard",
+      "tytul_kategoria": "K",
+      "rank_fide": "2239",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "70172",
+      "nazwisko_imie": "ROSA Antoni",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2239",
+      "klub": "Hetman Żelechlinek",
+      "wojewodztwo_zwiazek": "LD"
+    }
+  ]
+}

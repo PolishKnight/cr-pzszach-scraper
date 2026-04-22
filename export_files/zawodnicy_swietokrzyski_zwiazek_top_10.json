@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:51.854Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "2913",
+      "nazwisko_imie": "PRZEDMOJSKI Rafał",
+      "tytul_kategoria": "M",
+      "rank_fide": "2357",
+      "klub": "KLIM UKSz Gambit Starachowice",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "57060",
+      "nazwisko_imie": "SHKURAN Danylo",
+      "tytul_kategoria": "",
+      "rank_fide": "2329",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "37124",
+      "nazwisko_imie": "NESTER Ihor",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2268",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "4989",
+      "nazwisko_imie": "BARTOSIK Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "2260",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "5012",
+      "nazwisko_imie": "KARCZ Robert",
+      "tytul_kategoria": "I",
+      "rank_fide": "2215",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "17264",
+      "nazwisko_imie": "JĘDRAS Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "2152",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "4938",
+      "nazwisko_imie": "DUDEK Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2138",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "5039",
+      "nazwisko_imie": "PROKOP Jacek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2135",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "5002",
+      "nazwisko_imie": "FABROWSKI Janusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2134",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "17035",
+      "nazwisko_imie": "HARAZIŃSKA Ewa",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2128",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    }
+  ]
+}

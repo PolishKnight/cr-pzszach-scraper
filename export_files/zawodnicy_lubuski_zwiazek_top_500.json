@@ -1,0 +1,4506 @@
+{
+  "createdAt": "2026-04-22T21:52:42.335Z",
+  "totalRecords": 500,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "1247",
+      "nazwisko_imie": "DRAGUN Kamil",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2512",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "23258",
+      "nazwisko_imie": "JANIK Igor",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2504",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "2765",
+      "nazwisko_imie": "KRASENKOW Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2483",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "5917",
+      "nazwisko_imie": "MATLAK Marek",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2479",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "50147",
+      "nazwisko_imie": "DZIDA Kamil",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2418",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "1413",
+      "nazwisko_imie": "OLIWA Marek",
+      "tytul_kategoria": "M",
+      "rank_fide": "2390",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "1437",
+      "nazwisko_imie": "SKALIK Przemysław",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2367",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "1252",
+      "nazwisko_imie": "KLIM Kamil",
+      "tytul_kategoria": "M",
+      "rank_fide": "2362",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "1423",
+      "nazwisko_imie": "PISULIŃSKI Jan",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2343",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "1391",
+      "nazwisko_imie": "LIWAK Przemysław",
+      "tytul_kategoria": "M",
+      "rank_fide": "2342",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "2715",
+      "nazwisko_imie": "ZAWADZKA Beata",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2329",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "46732",
+      "nazwisko_imie": "KOZIOROWICZ Michał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2325",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "66199",
+      "nazwisko_imie": "RÓG Bartłomiej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2303",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "1438",
+      "nazwisko_imie": "SKRZYPNIK Maciej",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2297",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "1402",
+      "nazwisko_imie": "MICHALSKI Olaf",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2259",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "1352",
+      "nazwisko_imie": "CZERWOŃSKI Aleksander",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2253",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "42480",
+      "nazwisko_imie": "REDZISZ Michał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2251",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "1414",
+      "nazwisko_imie": "OLIWA Patryk",
+      "tytul_kategoria": "K",
+      "rank_fide": "2244",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "112",
+      "nazwisko_imie": "GOLUCH Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2240",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "1407",
+      "nazwisko_imie": "MURAWSKI Grzegorz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2229",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "1263",
+      "nazwisko_imie": "SIWIEC Arkadiusz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2226",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "1464",
+      "nazwisko_imie": "ZAPOLSKI Krzysztof",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2224",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "1349",
+      "nazwisko_imie": "CHODARCEWICZ Rafał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2220",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "1412",
+      "nazwisko_imie": "OKUNIEWSKI Bogusław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2217",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "6237",
+      "nazwisko_imie": "ZIELIŃSKI Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2205",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "16186",
+      "nazwisko_imie": "DELEKTA Filip",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2205",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "1259",
+      "nazwisko_imie": "MODZELAN Andrzej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2204",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "1344",
+      "nazwisko_imie": "BROK Jerzy",
+      "tytul_kategoria": "K",
+      "rank_fide": "2199",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "1444",
+      "nazwisko_imie": "¦WIATŁOWSKI Łukasz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2199",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "59919",
+      "nazwisko_imie": "SIEKAŃSKA Maria",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2196",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "1436",
+      "nazwisko_imie": "SIEKAŃSKI Janusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2190",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "1295",
+      "nazwisko_imie": "SKÓRA Marek",
+      "tytul_kategoria": "K",
+      "rank_fide": "2183",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "1398",
+      "nazwisko_imie": "MAZUREK Robert",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2182",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "1334",
+      "nazwisko_imie": "BIAŁY Rafał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2180",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "1445",
+      "nazwisko_imie": "SYPNICKI Dominik",
+      "tytul_kategoria": "K",
+      "rank_fide": "2159",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "1424",
+      "nazwisko_imie": "POLAŃSKI Edward",
+      "tytul_kategoria": "K",
+      "rank_fide": "2142",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "1278",
+      "nazwisko_imie": "ZEMBATY Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2140",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "9795",
+      "nazwisko_imie": "KOITKA Jakub",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2140",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "1354",
+      "nazwisko_imie": "DˇBROWSKI Grzegorz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2139",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "1453",
+      "nazwisko_imie": "TRUSEWICZ Janusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2137",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "1369",
+      "nazwisko_imie": "GROBELNY Alojzy",
+      "tytul_kategoria": "K",
+      "rank_fide": "2134",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "1460",
+      "nazwisko_imie": "WI¦NIOWSKA Klaudia",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2128",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "6715",
+      "nazwisko_imie": "CISZAK Daniel",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2128",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "1244",
+      "nazwisko_imie": "BRODOWSKI Wojciech",
+      "tytul_kategoria": "K",
+      "rank_fide": "2125",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "1294",
+      "nazwisko_imie": "RACZYŃSKI Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "2117",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "4456",
+      "nazwisko_imie": "KUMALA Aleksander",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2117",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "1335",
+      "nazwisko_imie": "BIELIŃSKI Dariusz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2116",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "1243",
+      "nazwisko_imie": "BARTNICKI Paweł",
+      "tytul_kategoria": "K",
+      "rank_fide": "2115",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "8109",
+      "nazwisko_imie": "¦WIDERSKI Radosław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2111",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "1435",
+      "nazwisko_imie": "SIEKAŃSKA Izabela",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2110",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "1246",
+      "nazwisko_imie": "LEAN Maria",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2103",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "27229",
+      "nazwisko_imie": "JANKOWIAK Tomasz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2103",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "5968",
+      "nazwisko_imie": "NOWAKOWSKI Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "2102",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "24984",
+      "nazwisko_imie": "PIOTROWSKI Paweł",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2097",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "1351",
+      "nazwisko_imie": "CZERNIAWSKI Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2088",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "76625",
+      "nazwisko_imie": "RÓŻAŃSKI Mateusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2086",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "1468",
+      "nazwisko_imie": "ZIĘTEK-CZERWOŃSKA Beata",
+      "tytul_kategoria": "M",
+      "rank_fide": "2085",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "1338",
+      "nazwisko_imie": "BLANDZI Daniel",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2084",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "7896",
+      "nazwisko_imie": "OKUNIEWSKI Janusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2084",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "1419",
+      "nazwisko_imie": "PA¬DZIOR Jarosław",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2083",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "5843",
+      "nazwisko_imie": "KRÓL Alan",
+      "tytul_kategoria": "I",
+      "rank_fide": "2072",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "39517",
+      "nazwisko_imie": "MAJDAŃSKI Maksymilian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2072",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "21712",
+      "nazwisko_imie": "JANKOWIAK Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "2057",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "74104",
+      "nazwisko_imie": "JABŁOŃSKI Wojciech",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2053",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "1292",
+      "nazwisko_imie": "NOWACKI Adrian",
+      "tytul_kategoria": "I",
+      "rank_fide": "2051",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "1376",
+      "nazwisko_imie": "KARANOWSKI Robert",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2047",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "1411",
+      "nazwisko_imie": "OGRABEK Grzegorz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2047",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "1233",
+      "nazwisko_imie": "MAĆKÓW Paweł",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2035",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "1370",
+      "nazwisko_imie": "JABŁOŃSKI Waldemar",
+      "tytul_kategoria": "I",
+      "rank_fide": "2034",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "1401",
+      "nazwisko_imie": "MICHALSKI Daniel",
+      "tytul_kategoria": "K",
+      "rank_fide": "2021",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "73165",
+      "nazwisko_imie": "ZIOBROWSKA Maja",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2018",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "39053",
+      "nazwisko_imie": "CZARNIECKA Aleksandra",
+      "tytul_kategoria": "M",
+      "rank_fide": "2013",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "1457",
+      "nazwisko_imie": "WILMIŃSKI Łukasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2008",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "1449",
+      "nazwisko_imie": "SZYLKO Waldemar",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2006",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "118452",
+      "nazwisko_imie": "KRASENKOWA Elena",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2006",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "50146",
+      "nazwisko_imie": "CZECHOWSKI Jakub",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2001",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "97",
+      "nazwisko_imie": "ADAMKOWICZ Zdzisław",
+      "tytul_kategoria": "I",
+      "rank_fide": "2000",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "7859",
+      "nazwisko_imie": "MIELCZARKOWSKI Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1999",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "74103",
+      "nazwisko_imie": "JABŁOŃSKI Antoni",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1999",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "8099",
+      "nazwisko_imie": "GRABOWSKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1998",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "7843",
+      "nazwisko_imie": "MAJKOWSKI Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1993",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "6741",
+      "nazwisko_imie": "IWIŃSKI Grzegorz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1990",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "8236",
+      "nazwisko_imie": "SZYLKO Remigiusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1990",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "1405",
+      "nazwisko_imie": "MIŁASZEWSKI Henryk",
+      "tytul_kategoria": "I",
+      "rank_fide": "1989",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "1251",
+      "nazwisko_imie": "KLIM Artur",
+      "tytul_kategoria": "I",
+      "rank_fide": "1985",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "8116",
+      "nazwisko_imie": "ZABAWSKI Grzegorz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1984",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "1269",
+      "nazwisko_imie": "WODNICZAK Arkadiusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1983",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "7984",
+      "nazwisko_imie": "SZEWCZYK Janusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1978",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "8323",
+      "nazwisko_imie": "GˇSKA Stanisław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1965",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "8168",
+      "nazwisko_imie": "SUDOLSKI Sylwester",
+      "tytul_kategoria": "I",
+      "rank_fide": "1962",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "23454",
+      "nazwisko_imie": "CZERNIAWSKI Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1962",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "5763",
+      "nazwisko_imie": "JĘCEK Mirosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1955",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "24193",
+      "nazwisko_imie": "GAJDECKI Ryszard",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1953",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "25635",
+      "nazwisko_imie": "SZYMAŃSKI Jarosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1953",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "1280",
+      "nazwisko_imie": "STAŃKOWSKI Aleksander",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1949",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "1422",
+      "nazwisko_imie": "PIEKAŁKIEWICZ Leon",
+      "tytul_kategoria": "I",
+      "rank_fide": "1947",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "1394",
+      "nazwisko_imie": "MAŁECKI Eugeniusz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1945",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "7867",
+      "nazwisko_imie": "MISZTELA Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1945",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "4702",
+      "nazwisko_imie": "KIEŁBRATOWSKI Aleksander",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1941",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "1281",
+      "nazwisko_imie": "STÓJ Dariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1939",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "101",
+      "id_pzszach": "1447",
+      "nazwisko_imie": "SZEWCZUK Mariola",
+      "tytul_kategoria": "I",
+      "rank_fide": "1937",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "102",
+      "id_pzszach": "1353",
+      "nazwisko_imie": "CZYŻ Andrzej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1936",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "103",
+      "id_pzszach": "7974",
+      "nazwisko_imie": "STATUCKI Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1935",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "104",
+      "id_pzszach": "1386",
+      "nazwisko_imie": "KUCHARSKI Mariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1934",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "105",
+      "id_pzszach": "6965",
+      "nazwisko_imie": "GˇBKA Paweł",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1929",
+      "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "106",
+      "id_pzszach": "110237",
+      "nazwisko_imie": "KOCH Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1928",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "107",
+      "id_pzszach": "1389",
+      "nazwisko_imie": "ŁABĘDZKA Marta",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1927",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "108",
+      "id_pzszach": "1355",
+      "nazwisko_imie": "DEMIDOWICZ Alicja",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1924",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "109",
+      "id_pzszach": "1306",
+      "nazwisko_imie": "¦WITAŁA Stefan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1922",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "110",
+      "id_pzszach": "38161",
+      "nazwisko_imie": "RACZYKOWSKA Paulina",
+      "tytul_kategoria": "K",
+      "rank_fide": "1918",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "111",
+      "id_pzszach": "1291",
+      "nazwisko_imie": "KORPAN Kasjan",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1915",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "112",
+      "id_pzszach": "1350",
+      "nazwisko_imie": "CHOMSKI Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "113",
+      "id_pzszach": "1363",
+      "nazwisko_imie": "FRˇCKOWIAK Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "114",
+      "id_pzszach": "24194",
+      "nazwisko_imie": "TWAROGIEL Tadeusz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1912",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "115",
+      "id_pzszach": "1403",
+      "nazwisko_imie": "MIECHOWICZ Witold",
+      "tytul_kategoria": "I",
+      "rank_fide": "1909",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "116",
+      "id_pzszach": "1320",
+      "nazwisko_imie": "DUNAJ Konrad",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1907",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "117",
+      "id_pzszach": "1408",
+      "nazwisko_imie": "NUN Grzegorz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1905",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "118",
+      "id_pzszach": "1309",
+      "nazwisko_imie": "WOJCIECHOWSKI Filip",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1904",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "119",
+      "id_pzszach": "56195",
+      "nazwisko_imie": "LEMAŃSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1904",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "120",
+      "id_pzszach": "1267",
+      "nazwisko_imie": "WILCZEWSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1897",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "121",
+      "id_pzszach": "8860",
+      "nazwisko_imie": "RAWSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1897",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "122",
+      "id_pzszach": "62466",
+      "nazwisko_imie": "ŁOCHIŃSKI Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1896",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "123",
+      "id_pzszach": "1248",
+      "nazwisko_imie": "GIGOŁA Jacek",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1894",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "124",
+      "id_pzszach": "1359",
+      "nazwisko_imie": "DUTCZAK Robert",
+      "tytul_kategoria": "I",
+      "rank_fide": "1893",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "125",
+      "id_pzszach": "27591",
+      "nazwisko_imie": "WITCZAK Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1891",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "126",
+      "id_pzszach": "1379",
+      "nazwisko_imie": "KIEŁEK Andrzej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1890",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "127",
+      "id_pzszach": "61390",
+      "nazwisko_imie": "SIEKAŃSKA Zuzanna",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "1890",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "128",
+      "id_pzszach": "10880",
+      "nazwisko_imie": "NOWICKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1887",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "129",
+      "id_pzszach": "97637",
+      "nazwisko_imie": "BUCZKO Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1885",
+      "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "130",
+      "id_pzszach": "5731",
+      "nazwisko_imie": "HADRY¦ Bogdan",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1877",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "131",
+      "id_pzszach": "94620",
+      "nazwisko_imie": "MATACZYNA Aleksandra",
+      "tytul_kategoria": "K",
+      "rank_fide": "1876",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "132",
+      "id_pzszach": "1341",
+      "nazwisko_imie": "BOROWIAK Aleksander",
+      "tytul_kategoria": "I",
+      "rank_fide": "1875",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "133",
+      "id_pzszach": "8816",
+      "nazwisko_imie": "DĘBSKI Błażej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1873",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "134",
+      "id_pzszach": "43517",
+      "nazwisko_imie": "Monczak Mariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1870",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "135",
+      "id_pzszach": "27560",
+      "nazwisko_imie": "GO¬DZICKI Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1869",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "136",
+      "id_pzszach": "1387",
+      "nazwisko_imie": "KULASZYŃSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1865",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "137",
+      "id_pzszach": "25700",
+      "nazwisko_imie": "MAZUR Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1865",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "138",
+      "id_pzszach": "7932",
+      "nazwisko_imie": "RASZKIEWICZ Jacek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1861",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "139",
+      "id_pzszach": "9783",
+      "nazwisko_imie": "JACEWICZ Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1858",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "140",
+      "id_pzszach": "27051",
+      "nazwisko_imie": "KASEJA Magdalena",
+      "tytul_kategoria": "II",
+      "rank_fide": "1857",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "141",
+      "id_pzszach": "8707",
+      "nazwisko_imie": "GOLKE Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1854",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "142",
+      "id_pzszach": "1260",
+      "nazwisko_imie": "PARTYKA Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1852",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "143",
+      "id_pzszach": "56084",
+      "nazwisko_imie": "Tomczyk Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1845",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "144",
+      "id_pzszach": "24425",
+      "nazwisko_imie": "GŁOWIŃSKI Daniel",
+      "tytul_kategoria": "II",
+      "rank_fide": "1840",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "145",
+      "id_pzszach": "24846",
+      "nazwisko_imie": "BRYCHCY Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1840",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "146",
+      "id_pzszach": "1418",
+      "nazwisko_imie": "PARTYKA Małgorzata",
+      "tytul_kategoria": "I",
+      "rank_fide": "1838",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "147",
+      "id_pzszach": "6699",
+      "nazwisko_imie": "STEFANOWSKI Rafał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1832",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "148",
+      "id_pzszach": "1266",
+      "nazwisko_imie": "SOKOŁOWSKI Roman",
+      "tytul_kategoria": "K",
+      "rank_fide": "1831",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "149",
+      "id_pzszach": "1277",
+      "nazwisko_imie": "CZEPCZYŃSKI Bogusław",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1830",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "150",
+      "id_pzszach": "61323",
+      "nazwisko_imie": "FILIPIAK Rajmund",
+      "tytul_kategoria": "I",
+      "rank_fide": "1827",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "151",
+      "id_pzszach": "1329",
+      "nazwisko_imie": "OPRYSZAK Martyna",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1824",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "152",
+      "id_pzszach": "13046",
+      "nazwisko_imie": "ADASZEWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1824",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "153",
+      "id_pzszach": "1325",
+      "nazwisko_imie": "MACKIEWICZ Piotr",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1822",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "154",
+      "id_pzszach": "23544",
+      "nazwisko_imie": "PYKA Sławomir",
+      "tytul_kategoria": "I",
+      "rank_fide": "1822",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "155",
+      "id_pzszach": "8408",
+      "nazwisko_imie": "KRAWIEC Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1819",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "156",
+      "id_pzszach": "30372",
+      "nazwisko_imie": "KARŁYK Maria",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1819",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "157",
+      "id_pzszach": "138472",
+      "nazwisko_imie": "KONYSZ Mirosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1815",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "158",
+      "id_pzszach": "21477",
+      "nazwisko_imie": "WI¦NIEWSKI Arkadiusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1813",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "159",
+      "id_pzszach": "18490",
+      "nazwisko_imie": "GROMALA Radosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1812",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "160",
+      "id_pzszach": "7759",
+      "nazwisko_imie": "JAWORSKI Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1810",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "161",
+      "id_pzszach": "93880",
+      "nazwisko_imie": "OBELCHAK Rusłan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1808",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "162",
+      "id_pzszach": "8858",
+      "nazwisko_imie": "SZCZEPAŃSKI Sławomir",
+      "tytul_kategoria": "II",
+      "rank_fide": "1807",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "163",
+      "id_pzszach": "8303",
+      "nazwisko_imie": "JAKUBOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1805",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "164",
+      "id_pzszach": "39993",
+      "nazwisko_imie": "MACIAK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1805",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "165",
+      "id_pzszach": "8452",
+      "nazwisko_imie": "ROSIŃSKI Radosław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1799",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "166",
+      "id_pzszach": "24205",
+      "nazwisko_imie": "KOWALSKI Henryk",
+      "tytul_kategoria": "II",
+      "rank_fide": "1797",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "167",
+      "id_pzszach": "1330",
+      "nazwisko_imie": "BALCEWICZ Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1791",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "168",
+      "id_pzszach": "26316",
+      "nazwisko_imie": "FUDALEJ Sławomir",
+      "tytul_kategoria": "I",
+      "rank_fide": "1791",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "169",
+      "id_pzszach": "76418",
+      "nazwisko_imie": "KIEŁBRATOWSKI Eryk",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1791",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "170",
+      "id_pzszach": "45229",
+      "nazwisko_imie": "HORWAT Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1788",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "171",
+      "id_pzszach": "1429",
+      "nazwisko_imie": "RAPIEJ Andrzej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1786",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "172",
+      "id_pzszach": "7380",
+      "nazwisko_imie": "KIEŁBRATOWSKI Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1786",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "173",
+      "id_pzszach": "56324",
+      "nazwisko_imie": "FERENC Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1786",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "174",
+      "id_pzszach": "9793",
+      "nazwisko_imie": "AMBROZIAK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1780",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "175",
+      "id_pzszach": "1245",
+      "nazwisko_imie": "BYLIŃSKI Grzegorz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1779",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "176",
+      "id_pzszach": "9792",
+      "nazwisko_imie": "ZAPOROWSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1779",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "177",
+      "id_pzszach": "83911",
+      "nazwisko_imie": "CZYŻEWSKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1777",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "178",
+      "id_pzszach": "7865",
+      "nazwisko_imie": "MIRSKI Jerzy",
+      "tytul_kategoria": "I",
+      "rank_fide": "1774",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "179",
+      "id_pzszach": "8926",
+      "nazwisko_imie": "NUN Ryszard",
+      "tytul_kategoria": "II",
+      "rank_fide": "1774",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "180",
+      "id_pzszach": "28143",
+      "nazwisko_imie": "MALINOWSKI Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1772",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "181",
+      "id_pzszach": "107608",
+      "nazwisko_imie": "PUZYREWSKI Feliks",
+      "tytul_kategoria": "I",
+      "rank_fide": "1771",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "182",
+      "id_pzszach": "1360",
+      "nazwisko_imie": "DZIOPA Małgorzata",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1770",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "183",
+      "id_pzszach": "8401",
+      "nazwisko_imie": "RADZIJEWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1768",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "184",
+      "id_pzszach": "1409",
+      "nazwisko_imie": "NUN Joanna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1767",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "185",
+      "id_pzszach": "1290",
+      "nazwisko_imie": "JASKÓRZYŃSKA Anna",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1766",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "186",
+      "id_pzszach": "8471",
+      "nazwisko_imie": "OLIWA Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1766",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "187",
+      "id_pzszach": "9853",
+      "nazwisko_imie": "KULWIŃSKI Marian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1764",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "188",
+      "id_pzszach": "39991",
+      "nazwisko_imie": "RYNKIEWICZ Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1764",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "189",
+      "id_pzszach": "56086",
+      "nazwisko_imie": "¦wi±tkowski Dawid",
+      "tytul_kategoria": "I",
+      "rank_fide": "1763",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "190",
+      "id_pzszach": "22825",
+      "nazwisko_imie": "DEREWLANY Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1761",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "191",
+      "id_pzszach": "8396",
+      "nazwisko_imie": "SZEPE Eryk",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1760",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "192",
+      "id_pzszach": "126816",
+      "nazwisko_imie": "KRÓL Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1760",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "193",
+      "id_pzszach": "116911",
+      "nazwisko_imie": "BOS Nina",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1755",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "194",
+      "id_pzszach": "116042",
+      "nazwisko_imie": "KIECANA Ignacy",
+      "tytul_kategoria": "I",
+      "rank_fide": "1753",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "195",
+      "id_pzszach": "1254",
+      "nazwisko_imie": "KRÓLIK Władysław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1750",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "196",
+      "id_pzszach": "1466",
+      "nazwisko_imie": "ZEZULKIN Alina",
+      "tytul_kategoria": "I",
+      "rank_fide": "1748",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "197",
+      "id_pzszach": "9848",
+      "nazwisko_imie": "BRODZIŃSKI Zdzisław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1746",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "198",
+      "id_pzszach": "23263",
+      "nazwisko_imie": "CZAPLIŃSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1746",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "199",
+      "id_pzszach": "22760",
+      "nazwisko_imie": "IGIELSKI Roman",
+      "tytul_kategoria": "II",
+      "rank_fide": "1743",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "200",
+      "id_pzszach": "22835",
+      "nazwisko_imie": "KULCZYCKI Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1742",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "201",
+      "id_pzszach": "114907",
+      "nazwisko_imie": "KNOBEL Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1742",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "202",
+      "id_pzszach": "8052",
+      "nazwisko_imie": "KRZYSZTOFIAK Zdzisław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1740",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "203",
+      "id_pzszach": "107012",
+      "nazwisko_imie": "SADKOWSKA Żaneta",
+      "tytul_kategoria": "II",
+      "rank_fide": "1739",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "204",
+      "id_pzszach": "8556",
+      "nazwisko_imie": "TATARYNOWICZ Jerzy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1737",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "205",
+      "id_pzszach": "1261",
+      "nazwisko_imie": "PRZYSIECKI Kajetan",
+      "tytul_kategoria": "CM",
+      "rank_fide": "1736",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "206",
+      "id_pzszach": "8410",
+      "nazwisko_imie": "KLONOWSKI Arkadiusz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1735",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "207",
+      "id_pzszach": "8621",
+      "nazwisko_imie": "BOŁA Zygmunt",
+      "tytul_kategoria": "II",
+      "rank_fide": "1732",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "208",
+      "id_pzszach": "26506",
+      "nazwisko_imie": "MŁYNARCZYK Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1727",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "209",
+      "id_pzszach": "9798",
+      "nazwisko_imie": "KOLESIŃSKI Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1725",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "210",
+      "id_pzszach": "103536",
+      "nazwisko_imie": "NOWACKI Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1724",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "211",
+      "id_pzszach": "49859",
+      "nazwisko_imie": "KASPERSKI Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1719",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "212",
+      "id_pzszach": "119207",
+      "nazwisko_imie": "REDZIMSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1719",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "213",
+      "id_pzszach": "1358",
+      "nazwisko_imie": "DU¦ Leszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1717",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "214",
+      "id_pzszach": "125218",
+      "nazwisko_imie": "MATYSIAK Szymon",
+      "tytul_kategoria": "I",
+      "rank_fide": "1717",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "215",
+      "id_pzszach": "39247",
+      "nazwisko_imie": "GAZIŃSKI Olaf",
+      "tytul_kategoria": "III",
+      "rank_fide": "1716",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "216",
+      "id_pzszach": "38946",
+      "nazwisko_imie": "KSIˇŻKIEWICZ Marcin",
+      "tytul_kategoria": "III",
+      "rank_fide": "1713",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "217",
+      "id_pzszach": "93249",
+      "nazwisko_imie": "FORD Nikodem",
+      "tytul_kategoria": "II",
+      "rank_fide": "1711",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "218",
+      "id_pzszach": "23542",
+      "nazwisko_imie": "MALINOWSKA Monika",
+      "tytul_kategoria": "I",
+      "rank_fide": "1710",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "219",
+      "id_pzszach": "38342",
+      "nazwisko_imie": "KRZYSZEWSKI Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1707",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "220",
+      "id_pzszach": "43482",
+      "nazwisko_imie": "TOMCZYK Igor",
+      "tytul_kategoria": "III",
+      "rank_fide": "1707",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "221",
+      "id_pzszach": "22831",
+      "nazwisko_imie": "WI¦NIEWSKI Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1706",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "222",
+      "id_pzszach": "8248",
+      "nazwisko_imie": "KRUHLIK Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1705",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "223",
+      "id_pzszach": "30375",
+      "nazwisko_imie": "SZPAKOWICZ Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1704",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "224",
+      "id_pzszach": "64321",
+      "nazwisko_imie": "¦LED¬ ADAM",
+      "tytul_kategoria": "III",
+      "rank_fide": "1704",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "225",
+      "id_pzszach": "45300",
+      "nazwisko_imie": "PARTYKA Kazimierz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1703",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "226",
+      "id_pzszach": "8250",
+      "nazwisko_imie": "KOŁODZIEJSKI Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1701",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "227",
+      "id_pzszach": "64604",
+      "nazwisko_imie": "MUSIN Paweł",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1701",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "228",
+      "id_pzszach": "8766",
+      "nazwisko_imie": "MAZUREK Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1698",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "229",
+      "id_pzszach": "22830",
+      "nazwisko_imie": "WO¬NIAK Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1695",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "230",
+      "id_pzszach": "101726",
+      "nazwisko_imie": "CZAPLIŃSKI Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1695",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "231",
+      "id_pzszach": "8567",
+      "nazwisko_imie": "RYGIELSKI Zdzisław",
+      "tytul_kategoria": "III",
+      "rank_fide": "1693",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "232",
+      "id_pzszach": "22826",
+      "nazwisko_imie": "BACHTA Adrian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1692",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "233",
+      "id_pzszach": "97620",
+      "nazwisko_imie": "Paszke Mikołaj",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1690",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "234",
+      "id_pzszach": "41961",
+      "nazwisko_imie": "ZAŁUCKA Emilia",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1687",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "235",
+      "id_pzszach": "58207",
+      "nazwisko_imie": "GUGUŁA Czesław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1687",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "236",
+      "id_pzszach": "91823",
+      "nazwisko_imie": "TYTUS Daniel",
+      "tytul_kategoria": "III",
+      "rank_fide": "1685",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "237",
+      "id_pzszach": "78083",
+      "nazwisko_imie": "Urbanowicz Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1683",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "238",
+      "id_pzszach": "25702",
+      "nazwisko_imie": "WORONA Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1681",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "239",
+      "id_pzszach": "120339",
+      "nazwisko_imie": "FESZYK Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1680",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "240",
+      "id_pzszach": "10879",
+      "nazwisko_imie": "SŁOWIK Grzegorz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1672",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "241",
+      "id_pzszach": "104925",
+      "nazwisko_imie": "Janiak Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1671",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "242",
+      "id_pzszach": "69392",
+      "nazwisko_imie": "NAJDEK Stanisław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1670",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "243",
+      "id_pzszach": "1356",
+      "nazwisko_imie": "DOMAGAŁA Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1669",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "244",
+      "id_pzszach": "9850",
+      "nazwisko_imie": "CZOPEK Ryszard",
+      "tytul_kategoria": "II",
+      "rank_fide": "1668",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "245",
+      "id_pzszach": "23452",
+      "nazwisko_imie": "ROJ Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1668",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "246",
+      "id_pzszach": "43546",
+      "nazwisko_imie": "Olencewicz Lech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1668",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "247",
+      "id_pzszach": "78896",
+      "nazwisko_imie": "GRINING Sławomir",
+      "tytul_kategoria": "II",
+      "rank_fide": "1668",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "248",
+      "id_pzszach": "1300",
+      "nazwisko_imie": "MARKOWSKI Jerzy",
+      "tytul_kategoria": "I",
+      "rank_fide": "1665",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "249",
+      "id_pzszach": "2168",
+      "nazwisko_imie": "ŻYGALSKI Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1664",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "250",
+      "id_pzszach": "28718",
+      "nazwisko_imie": "BORTNOWSKI Makary",
+      "tytul_kategoria": "II",
+      "rank_fide": "1663",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "251",
+      "id_pzszach": "94605",
+      "nazwisko_imie": "Hołyński Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1663",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "252",
+      "id_pzszach": "8256",
+      "nazwisko_imie": "GRUSZECKI Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1659",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "253",
+      "id_pzszach": "9782",
+      "nazwisko_imie": "SOKOŁOWSKA Joanna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1658",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "254",
+      "id_pzszach": "9857",
+      "nazwisko_imie": "SAMSON Stefan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1658",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "255",
+      "id_pzszach": "63718",
+      "nazwisko_imie": "MARKOWSKA Kalina",
+      "tytul_kategoria": "I",
+      "rank_fide": "1657",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "256",
+      "id_pzszach": "67300",
+      "nazwisko_imie": "¦wiercz Henryk",
+      "tytul_kategoria": "III",
+      "rank_fide": "1656",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "257",
+      "id_pzszach": "8903",
+      "nazwisko_imie": "SOWA Błażej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1655",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "258",
+      "id_pzszach": "99091",
+      "nazwisko_imie": "MAŃKOWSKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1655",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "259",
+      "id_pzszach": "22070",
+      "nazwisko_imie": "PIECHACZEK Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1653",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "260",
+      "id_pzszach": "70905",
+      "nazwisko_imie": "BURCZYŃSKI Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1652",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "261",
+      "id_pzszach": "28828",
+      "nazwisko_imie": "WILCZYŃSKI Dariusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1651",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "262",
+      "id_pzszach": "130802",
+      "nazwisko_imie": "NAWROT Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1650",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "263",
+      "id_pzszach": "23546",
+      "nazwisko_imie": "WŁODARCZYK Hubert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1647",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "264",
+      "id_pzszach": "91509",
+      "nazwisko_imie": "JASION Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1645",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "265",
+      "id_pzszach": "97639",
+      "nazwisko_imie": "PARADOWSKI Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "1643",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "266",
+      "id_pzszach": "146804",
+      "nazwisko_imie": "DECHNIK Marcel",
+      "tytul_kategoria": "II",
+      "rank_fide": "1642",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "267",
+      "id_pzszach": "66750",
+      "nazwisko_imie": "CIEPLICKI Marek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1639",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "268",
+      "id_pzszach": "89038",
+      "nazwisko_imie": "RAGUNATH BABU Pranav Sharath",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1635",
+      "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "269",
+      "id_pzszach": "145060",
+      "nazwisko_imie": "RYCHLIK Marcin",
+      "tytul_kategoria": "III",
+      "rank_fide": "1634",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "270",
+      "id_pzszach": "26311",
+      "nazwisko_imie": "MICHALCZUK Sara",
+      "tytul_kategoria": "I",
+      "rank_fide": "1633",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "271",
+      "id_pzszach": "59499",
+      "nazwisko_imie": "MISZCZYK Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1633",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "272",
+      "id_pzszach": "40059",
+      "nazwisko_imie": "CZERWOŃSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1632",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "273",
+      "id_pzszach": "89353",
+      "nazwisko_imie": "STADNIK Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1630",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "274",
+      "id_pzszach": "23936",
+      "nazwisko_imie": "FIJOŁEK Michał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1628",
+      "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "275",
+      "id_pzszach": "127839",
+      "nazwisko_imie": "MICHALAK Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1627",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "276",
+      "id_pzszach": "8749",
+      "nazwisko_imie": "PATLA Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1626",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "277",
+      "id_pzszach": "128186",
+      "nazwisko_imie": "KRÓL Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1625",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "278",
+      "id_pzszach": "95415",
+      "nazwisko_imie": "LENIEC Witold",
+      "tytul_kategoria": "II",
+      "rank_fide": "1624",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "279",
+      "id_pzszach": "1313",
+      "nazwisko_imie": "DUBOWSKI Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1622",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "280",
+      "id_pzszach": "149535",
+      "nazwisko_imie": "TOMASZEWICZ Mikołaj",
+      "tytul_kategoria": "III",
+      "rank_fide": "1622",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "281",
+      "id_pzszach": "39781",
+      "nazwisko_imie": "GODLEWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1621",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "282",
+      "id_pzszach": "8207",
+      "nazwisko_imie": "JĘDRZEJCZAK Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1620",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "283",
+      "id_pzszach": "55754",
+      "nazwisko_imie": "TARAWSKI Adrian",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1620",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "284",
+      "id_pzszach": "124126",
+      "nazwisko_imie": "ZAPOTOCZNY Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1620",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "285",
+      "id_pzszach": "50228",
+      "nazwisko_imie": "¦WIERC Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1618",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "286",
+      "id_pzszach": "64603",
+      "nazwisko_imie": "MUSIN Oliwia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1615",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "287",
+      "id_pzszach": "48153",
+      "nazwisko_imie": "PAWŁOWSKI Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1613",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "288",
+      "id_pzszach": "123178",
+      "nazwisko_imie": "KRZESZOWSKI Julian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1613",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "289",
+      "id_pzszach": "74108",
+      "nazwisko_imie": "ZAPOLSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1612",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "290",
+      "id_pzszach": "28719",
+      "nazwisko_imie": "KANIOWSKA Anna",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1611",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "291",
+      "id_pzszach": "43438",
+      "nazwisko_imie": "NOWAKOWSKA Agata",
+      "tytul_kategoria": "III",
+      "rank_fide": "1611",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "292",
+      "id_pzszach": "68497",
+      "nazwisko_imie": "CHMIELEWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1611",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "293",
+      "id_pzszach": "25615",
+      "nazwisko_imie": "KRZYŻANOWSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1610",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "294",
+      "id_pzszach": "141495",
+      "nazwisko_imie": "BENSZ Stanisław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1610",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "295",
+      "id_pzszach": "27594",
+      "nazwisko_imie": "LIS Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1609",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "296",
+      "id_pzszach": "37386",
+      "nazwisko_imie": "LIPIŃSKI Wojciech",
+      "tytul_kategoria": "III",
+      "rank_fide": "1609",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "297",
+      "id_pzszach": "66186",
+      "nazwisko_imie": "BONIAKOWSKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1609",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "298",
+      "id_pzszach": "109561",
+      "nazwisko_imie": "STY¦ Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1609",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "299",
+      "id_pzszach": "59156",
+      "nazwisko_imie": "GOLIŃSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1608",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "300",
+      "id_pzszach": "107889",
+      "nazwisko_imie": "MIELNIK Olimpia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1608",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "301",
+      "id_pzszach": "59074",
+      "nazwisko_imie": "SIERAJ Bernard",
+      "tytul_kategoria": "III",
+      "rank_fide": "1607",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "302",
+      "id_pzszach": "36726",
+      "nazwisko_imie": "WO¬NIAK Mikołaj",
+      "tytul_kategoria": "III",
+      "rank_fide": "1606",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "303",
+      "id_pzszach": "56366",
+      "nazwisko_imie": "KRZYSZEWSKI Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1606",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "304",
+      "id_pzszach": "86795",
+      "nazwisko_imie": "KOWALSKI Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1605",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "305",
+      "id_pzszach": "94668",
+      "nazwisko_imie": "KRUTOW Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1602",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "306",
+      "id_pzszach": "8568",
+      "nazwisko_imie": "RABCZEWSKI Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1600",
+      "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "307",
+      "id_pzszach": "29536",
+      "nazwisko_imie": "ŁAWRYNOWICZ Tomasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1596",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "308",
+      "id_pzszach": "69388",
+      "nazwisko_imie": "GAJDA Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1596",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "309",
+      "id_pzszach": "103543",
+      "nazwisko_imie": "BEDNARCZYK Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1596",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "310",
+      "id_pzszach": "118189",
+      "nazwisko_imie": "URBAŃCZYK Dawid",
+      "tytul_kategoria": "III",
+      "rank_fide": "1596",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "311",
+      "id_pzszach": "59622",
+      "nazwisko_imie": "KOWALSKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1593",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "312",
+      "id_pzszach": "78471",
+      "nazwisko_imie": "URBANOWICZ Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1593",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "313",
+      "id_pzszach": "83980",
+      "nazwisko_imie": "Modzelan Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1593",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "314",
+      "id_pzszach": "99263",
+      "nazwisko_imie": "KUCZAK Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1588",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "315",
+      "id_pzszach": "7659",
+      "nazwisko_imie": "CHOJNACKI Jacek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1587",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "316",
+      "id_pzszach": "23453",
+      "nazwisko_imie": "ROJ Maksymilian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1587",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "317",
+      "id_pzszach": "47132",
+      "nazwisko_imie": "KUDLAK Mariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1587",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "318",
+      "id_pzszach": "66196",
+      "nazwisko_imie": "SZCZEPANIAK Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1587",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "319",
+      "id_pzszach": "130201",
+      "nazwisko_imie": "Czamański Aaron",
+      "tytul_kategoria": "III",
+      "rank_fide": "1587",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "320",
+      "id_pzszach": "9847",
+      "nazwisko_imie": "BAJEK Marek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1585",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "321",
+      "id_pzszach": "63725",
+      "nazwisko_imie": "BEZDZICZEK Artur",
+      "tytul_kategoria": "II",
+      "rank_fide": "1585",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "322",
+      "id_pzszach": "118746",
+      "nazwisko_imie": "TOPOROWSKI Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1585",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "323",
+      "id_pzszach": "43439",
+      "nazwisko_imie": "MICZYŃSKI Igor",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1584",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "324",
+      "id_pzszach": "57319",
+      "nazwisko_imie": "CHROSTOWSKI Władysław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1583",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "325",
+      "id_pzszach": "8565",
+      "nazwisko_imie": "SIBIELSKI Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1582",
+      "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "326",
+      "id_pzszach": "58206",
+      "nazwisko_imie": "¦LUGAJ Krystian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1581",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "327",
+      "id_pzszach": "59688",
+      "nazwisko_imie": "Liskowiak Radosław",
+      "tytul_kategoria": "",
+      "rank_fide": "1580",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "328",
+      "id_pzszach": "110285",
+      "nazwisko_imie": "BARAN Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1576",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "329",
+      "id_pzszach": "90916",
+      "nazwisko_imie": "LEVYTSKYI Oleksandr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1573",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "330",
+      "id_pzszach": "99432",
+      "nazwisko_imie": "ADAMCZYK Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1573",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "331",
+      "id_pzszach": "1307",
+      "nazwisko_imie": "SZAMREJ Józef",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1572",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "332",
+      "id_pzszach": "8188",
+      "nazwisko_imie": "NOWAK Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1571",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "333",
+      "id_pzszach": "29537",
+      "nazwisko_imie": "WILANT Marta",
+      "tytul_kategoria": "II",
+      "rank_fide": "1571",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "334",
+      "id_pzszach": "105777",
+      "nazwisko_imie": "KOTORMUS Davyd",
+      "tytul_kategoria": "II",
+      "rank_fide": "1568",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "335",
+      "id_pzszach": "127044",
+      "nazwisko_imie": "KIECANA Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1566",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "336",
+      "id_pzszach": "130801",
+      "nazwisko_imie": "RADCZYC Dominik",
+      "tytul_kategoria": "III",
+      "rank_fide": "1566",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "337",
+      "id_pzszach": "33512",
+      "nazwisko_imie": "KU¬NIK Damian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1565",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "338",
+      "id_pzszach": "114906",
+      "nazwisko_imie": "ŻURAKOWSKI Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1565",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "339",
+      "id_pzszach": "51265",
+      "nazwisko_imie": "MALICKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1562",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "340",
+      "id_pzszach": "94689",
+      "nazwisko_imie": "CZUCHMAN Marek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1562",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "341",
+      "id_pzszach": "105326",
+      "nazwisko_imie": "SULIKOWSKI Franciszek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1562",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "342",
+      "id_pzszach": "109934",
+      "nazwisko_imie": "KAMIŃSKI Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1560",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "343",
+      "id_pzszach": "8281",
+      "nazwisko_imie": "GADZIŃSKA Mirosława",
+      "tytul_kategoria": "II",
+      "rank_fide": "1559",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "344",
+      "id_pzszach": "25618",
+      "nazwisko_imie": "JANCZURA Czesław",
+      "tytul_kategoria": "III",
+      "rank_fide": "1559",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "345",
+      "id_pzszach": "8791",
+      "nazwisko_imie": "KAJPER Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1558",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "346",
+      "id_pzszach": "53472",
+      "nazwisko_imie": "KIEŁEK Aleksander",
+      "tytul_kategoria": "III",
+      "rank_fide": "1557",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "347",
+      "id_pzszach": "98812",
+      "nazwisko_imie": "STROCHALSKA Antonina",
+      "tytul_kategoria": "I",
+      "rank_fide": "1555",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "348",
+      "id_pzszach": "112759",
+      "nazwisko_imie": "Żytkowski Jakub",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1555",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "349",
+      "id_pzszach": "28823",
+      "nazwisko_imie": "DRZEWIECKI Zbigniew",
+      "tytul_kategoria": "III",
+      "rank_fide": "1554",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "350",
+      "id_pzszach": "94618",
+      "nazwisko_imie": "MODZELAN Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1552",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "351",
+      "id_pzszach": "123562",
+      "nazwisko_imie": "GOJŻEWSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1551",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "352",
+      "id_pzszach": "43640",
+      "nazwisko_imie": "SZTUBA Mateusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1550",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "353",
+      "id_pzszach": "21790",
+      "nazwisko_imie": "KUGLER Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1548",
+      "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "354",
+      "id_pzszach": "121047",
+      "nazwisko_imie": "WARZYWODA Bartosz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1548",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "355",
+      "id_pzszach": "45913",
+      "nazwisko_imie": "MONCZAK Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1546",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "356",
+      "id_pzszach": "117466",
+      "nazwisko_imie": "WI¦NIEWSKI Ryszard",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1546",
+      "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "357",
+      "id_pzszach": "23541",
+      "nazwisko_imie": "BOROWCZYK Julia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1545",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "358",
+      "id_pzszach": "81767",
+      "nazwisko_imie": "KAMIŃSKA Zuzanna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1544",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "359",
+      "id_pzszach": "41479",
+      "nazwisko_imie": "ASIENKIEWICZ Wojciech",
+      "tytul_kategoria": "III",
+      "rank_fide": "1542",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "360",
+      "id_pzszach": "74281",
+      "nazwisko_imie": "LEWEK Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1542",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "361",
+      "id_pzszach": "111576",
+      "nazwisko_imie": "MILCZAREK Julian",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1542",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "362",
+      "id_pzszach": "58234",
+      "nazwisko_imie": "SZMYT Dominik",
+      "tytul_kategoria": "III",
+      "rank_fide": "1541",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "363",
+      "id_pzszach": "50227",
+      "nazwisko_imie": "KUCZYŃSKA Katarzyna",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1540",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "364",
+      "id_pzszach": "85499",
+      "nazwisko_imie": "MATACZYNA Jacek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1536",
+      "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "365",
+      "id_pzszach": "103537",
+      "nazwisko_imie": "MIERZEJEWSKI Marek",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1533",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "366",
+      "id_pzszach": "1388",
+      "nazwisko_imie": "KU¦NIERZ Janusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1531",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "367",
+      "id_pzszach": "118858",
+      "nazwisko_imie": "JĘDRZEJCZYK Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1529",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "368",
+      "id_pzszach": "56544",
+      "nazwisko_imie": "KRZYSZEWSKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1528",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "369",
+      "id_pzszach": "58209",
+      "nazwisko_imie": "KOPCIO Mirosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1528",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "370",
+      "id_pzszach": "78894",
+      "nazwisko_imie": "PILAROWSKI Artur",
+      "tytul_kategoria": "II",
+      "rank_fide": "1528",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "371",
+      "id_pzszach": "82336",
+      "nazwisko_imie": "WIĘCEK Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1524",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "372",
+      "id_pzszach": "103541",
+      "nazwisko_imie": "KRUK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1519",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "373",
+      "id_pzszach": "110284",
+      "nazwisko_imie": "BARAN Paweł",
+      "tytul_kategoria": "III",
+      "rank_fide": "1519",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "374",
+      "id_pzszach": "65629",
+      "nazwisko_imie": "ZAWADZKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1518",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "375",
+      "id_pzszach": "118198",
+      "nazwisko_imie": "TUCZYŃSKI Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1518",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "376",
+      "id_pzszach": "1305",
+      "nazwisko_imie": "BALCERCZAK Ewa",
+      "tytul_kategoria": "I",
+      "rank_fide": "1516",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "377",
+      "id_pzszach": "128195",
+      "nazwisko_imie": "TUŁACZ Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1512",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "378",
+      "id_pzszach": "59623",
+      "nazwisko_imie": "SZACHOWICZ Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1510",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "379",
+      "id_pzszach": "91826",
+      "nazwisko_imie": "KOMAN Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1510",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "380",
+      "id_pzszach": "129071",
+      "nazwisko_imie": "STRÓŻYK Bruno",
+      "tytul_kategoria": "II",
+      "rank_fide": "1510",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "381",
+      "id_pzszach": "61397",
+      "nazwisko_imie": "TRONT Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1508",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "382",
+      "id_pzszach": "43913",
+      "nazwisko_imie": "KU¬NIK Łukasz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1506",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "383",
+      "id_pzszach": "138785",
+      "nazwisko_imie": "DYRAK Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1506",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "384",
+      "id_pzszach": "74460",
+      "nazwisko_imie": "KSIˇŻKIEWICZ Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1505",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "385",
+      "id_pzszach": "53600",
+      "nazwisko_imie": "KAMIŃSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1504",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "386",
+      "id_pzszach": "63720",
+      "nazwisko_imie": "ZDANOWICZ Paweł",
+      "tytul_kategoria": "III",
+      "rank_fide": "1504",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "387",
+      "id_pzszach": "114051",
+      "nazwisko_imie": "Lewandowicz Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1502",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "388",
+      "id_pzszach": "53466",
+      "nazwisko_imie": "OSTOJICZ Eryk",
+      "tytul_kategoria": "II",
+      "rank_fide": "1501",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "389",
+      "id_pzszach": "120347",
+      "nazwisko_imie": "SZYMAŃSKI-UNIEJEWSKI Tytus",
+      "tytul_kategoria": "II",
+      "rank_fide": "1501",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "390",
+      "id_pzszach": "40576",
+      "nazwisko_imie": "MIELCAREK Arkadiusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1500",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "391",
+      "id_pzszach": "103771",
+      "nazwisko_imie": "ZARÓWNA Wiktoria",
+      "tytul_kategoria": "II",
+      "rank_fide": "1499",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "392",
+      "id_pzszach": "115449",
+      "nazwisko_imie": "KOPKA Krystian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1499",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "393",
+      "id_pzszach": "8132",
+      "nazwisko_imie": "KWIATKOWSKI Adam",
+      "tytul_kategoria": "III",
+      "rank_fide": "1498",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "394",
+      "id_pzszach": "44176",
+      "nazwisko_imie": "SZAKIEL Bartosz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1498",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "395",
+      "id_pzszach": "135590",
+      "nazwisko_imie": "JENIEC Andrzej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1498",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "396",
+      "id_pzszach": "64078",
+      "nazwisko_imie": "Podedworny Jan",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1493",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "397",
+      "id_pzszach": "108147",
+      "nazwisko_imie": "KALBARCZYK Miłosz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1491",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "398",
+      "id_pzszach": "133144",
+      "nazwisko_imie": "PROKOPÓW Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1490",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "399",
+      "id_pzszach": "97398",
+      "nazwisko_imie": "SZYMONOWICZ Lena",
+      "tytul_kategoria": "II",
+      "rank_fide": "1487",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "400",
+      "id_pzszach": "145445",
+      "nazwisko_imie": "YAHODSKYI Andrii",
+      "tytul_kategoria": "III",
+      "rank_fide": "1487",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "401",
+      "id_pzszach": "103542",
+      "nazwisko_imie": "SIERA Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1486",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "402",
+      "id_pzszach": "54538",
+      "nazwisko_imie": "MIRONIK Paweł",
+      "tytul_kategoria": "III",
+      "rank_fide": "1484",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "403",
+      "id_pzszach": "94829",
+      "nazwisko_imie": "WOJCIECHOWSKA Michalina",
+      "tytul_kategoria": "II",
+      "rank_fide": "1484",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "404",
+      "id_pzszach": "55124",
+      "nazwisko_imie": "KELLER Natalia",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1483",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "405",
+      "id_pzszach": "75651",
+      "nazwisko_imie": "SKRZYPCZAK Jacek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1483",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "406",
+      "id_pzszach": "26314",
+      "nazwisko_imie": "PARTYKA Justyna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1482",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "407",
+      "id_pzszach": "90064",
+      "nazwisko_imie": "KOWALSKI Marcel",
+      "tytul_kategoria": "II",
+      "rank_fide": "1482",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "408",
+      "id_pzszach": "46684",
+      "nazwisko_imie": "SZPICZAKOWSKI Konrad",
+      "tytul_kategoria": "III",
+      "rank_fide": "1479",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "409",
+      "id_pzszach": "51101",
+      "nazwisko_imie": "ŁYCZKOWSKI Kacper",
+      "tytul_kategoria": "III",
+      "rank_fide": "1479",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "410",
+      "id_pzszach": "120294",
+      "nazwisko_imie": "WÓJCIK Bruno",
+      "tytul_kategoria": "II",
+      "rank_fide": "1479",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "411",
+      "id_pzszach": "104957",
+      "nazwisko_imie": "SADKOWSKI Kuba",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1478",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "412",
+      "id_pzszach": "8581",
+      "nazwisko_imie": "JELLINEK Bogdan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1477",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "413",
+      "id_pzszach": "69779",
+      "nazwisko_imie": "TOMASZEWSKI Kamil",
+      "tytul_kategoria": "III",
+      "rank_fide": "1477",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "414",
+      "id_pzszach": "109564",
+      "nazwisko_imie": "SWAŁDEK Mateusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1477",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "415",
+      "id_pzszach": "28720",
+      "nazwisko_imie": "BIELECKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1474",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "416",
+      "id_pzszach": "56367",
+      "nazwisko_imie": "PALUTA Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1473",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "417",
+      "id_pzszach": "141492",
+      "nazwisko_imie": "GABAS Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1472",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "418",
+      "id_pzszach": "8398",
+      "nazwisko_imie": "¦WIGOŃ Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1470",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "419",
+      "id_pzszach": "83986",
+      "nazwisko_imie": "Gudel Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1470",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "420",
+      "id_pzszach": "68496",
+      "nazwisko_imie": "CHMIELEWSKI Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1467",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "421",
+      "id_pzszach": "73169",
+      "nazwisko_imie": "ZIOBROWSKI Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1467",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "422",
+      "id_pzszach": "63722",
+      "nazwisko_imie": "PIETRUSZKA Julia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1465",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "423",
+      "id_pzszach": "61398",
+      "nazwisko_imie": "STĘPIEŃ Konrad",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1463",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "424",
+      "id_pzszach": "83982",
+      "nazwisko_imie": "Bandura Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1463",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "425",
+      "id_pzszach": "67358",
+      "nazwisko_imie": "HASZCZYC Filip",
+      "tytul_kategoria": "III",
+      "rank_fide": "1461",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "426",
+      "id_pzszach": "139169",
+      "nazwisko_imie": "¦WIEBODA Marcin",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1459",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "427",
+      "id_pzszach": "63711",
+      "nazwisko_imie": "KUDLAK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1456",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "428",
+      "id_pzszach": "66209",
+      "nazwisko_imie": "LEWANDOWSKI Olaf",
+      "tytul_kategoria": "II",
+      "rank_fide": "1455",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "429",
+      "id_pzszach": "121252",
+      "nazwisko_imie": "STOPERA Weronika",
+      "tytul_kategoria": "II",
+      "rank_fide": "1453",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "430",
+      "id_pzszach": "119064",
+      "nazwisko_imie": "BOGDANOWICZ Hubert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1452",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "431",
+      "id_pzszach": "56765",
+      "nazwisko_imie": "KALEMBA Igor",
+      "tytul_kategoria": "III",
+      "rank_fide": "1446",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "432",
+      "id_pzszach": "88327",
+      "nazwisko_imie": "BEZDZICZEK Grzegorz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1444",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "433",
+      "id_pzszach": "90622",
+      "nazwisko_imie": "STRZELCZYK Mateusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1441",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "434",
+      "id_pzszach": "96848",
+      "nazwisko_imie": "GANCARZ Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1438",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "435",
+      "id_pzszach": "64326",
+      "nazwisko_imie": "BODNAR Maria",
+      "tytul_kategoria": "II",
+      "rank_fide": "1437",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "436",
+      "id_pzszach": "63726",
+      "nazwisko_imie": "BEZDZICZEK Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1436",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "437",
+      "id_pzszach": "67361",
+      "nazwisko_imie": "HASZCZYC Wojciech",
+      "tytul_kategoria": "III",
+      "rank_fide": "1436",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "438",
+      "id_pzszach": "71666",
+      "nazwisko_imie": "MIŁOSTAN Oliwier",
+      "tytul_kategoria": "III",
+      "rank_fide": "1430",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "439",
+      "id_pzszach": "82258",
+      "nazwisko_imie": "KARA¦ Paweł",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1430",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "440",
+      "id_pzszach": "88323",
+      "nazwisko_imie": "GANCARZ Julia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1430",
+      "klub": "GKSz Gubin",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "441",
+      "id_pzszach": "71342",
+      "nazwisko_imie": "JASIK Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1429",
+      "klub": "KSGU TĘCZA Krosno Odrzańskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "442",
+      "id_pzszach": "71477",
+      "nazwisko_imie": "GÓRSKA Marcelina",
+      "tytul_kategoria": "II",
+      "rank_fide": "1429",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "443",
+      "id_pzszach": "61399",
+      "nazwisko_imie": "PIWKO Aleksander",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1428",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "444",
+      "id_pzszach": "67355",
+      "nazwisko_imie": "ZBOROWSKI Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1428",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "445",
+      "id_pzszach": "101479",
+      "nazwisko_imie": "KRYSZTOFIAK Victoria",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1427",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "446",
+      "id_pzszach": "124716",
+      "nazwisko_imie": "URBAŃSKI Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1421",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "447",
+      "id_pzszach": "61112",
+      "nazwisko_imie": "Bohdanowicz Urszula",
+      "tytul_kategoria": "I",
+      "rank_fide": "1419",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "448",
+      "id_pzszach": "9849",
+      "nazwisko_imie": "DARNOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1416",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "449",
+      "id_pzszach": "127387",
+      "nazwisko_imie": "DZIEŁAKOWSKI Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1415",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "450",
+      "id_pzszach": "80856",
+      "nazwisko_imie": "MURAWSKI Gabriel",
+      "tytul_kategoria": "III",
+      "rank_fide": "1414",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "451",
+      "id_pzszach": "83081",
+      "nazwisko_imie": "GRUSZEWSKA Daria",
+      "tytul_kategoria": "II",
+      "rank_fide": "1413",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "452",
+      "id_pzszach": "102076",
+      "nazwisko_imie": "ZAJˇC Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1410",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "453",
+      "id_pzszach": "109664",
+      "nazwisko_imie": "GOŁˇB Wojciech",
+      "tytul_kategoria": "III",
+      "rank_fide": "1410",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "454",
+      "id_pzszach": "119134",
+      "nazwisko_imie": "RIABOKON Oleksandr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1410",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "455",
+      "id_pzszach": "61402",
+      "nazwisko_imie": "SADOWSKI Krzysztof",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1408",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "456",
+      "id_pzszach": "54246",
+      "nazwisko_imie": "¦WIˇTEK Maria",
+      "tytul_kategoria": "II",
+      "rank_fide": "1407",
+      "klub": "Hetman Wschowa",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "457",
+      "id_pzszach": "76176",
+      "nazwisko_imie": "PADUSZYŃSKI Hubert",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1406",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "458",
+      "id_pzszach": "77086",
+      "nazwisko_imie": "Wolyniec Tymoteusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1404",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "459",
+      "id_pzszach": "124195",
+      "nazwisko_imie": "PARTYKA Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1403",
+      "klub": "STMGK Strzelce Krajeńskie",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "460",
+      "id_pzszach": "63620",
+      "nazwisko_imie": "KRZYSTOŃ Katarzyna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1401",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "461",
+      "id_pzszach": "177",
+      "nazwisko_imie": "CHWOJNICKI Lucjan",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "462",
+      "id_pzszach": "539",
+      "nazwisko_imie": "DZIUBA Witold",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "463",
+      "id_pzszach": "540",
+      "nazwisko_imie": "MICHALIK Franciszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "464",
+      "id_pzszach": "1238",
+      "nazwisko_imie": "JACH Henryk",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "465",
+      "id_pzszach": "1239",
+      "nazwisko_imie": "KELLER Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "466",
+      "id_pzszach": "1240",
+      "nazwisko_imie": "PILICHOWSKI Mieczysław",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "467",
+      "id_pzszach": "1249",
+      "nazwisko_imie": "KADŁUBOWSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "468",
+      "id_pzszach": "1250",
+      "nazwisko_imie": "KAPŁAN Zbigniew",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "469",
+      "id_pzszach": "1255",
+      "nazwisko_imie": "KURYŁO Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "470",
+      "id_pzszach": "1256",
+      "nazwisko_imie": "KURYŁO Witold",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "471",
+      "id_pzszach": "1264",
+      "nazwisko_imie": "SŁODOWSKA Nelly",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "472",
+      "id_pzszach": "1268",
+      "nazwisko_imie": "WILMIŃSKA Joanna",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "473",
+      "id_pzszach": "1270",
+      "nazwisko_imie": "WOJTCZAK Kazimierz",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "474",
+      "id_pzszach": "1271",
+      "nazwisko_imie": "ZAWADZKA Kamila",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "475",
+      "id_pzszach": "1272",
+      "nazwisko_imie": "ZIĘTEK Jerzy",
+      "tytul_kategoria": "K",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "476",
+      "id_pzszach": "1274",
+      "nazwisko_imie": "KOŁTUNIAK Renata",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "477",
+      "id_pzszach": "1275",
+      "nazwisko_imie": "MAZIEC Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "478",
+      "id_pzszach": "1279",
+      "nazwisko_imie": "PACZˇTEK Tadeusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "479",
+      "id_pzszach": "1284",
+      "nazwisko_imie": "ZDANOWICZ Żaneta",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "480",
+      "id_pzszach": "1285",
+      "nazwisko_imie": "KULIK Arkadiusz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "481",
+      "id_pzszach": "1288",
+      "nazwisko_imie": "KARCZEWSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "482",
+      "id_pzszach": "1289",
+      "nazwisko_imie": "PAWLAK Anna",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "483",
+      "id_pzszach": "1293",
+      "nazwisko_imie": "NOWACKI Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "484",
+      "id_pzszach": "1301",
+      "nazwisko_imie": "SZAFRAN Jerzy",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "485",
+      "id_pzszach": "1302",
+      "nazwisko_imie": "ZAKRZEWSKI Wiesław",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "GZSN START Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "486",
+      "id_pzszach": "1314",
+      "nazwisko_imie": "JAGODZIŃSKI Tadeusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "487",
+      "id_pzszach": "1315",
+      "nazwisko_imie": "MIŁEK Henryk",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "488",
+      "id_pzszach": "1316",
+      "nazwisko_imie": "POLAŃSKA Renata",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "489",
+      "id_pzszach": "1318",
+      "nazwisko_imie": "SAPKOWSKI Wiesław",
+      "tytul_kategoria": "K",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "490",
+      "id_pzszach": "1322",
+      "nazwisko_imie": "HADRY¦ Marta",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "491",
+      "id_pzszach": "1324",
+      "nazwisko_imie": "KALISZ Agnieszka",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "492",
+      "id_pzszach": "1326",
+      "nazwisko_imie": "RANISZEWSKA Olga",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "493",
+      "id_pzszach": "1327",
+      "nazwisko_imie": "RY¦ Jarosław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "0",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "494",
+      "id_pzszach": "1328",
+      "nazwisko_imie": "SOWA Kacper",
+      "tytul_kategoria": "III",
+      "rank_fide": "0",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "495",
+      "id_pzszach": "1332",
+      "nazwisko_imie": "BARTOSIK Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "496",
+      "id_pzszach": "1336",
+      "nazwisko_imie": "BIERNAT Zdzisław",
+      "tytul_kategoria": "III",
+      "rank_fide": "0",
+      "klub": "ŻKSz Żary",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "497",
+      "id_pzszach": "1337",
+      "nazwisko_imie": "BLANDZI Damian",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "498",
+      "id_pzszach": "1339",
+      "nazwisko_imie": "BŁAŻEJCZAK Wenanty",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "499",
+      "id_pzszach": "1342",
+      "nazwisko_imie": "BORTKO Małgorzata",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "500",
+      "id_pzszach": "1346",
+      "nazwisko_imie": "BUDZIŃSKA Kamila",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LB"
+    }
+  ]
+}

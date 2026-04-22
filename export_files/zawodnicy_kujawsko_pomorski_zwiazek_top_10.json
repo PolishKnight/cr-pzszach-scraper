@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:41.073Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "4888",
+      "nazwisko_imie": "WOJTASZEK Radosław",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2662",
+      "klub": "KS GWIAZDA Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "4353",
+      "nazwisko_imie": "NASUTA Grzegorz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2506",
+      "klub": "KS GWIAZDA Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "9807",
+      "nazwisko_imie": "HERA Imre",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2501",
+      "klub": "UKS ROTMISTRZ Grudzi±dz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "100547",
+      "nazwisko_imie": "KASHLINSKAYA Alina",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2480",
+      "klub": "KS GWIAZDA Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "925",
+      "nazwisko_imie": "DROZDOWSKI Kacper",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2461",
+      "klub": "UKS ROTMISTRZ Grudzi±dz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "1343",
+      "nazwisko_imie": "BRODOWSKI Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2451",
+      "klub": "BKS CHEMIK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "2036",
+      "nazwisko_imie": "JARACZ Paweł",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2437",
+      "klub": "ŻTMS BASZTA Żnin",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "15181",
+      "nazwisko_imie": "GAJEK Radosław",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2423",
+      "klub": "",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "348",
+      "nazwisko_imie": "MURDZIA Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2409",
+      "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "2063",
+      "nazwisko_imie": "KRYSZTOFIAK Marcin",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2391",
+      "klub": "ŻTMS BASZTA Żnin",
+      "wojewodztwo_zwiazek": "KP"
+    }
+  ]
+}

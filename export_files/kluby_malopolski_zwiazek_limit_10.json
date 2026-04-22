@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:47.350Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "557/MP",
+      "nazwa": "CKiS Skawina",
+      "miasto": "Skawina",
+      "licencja": "06100015",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "1098/MP",
+      "nazwa": "CIS Czernichów",
+      "miasto": "Czernichów",
+      "licencja": "06100059",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "886/MP",
+      "nazwa": "Gens Una Sumus Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100036",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "1014/MP",
+      "nazwa": "Fundacja PASJA Mogilany",
+      "miasto": "Mogilany",
+      "licencja": "06100049",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "945/MP",
+      "nazwa": "GOS ENERGIA Libi±ż",
+      "miasto": "Libi±ż",
+      "licencja": "06100043",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "543/MP",
+      "nazwa": "GKSz KORNUTY Gorlice",
+      "miasto": "Gorlice",
+      "licencja": "06100020",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "1067/MP",
+      "nazwa": "Hetman Borzęcin",
+      "miasto": "Borzęcin",
+      "licencja": "06100054",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "1034/MP",
+      "nazwa": "IT Chess Club Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100051",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "608/MP",
+      "nazwa": "KS Cracovia 1906 Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100013",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "940/MP",
+      "nazwa": "Szachownica Kłaj",
+      "miasto": "Kłaj",
+      "licencja": "06100042",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

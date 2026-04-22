@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:47.593Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "23608",
+      "nazwisko_imie": "TOMCZAK Mikołaj",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2440",
+      "klub": "STRZELEC Strzelce Opolskie",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "40265",
+      "nazwisko_imie": "KOZAK Antoni",
+      "tytul_kategoria": "M",
+      "rank_fide": "2421",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "9846",
+      "nazwisko_imie": "KOVALEV Andrei",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2407",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "36952",
+      "nazwisko_imie": "MI¦ Mieszko",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2397",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "40872",
+      "nazwisko_imie": "GODZWON Iwo",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2394",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "56031",
+      "nazwisko_imie": "NIEDBAŁA Bartłomiej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2382",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "6209",
+      "nazwisko_imie": "WI¦NIEWSKI Adrian",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2351",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "3268",
+      "nazwisko_imie": "BARSKI Radosław",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2335",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "49895",
+      "nazwisko_imie": "KACPRZAK Kacper",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2324",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "19764",
+      "nazwisko_imie": "ŁUKASIEWICZ Krzysztof",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2322",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    }
+  ]
+}

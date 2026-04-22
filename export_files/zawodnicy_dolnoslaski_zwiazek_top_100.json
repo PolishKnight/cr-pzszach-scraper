@@ -1,0 +1,906 @@
+{
+  "createdAt": "2026-04-22T21:52:39.641Z",
+  "totalRecords": 100,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "29659",
+      "nazwisko_imie": "GUMULARZ Szymon",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2590",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "6123",
+      "nazwisko_imie": "¦WIERCZ Dariusz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2579",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "2569",
+      "nazwisko_imie": "BARTEL Mateusz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2568",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "33551",
+      "nazwisko_imie": "BALOGH Csaba",
+      "tytul_kategoria": "",
+      "rank_fide": "2544",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "5028",
+      "nazwisko_imie": "MORANDA Wojciech",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2537",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "27934",
+      "nazwisko_imie": "KOSAKOWSKI Jakub",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2533",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "61585",
+      "nazwisko_imie": "MALEK Jan",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2533",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "2736",
+      "nazwisko_imie": "KEMPIŃSKI Robert",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2527",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "49998",
+      "nazwisko_imie": "MASTROVASILIS Dimitrios",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2526",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "50004",
+      "nazwisko_imie": "SIVUK Vitaly",
+      "tytul_kategoria": "",
+      "rank_fide": "2522",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "2870",
+      "nazwisko_imie": "OLSZEWSKI Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2516",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "2998",
+      "nazwisko_imie": "TAZBIR Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2501",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "438",
+      "nazwisko_imie": "WIECZOREK Oskar",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2499",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "64505",
+      "nazwisko_imie": "RACZEK Krzysztof",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2490",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "1050",
+      "nazwisko_imie": "LICZNERSKI Łukasz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2486",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "2962",
+      "nazwisko_imie": "SŁABY Jerzy",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2464",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "41913",
+      "nazwisko_imie": "CZOPOR Maciej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2458",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "265",
+      "nazwisko_imie": "KAMIŃSKI Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2457",
+      "klub": "Wrocławski Klub Szachowy HETMAN",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "523",
+      "nazwisko_imie": "SZABLOWSKI Paweł",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2450",
+      "klub": "MUKS MDK ¦ródmie¶cie Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "21398",
+      "nazwisko_imie": "SULYPA Aleksander",
+      "tytul_kategoria": "",
+      "rank_fide": "2450",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "1735",
+      "nazwisko_imie": "KOŁOSOWSKI Mateusz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2444",
+      "klub": "WKS Kopernik",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "5581",
+      "nazwisko_imie": "BOBRAS Piotr",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2432",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "453",
+      "nazwisko_imie": "ZAWADZKI Stanisław",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2425",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "68002",
+      "nazwisko_imie": "SOWIŃSKI Paweł",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2421",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "3948",
+      "nazwisko_imie": "FRˇCZEK Daniel",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2402",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "21639",
+      "nazwisko_imie": "KIOŁBASA Oliwia",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2394",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "407",
+      "nazwisko_imie": "STACHOWIAK Kamil",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2393",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "3277",
+      "nazwisko_imie": "WCISŁO Damian",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2393",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "107401",
+      "nazwisko_imie": "MALTSEVSKAYA Aleksandra",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2393",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "24110",
+      "nazwisko_imie": "TALLA Vladimir",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2392",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "298",
+      "nazwisko_imie": "KRZESAJ Robert",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2391",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "7079",
+      "nazwisko_imie": "LUBCZYŃSKI Rafał",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2391",
+      "klub": "WKS Kopernik",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "426",
+      "nazwisko_imie": "TYPEK Konrad",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2385",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "2920",
+      "nazwisko_imie": "RAJLICH Iweta",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2373",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "170",
+      "nazwisko_imie": "BU¦ Mariusz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2372",
+      "klub": "Wrocławski Klub Szachowy HETMAN",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "3941",
+      "nazwisko_imie": "DOBROWOLSKI Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2362",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "3659",
+      "nazwisko_imie": "JASIK Krzysztof",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2358",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "74",
+      "nazwisko_imie": "DOWGIRD Filip",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2348",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "189",
+      "nazwisko_imie": "DZIENISZEWSKI Andrzej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2340",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "3893",
+      "nazwisko_imie": "KOZIAK Vitali",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2338",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "2812",
+      "nazwisko_imie": "LUCH Michał",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2337",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "390",
+      "nazwisko_imie": "SABUK Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2335",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "14667",
+      "nazwisko_imie": "GRELA Kacper",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2335",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "366",
+      "nazwisko_imie": "PIENIˇŻEK Artur",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2330",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "3735",
+      "nazwisko_imie": "ŻEBERSKI Jakub",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2325",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "55314",
+      "nazwisko_imie": "GROT Błażej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2325",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "165",
+      "nazwisko_imie": "BOŻEK Adam",
+      "tytul_kategoria": "M",
+      "rank_fide": "2324",
+      "klub": "MUKS MDK ¦ródmie¶cie Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "451",
+      "nazwisko_imie": "ZAWADZKA Jolanta",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2324",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "42096",
+      "nazwisko_imie": "FIEDOREK Michał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2323",
+      "klub": "UKS GIECEK Radków",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "171",
+      "nazwisko_imie": "BUTKIEWICZ Łukasz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2319",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "2954",
+      "nazwisko_imie": "SKAWIŃSKI Arkadiusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2317",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "85837",
+      "nazwisko_imie": "GIBAŁA Adam",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2317",
+      "klub": "MUKS MDK ¦ródmie¶cie Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "71208",
+      "nazwisko_imie": "SZOTKOWSKI Jakub",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2313",
+      "klub": "WKS Kopernik",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "50840",
+      "nazwisko_imie": "KEJNA Piotr",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2311",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "1057",
+      "nazwisko_imie": "MACIEJEWSKI Andrzej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2310",
+      "klub": "KS POLANICA-ZDRÓJ",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "46302",
+      "nazwisko_imie": "OCHĘDZAN Tymon",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2310",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "201",
+      "nazwisko_imie": "GRATKA Krzysztof",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2302",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "323",
+      "nazwisko_imie": "ŁOPUSIEWICZ Piotr",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2301",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "155",
+      "nazwisko_imie": "BALICKI Cezary",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2285",
+      "klub": "KS AZS Wratislavia",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "412",
+      "nazwisko_imie": "¦WICARZ Maciej",
+      "tytul_kategoria": "M",
+      "rank_fide": "2280",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "345",
+      "nazwisko_imie": "MORCINEK Marian",
+      "tytul_kategoria": "K",
+      "rank_fide": "2277",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "192",
+      "nazwisko_imie": "FIGIEL Marek",
+      "tytul_kategoria": "M",
+      "rank_fide": "2266",
+      "klub": "Wrocławski Klub Szachowy HETMAN",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "66406",
+      "nazwisko_imie": "KŁYS Kacper",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2265",
+      "klub": "MUKS MDK ¦ródmie¶cie Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "232",
+      "nazwisko_imie": "NIŻYŃSKI Maciej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2260",
+      "klub": "KS AZS Wratislavia",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "580",
+      "nazwisko_imie": "KOWALCZYK Paweł",
+      "tytul_kategoria": "M",
+      "rank_fide": "2260",
+      "klub": "WKSz HETMAN Wałbrzych",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "196",
+      "nazwisko_imie": "GAŁAŻEWSKI Tomasz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2259",
+      "klub": "UKS SP3 w Bogatyni",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "23928",
+      "nazwisko_imie": "NOWAK Kamil",
+      "tytul_kategoria": "M",
+      "rank_fide": "2259",
+      "klub": "GLKS Goniec Żarów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "220",
+      "nazwisko_imie": "IZBIŃSKI Bartłomiej",
+      "tytul_kategoria": "M",
+      "rank_fide": "2258",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "163",
+      "nazwisko_imie": "BORKOWSKI Franciszek",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2257",
+      "klub": "Wrocławski Klub Szachowy HETMAN",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "124",
+      "nazwisko_imie": "MA¦LEJ Mirosław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2256",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "432",
+      "nazwisko_imie": "WARWASZYŃSKI Zbigniew",
+      "tytul_kategoria": "K",
+      "rank_fide": "2255",
+      "klub": "Wrocławski Klub Szachowy HETMAN",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "565",
+      "nazwisko_imie": "SO¦NIK Sebastian",
+      "tytul_kategoria": "K",
+      "rank_fide": "2255",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "56949",
+      "nazwisko_imie": "MADEJ Marek",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2255",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "411",
+      "nazwisko_imie": "SULEJA Jaroslaw",
+      "tytul_kategoria": "K",
+      "rank_fide": "2254",
+      "klub": "KS AZS Wratislavia",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "13968",
+      "nazwisko_imie": "PIOTROWSKI Przemysław",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2253",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "441",
+      "nazwisko_imie": "WŁODARCZYK Robert",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2252",
+      "klub": "KS AZS Wratislavia",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "618",
+      "nazwisko_imie": "KACZYNSKI Adam",
+      "tytul_kategoria": "K",
+      "rank_fide": "2250",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "65569",
+      "nazwisko_imie": "¦MIETAŃSKA Wiktoria",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2248",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "392",
+      "nazwisko_imie": "SASKOWSKI Jacek",
+      "tytul_kategoria": "K",
+      "rank_fide": "2246",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "168",
+      "nazwisko_imie": "BUKOWCZYK Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2244",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "84179",
+      "nazwisko_imie": "LECHOWSKI Witold",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2243",
+      "klub": "MUKS MDK ¦ródmie¶cie Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "169",
+      "nazwisko_imie": "BURZYNSKI Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2240",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "3719",
+      "nazwisko_imie": "TUSTANOWSKI Robert",
+      "tytul_kategoria": "M",
+      "rank_fide": "2231",
+      "klub": "UKS GIECEK Radków",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "315",
+      "nazwisko_imie": "LERCEL Michał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2230",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "417",
+      "nazwisko_imie": "SZUMILAS Piotr",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2229",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "373",
+      "nazwisko_imie": "POPEK Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2227",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "359",
+      "nazwisko_imie": "PANKIEWICZ Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2224",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "144",
+      "nazwisko_imie": "DUBIŃSKI Mateusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2222",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "219",
+      "nazwisko_imie": "KANTANE Anna",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2216",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "225",
+      "nazwisko_imie": "JANOCHA Wiesław",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2215",
+      "klub": "MUKS MDK ¦ródmie¶cie Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "264",
+      "nazwisko_imie": "KAŁDUS Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "2215",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "419",
+      "nazwisko_imie": "SZYDLOWSKI Edward",
+      "tytul_kategoria": "K",
+      "rank_fide": "2215",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "13674",
+      "nazwisko_imie": "KULA¦ Szymon",
+      "tytul_kategoria": "K",
+      "rank_fide": "2215",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "404",
+      "nazwisko_imie": "SKURZYNSKI Zygmunt",
+      "tytul_kategoria": "K",
+      "rank_fide": "2214",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "1297",
+      "nazwisko_imie": "STECKI Witold",
+      "tytul_kategoria": "K",
+      "rank_fide": "2213",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "374",
+      "nazwisko_imie": "PRZEWO¬NIK Dariusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2210",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "300",
+      "nazwisko_imie": "FOJUDZKA Anna",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2203",
+      "klub": "KS AZS Wratislavia",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "270",
+      "nazwisko_imie": "KLOS Zbigniew",
+      "tytul_kategoria": "I",
+      "rank_fide": "2200",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "365",
+      "nazwisko_imie": "PIENIˇŻEK Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "2200",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "460",
+      "nazwisko_imie": "ŻYŁA Janusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2200",
+      "klub": "Wrocławski Klub Szachowy HETMAN",
+      "wojewodztwo_zwiazek": "DS"
+    }
+  ]
+}

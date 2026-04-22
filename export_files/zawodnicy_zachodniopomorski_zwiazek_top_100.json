@@ -1,0 +1,906 @@
+{
+  "createdAt": "2026-04-22T21:52:56.495Z",
+  "totalRecords": 100,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "4091",
+      "nazwisko_imie": "SYGULSKI Artur",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2378",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "44526",
+      "nazwisko_imie": "ŁUCZAK Filip",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2362",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "7508",
+      "nazwisko_imie": "PANOCKI Adrian",
+      "tytul_kategoria": "M",
+      "rank_fide": "2356",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "50017",
+      "nazwisko_imie": "ALIAVDIN Nikolai",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2348",
+      "klub": "UKSz SKOCZEK Choszczno",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "7495",
+      "nazwisko_imie": "MA¦LANKA Robert",
+      "tytul_kategoria": "K",
+      "rank_fide": "2300",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "7480",
+      "nazwisko_imie": "KULA Robert",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2284",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "7427",
+      "nazwisko_imie": "CHOCHULSKI Artur",
+      "tytul_kategoria": "K",
+      "rank_fide": "2280",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "7498",
+      "nazwisko_imie": "MATUSIAK Janusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2235",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "17650",
+      "nazwisko_imie": "ANTOLAK Julia",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2223",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "7323",
+      "nazwisko_imie": "MASŁOWSKI Michał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2205",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "7511",
+      "nazwisko_imie": "PELC Zbigniew",
+      "tytul_kategoria": "K",
+      "rank_fide": "2205",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "7543",
+      "nazwisko_imie": "WASILEWSKI Paweł",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2191",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "7347",
+      "nazwisko_imie": "TOKARCZYK Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2187",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "7485",
+      "nazwisko_imie": "MAJ Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2183",
+      "klub": "My¶liborski Klub Szachowy",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "41046",
+      "nazwisko_imie": "GRZESIK Gracjan",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2180",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "7539",
+      "nazwisko_imie": "TOFIL Borys",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2177",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "7401",
+      "nazwisko_imie": "JACEK Krystian",
+      "tytul_kategoria": "K",
+      "rank_fide": "2165",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "7505",
+      "nazwisko_imie": "OKOŃ Dariusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2165",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "7523",
+      "nazwisko_imie": "RUDNICKI Miłosz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2163",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "17135",
+      "nazwisko_imie": "WˇCIOR Maciej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2160",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "7322",
+      "nazwisko_imie": "MASŁOWSKI Jakub",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2159",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "7472",
+      "nazwisko_imie": "KOSTYRA Mariusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2158",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "82988",
+      "nazwisko_imie": "ZARĘBA Piotr",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2143",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "7366",
+      "nazwisko_imie": "SIBIK Marcin",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2129",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "7528",
+      "nazwisko_imie": "SOIŃSKI Kamil",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2129",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "7413",
+      "nazwisko_imie": "BACZYNSKI Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "2120",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "7415",
+      "nazwisko_imie": "BARAN Paweł",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2119",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "93939",
+      "nazwisko_imie": "GBIORCZYK Mikołaj",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2116",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "7496",
+      "nazwisko_imie": "MASZKOWSKI Tadeusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2115",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "60164",
+      "nazwisko_imie": "HURY Tymoteusz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2115",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "7342",
+      "nazwisko_imie": "BUCZAK Krzysztof",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2111",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "7894",
+      "nazwisko_imie": "OCIEPKA Adrian",
+      "tytul_kategoria": "I",
+      "rank_fide": "2111",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "10854",
+      "nazwisko_imie": "BŁASZCZYKIEWICZ Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "2108",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "17142",
+      "nazwisko_imie": "JANUSZKIEWICZ Wojciech",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2108",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "70430",
+      "nazwisko_imie": "BOCHNIAK Franciszek",
+      "tytul_kategoria": "K",
+      "rank_fide": "2107",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "7329",
+      "nazwisko_imie": "WOLAŃSKI Jarosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "2097",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "7409",
+      "nazwisko_imie": "KORBAL Arkadiusz",
+      "tytul_kategoria": "K++",
+      "rank_fide": "2086",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "7521",
+      "nazwisko_imie": "ROMASZKO Sylwia",
+      "tytul_kategoria": "K",
+      "rank_fide": "2085",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "7449",
+      "nazwisko_imie": "GO¦CINIAK Maria",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2081",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "7367",
+      "nazwisko_imie": "SKRZYPNIK Rafał",
+      "tytul_kategoria": "I",
+      "rank_fide": "2074",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "7471",
+      "nazwisko_imie": "KO¦CIELNY Marek",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2074",
+      "klub": "UKS REFLEKS Go¶cino",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "7536",
+      "nazwisko_imie": "SZULNIS Małgorzata",
+      "tytul_kategoria": "K",
+      "rank_fide": "2065",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "7513",
+      "nazwisko_imie": "PIETRAKOWSKI Leszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2062",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "7442",
+      "nazwisko_imie": "FERENC Józef",
+      "tytul_kategoria": "K",
+      "rank_fide": "2061",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "7497",
+      "nazwisko_imie": "MATLA Mateusz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2061",
+      "klub": "UKS BIAŁY PION Gryfino",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "7483",
+      "nazwisko_imie": "LISTOWIECKI Tadeusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2059",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "23081",
+      "nazwisko_imie": "KOWALSKI Maciej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2056",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "107024",
+      "nazwisko_imie": "MAKHYNIA Kostiantyn",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2052",
+      "klub": "UKS Ognisko Pracy Pozaszkolnej Kołobrzeg",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "7529",
+      "nazwisko_imie": "SOKOŁOWSKI Ryszard",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2048",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "7582",
+      "nazwisko_imie": "JAWORSKI Maciej",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2040",
+      "klub": "My¶liborski Klub Szachowy",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "7364",
+      "nazwisko_imie": "MISZTELA Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "2038",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "7453",
+      "nazwisko_imie": "GRUNWALD Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "2038",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "7503",
+      "nazwisko_imie": "MIELCZARSKI Mirosław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2038",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "78591",
+      "nazwisko_imie": "ŁOŃSKI Aleksander",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2035",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "10855",
+      "nazwisko_imie": "PUŁKA Bartosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2031",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "7315",
+      "nazwisko_imie": "DŁUGOPOLSKI Dariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2022",
+      "klub": "HUSARIA",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "7318",
+      "nazwisko_imie": "KALWASINSKI Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "2018",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "7359",
+      "nazwisko_imie": "CZAJA Roman",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2018",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "7507",
+      "nazwisko_imie": "OSTROWSKI Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "2010",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "7760",
+      "nazwisko_imie": "JĘDRUSZEK Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "2009",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "100097",
+      "nazwisko_imie": "WITES Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "2009",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "4813",
+      "nazwisko_imie": "RUTKOWSKI Jerzy",
+      "tytul_kategoria": "K",
+      "rank_fide": "2005",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "7369",
+      "nazwisko_imie": "TOMCZYK Anna",
+      "tytul_kategoria": "K",
+      "rank_fide": "2003",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "7478",
+      "nazwisko_imie": "KUBECZKO Grzegorz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1992",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "72658",
+      "nazwisko_imie": "DEREJCZYK Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1992",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "7430",
+      "nazwisko_imie": "CISZEWSKI Eugeniusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1988",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "17129",
+      "nazwisko_imie": "LEBIEDOWICZ Borys",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1987",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "7358",
+      "nazwisko_imie": "ZASZTOWT Janusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1984",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "7414",
+      "nazwisko_imie": "BARAN Barbara",
+      "tytul_kategoria": "K",
+      "rank_fide": "1984",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "7476",
+      "nazwisko_imie": "KRZYŻANOWSKI Czesław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1979",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "110635",
+      "nazwisko_imie": "OBRYCKI Aleksander",
+      "tytul_kategoria": "I",
+      "rank_fide": "1977",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "7809",
+      "nazwisko_imie": "KREJA Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1975",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "82109",
+      "nazwisko_imie": "STANDOWICZ Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1975",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "7424",
+      "nazwisko_imie": "BRUSILOWICZ Przemysław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1973",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "45291",
+      "nazwisko_imie": "MAJEWSKI Krzysztof",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1969",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "7326",
+      "nazwisko_imie": "RYDZEWSKI Stanisław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1965",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "7319",
+      "nazwisko_imie": "KAMIENIECKI Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1963",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "7439",
+      "nazwisko_imie": "DUSZKIEWICZ Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1963",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "7440",
+      "nazwisko_imie": "DUTKA Justyna",
+      "tytul_kategoria": "K",
+      "rank_fide": "1963",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "7450",
+      "nazwisko_imie": "GO¦CINIAK Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1963",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "77577",
+      "nazwisko_imie": "BURY Miłosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1962",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "7397",
+      "nazwisko_imie": "KU¬NICKI Cyprian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1958",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "33513",
+      "nazwisko_imie": "KUBIAK Jakub",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1957",
+      "klub": "UKS SZACH w Gryficach",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "7457",
+      "nazwisko_imie": "JACEK Roksana",
+      "tytul_kategoria": "K",
+      "rank_fide": "1953",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "7526",
+      "nazwisko_imie": "SKRZYPNIK Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1952",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "4802",
+      "nazwisko_imie": "PONIEWIERSKI Piotr",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1951",
+      "klub": "My¶liborski Klub Szachowy",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "72020",
+      "nazwisko_imie": "PAŃCZYSZYN Szymon",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1946",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "80755",
+      "nazwisko_imie": "PAWLICZ Filip",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1945",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "7377",
+      "nazwisko_imie": "CZUCHNICKI Adam",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1944",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "4247",
+      "nazwisko_imie": "PUKSZA Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1939",
+      "klub": "HUSARIA",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "7399",
+      "nazwisko_imie": "GNIADEK Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1939",
+      "klub": "UKSz SKOCZEK Choszczno",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "7880",
+      "nazwisko_imie": "NICINSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1938",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "124457",
+      "nazwisko_imie": "PENZA Denis",
+      "tytul_kategoria": "I",
+      "rank_fide": "1933",
+      "klub": "UKSz SKOCZEK Choszczno",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "10860",
+      "nazwisko_imie": "WĘGROWSKI Henryk",
+      "tytul_kategoria": "I",
+      "rank_fide": "1928",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "27053",
+      "nazwisko_imie": "PAWLICZ Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1928",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "7410",
+      "nazwisko_imie": "WEŁNA Łukasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1924",
+      "klub": "UKS BIAŁY PION Gryfino",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "7436",
+      "nazwisko_imie": "DOGODA Rafał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1924",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "24348",
+      "nazwisko_imie": "WALUKIEWICZ Cezary",
+      "tytul_kategoria": "II",
+      "rank_fide": "1922",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "21349",
+      "nazwisko_imie": "SIEMASZKO Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1919",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "71114",
+      "nazwisko_imie": "¦LIZ Karol",
+      "tytul_kategoria": "I",
+      "rank_fide": "1919",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    }
+  ]
+}

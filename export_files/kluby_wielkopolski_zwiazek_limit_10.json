@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:56.250Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "130/WP",
+      "nazwa": "ASSz LIPNO Stęszew",
+      "miasto": "Stęszew",
+      "licencja": "15100043",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "1062/WP",
+      "nazwa": "Szachowa GILDIA Swarzędz",
+      "miasto": "Swarzędz",
+      "licencja": "15100070",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "1002/WP",
+      "nazwa": "GOK Wierzbinek",
+      "miasto": "Sadlno",
+      "licencja": "15100066",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "765/WP",
+      "nazwa": "GKS Gorzyce Wielkie",
+      "miasto": "Gorzyce Wielkie",
+      "licencja": "15100052",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "905/WP",
+      "nazwa": "HETMAN ¦roda Wlkp.",
+      "miasto": "¦roda Wielkopolska",
+      "licencja": "15100063",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "104/WP",
+      "nazwa": "JKSz-W Jarocin",
+      "miasto": "Jarocin",
+      "licencja": "15100006",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "032/WP",
+      "nazwa": "KTS Kalisz",
+      "miasto": "Kalisz",
+      "licencja": "15100011",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "036/WP",
+      "nazwa": "Raszyn Poznań",
+      "miasto": "Poznań",
+      "licencja": "15100040",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "958/WP",
+      "nazwa": "KS 1920 Mosina",
+      "miasto": "Mosina",
+      "licencja": "15100065",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "1052/WP",
+      "nazwa": "KS Dzikie Wierzyce",
+      "miasto": "Łubowo",
+      "licencja": "15100068",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "250.00 PLN"
+    }
+  ]
+}

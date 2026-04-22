@@ -1,0 +1,4506 @@
+{
+  "createdAt": "2026-04-22T21:52:50.877Z",
+  "totalRecords": 500,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "27071",
+      "nazwisko_imie": "TECLAF Paweł",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2572",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "7524",
+      "nazwisko_imie": "SAPIS Witalis",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2378",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "1006",
+      "nazwisko_imie": "KOC Przemysław",
+      "tytul_kategoria": "M",
+      "rank_fide": "2346",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "4672",
+      "nazwisko_imie": "GRAFF Grzegorz",
+      "tytul_kategoria": "M",
+      "rank_fide": "2331",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "4884",
+      "nazwisko_imie": "WISMONT Ryszard",
+      "tytul_kategoria": "K",
+      "rank_fide": "2320",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "1166",
+      "nazwisko_imie": "SZCZEPIŃSKI Michał",
+      "tytul_kategoria": "M",
+      "rank_fide": "2295",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "4663",
+      "nazwisko_imie": "DŁUGOSZ Jędrzej",
+      "tytul_kategoria": "M",
+      "rank_fide": "2285",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "71658",
+      "nazwisko_imie": "LI¦KIEWICZ Jakub",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2280",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "4653",
+      "nazwisko_imie": "CICHOCKI Adam",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2275",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "4731",
+      "nazwisko_imie": "KWIATKOWSKI Łukasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2270",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "4758",
+      "nazwisko_imie": "MIRSKI Stanisław",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2266",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "4690",
+      "nazwisko_imie": "JURKIEWICZ Krzysztof",
+      "tytul_kategoria": "M",
+      "rank_fide": "2253",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "60550",
+      "nazwisko_imie": "CHMURA Eryk",
+      "tytul_kategoria": "K",
+      "rank_fide": "2242",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "949",
+      "nazwisko_imie": "GRABOWSKI Paweł",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2241",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "4827",
+      "nazwisko_imie": "SOCHA Czesław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2235",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "4783",
+      "nazwisko_imie": "OSSOWSKI Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2232",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "750",
+      "nazwisko_imie": "CZAPCZYK Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2226",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "4450",
+      "nazwisko_imie": "WYRZYKOWSKI Lubomir",
+      "tytul_kategoria": "K",
+      "rank_fide": "2225",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "4847",
+      "nazwisko_imie": "SYMBOR Przemysław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2217",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "4792",
+      "nazwisko_imie": "PIECHOCKI Franciszek",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2216",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "4697",
+      "nazwisko_imie": "KARWOWSKI Bogdan",
+      "tytul_kategoria": "K",
+      "rank_fide": "2215",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "85693",
+      "nazwisko_imie": "KORSZAŃSKI Stanisław",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2215",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "4703",
+      "nazwisko_imie": "KIEŁCZEWSKI Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2212",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "4849",
+      "nazwisko_imie": "SZCZEP Zbigniew",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2205",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "4901",
+      "nazwisko_imie": "ZIELIŃSKI Maciej",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2197",
+      "klub": "AS Kolbudy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "4701",
+      "nazwisko_imie": "KEMPIŃSKI Zdzisław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2196",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "4730",
+      "nazwisko_imie": "KUT Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "2195",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "4671",
+      "nazwisko_imie": "GORNIAK Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2188",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "79380",
+      "nazwisko_imie": "PALUSZEK Jan",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2186",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "4877",
+      "nazwisko_imie": "WEGNER Robert",
+      "tytul_kategoria": "I",
+      "rank_fide": "2181",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "4896",
+      "nazwisko_imie": "ZDROJEWSKI Wojciech",
+      "tytul_kategoria": "K",
+      "rank_fide": "2180",
+      "klub": "KS MAGNAT",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "4795",
+      "nazwisko_imie": "PIETRZYCKI Jacek",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2179",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "4756",
+      "nazwisko_imie": "MIELNICZEK Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2178",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "4478",
+      "nazwisko_imie": "MORAWIEC Zdzislaw",
+      "tytul_kategoria": "I",
+      "rank_fide": "2175",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "21652",
+      "nazwisko_imie": "ZALESKI Łukasz",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2168",
+      "klub": "AS Kolbudy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "4764",
+      "nazwisko_imie": "MURAWSKI Wieslaw",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2163",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "4745",
+      "nazwisko_imie": "LIBURA Wiesław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2156",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "4586",
+      "nazwisko_imie": "PRZYTYCKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "2155",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "6101",
+      "nazwisko_imie": "STANDOWICZ Robert",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2153",
+      "klub": "KSz Sg1 Wejherowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "4902",
+      "nazwisko_imie": "ZIELIŃSKI Stanisław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2144",
+      "klub": "AS Kolbudy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "4842",
+      "nazwisko_imie": "SUPINSKI Remigiusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2138",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "5728",
+      "nazwisko_imie": "GUMUŁA Daniel",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2138",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "4678",
+      "nazwisko_imie": "HOFFMAN Rudolf",
+      "tytul_kategoria": "K",
+      "rank_fide": "2136",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "4708",
+      "nazwisko_imie": "KOC Władysław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2135",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "10199",
+      "nazwisko_imie": "BURACZEWSKI Rafał",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2135",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "4628",
+      "nazwisko_imie": "BADUROWICZ Leszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2134",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "58373",
+      "nazwisko_imie": "TRZEBIŃSKI Patryk",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2132",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "99213",
+      "nazwisko_imie": "CZAJA Wiktor",
+      "tytul_kategoria": "K",
+      "rank_fide": "2129",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "4615",
+      "nazwisko_imie": "ZIELIŃSKI Wojciech",
+      "tytul_kategoria": "K",
+      "rank_fide": "2127",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "26918",
+      "nazwisko_imie": "WYCZLING Bartosz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2127",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "4775",
+      "nazwisko_imie": "OKRUCIŃSKI Tadeusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2120",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "125803",
+      "nazwisko_imie": "SEMENUKHA Nikita",
+      "tytul_kategoria": "K",
+      "rank_fide": "2118",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "4717",
+      "nazwisko_imie": "KRAWCZYK Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2117",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "65296",
+      "nazwisko_imie": "¦NIADECKI Oskar",
+      "tytul_kategoria": "K",
+      "rank_fide": "2114",
+      "klub": "MKS POGOŃ Prabuty",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "7444",
+      "nazwisko_imie": "GAJDZICA Maciej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2110",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "4751",
+      "nazwisko_imie": "ZDROJEWSKA Natalia",
+      "tytul_kategoria": "M",
+      "rank_fide": "2104",
+      "klub": "KS MAGNAT",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "4716",
+      "nazwisko_imie": "KRAWCZYK Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "2103",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "4729",
+      "nazwisko_imie": "KU¦MIERZ Maciej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2097",
+      "klub": "AS Kolbudy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "1121",
+      "nazwisko_imie": "RYBAK Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2095",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "4614",
+      "nazwisko_imie": "KOBUS Sebastian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2094",
+      "klub": "AS Kolbudy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "96819",
+      "nazwisko_imie": "PRZEDLACKI Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "2093",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "4883",
+      "nazwisko_imie": "WIRKUS Mieczyslaw",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2092",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "10565",
+      "nazwisko_imie": "ULANOWSKI Karol",
+      "tytul_kategoria": "K",
+      "rank_fide": "2091",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "4643",
+      "nazwisko_imie": "BUGALSKI Michał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2086",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "4857",
+      "nazwisko_imie": "SZYMCZAK Roman",
+      "tytul_kategoria": "K",
+      "rank_fide": "2086",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "4763",
+      "nazwisko_imie": "MULAWA Maksymilian",
+      "tytul_kategoria": "I",
+      "rank_fide": "2085",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "4544",
+      "nazwisko_imie": "TUREK Andrzej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2082",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "4706",
+      "nazwisko_imie": "KLAMANN Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "2082",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "4627",
+      "nazwisko_imie": "BACHAN Daniel",
+      "tytul_kategoria": "I",
+      "rank_fide": "2076",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "4882",
+      "nazwisko_imie": "WIEWIÓRKOWSKI Dariusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2075",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "4841",
+      "nazwisko_imie": "STUDZIŃSKI Brunon",
+      "tytul_kategoria": "K",
+      "rank_fide": "2070",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "4899",
+      "nazwisko_imie": "ZIELIŃSKA Danuta",
+      "tytul_kategoria": "K",
+      "rank_fide": "2070",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "4648",
+      "nazwisko_imie": "BYLICA Michał",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2067",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "1101",
+      "nazwisko_imie": "PASZEK Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2058",
+      "klub": "UKS ALFIL Gniew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "4504",
+      "nazwisko_imie": "PIOTRZKOWSKI Mieczyslaw",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2054",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "4479",
+      "nazwisko_imie": "STRZALBA Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "2050",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "4743",
+      "nazwisko_imie": "LEWANDOWSKI Mirosław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2050",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "55994",
+      "nazwisko_imie": "MALINOWSKI Szymon",
+      "tytul_kategoria": "K",
+      "rank_fide": "2049",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "7178",
+      "nazwisko_imie": "SYMBOR Beata",
+      "tytul_kategoria": "K",
+      "rank_fide": "2048",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "4830",
+      "nazwisko_imie": "SPODZIEJA Diogenes",
+      "tytul_kategoria": "I",
+      "rank_fide": "2046",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "4810",
+      "nazwisko_imie": "REK Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "2043",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "26930",
+      "nazwisko_imie": "BELCZEWSKI Jacek",
+      "tytul_kategoria": "K",
+      "rank_fide": "2042",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "19833",
+      "nazwisko_imie": "MOĆKUN Dawid",
+      "tytul_kategoria": "I",
+      "rank_fide": "2038",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "4652",
+      "nazwisko_imie": "CHMIELEWSKI Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2035",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "4797",
+      "nazwisko_imie": "PIOCH Zygmunt",
+      "tytul_kategoria": "M",
+      "rank_fide": "2034",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "21737",
+      "nazwisko_imie": "FUKOWSKI Paweł",
+      "tytul_kategoria": "K",
+      "rank_fide": "2029",
+      "klub": "KS FOX CHESS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "4668",
+      "nazwisko_imie": "FORYS Michal",
+      "tytul_kategoria": "I",
+      "rank_fide": "2021",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "4610",
+      "nazwisko_imie": "PILECKI Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "2009",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "4733",
+      "nazwisko_imie": "LANCUCKI Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "2007",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "4659",
+      "nazwisko_imie": "ROMEL-CZARNOWSKI Adam",
+      "tytul_kategoria": "K",
+      "rank_fide": "2006",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "4516",
+      "nazwisko_imie": "HISZCZYŃSKI Jakub",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2004",
+      "klub": "SZACH MAT K.S. Kosakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "4677",
+      "nazwisko_imie": "HILARECKI Grzegorz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2002",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "7195",
+      "nazwisko_imie": "MIESZKOWSKA Justyna",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2001",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "84408",
+      "nazwisko_imie": "SZŁOD Wiktor",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1999",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "4808",
+      "nazwisko_imie": "RAWSKI Sławomir",
+      "tytul_kategoria": "FM",
+      "rank_fide": "1996",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "1204",
+      "nazwisko_imie": "WINDORPSKI Jacek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1995",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "7316",
+      "nazwisko_imie": "FRANCKOWSKI Janusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1993",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "100834",
+      "nazwisko_imie": "ZALEWSKI Witold",
+      "tytul_kategoria": "I",
+      "rank_fide": "1993",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "4658",
+      "nazwisko_imie": "CZAPIEWSKA Izabela",
+      "tytul_kategoria": "K",
+      "rank_fide": "1991",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "4890",
+      "nazwisko_imie": "WRZESINSKI Bartosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1991",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "101",
+      "id_pzszach": "4455",
+      "nazwisko_imie": "KOTŁOWSKI Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1990",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "102",
+      "id_pzszach": "4581",
+      "nazwisko_imie": "KARŁO Tymoteusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1986",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "103",
+      "id_pzszach": "888",
+      "nazwisko_imie": "BANKERT Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1982",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "104",
+      "id_pzszach": "4767",
+      "nazwisko_imie": "NADOLINSKI Roman",
+      "tytul_kategoria": "I",
+      "rank_fide": "1981",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "105",
+      "id_pzszach": "4642",
+      "nazwisko_imie": "BORTKUN Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1980",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "106",
+      "id_pzszach": "4515",
+      "nazwisko_imie": "GRZYBICKI Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1978",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "107",
+      "id_pzszach": "4844",
+      "nazwisko_imie": "SWIDERSKI Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1978",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "108",
+      "id_pzszach": "4759",
+      "nazwisko_imie": "MISIEJUK Zdzislaw",
+      "tytul_kategoria": "I",
+      "rank_fide": "1976",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "109",
+      "id_pzszach": "122032",
+      "nazwisko_imie": "KRAJDOCHA Konrad",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1975",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "110",
+      "id_pzszach": "4872",
+      "nazwisko_imie": "WALKUSZ Mirosław",
+      "tytul_kategoria": "CM",
+      "rank_fide": "1974",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "111",
+      "id_pzszach": "4661",
+      "nazwisko_imie": "CZYRSON Krystian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1973",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "112",
+      "id_pzszach": "17902",
+      "nazwisko_imie": "ŁADA Michał",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1973",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "113",
+      "id_pzszach": "4816",
+      "nazwisko_imie": "SEMENIUK Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1972",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "114",
+      "id_pzszach": "1081",
+      "nazwisko_imie": "MYZYK Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "1971",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "115",
+      "id_pzszach": "4762",
+      "nazwisko_imie": "MROZOWICKI Ryszard",
+      "tytul_kategoria": "I",
+      "rank_fide": "1971",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "116",
+      "id_pzszach": "4457",
+      "nazwisko_imie": "MAKURAT Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1966",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "117",
+      "id_pzszach": "4691",
+      "nazwisko_imie": "JURKIEWICZ Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "1964",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "118",
+      "id_pzszach": "4814",
+      "nazwisko_imie": "SAPIS Lucyna",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "1963",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "119",
+      "id_pzszach": "877",
+      "nazwisko_imie": "JANUSZEWSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1962",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "120",
+      "id_pzszach": "137844",
+      "nazwisko_imie": "GINDINSON Artem",
+      "tytul_kategoria": "III",
+      "rank_fide": "1962",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "121",
+      "id_pzszach": "4584",
+      "nazwisko_imie": "NERSESJAN Grzegorz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1961",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "122",
+      "id_pzszach": "4722",
+      "nazwisko_imie": "KULCZYCKI Daniel",
+      "tytul_kategoria": "I",
+      "rank_fide": "1959",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "123",
+      "id_pzszach": "24629",
+      "nazwisko_imie": "TYRAN Daniel",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1959",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "124",
+      "id_pzszach": "4616",
+      "nazwisko_imie": "KWASNIEWSKI Jerzy",
+      "tytul_kategoria": "I",
+      "rank_fide": "1958",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "125",
+      "id_pzszach": "4512",
+      "nazwisko_imie": "BATOR Przemyslaw",
+      "tytul_kategoria": "I",
+      "rank_fide": "1957",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "126",
+      "id_pzszach": "48949",
+      "nazwisko_imie": "PAWLETKO Szymon",
+      "tytul_kategoria": "I",
+      "rank_fide": "1957",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "127",
+      "id_pzszach": "4626",
+      "nazwisko_imie": "ANDRZEJEWSKI Szymon",
+      "tytul_kategoria": "I",
+      "rank_fide": "1955",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "128",
+      "id_pzszach": "1112",
+      "nazwisko_imie": "POPIOŁEK Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1952",
+      "klub": "KSz Sg1 Wejherowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "129",
+      "id_pzszach": "4713",
+      "nazwisko_imie": "KOT Jerzy",
+      "tytul_kategoria": "FM",
+      "rank_fide": "1952",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "130",
+      "id_pzszach": "4566",
+      "nazwisko_imie": "WEICHHOLD Łukasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1950",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "131",
+      "id_pzszach": "4735",
+      "nazwisko_imie": "LASOWSKI Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1950",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "132",
+      "id_pzszach": "4725",
+      "nazwisko_imie": "KULLING Aleksander",
+      "tytul_kategoria": "I",
+      "rank_fide": "1949",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "133",
+      "id_pzszach": "21570",
+      "nazwisko_imie": "KINDLER Przemysław",
+      "tytul_kategoria": "K",
+      "rank_fide": "1949",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "134",
+      "id_pzszach": "2101",
+      "nazwisko_imie": "PAWELEC Bartosz",
+      "tytul_kategoria": "K",
+      "rank_fide": "1948",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "135",
+      "id_pzszach": "4471",
+      "nazwisko_imie": "MICHNIKIEWICZ Sławomir",
+      "tytul_kategoria": "I",
+      "rank_fide": "1948",
+      "klub": "COR CORDIUM Starogard Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "136",
+      "id_pzszach": "4655",
+      "nazwisko_imie": "CISZEWSKI Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1948",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "137",
+      "id_pzszach": "17463",
+      "nazwisko_imie": "SZYMANOWSKI Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1948",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "138",
+      "id_pzszach": "4892",
+      "nazwisko_imie": "WYRWA Zdzislaw",
+      "tytul_kategoria": "I",
+      "rank_fide": "1947",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "139",
+      "id_pzszach": "26852",
+      "nazwisko_imie": "PUTLAK Wojciech",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1946",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "140",
+      "id_pzszach": "4514",
+      "nazwisko_imie": "GIECEWICZ Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1944",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "141",
+      "id_pzszach": "4571",
+      "nazwisko_imie": "TUSZYNSKI Edmund",
+      "tytul_kategoria": "I",
+      "rank_fide": "1942",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "142",
+      "id_pzszach": "27753",
+      "nazwisko_imie": "TARAJKIEWICZ Krzysztof",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1942",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "143",
+      "id_pzszach": "4459",
+      "nazwisko_imie": "WARMOWSKI Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1941",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "144",
+      "id_pzszach": "4826",
+      "nazwisko_imie": "SOBOLEWSKI Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "1938",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "145",
+      "id_pzszach": "113636",
+      "nazwisko_imie": "ANISKEVICH Dzmitry",
+      "tytul_kategoria": "I",
+      "rank_fide": "1938",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "146",
+      "id_pzszach": "86007",
+      "nazwisko_imie": "KOSZAŁKA Filip",
+      "tytul_kategoria": "I",
+      "rank_fide": "1934",
+      "klub": "KSz Biało-Czarni Bolszewo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "147",
+      "id_pzszach": "4768",
+      "nazwisko_imie": "NARKUN Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1933",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "148",
+      "id_pzszach": "20872",
+      "nazwisko_imie": "POPŁAWSKI Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1932",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "149",
+      "id_pzszach": "4699",
+      "nazwisko_imie": "KAWA Zbigniew",
+      "tytul_kategoria": "I",
+      "rank_fide": "1930",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "150",
+      "id_pzszach": "77448",
+      "nazwisko_imie": "BRUDZYŃSKI Wojciech",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1929",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "151",
+      "id_pzszach": "4518",
+      "nazwisko_imie": "NAROLSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1928",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "152",
+      "id_pzszach": "9843",
+      "nazwisko_imie": "KUCHARSKI Krzysztof",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1928",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "153",
+      "id_pzszach": "60200",
+      "nazwisko_imie": "PIECZULIS Błażej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1928",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "154",
+      "id_pzszach": "33483",
+      "nazwisko_imie": "ZARĘBA Maciej",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1925",
+      "klub": "KS FOX CHESS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "155",
+      "id_pzszach": "4592",
+      "nazwisko_imie": "KRYSZEWSKI Sebastian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1923",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "156",
+      "id_pzszach": "4613",
+      "nazwisko_imie": "GROTA Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1920",
+      "klub": "AS Kolbudy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "157",
+      "id_pzszach": "4685",
+      "nazwisko_imie": "JAWORSKI Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1920",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "158",
+      "id_pzszach": "21429",
+      "nazwisko_imie": "PHAM Juliusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1918",
+      "klub": "WKS FLOTA Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "159",
+      "id_pzszach": "1159",
+      "nazwisko_imie": "STUDZINSKI Tadeusz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1917",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "160",
+      "id_pzszach": "4596",
+      "nazwisko_imie": "MIERSKA Agnieszka",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1917",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "161",
+      "id_pzszach": "103941",
+      "nazwisko_imie": "MELER Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1917",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "162",
+      "id_pzszach": "4704",
+      "nazwisko_imie": "KIRSZENSTEIN Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1916",
+      "klub": "UKS ALFIL Gniew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "163",
+      "id_pzszach": "4574",
+      "nazwisko_imie": "KIRSZENSTEIN Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1915",
+      "klub": "UKS ALFIL Gniew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "164",
+      "id_pzszach": "4601",
+      "nazwisko_imie": "BRYLOWSKI Marian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1915",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "165",
+      "id_pzszach": "4863",
+      "nazwisko_imie": "KREFFTA Beata",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "1915",
+      "klub": "UKS ALFIL Gniew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "166",
+      "id_pzszach": "4637",
+      "nazwisko_imie": "BODIO Leszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "167",
+      "id_pzszach": "4809",
+      "nazwisko_imie": "RAWSKI Wiesław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "168",
+      "id_pzszach": "4891",
+      "nazwisko_imie": "WRZESIŃSKI-SZAJNER Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "169",
+      "id_pzszach": "4602",
+      "nazwisko_imie": "BRYLOWSKI Stefan",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1913",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "170",
+      "id_pzszach": "27107",
+      "nazwisko_imie": "KOTAŃSKI Marek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1912",
+      "klub": "MKS POGOŃ Prabuty",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "171",
+      "id_pzszach": "4453",
+      "nazwisko_imie": "SZULTKA Agata",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1911",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "172",
+      "id_pzszach": "945",
+      "nazwisko_imie": "GINTER Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1910",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "173",
+      "id_pzszach": "6537",
+      "nazwisko_imie": "STĘPIEŃ Janusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "1907",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "174",
+      "id_pzszach": "4750",
+      "nazwisko_imie": "MARSZK Kazimierz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "1903",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "175",
+      "id_pzszach": "40471",
+      "nazwisko_imie": "KOWALEWSKI Rafał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1903",
+      "klub": "SZACH MAT K.S. Kosakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "176",
+      "id_pzszach": "40766",
+      "nazwisko_imie": "FILIPSKA Maja",
+      "tytul_kategoria": "K",
+      "rank_fide": "1902",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "177",
+      "id_pzszach": "143031",
+      "nazwisko_imie": "Nusyo Artur",
+      "tytul_kategoria": "",
+      "rank_fide": "1900",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "178",
+      "id_pzszach": "33893",
+      "nazwisko_imie": "TWARDOWSKI Hubert",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1899",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "179",
+      "id_pzszach": "59979",
+      "nazwisko_imie": "HAGEL Mariusz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1899",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "180",
+      "id_pzszach": "4787",
+      "nazwisko_imie": "PAZURKIEWICZ Janusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "1896",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "181",
+      "id_pzszach": "101250",
+      "nazwisko_imie": "CHMIEL Kuba",
+      "tytul_kategoria": "I",
+      "rank_fide": "1896",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "182",
+      "id_pzszach": "15236",
+      "nazwisko_imie": "KIEDROWSKI Albin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1892",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "183",
+      "id_pzszach": "21747",
+      "nazwisko_imie": "MOSZCZEŃSKI Miłosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1892",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "184",
+      "id_pzszach": "1085",
+      "nazwisko_imie": "STEFANIAK Kinga",
+      "tytul_kategoria": "K",
+      "rank_fide": "1891",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "185",
+      "id_pzszach": "4900",
+      "nazwisko_imie": "ZIELIŃSKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1891",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "186",
+      "id_pzszach": "4793",
+      "nazwisko_imie": "PIEPIORKA Paulina",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1890",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "187",
+      "id_pzszach": "99554",
+      "nazwisko_imie": "PROTAS Jakub",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1890",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "188",
+      "id_pzszach": "85101",
+      "nazwisko_imie": "KILIAŃCZYK Jakub",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1889",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "189",
+      "id_pzszach": "4420",
+      "nazwisko_imie": "SIEWERT Roman",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1887",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "190",
+      "id_pzszach": "4836",
+      "nazwisko_imie": "STEFANIK Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1887",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "191",
+      "id_pzszach": "1098",
+      "nazwisko_imie": "PALUSZKIEWICZ Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1886",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "192",
+      "id_pzszach": "4867",
+      "nazwisko_imie": "UZIAŁKO Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1882",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "193",
+      "id_pzszach": "52426",
+      "nazwisko_imie": "SKRZYPCZYŃSKI Kacper",
+      "tytul_kategoria": "I",
+      "rank_fide": "1882",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "194",
+      "id_pzszach": "4461",
+      "nazwisko_imie": "CZYMBOR Ryszard",
+      "tytul_kategoria": "I",
+      "rank_fide": "1881",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "195",
+      "id_pzszach": "4769",
+      "nazwisko_imie": "NARLOCH Zbyslaw",
+      "tytul_kategoria": "I",
+      "rank_fide": "1881",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "196",
+      "id_pzszach": "4561",
+      "nazwisko_imie": "KARSKI Sebastian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1880",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "197",
+      "id_pzszach": "4796",
+      "nazwisko_imie": "PILICZEWSKI Bogusz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "1878",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "198",
+      "id_pzszach": "878",
+      "nazwisko_imie": "LABUN Kornel",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1876",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "199",
+      "id_pzszach": "4519",
+      "nazwisko_imie": "RZEMEK Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1876",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "200",
+      "id_pzszach": "4824",
+      "nazwisko_imie": "SMALARA Kazimierz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1875",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "201",
+      "id_pzszach": "28532",
+      "nazwisko_imie": "ALEKSANDROWICZ Marek",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1873",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "202",
+      "id_pzszach": "50029",
+      "nazwisko_imie": "KROTOWSKI-CACHA Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1872",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "203",
+      "id_pzszach": "773",
+      "nazwisko_imie": "HARMATA Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1871",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "204",
+      "id_pzszach": "65972",
+      "nazwisko_imie": "SKÓLSKA Emilia",
+      "tytul_kategoria": "K",
+      "rank_fide": "1870",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "205",
+      "id_pzszach": "26409",
+      "nazwisko_imie": "ANTOKOLSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1869",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "206",
+      "id_pzszach": "21765",
+      "nazwisko_imie": "PARSAMYAN Narek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1866",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "207",
+      "id_pzszach": "4525",
+      "nazwisko_imie": "CIESIELSKI Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1864",
+      "klub": "TKKF RZEMYK Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "208",
+      "id_pzszach": "4693",
+      "nazwisko_imie": "KAPICA Włodzimierz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1864",
+      "klub": "KSz Biało-Czarni Bolszewo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "209",
+      "id_pzszach": "4766",
+      "nazwisko_imie": "MYSZKA Zygmunt",
+      "tytul_kategoria": "I",
+      "rank_fide": "1864",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "210",
+      "id_pzszach": "112795",
+      "nazwisko_imie": "TROTS Yaroslav",
+      "tytul_kategoria": "I",
+      "rank_fide": "1864",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "211",
+      "id_pzszach": "935",
+      "nazwisko_imie": "MROZIŃSKA Anna",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1862",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "212",
+      "id_pzszach": "4605",
+      "nazwisko_imie": "CHOINSKI Lukasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1862",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "213",
+      "id_pzszach": "17944",
+      "nazwisko_imie": "STRYKOWSKI Jakub",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1859",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "214",
+      "id_pzszach": "61955",
+      "nazwisko_imie": "KUSSOWSKI Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1859",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "215",
+      "id_pzszach": "4604",
+      "nazwisko_imie": "CHMIELECKI Michał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1858",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "216",
+      "id_pzszach": "129075",
+      "nazwisko_imie": "CHMIELEWSKI Dariusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1857",
+      "klub": "KUKS REMUS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "217",
+      "id_pzszach": "4620",
+      "nazwisko_imie": "CZARNOTA Jarosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1855",
+      "klub": "KUKS REMUS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "218",
+      "id_pzszach": "39948",
+      "nazwisko_imie": "LIPIAK Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1855",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "219",
+      "id_pzszach": "4594",
+      "nazwisko_imie": "MAŃSKI Sylwester",
+      "tytul_kategoria": "II",
+      "rank_fide": "1852",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "220",
+      "id_pzszach": "21746",
+      "nazwisko_imie": "CHATYS Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1848",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "221",
+      "id_pzszach": "22823",
+      "nazwisko_imie": "WILK Oktawia",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1848",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "222",
+      "id_pzszach": "61601",
+      "nazwisko_imie": "GO¬DZIEJEWSKI Karol",
+      "tytul_kategoria": "I",
+      "rank_fide": "1848",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "223",
+      "id_pzszach": "7967",
+      "nazwisko_imie": "SOBCZYŃSKI Roman",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1847",
+      "klub": "MKS POGOŃ Prabuty",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "224",
+      "id_pzszach": "24573",
+      "nazwisko_imie": "RYCYK Radosław",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1847",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "225",
+      "id_pzszach": "123777",
+      "nazwisko_imie": "WIETESKA Stanisław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1847",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "226",
+      "id_pzszach": "4593",
+      "nazwisko_imie": "MAŃSKI Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1846",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "227",
+      "id_pzszach": "45406",
+      "nazwisko_imie": "DEMBICKI Karol",
+      "tytul_kategoria": "I",
+      "rank_fide": "1845",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "228",
+      "id_pzszach": "4834",
+      "nazwisko_imie": "STANISLAWOWICZ Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1844",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "229",
+      "id_pzszach": "9922",
+      "nazwisko_imie": "KRZYWKOWSKI Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1842",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "230",
+      "id_pzszach": "4589",
+      "nazwisko_imie": "ADAMCZYK Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1839",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "231",
+      "id_pzszach": "7549",
+      "nazwisko_imie": "ZMYSŁOWSKI Artur",
+      "tytul_kategoria": "I",
+      "rank_fide": "1839",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "232",
+      "id_pzszach": "23262",
+      "nazwisko_imie": "KINDLER Karolina",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1839",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "233",
+      "id_pzszach": "4508",
+      "nazwisko_imie": "WˇDRZYK Zbigniew",
+      "tytul_kategoria": "I",
+      "rank_fide": "1838",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "234",
+      "id_pzszach": "21428",
+      "nazwisko_imie": "SZYMANOWSKI Igor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1836",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "235",
+      "id_pzszach": "27214",
+      "nazwisko_imie": "CZERWIŃSKI Bogumil",
+      "tytul_kategoria": "",
+      "rank_fide": "1836",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "236",
+      "id_pzszach": "48945",
+      "nazwisko_imie": "SURKONT Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1835",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "237",
+      "id_pzszach": "24571",
+      "nazwisko_imie": "ŁUKASZUK Aron",
+      "tytul_kategoria": "II",
+      "rank_fide": "1834",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "238",
+      "id_pzszach": "26508",
+      "nazwisko_imie": "BUŁAKOWSKI Andrzej",
+      "tytul_kategoria": "",
+      "rank_fide": "1834",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "239",
+      "id_pzszach": "27751",
+      "nazwisko_imie": "PAZIAK Patryk",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1833",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "240",
+      "id_pzszach": "4852",
+      "nazwisko_imie": "SZCZYGŁO Michał",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1832",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "241",
+      "id_pzszach": "123780",
+      "nazwisko_imie": "RUTKOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1832",
+      "klub": "KUKS REMUS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "242",
+      "id_pzszach": "132688",
+      "nazwisko_imie": "KRUK Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1832",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "243",
+      "id_pzszach": "27695",
+      "nazwisko_imie": "JÓ¬WIK Jarosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1831",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "244",
+      "id_pzszach": "73072",
+      "nazwisko_imie": "PORĘBIAK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1829",
+      "klub": "MKS POGOŃ Prabuty",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "245",
+      "id_pzszach": "4608",
+      "nazwisko_imie": "KROPIDŁOWSKI Maciej",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1828",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "246",
+      "id_pzszach": "4639",
+      "nazwisko_imie": "BOROWSKI Jarosław",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1828",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "247",
+      "id_pzszach": "108920",
+      "nazwisko_imie": "¦WISŁOWSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1828",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "248",
+      "id_pzszach": "124460",
+      "nazwisko_imie": "GO¬DZIEJEWSKI Mariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1828",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "249",
+      "id_pzszach": "26332",
+      "nazwisko_imie": "JANTA LIPINSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1827",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "250",
+      "id_pzszach": "125477",
+      "nazwisko_imie": "MONGIRD Lew",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1823",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "251",
+      "id_pzszach": "4520",
+      "nazwisko_imie": "SOKOŁOWSKA Aneta",
+      "tytul_kategoria": "I",
+      "rank_fide": "1821",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "252",
+      "id_pzszach": "21430",
+      "nazwisko_imie": "JAROSZEWICZ Dawid",
+      "tytul_kategoria": "I",
+      "rank_fide": "1821",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "253",
+      "id_pzszach": "120805",
+      "nazwisko_imie": "GADAWSKI Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1819",
+      "klub": "KSz Sg1 Wejherowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "254",
+      "id_pzszach": "11607",
+      "nazwisko_imie": "RZEPIŃSKI Maciej",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1818",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "255",
+      "id_pzszach": "40392",
+      "nazwisko_imie": "SIKORSKI Roman",
+      "tytul_kategoria": "II",
+      "rank_fide": "1817",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "256",
+      "id_pzszach": "4435",
+      "nazwisko_imie": "DZIÓBEK Jerzy",
+      "tytul_kategoria": "I",
+      "rank_fide": "1816",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "257",
+      "id_pzszach": "4454",
+      "nazwisko_imie": "KOTŁOWSKA Anna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1815",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "258",
+      "id_pzszach": "22148",
+      "nazwisko_imie": "WOJSZKUN Tadeusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1812",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "259",
+      "id_pzszach": "81252",
+      "nazwisko_imie": "RECLAW Filip",
+      "tytul_kategoria": "I",
+      "rank_fide": "1812",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "260",
+      "id_pzszach": "68781",
+      "nazwisko_imie": "MIGACZ Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1811",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "261",
+      "id_pzszach": "102339",
+      "nazwisko_imie": "GLINIECKI Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1811",
+      "klub": "COR CORDIUM Starogard Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "262",
+      "id_pzszach": "22563",
+      "nazwisko_imie": "PELOWSKI Zdzisław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1809",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "263",
+      "id_pzszach": "48145",
+      "nazwisko_imie": "BISKUPSKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1809",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "264",
+      "id_pzszach": "114725",
+      "nazwisko_imie": "SZCZYGIEŁ Filip",
+      "tytul_kategoria": "I",
+      "rank_fide": "1809",
+      "klub": "KSz Biało-Czarni Bolszewo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "265",
+      "id_pzszach": "65274",
+      "nazwisko_imie": "KONKOL Sandra",
+      "tytul_kategoria": "K+",
+      "rank_fide": "1804",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "266",
+      "id_pzszach": "4521",
+      "nazwisko_imie": "SOKOŁOWSKA-ADAMIAK Barbara",
+      "tytul_kategoria": "I",
+      "rank_fide": "1802",
+      "klub": "MKS POGOŃ Prabuty",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "267",
+      "id_pzszach": "44001",
+      "nazwisko_imie": "GULBIŃSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1802",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "268",
+      "id_pzszach": "92729",
+      "nazwisko_imie": "WONS Krystian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1802",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "269",
+      "id_pzszach": "15962",
+      "nazwisko_imie": "OSTRĘGA Przemysław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1801",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "270",
+      "id_pzszach": "21738",
+      "nazwisko_imie": "STAWICKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1801",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "271",
+      "id_pzszach": "47216",
+      "nazwisko_imie": "BŁASZCZUK Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1801",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "272",
+      "id_pzszach": "56871",
+      "nazwisko_imie": "KEMPIŃSKI Szymon",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1800",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "273",
+      "id_pzszach": "40696",
+      "nazwisko_imie": "KUJAWA Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1798",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "274",
+      "id_pzszach": "1875",
+      "nazwisko_imie": "NIEĆKO Stanisław",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1797",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "275",
+      "id_pzszach": "45606",
+      "nazwisko_imie": "KOTŁOWSKI Maciej",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1796",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "276",
+      "id_pzszach": "43532",
+      "nazwisko_imie": "WILMANOWICZ Sławomir",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1794",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "277",
+      "id_pzszach": "4632",
+      "nazwisko_imie": "BENDYK Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1793",
+      "klub": "UKS ALFIL Gniew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "278",
+      "id_pzszach": "15957",
+      "nazwisko_imie": "MACKIEWICZ Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1793",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "279",
+      "id_pzszach": "41642",
+      "nazwisko_imie": "GROMNICKI Janusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1792",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "280",
+      "id_pzszach": "76402",
+      "nazwisko_imie": "KOWALCZYK Mariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1792",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "281",
+      "id_pzszach": "117197",
+      "nazwisko_imie": "PIˇTAK Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1792",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "282",
+      "id_pzszach": "24251",
+      "nazwisko_imie": "FABICH Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1791",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "283",
+      "id_pzszach": "4458",
+      "nazwisko_imie": "SIENIEK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1790",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "284",
+      "id_pzszach": "46763",
+      "nazwisko_imie": "KACIOTYS Mieczysław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1790",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "285",
+      "id_pzszach": "23314",
+      "nazwisko_imie": "ZIELIŃSKI Konrad",
+      "tytul_kategoria": "I",
+      "rank_fide": "1789",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "286",
+      "id_pzszach": "23467",
+      "nazwisko_imie": "TYŃSKI Beniamin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1789",
+      "klub": "WKS FLOTA Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "287",
+      "id_pzszach": "4833",
+      "nazwisko_imie": "STANIAK Mariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1788",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "288",
+      "id_pzszach": "24508",
+      "nazwisko_imie": "STAWICKI Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1788",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "289",
+      "id_pzszach": "71939",
+      "nazwisko_imie": "ANDRZEJEWSKI Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1787",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "290",
+      "id_pzszach": "4898",
+      "nazwisko_imie": "ŻEŁAJTYS Józef",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1786",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "291",
+      "id_pzszach": "39911",
+      "nazwisko_imie": "RUDNIK Łukasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1786",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "292",
+      "id_pzszach": "139295",
+      "nazwisko_imie": "SZUDROWICZ Serafin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1786",
+      "klub": "KSz Biało-Czarni Bolszewo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "293",
+      "id_pzszach": "129296",
+      "nazwisko_imie": "ADAMSKI Franciszek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1785",
+      "klub": "COR CORDIUM Starogard Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "294",
+      "id_pzszach": "4575",
+      "nazwisko_imie": "DOMBROWSKI Bartosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1784",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "295",
+      "id_pzszach": "22149",
+      "nazwisko_imie": "SMOLIŃSKI Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1783",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "296",
+      "id_pzszach": "4864",
+      "nazwisko_imie": "TYDA Krzysztof",
+      "tytul_kategoria": "CM",
+      "rank_fide": "1782",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "297",
+      "id_pzszach": "17748",
+      "nazwisko_imie": "KACZMARCZYK Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1781",
+      "klub": "KUKS REMUS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "298",
+      "id_pzszach": "40006",
+      "nazwisko_imie": "JĘDRYCH Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1781",
+      "klub": "KS MAGNAT",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "299",
+      "id_pzszach": "40694",
+      "nazwisko_imie": "HŁADUN Bartłomiej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1781",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "300",
+      "id_pzszach": "21557",
+      "nazwisko_imie": "MURAWSKI Zbigniew",
+      "tytul_kategoria": "II",
+      "rank_fide": "1780",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "301",
+      "id_pzszach": "40768",
+      "nazwisko_imie": "WIRKUS Oliwer",
+      "tytul_kategoria": "I",
+      "rank_fide": "1778",
+      "klub": "AS Kolbudy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "302",
+      "id_pzszach": "40968",
+      "nazwisko_imie": "BANACH Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1777",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "303",
+      "id_pzszach": "54510",
+      "nazwisko_imie": "OSZEJKO Krzysztof",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1777",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "304",
+      "id_pzszach": "30297",
+      "nazwisko_imie": "BRZOZOWSKI Norbert",
+      "tytul_kategoria": "I",
+      "rank_fide": "1776",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "305",
+      "id_pzszach": "66549",
+      "nazwisko_imie": "KACZMAREK Paulina",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1774",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "306",
+      "id_pzszach": "108919",
+      "nazwisko_imie": "¦WISŁOWSKI Jan",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1774",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "307",
+      "id_pzszach": "121980",
+      "nazwisko_imie": "CIEMIŃSKI Antoni",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1772",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "308",
+      "id_pzszach": "4587",
+      "nazwisko_imie": "WALKUSZ Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1771",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "309",
+      "id_pzszach": "37827",
+      "nazwisko_imie": "GOSTOMSKI Mariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1771",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "310",
+      "id_pzszach": "21748",
+      "nazwisko_imie": "CHMURA Krystian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1770",
+      "klub": "TKKF RZEMYK Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "311",
+      "id_pzszach": "85676",
+      "nazwisko_imie": "WOYTITZKI Maja",
+      "tytul_kategoria": "I",
+      "rank_fide": "1769",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "312",
+      "id_pzszach": "21432",
+      "nazwisko_imie": "KAPICA Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1768",
+      "klub": "KSz Biało-Czarni Bolszewo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "313",
+      "id_pzszach": "29003",
+      "nazwisko_imie": "GÓRA Sebastian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1767",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "314",
+      "id_pzszach": "3554",
+      "nazwisko_imie": "PIASTA Bartosz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1766",
+      "klub": "SZACH MAT K.S. Kosakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "315",
+      "id_pzszach": "6290",
+      "nazwisko_imie": "SOŁODUCHA Olaf",
+      "tytul_kategoria": "I",
+      "rank_fide": "1766",
+      "klub": "MKS POGOŃ Prabuty",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "316",
+      "id_pzszach": "24577",
+      "nazwisko_imie": "KACZANOWSKI Paweł",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1765",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "317",
+      "id_pzszach": "40868",
+      "nazwisko_imie": "¦WIˇTEK Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1765",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "318",
+      "id_pzszach": "4724",
+      "nazwisko_imie": "KULIK Roman",
+      "tytul_kategoria": "I",
+      "rank_fide": "1764",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "319",
+      "id_pzszach": "85587",
+      "nazwisko_imie": "ZAMCZAŁA Waldemar",
+      "tytul_kategoria": "II",
+      "rank_fide": "1763",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "320",
+      "id_pzszach": "4600",
+      "nazwisko_imie": "TYDA Agata",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1762",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "321",
+      "id_pzszach": "50312",
+      "nazwisko_imie": "BARTOSZEWSKI-REISKI Olaf",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1762",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "322",
+      "id_pzszach": "88184",
+      "nazwisko_imie": "KUCIŃSKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1758",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "323",
+      "id_pzszach": "4835",
+      "nazwisko_imie": "STARUCH Roman",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1757",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "324",
+      "id_pzszach": "19156",
+      "nazwisko_imie": "FARON Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1757",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "325",
+      "id_pzszach": "24236",
+      "nazwisko_imie": "MAŁECKI Jerzy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1757",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "326",
+      "id_pzszach": "27216",
+      "nazwisko_imie": "JENCZYK Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1757",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "327",
+      "id_pzszach": "38552",
+      "nazwisko_imie": "SANDOMIERSKI Cyprian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1757",
+      "klub": "KS FOX CHESS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "328",
+      "id_pzszach": "110700",
+      "nazwisko_imie": "PIETRZAK Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1757",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "329",
+      "id_pzszach": "21356",
+      "nazwisko_imie": "SZULC Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1755",
+      "klub": "TKKF RZEMYK Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "330",
+      "id_pzszach": "33534",
+      "nazwisko_imie": "WYCZLING Artur",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1755",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "331",
+      "id_pzszach": "52042",
+      "nazwisko_imie": "KOLANKIEWICZ Tymoteusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1755",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "332",
+      "id_pzszach": "4517",
+      "nazwisko_imie": "KOCHAŃSKA Bogumiła",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1753",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "333",
+      "id_pzszach": "4552",
+      "nazwisko_imie": "RAJTAR Jarosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1753",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "334",
+      "id_pzszach": "21769",
+      "nazwisko_imie": "MIELKE Patryk",
+      "tytul_kategoria": "II",
+      "rank_fide": "1752",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "335",
+      "id_pzszach": "66293",
+      "nazwisko_imie": "SZULC Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1752",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "336",
+      "id_pzszach": "43918",
+      "nazwisko_imie": "WOJTACHA Piotr",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1750",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "337",
+      "id_pzszach": "72258",
+      "nazwisko_imie": "KUCZYŃSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1750",
+      "klub": "KSz Biało-Czarni Bolszewo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "338",
+      "id_pzszach": "74462",
+      "nazwisko_imie": "ZAGALSKI Mirosław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1750",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "339",
+      "id_pzszach": "85455",
+      "nazwisko_imie": "FILIPCZYK Michał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1749",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "340",
+      "id_pzszach": "4680",
+      "nazwisko_imie": "HUZARSKI Stanisław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1748",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "341",
+      "id_pzszach": "21744",
+      "nazwisko_imie": "REDMERSKA Maria",
+      "tytul_kategoria": "I",
+      "rank_fide": "1747",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "342",
+      "id_pzszach": "33055",
+      "nazwisko_imie": "PYKA Tomasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1747",
+      "klub": "MKS POGOŃ Prabuty",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "343",
+      "id_pzszach": "41529",
+      "nazwisko_imie": "SZLAS Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1746",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "344",
+      "id_pzszach": "4696",
+      "nazwisko_imie": "KARDASZ Władysław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1745",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "345",
+      "id_pzszach": "4804",
+      "nazwisko_imie": "PO¦NIK Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1745",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "346",
+      "id_pzszach": "29019",
+      "nazwisko_imie": "ANDRZEJEWSKI Konrad",
+      "tytul_kategoria": "I",
+      "rank_fide": "1745",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "347",
+      "id_pzszach": "4585",
+      "nazwisko_imie": "PIOTRZKOWSKI Krzysztof",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1744",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "348",
+      "id_pzszach": "18357",
+      "nazwisko_imie": "PERDYAN Adrian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1743",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "349",
+      "id_pzszach": "71556",
+      "nazwisko_imie": "ZIELONKA Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1743",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "350",
+      "id_pzszach": "30108",
+      "nazwisko_imie": "GRYGLEWICZ Tadeusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1742",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "351",
+      "id_pzszach": "51335",
+      "nazwisko_imie": "PAWLAK Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1742",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "352",
+      "id_pzszach": "24474",
+      "nazwisko_imie": "WRONSKI Michał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1740",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "353",
+      "id_pzszach": "4754",
+      "nazwisko_imie": "METTEL Werner",
+      "tytul_kategoria": "I",
+      "rank_fide": "1739",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "354",
+      "id_pzszach": "22150",
+      "nazwisko_imie": "PRZEPERSKI Witold",
+      "tytul_kategoria": "II",
+      "rank_fide": "1739",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "355",
+      "id_pzszach": "53186",
+      "nazwisko_imie": "KULIK Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1738",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "356",
+      "id_pzszach": "61803",
+      "nazwisko_imie": "MATUSZEWSKI Bartłomiej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1738",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "357",
+      "id_pzszach": "100910",
+      "nazwisko_imie": "TONGA Radosław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1738",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "358",
+      "id_pzszach": "151041",
+      "nazwisko_imie": "GRABOWSKI Joshua",
+      "tytul_kategoria": "II",
+      "rank_fide": "1736",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "359",
+      "id_pzszach": "4609",
+      "nazwisko_imie": "MAJEWSKI Karol",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1733",
+      "klub": "UKS JANTAR Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "360",
+      "id_pzszach": "21742",
+      "nazwisko_imie": "KAŁUŻNY Krzysztof",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1732",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "361",
+      "id_pzszach": "77712",
+      "nazwisko_imie": "OŁTUSZYK Cezary",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1732",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "362",
+      "id_pzszach": "90235",
+      "nazwisko_imie": "CICHY Olgierd",
+      "tytul_kategoria": "II",
+      "rank_fide": "1732",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "363",
+      "id_pzszach": "135002",
+      "nazwisko_imie": "STEFANOWSKI Oskar",
+      "tytul_kategoria": "II",
+      "rank_fide": "1730",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "364",
+      "id_pzszach": "109515",
+      "nazwisko_imie": "KARCZ Miłosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1729",
+      "klub": "COR CORDIUM Starogard Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "365",
+      "id_pzszach": "15097",
+      "nazwisko_imie": "WRZOS Waldemar",
+      "tytul_kategoria": "I",
+      "rank_fide": "1728",
+      "klub": "COR CORDIUM Starogard Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "366",
+      "id_pzszach": "23504",
+      "nazwisko_imie": "WICIKOWSKA Agata",
+      "tytul_kategoria": "I",
+      "rank_fide": "1727",
+      "klub": "TKKF RZEMYK Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "367",
+      "id_pzszach": "85677",
+      "nazwisko_imie": "WOYTITZKI Sophie",
+      "tytul_kategoria": "I",
+      "rank_fide": "1727",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "368",
+      "id_pzszach": "92715",
+      "nazwisko_imie": "KASZNIA Ireneusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1726",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "369",
+      "id_pzszach": "99701",
+      "nazwisko_imie": "KLEBBA Zenon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1725",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "370",
+      "id_pzszach": "59978",
+      "nazwisko_imie": "HAGEL Małgorzata",
+      "tytul_kategoria": "I",
+      "rank_fide": "1724",
+      "klub": "KS MAGNAT",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "371",
+      "id_pzszach": "4679",
+      "nazwisko_imie": "HUSZCZA Katarzyna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1723",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "372",
+      "id_pzszach": "7863",
+      "nazwisko_imie": "MILEWCZYK Rafał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1723",
+      "klub": "KSz Biało-Czarni Bolszewo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "373",
+      "id_pzszach": "21749",
+      "nazwisko_imie": "NIEWIAROWSKI Mieszko",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1722",
+      "klub": "WKS FLOTA Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "374",
+      "id_pzszach": "75048",
+      "nazwisko_imie": "NARWOJSZ Franciszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1721",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "375",
+      "id_pzszach": "95031",
+      "nazwisko_imie": "FIJOŁEK Hubert",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1721",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "376",
+      "id_pzszach": "55080",
+      "nazwisko_imie": "KUKUŁA Daniel",
+      "tytul_kategoria": "II",
+      "rank_fide": "1719",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "377",
+      "id_pzszach": "24214",
+      "nazwisko_imie": "HANDKE Włodzimierz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1718",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "378",
+      "id_pzszach": "24153",
+      "nazwisko_imie": "ZAPA¦NIK Henryk",
+      "tytul_kategoria": "II",
+      "rank_fide": "1717",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "379",
+      "id_pzszach": "26639",
+      "nazwisko_imie": "TETERA Bogusław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1717",
+      "klub": "KSz Sg1 Wejherowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "380",
+      "id_pzszach": "40300",
+      "nazwisko_imie": "DACKIEWICZ Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1717",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "381",
+      "id_pzszach": "89472",
+      "nazwisko_imie": "BOROWIEC Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1717",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "382",
+      "id_pzszach": "72483",
+      "nazwisko_imie": "PASZEK Jan",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1716",
+      "klub": "UKS ALFIL Gniew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "383",
+      "id_pzszach": "84428",
+      "nazwisko_imie": "MĘNDAK Łukasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1716",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "384",
+      "id_pzszach": "98923",
+      "nazwisko_imie": "PUZYREWSKI Artur",
+      "tytul_kategoria": "III",
+      "rank_fide": "1716",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "385",
+      "id_pzszach": "111666",
+      "nazwisko_imie": "KOWALCZYK Tomasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1716",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "386",
+      "id_pzszach": "7642",
+      "nazwisko_imie": "BORCHARDT Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1715",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "387",
+      "id_pzszach": "63223",
+      "nazwisko_imie": "JARZEMBIŃSKI Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1715",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "388",
+      "id_pzszach": "4476",
+      "nazwisko_imie": "SZARMACH Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1712",
+      "klub": "COR CORDIUM Starogard Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "389",
+      "id_pzszach": "22849",
+      "nazwisko_imie": "ZIÓŁKOWSKI Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1712",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "390",
+      "id_pzszach": "27884",
+      "nazwisko_imie": "PAWLIK Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1712",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "391",
+      "id_pzszach": "40304",
+      "nazwisko_imie": "GIĘTKOWSKI Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1712",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "392",
+      "id_pzszach": "106066",
+      "nazwisko_imie": "WIERZBOWSKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1712",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "393",
+      "id_pzszach": "119369",
+      "nazwisko_imie": "KRAKUS Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1712",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "394",
+      "id_pzszach": "4786",
+      "nazwisko_imie": "PANEK Tadeusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "1711",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "395",
+      "id_pzszach": "21882",
+      "nazwisko_imie": "ZIENOWICZ Józef",
+      "tytul_kategoria": "II",
+      "rank_fide": "1711",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "396",
+      "id_pzszach": "76963",
+      "nazwisko_imie": "MASZKOWSKI Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1711",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "397",
+      "id_pzszach": "37817",
+      "nazwisko_imie": "GDANIEC Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1710",
+      "klub": "COR CORDIUM Starogard Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "398",
+      "id_pzszach": "82528",
+      "nazwisko_imie": "GREGORCZYK Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1706",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "399",
+      "id_pzszach": "23255",
+      "nazwisko_imie": "WORONOWICZ Zbigniew",
+      "tytul_kategoria": "II",
+      "rank_fide": "1705",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "400",
+      "id_pzszach": "138000",
+      "nazwisko_imie": "WˇWOREK Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1705",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "401",
+      "id_pzszach": "60629",
+      "nazwisko_imie": "SZONERT Olga",
+      "tytul_kategoria": "",
+      "rank_fide": "1704",
+      "klub": "COR CORDIUM Starogard Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "402",
+      "id_pzszach": "116450",
+      "nazwisko_imie": "RADOMSKI Oskar",
+      "tytul_kategoria": "II",
+      "rank_fide": "1704",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "403",
+      "id_pzszach": "79795",
+      "nazwisko_imie": "WITKIEWICZ Mateusz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1702",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "404",
+      "id_pzszach": "45794",
+      "nazwisko_imie": "BEKIER Piotr",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1701",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "405",
+      "id_pzszach": "24175",
+      "nazwisko_imie": "HEROLD Henryk",
+      "tytul_kategoria": "II",
+      "rank_fide": "1700",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "406",
+      "id_pzszach": "75540",
+      "nazwisko_imie": "ZIELEŃ Stanisław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1700",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "407",
+      "id_pzszach": "116634",
+      "nazwisko_imie": "SKOWOROTKO Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1700",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "408",
+      "id_pzszach": "7782",
+      "nazwisko_imie": "KNAP Narcyz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1698",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "409",
+      "id_pzszach": "24219",
+      "nazwisko_imie": "SLOWIK Zygmunt",
+      "tytul_kategoria": "II",
+      "rank_fide": "1698",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "410",
+      "id_pzszach": "38330",
+      "nazwisko_imie": "SZTANGIERSKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1698",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "411",
+      "id_pzszach": "84049",
+      "nazwisko_imie": "LIBERT Jarosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1698",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "412",
+      "id_pzszach": "54734",
+      "nazwisko_imie": "KROTOWSKI Rafał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1697",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "413",
+      "id_pzszach": "4597",
+      "nazwisko_imie": "SOCHA Roksana",
+      "tytul_kategoria": "II",
+      "rank_fide": "1696",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "414",
+      "id_pzszach": "67402",
+      "nazwisko_imie": "PNIEWSKA Beata",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1696",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "415",
+      "id_pzszach": "98104",
+      "nazwisko_imie": "SKRZYPSKI Jakub",
+      "tytul_kategoria": "V",
+      "rank_fide": "1694",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "416",
+      "id_pzszach": "133416",
+      "nazwisko_imie": "OSTOJSKI Nikodem",
+      "tytul_kategoria": "II",
+      "rank_fide": "1694",
+      "klub": "KSz Biało-Czarni Bolszewo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "417",
+      "id_pzszach": "52429",
+      "nazwisko_imie": "KOWNACKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1693",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "418",
+      "id_pzszach": "72971",
+      "nazwisko_imie": "SĘKOWSKI Janusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1693",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "419",
+      "id_pzszach": "44134",
+      "nazwisko_imie": "WICKI Ryszard",
+      "tytul_kategoria": "II",
+      "rank_fide": "1692",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "420",
+      "id_pzszach": "46775",
+      "nazwisko_imie": "NOWAK Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1692",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "421",
+      "id_pzszach": "30100",
+      "nazwisko_imie": "SZCZEPANIAK Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1691",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "422",
+      "id_pzszach": "86014",
+      "nazwisko_imie": "ZIELIŃSKI Krzysztof",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1691",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "423",
+      "id_pzszach": "40769",
+      "nazwisko_imie": "FALC Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1688",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "424",
+      "id_pzszach": "91150",
+      "nazwisko_imie": "WŁODARCZYK Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1688",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "425",
+      "id_pzszach": "129124",
+      "nazwisko_imie": "OŻOGA Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1688",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "426",
+      "id_pzszach": "24496",
+      "nazwisko_imie": "DWORAKOWSKI Arkadiusz",
+      "tytul_kategoria": "",
+      "rank_fide": "1687",
+      "klub": "UKS ALFIL Gniew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "427",
+      "id_pzszach": "97907",
+      "nazwisko_imie": "PODGÓRSKI Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1687",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "428",
+      "id_pzszach": "103420",
+      "nazwisko_imie": "PRZEDPEŁSKI Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1687",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "429",
+      "id_pzszach": "97796",
+      "nazwisko_imie": "JAWOREK Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1686",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "430",
+      "id_pzszach": "29244",
+      "nazwisko_imie": "BOTA Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1685",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "431",
+      "id_pzszach": "125455",
+      "nazwisko_imie": "RADZISZEWSKI Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1685",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "432",
+      "id_pzszach": "21767",
+      "nazwisko_imie": "MOKWA Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1684",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "433",
+      "id_pzszach": "24403",
+      "nazwisko_imie": "KURCABA Łukasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1684",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "434",
+      "id_pzszach": "29016",
+      "nazwisko_imie": "LITWIŃSKI Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1684",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "435",
+      "id_pzszach": "880",
+      "nazwisko_imie": "MEGGER Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1683",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "436",
+      "id_pzszach": "38524",
+      "nazwisko_imie": "DOMBROWSKI Marek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1683",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "437",
+      "id_pzszach": "60160",
+      "nazwisko_imie": "JASZCZYKOWSKI Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1681",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "438",
+      "id_pzszach": "15235",
+      "nazwisko_imie": "KLAJNA Przemysław",
+      "tytul_kategoria": "III",
+      "rank_fide": "1680",
+      "klub": "UKS ÓSEMKA Chojnice",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "439",
+      "id_pzszach": "21739",
+      "nazwisko_imie": "PASTERNAK Rafał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1680",
+      "klub": "MKS POGOŃ Prabuty",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "440",
+      "id_pzszach": "69533",
+      "nazwisko_imie": "BADOWSKI Zbigniew",
+      "tytul_kategoria": "II",
+      "rank_fide": "1679",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "441",
+      "id_pzszach": "41017",
+      "nazwisko_imie": "WITKOWSKI Marcel",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1675",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "442",
+      "id_pzszach": "56925",
+      "nazwisko_imie": "KNITTER Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1675",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "443",
+      "id_pzszach": "58378",
+      "nazwisko_imie": "LEWANDOWSKI Szymon",
+      "tytul_kategoria": "I",
+      "rank_fide": "1675",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "444",
+      "id_pzszach": "27615",
+      "nazwisko_imie": "WIECZOREK Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1674",
+      "klub": "MCKiE Malbork",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "445",
+      "id_pzszach": "4660",
+      "nazwisko_imie": "CZERWIŃSKA Luiza",
+      "tytul_kategoria": "II",
+      "rank_fide": "1673",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "446",
+      "id_pzszach": "48954",
+      "nazwisko_imie": "MAĆKOWIAK Filip",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1672",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "447",
+      "id_pzszach": "21643",
+      "nazwisko_imie": "BORSUK Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1669",
+      "klub": "UKKS BIAŁA KRÓLOWA Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "448",
+      "id_pzszach": "4689",
+      "nazwisko_imie": "JURKIEWICZ Joanna",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1668",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "449",
+      "id_pzszach": "21572",
+      "nazwisko_imie": "AFTANASIUK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1668",
+      "klub": "AS Kolbudy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "450",
+      "id_pzszach": "55683",
+      "nazwisko_imie": "GURBOWICZ Józef",
+      "tytul_kategoria": "II",
+      "rank_fide": "1667",
+      "klub": "UKS CENTRUM Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "451",
+      "id_pzszach": "65186",
+      "nazwisko_imie": "BŁAŻEWICZ Andrzej",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1667",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "452",
+      "id_pzszach": "119647",
+      "nazwisko_imie": "ROMAŃSKI Kacper",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1667",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "453",
+      "id_pzszach": "21733",
+      "nazwisko_imie": "LASOTA Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1665",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "454",
+      "id_pzszach": "76972",
+      "nazwisko_imie": "GOŁĘBIOWSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1664",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "455",
+      "id_pzszach": "43358",
+      "nazwisko_imie": "PARKA Miłosz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1663",
+      "klub": "UKS SP11 SKOCZEK Tczew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "456",
+      "id_pzszach": "101871",
+      "nazwisko_imie": "BIANGA Maksymilian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1663",
+      "klub": "KS MAGNAT",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "457",
+      "id_pzszach": "4705",
+      "nazwisko_imie": "KISZKIS Juliusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1662",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "458",
+      "id_pzszach": "26426",
+      "nazwisko_imie": "SAWICKI Paweł Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1661",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "459",
+      "id_pzszach": "79821",
+      "nazwisko_imie": "SŁOWIK Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1661",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "460",
+      "id_pzszach": "108765",
+      "nazwisko_imie": "DOMORADZKI Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1661",
+      "klub": "Król i Królowa",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "461",
+      "id_pzszach": "122033",
+      "nazwisko_imie": "POBŁOCKI Jędrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1660",
+      "klub": "UKS MDK GDYNIA",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "462",
+      "id_pzszach": "127020",
+      "nazwisko_imie": "SZMIGIEL Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1660",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "463",
+      "id_pzszach": "40391",
+      "nazwisko_imie": "BEDKA Leopold",
+      "tytul_kategoria": "II",
+      "rank_fide": "1659",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "464",
+      "id_pzszach": "65271",
+      "nazwisko_imie": "BODAL Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1658",
+      "klub": "WKS FLOTA Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "465",
+      "id_pzszach": "107201",
+      "nazwisko_imie": "PIESIK Feliks",
+      "tytul_kategoria": "II",
+      "rank_fide": "1657",
+      "klub": "KSz Sg1 Wejherowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "466",
+      "id_pzszach": "113671",
+      "nazwisko_imie": "PRZYBYŁEK Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1657",
+      "klub": "MKS POGOŃ Prabuty",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "467",
+      "id_pzszach": "92489",
+      "nazwisko_imie": "TOCZYŃSKA Natalia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1656",
+      "klub": "KUKS REMUS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "468",
+      "id_pzszach": "102380",
+      "nazwisko_imie": "WANTOCH-REKOWSKI Waldemar",
+      "tytul_kategoria": "II",
+      "rank_fide": "1656",
+      "klub": "KUKS REMUS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "469",
+      "id_pzszach": "107197",
+      "nazwisko_imie": "STOLC Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1656",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "470",
+      "id_pzszach": "53187",
+      "nazwisko_imie": "ROSOŁEK Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1654",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "471",
+      "id_pzszach": "103088",
+      "nazwisko_imie": "SOBOLEWSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1654",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "472",
+      "id_pzszach": "126926",
+      "nazwisko_imie": "STĘPNIEWSKI Artur",
+      "tytul_kategoria": "",
+      "rank_fide": "1654",
+      "klub": "WKS FLOTA Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "473",
+      "id_pzszach": "4694",
+      "nazwisko_imie": "KARCZYŃSKI Lech",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1653",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "474",
+      "id_pzszach": "83640",
+      "nazwisko_imie": "RICHTER Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1653",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "475",
+      "id_pzszach": "102340",
+      "nazwisko_imie": "DRĘŻEK Wiesław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1653",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "476",
+      "id_pzszach": "53300",
+      "nazwisko_imie": "DORAU Zygmunt",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1651",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "477",
+      "id_pzszach": "100040",
+      "nazwisko_imie": "KAMINSKI Cezary",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1651",
+      "klub": "KS FOX CHESS",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "478",
+      "id_pzszach": "4477",
+      "nazwisko_imie": "SZYMANOWICZ Jozef",
+      "tytul_kategoria": "",
+      "rank_fide": "1650",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "479",
+      "id_pzszach": "33889",
+      "nazwisko_imie": "WITKO Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1650",
+      "klub": "TKKF RZEMYK Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "480",
+      "id_pzszach": "48630",
+      "nazwisko_imie": "LOROCH Zygfryd",
+      "tytul_kategoria": "II",
+      "rank_fide": "1650",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "481",
+      "id_pzszach": "98038",
+      "nazwisko_imie": "KRASIŃSKI Maksymilian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1650",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "482",
+      "id_pzszach": "140067",
+      "nazwisko_imie": "MELONI Natalia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1650",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "483",
+      "id_pzszach": "23466",
+      "nazwisko_imie": "TYŃSKI Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1648",
+      "klub": "TKKF RZEMYK Gdynia",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "484",
+      "id_pzszach": "59008",
+      "nazwisko_imie": "JANUSIEWICZ Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1647",
+      "klub": "MTS Kwidzyn",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "485",
+      "id_pzszach": "4805",
+      "nazwisko_imie": "PRZYBYLOWICZ Kazimierz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1646",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "486",
+      "id_pzszach": "103506",
+      "nazwisko_imie": "KOSZAŁKA Kamil",
+      "tytul_kategoria": "III",
+      "rank_fide": "1645",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "487",
+      "id_pzszach": "45415",
+      "nazwisko_imie": "GˇSIOROWSKI Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1644",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "488",
+      "id_pzszach": "4772",
+      "nazwisko_imie": "NISZTUK Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1643",
+      "klub": "UKS WDA Lipusz",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "489",
+      "id_pzszach": "49993",
+      "nazwisko_imie": "PAWLAK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1642",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "490",
+      "id_pzszach": "122103",
+      "nazwisko_imie": "ADRYCH Jan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1642",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "491",
+      "id_pzszach": "134895",
+      "nazwisko_imie": "BRAMKO Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1641",
+      "klub": "SZACH MAT K.S. Kosakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "492",
+      "id_pzszach": "7617",
+      "nazwisko_imie": "ANDRZEJEWSKI Władysław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1639",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "493",
+      "id_pzszach": "24593",
+      "nazwisko_imie": "TARKOWSKI Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1638",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "494",
+      "id_pzszach": "132687",
+      "nazwisko_imie": "ORZECHOWSKI Tomasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1638",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "495",
+      "id_pzszach": "120089",
+      "nazwisko_imie": "RUŁA Natan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1637",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "496",
+      "id_pzszach": "26764",
+      "nazwisko_imie": "GEBLER Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1635",
+      "klub": "UKKS BIAŁA KRÓLOWA Pruszcz Gdański",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "497",
+      "id_pzszach": "76743",
+      "nazwisko_imie": "MIOTK Jerzy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1635",
+      "klub": "JANTAR Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "498",
+      "id_pzszach": "83651",
+      "nazwisko_imie": "BONEMBERG Antoni",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1635",
+      "klub": "KS MAGNAT",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "499",
+      "id_pzszach": "41226",
+      "nazwisko_imie": "SIEWERT Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1633",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "500",
+      "id_pzszach": "62027",
+      "nazwisko_imie": "GRZELA Dariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1633",
+      "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    }
+  ]
+}

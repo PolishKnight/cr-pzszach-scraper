@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:44.704Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "5739",
+      "nazwisko_imie": "HEBERLA Bartłomiej",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2514",
+      "klub": "KS LAURA Chylice",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "2817",
+      "nazwisko_imie": "MACIEJA Bartłomiej",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2512",
+      "klub": "KSz POLONIA Warszawa",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "2580",
+      "nazwisko_imie": "BLEHM Paweł",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2505",
+      "klub": "",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "7465",
+      "nazwisko_imie": "KANAREK Marcel",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2478",
+      "klub": "KS LAURA Chylice",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "4006",
+      "nazwisko_imie": "KU¬MICZ Krystian",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2462",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "2009",
+      "nazwisko_imie": "CYBOROWSKI Łukasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2459",
+      "klub": "LKS WRZOS Międzyborów",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "5551",
+      "nazwisko_imie": "ANTONIEWSKI Rafał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2446",
+      "klub": "LKS WRZOS Międzyborów",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "26053",
+      "nazwisko_imie": "JARMUŁA Łukasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2412",
+      "klub": "KSz Hetman Płock",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "30627",
+      "nazwisko_imie": "FUS Jakub",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2410",
+      "klub": "UKS CZTERNASTKA Warszawa",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "17319",
+      "nazwisko_imie": "PASZEWSKI Mateusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2407",
+      "klub": "UKS SPARTA Białołęka",
+      "wojewodztwo_zwiazek": "MA"
+    }
+  ]
+}

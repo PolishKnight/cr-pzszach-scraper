@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:53.823Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "270/SL",
+      "nazwa": "AKS Mikołów",
+      "miasto": "Mikołów",
+      "licencja": "12100041",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "878/SL",
+      "nazwa": "Dom Kultury Koszęcin",
+      "miasto": "Koszęcin",
+      "licencja": "12100072",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "1083/SL",
+      "nazwa": "Fundacja 64 pola",
+      "miasto": "Katowice",
+      "licencja": "12100092",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "970/SL",
+      "nazwa": "Fundacja Elektrowni Rybnik",
+      "miasto": "Rybnik",
+      "licencja": "12100080",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "1078/SL",
+      "nazwa": "Fundacja Młody Sportowiec",
+      "miasto": "Sosnowiec",
+      "licencja": "12100091",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "1027/SL",
+      "nazwa": "SKRA Częstochowa",
+      "miasto": "Częstochowa",
+      "licencja": "12100087",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "1070/SL",
+      "nazwa": "Wytworzymy (Forteca) CzeladĽ",
+      "miasto": "CzeladĽ",
+      "licencja": "12100089",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "796/SL",
+      "nazwa": "TKKF BORONOVIA Boronów",
+      "miasto": "Boronów",
+      "licencja": "12100061",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "708/SL",
+      "nazwa": "KS DORS Ruda ¦l±ska",
+      "miasto": "Ruda ¦l±ska",
+      "licencja": "12100010",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "1015/SL",
+      "nazwa": "KS KuĽnia Ustroń",
+      "miasto": "Ustroń",
+      "licencja": "12100086",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

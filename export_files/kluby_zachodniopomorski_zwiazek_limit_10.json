@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:56.826Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "1086/ZP",
+      "nazwa": "Fundacja Rozwoju Nauki Przytoń",
+      "miasto": "Szczecin",
+      "licencja": "16100026",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "297/ZP",
+      "nazwa": "GKSz SOLNY Grzybowo",
+      "miasto": "Grzybowo",
+      "licencja": "16100004",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "1064/ZP",
+      "nazwa": "Grupa SEL",
+      "miasto": "Barlinek",
+      "licencja": "16100024",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "1111/ZP",
+      "nazwa": "KLub 64 Stargard",
+      "miasto": "Stargard",
+      "licencja": "16100028",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "500/ZP",
+      "nazwa": "KSz Gryf Szczecin",
+      "miasto": "Szczecin",
+      "licencja": "16100001",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "296/ZP",
+      "nazwa": "KSz HETMAN Koszalin",
+      "miasto": "Koszalin",
+      "licencja": "16100002",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "915/ZP",
+      "nazwa": "LUKS CAISSA Połczyn-Zdrój",
+      "miasto": "Połczyn-Zdrój",
+      "licencja": "16100021",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "902/ZP",
+      "nazwa": "My¶liborski Klub Szachowy",
+      "miasto": "My¶libórz",
+      "licencja": "16100020",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "600/ZP",
+      "nazwa": "Pałac Młodzieży Koszalin",
+      "miasto": "Koszalin",
+      "licencja": "16100013",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "1075/ZP",
+      "nazwa": "Speak Up ¦winouj¶cie",
+      "miasto": "¦winouj¶cie",
+      "licencja": "16100025",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

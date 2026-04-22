@@ -1,0 +1,486 @@
+{
+  "createdAt": "2026-04-22T21:52:49.883Z",
+  "totalRecords": 48,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "864/PK",
+      "nazwa": "GKS SZACH-MAT Wi¶niowa",
+      "miasto": "Wi¶niowa",
+      "licencja": "09100055",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "550/PK",
+      "nazwa": "GKSz HETMAN Pilzno",
+      "miasto": "Pilzno",
+      "licencja": "09100007",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "933/PK",
+      "nazwa": "GOSiR Jedlicze",
+      "miasto": "Jedlicze",
+      "licencja": "09100060",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "932/PK",
+      "nazwa": "KKL STAL Stalowa Wola",
+      "miasto": "Stalowa Wola",
+      "licencja": "09100059",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "706/PK",
+      "nazwa": "KGL SZAROTKA Wadowice Górne",
+      "miasto": "Wadowice Górne",
+      "licencja": "09100039",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "802/PK",
+      "nazwa": "KS DZIKOWIEC",
+      "miasto": "Dzikowiec",
+      "licencja": "09100051",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "967/PK",
+      "nazwa": "KS Efektowni.pl",
+      "miasto": "Stalowa Wola",
+      "licencja": "09100061",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "715/PK",
+      "nazwa": "KS KOMUNALNI Sanok",
+      "miasto": "Sanok",
+      "licencja": "09100040",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "908/PK",
+      "nazwa": "KS SZACHOWNICA Rzeszów",
+      "miasto": "Rzeszów",
+      "licencja": "09100058",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "1016/PK",
+      "nazwa": "KS TEMPO Cmolas",
+      "miasto": "Cmolas",
+      "licencja": "09100066",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "549/PK",
+      "nazwa": "KS WISŁOKA Dębica",
+      "miasto": "Dębica",
+      "licencja": "09100033",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "1069/PK",
+      "nazwa": "KSz. Czarno na Białym Iwonicz-Zdrój",
+      "miasto": "Iwonicz",
+      "licencja": "09100068",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "969/PK",
+      "nazwa": "KSz. CZARNY KOŃ Rogi",
+      "miasto": "Rogi",
+      "licencja": "09100063",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "761/PK",
+      "nazwa": "KSz Gambit Przeworsk",
+      "miasto": "Przeworsk",
+      "licencja": "09100047",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "1071/PK",
+      "nazwa": "KSz Jarosław",
+      "miasto": "Jarosław",
+      "licencja": "09100069",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "1095/PK",
+      "nazwa": "KSz. MAT Jasło",
+      "miasto": "Jasło",
+      "licencja": "09100070",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "100.00 PLN"
+    },
+    {
+      "id": "17",
+      "nr_pzszach": "1040/PK",
+      "nazwa": "KSz OZ Rzeszów",
+      "miasto": "Rzeszów",
+      "licencja": "09100067",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "18",
+      "nr_pzszach": "997/PK",
+      "nazwa": "KS Roszada Przemy¶l",
+      "miasto": "Przemy¶l",
+      "licencja": "09100064",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "19",
+      "nr_pzszach": "047/PK",
+      "nazwa": "KSz SDK-LOTNIK Mielec",
+      "miasto": "Mielec",
+      "licencja": "09100001",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "20",
+      "nr_pzszach": "648/PK",
+      "nazwa": "KKSz URANIA Krosno",
+      "miasto": "Krosno",
+      "licencja": "09100023",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "21",
+      "nr_pzszach": "1105/PK",
+      "nazwa": "Hetman Wielki Korczyna",
+      "miasto": "Korczyna",
+      "licencja": "09100071",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "22",
+      "nr_pzszach": "872/PK",
+      "nazwa": "LKS Kosienice",
+      "miasto": "Maćkowice",
+      "licencja": "09100057",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "23",
+      "nr_pzszach": "346/PK",
+      "nazwa": "LKS Kańczuga",
+      "miasto": "Kańczuga",
+      "licencja": "09100035",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "24",
+      "nr_pzszach": "065/PK",
+      "nazwa": "LKS MECHANIZATOR Ustrzyki Dolne",
+      "miasto": "Ustrzyki Dolne",
+      "licencja": "09100029",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "25",
+      "nr_pzszach": "109/PK",
+      "nazwa": "LKS PARNAS Stara Wie¶",
+      "miasto": "Stara Wie¶",
+      "licencja": "09100013",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "26",
+      "nr_pzszach": "157/PK",
+      "nazwa": "LKS SANOVIA Lesko",
+      "miasto": "Lesko",
+      "licencja": "09100031",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "27",
+      "nr_pzszach": "998/PK",
+      "nazwa": "LKS START Wola Mielecka",
+      "miasto": "Wola Mielecka",
+      "licencja": "09100065",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "28",
+      "nr_pzszach": "403/PK",
+      "nazwa": "LKS Ujkowice",
+      "miasto": "Maćkowice",
+      "licencja": "09100030",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "29",
+      "nr_pzszach": "051/PK",
+      "nazwa": "LKSz GCKiP Czarna",
+      "miasto": "Czarna",
+      "licencja": "09100008",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "30",
+      "nr_pzszach": "062/PK",
+      "nazwa": "MKS POLONIA Przemy¶l",
+      "miasto": "Przemy¶l",
+      "licencja": "09100009",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "31",
+      "nr_pzszach": "735/PK",
+      "nazwa": "MKSz GRYF Dębica",
+      "miasto": "Dębica",
+      "licencja": "09100041",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "32",
+      "nr_pzszach": "",
+      "nazwa": "PkZSzach Rzeszów",
+      "miasto": "Rzeszów",
+      "licencja": "009",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "33",
+      "nr_pzszach": "399/PK",
+      "nazwa": "PKSiR NiS PODKARPACIE",
+      "miasto": "Przemy¶l",
+      "licencja": "09100038",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "34",
+      "nr_pzszach": "742/PK",
+      "nazwa": "RzKSz Rzeszów",
+      "miasto": "Rzeszów",
+      "licencja": "09100043",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "35",
+      "nr_pzszach": "050/PK",
+      "nazwa": "S-KKS Przemy¶l",
+      "miasto": "Przemy¶l",
+      "licencja": "09100014",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "36",
+      "nr_pzszach": "756/PK",
+      "nazwa": "Stowarzyszenie NASZ RYMANÓW w Rymanowie",
+      "miasto": "Rymanów",
+      "licencja": "09100042",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "37",
+      "nr_pzszach": "647/PK",
+      "nazwa": "SS-T LUBCZA Racławówka",
+      "miasto": "Niechobrz",
+      "licencja": "09100024",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "38",
+      "nr_pzszach": "108/PK",
+      "nazwa": "TKSzach Tarnobrzeg",
+      "miasto": "Tarnobrzeg",
+      "licencja": "09100015",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "39",
+      "nr_pzszach": "968/PK",
+      "nazwa": "TC SZACH MIELEC",
+      "miasto": "Mielec",
+      "licencja": "09100062",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "40",
+      "nr_pzszach": "066/PK",
+      "nazwa": "TG SOKÓŁ Mielec",
+      "miasto": "Mielec",
+      "licencja": "09100011",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "41",
+      "nr_pzszach": "805/PK",
+      "nazwa": "TSz / KSz BYSTROVIA Bystrowice",
+      "miasto": "Bystrowice",
+      "licencja": "09100052",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "42",
+      "nr_pzszach": "754/PK",
+      "nazwa": "TSz SKOCZEK Sędziszów Małopolski",
+      "miasto": "Sędziszów Małopolski",
+      "licencja": "09100044",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "43",
+      "nr_pzszach": "871/PK",
+      "nazwa": "UKS CEBULKA Warzyce",
+      "miasto": "Jasło",
+      "licencja": "09100056",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "44",
+      "nr_pzszach": "788/PK",
+      "nazwa": "UKS ORLIK Rudnik n/Sanem",
+      "miasto": "Rudnik n/Sanem",
+      "licencja": "09100050",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "45",
+      "nr_pzszach": "591/PK",
+      "nazwa": "UKS SP1 Leżajsk",
+      "miasto": "Leżajsk",
+      "licencja": "09100025",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "46",
+      "nr_pzszach": "820/PK",
+      "nazwa": "UKS REKORD Iwla",
+      "miasto": "Dukla",
+      "licencja": "09100053",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "47",
+      "nr_pzszach": "769/PK",
+      "nazwa": "UKS SP 1 Brzozów",
+      "miasto": "Brzozów",
+      "licencja": "09100049",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "48",
+      "nr_pzszach": "048/PK",
+      "nazwa": "WKS GÓRNOVIA Górno",
+      "miasto": "Górno",
+      "licencja": "09100010",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    }
+  ]
+}

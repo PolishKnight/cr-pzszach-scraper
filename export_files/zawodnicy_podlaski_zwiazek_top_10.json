@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:50.138Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "17555",
+      "nazwisko_imie": "SOCHACKI Christophe",
+      "tytul_kategoria": "",
+      "rank_fide": "2478",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "2834",
+      "nazwisko_imie": "MARKOWSKI Tomasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2475",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "146803",
+      "nazwisko_imie": "MAYORAU Mikita",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2457",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "4390",
+      "nazwisko_imie": "SZYPULSKI Andrzej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2405",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "51610",
+      "nazwisko_imie": "KAROLCZUK Iwo",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2373",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "4322",
+      "nazwisko_imie": "JAKUBOWSKI Maciej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2343",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "4359",
+      "nazwisko_imie": "OSTROWSKI Leszek",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2335",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "4317",
+      "nazwisko_imie": "GRYCEL Kamil",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2315",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "4307",
+      "nazwisko_imie": "DRZEMICKI Dariusz",
+      "tytul_kategoria": "M",
+      "rank_fide": "2300",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "4334",
+      "nazwisko_imie": "KOSCIUK Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "2295",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    }
+  ]
+}

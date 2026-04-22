@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:39.640Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "29659",
+      "nazwisko_imie": "GUMULARZ Szymon",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2590",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "6123",
+      "nazwisko_imie": "¦WIERCZ Dariusz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2579",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "2569",
+      "nazwisko_imie": "BARTEL Mateusz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2568",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "33551",
+      "nazwisko_imie": "BALOGH Csaba",
+      "tytul_kategoria": "",
+      "rank_fide": "2544",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "5028",
+      "nazwisko_imie": "MORANDA Wojciech",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2537",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "27934",
+      "nazwisko_imie": "KOSAKOWSKI Jakub",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2533",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "61585",
+      "nazwisko_imie": "MALEK Jan",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2533",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "2736",
+      "nazwisko_imie": "KEMPIŃSKI Robert",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2527",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "49998",
+      "nazwisko_imie": "MASTROVASILIS Dimitrios",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2526",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "50004",
+      "nazwisko_imie": "SIVUK Vitaly",
+      "tytul_kategoria": "",
+      "rank_fide": "2522",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    }
+  ]
+}

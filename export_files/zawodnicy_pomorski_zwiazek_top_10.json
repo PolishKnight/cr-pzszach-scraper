@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:50.872Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "27071",
+      "nazwisko_imie": "TECLAF Paweł",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2572",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "7524",
+      "nazwisko_imie": "SAPIS Witalis",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2378",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "1006",
+      "nazwisko_imie": "KOC Przemysław",
+      "tytul_kategoria": "M",
+      "rank_fide": "2346",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "4672",
+      "nazwisko_imie": "GRAFF Grzegorz",
+      "tytul_kategoria": "M",
+      "rank_fide": "2331",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "4884",
+      "nazwisko_imie": "WISMONT Ryszard",
+      "tytul_kategoria": "K",
+      "rank_fide": "2320",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "1166",
+      "nazwisko_imie": "SZCZEPIŃSKI Michał",
+      "tytul_kategoria": "M",
+      "rank_fide": "2295",
+      "klub": "KS Olimpijczyk Kwakowo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "4663",
+      "nazwisko_imie": "DŁUGOSZ Jędrzej",
+      "tytul_kategoria": "M",
+      "rank_fide": "2285",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "71658",
+      "nazwisko_imie": "LI¦KIEWICZ Jakub",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2280",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "4653",
+      "nazwisko_imie": "CICHOCKI Adam",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2275",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "4731",
+      "nazwisko_imie": "KWIATKOWSKI Łukasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2270",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    }
+  ]
+}

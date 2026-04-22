@@ -1,0 +1,306 @@
+{
+  "createdAt": "2026-04-22T21:52:51.555Z",
+  "totalRecords": 30,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "960/PO",
+      "nazwa": "AS Kolbudy",
+      "miasto": "Kolbudy",
+      "licencja": "11100026",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "1077/PO",
+      "nazwa": "JANTAR Gdańsk",
+      "miasto": "Gdańsk",
+      "licencja": "11100035",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "210/PO",
+      "nazwa": "KKS ORMUZD Kartuzy",
+      "miasto": "Kartuzy",
+      "licencja": "11100008",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "831/PO",
+      "nazwa": "KLUB MARYNARKI WOJENNEJ",
+      "miasto": "Gdynia",
+      "licencja": "11100024",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "1092/PO",
+      "nazwa": "KS FOX CHESS",
+      "miasto": "Kwidzyn",
+      "licencja": "11100036",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "963/PO",
+      "nazwa": "KS Olimpijczyk Kwakowo",
+      "miasto": "Kwakowo",
+      "licencja": "11100027",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "1048/PO",
+      "nazwa": "KSz Sg1 Wejherowo",
+      "miasto": "Wejherowo",
+      "licencja": "11100032",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "1018/PO",
+      "nazwa": "KSz Biało-Czarni Bolszewo",
+      "miasto": "Bolszewo",
+      "licencja": "11100029",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "892/PO",
+      "nazwa": "KS MAGNAT",
+      "miasto": "Łowcze",
+      "licencja": "11100025",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "793/PO",
+      "nazwa": "COR CORDIUM Starogard Gdański",
+      "miasto": "Starogard Gdański",
+      "licencja": "11100022",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "1033/PO",
+      "nazwa": "KUKS REMUS",
+      "miasto": "Ko¶cierzyna",
+      "licencja": "11100030",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "250.00 PLN"
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "771/PO",
+      "nazwa": "MCKiE Malbork",
+      "miasto": "Malbork",
+      "licencja": "11100019",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "671/PO",
+      "nazwa": "MKS POGOŃ Prabuty",
+      "miasto": "Prabuty",
+      "licencja": "11100011",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "288/PO",
+      "nazwa": "MTS Kwidzyn",
+      "miasto": "Kwidzyn",
+      "licencja": "11100001",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "586/PO",
+      "nazwa": "TKKF RZEMYK Gdynia",
+      "miasto": "Gdynia",
+      "licencja": "11100013",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "",
+      "nazwa": "PWZSzach",
+      "miasto": "Gdańsk",
+      "licencja": "011",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "17",
+      "nr_pzszach": "1072/PO",
+      "nazwa": "SL SALOS Rumia",
+      "miasto": "Rumia",
+      "licencja": "11100034",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "18",
+      "nr_pzszach": "1045/PO",
+      "nazwa": "SZACH MAT K.S. Kosakowo",
+      "miasto": "Suchy Dwór",
+      "licencja": "11100031",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "19",
+      "nr_pzszach": "1006/PO",
+      "nazwa": "Król i Królowa",
+      "miasto": "Gdańsk",
+      "licencja": "11100028",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "20",
+      "nr_pzszach": "653/PO",
+      "nazwa": "UKKS BIAŁA KRÓLOWA Pruszcz Gdański",
+      "miasto": "Pruszcz Gdański",
+      "licencja": "11100010",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "21",
+      "nr_pzszach": "1060/PO",
+      "nazwa": "UKS ALFIL Gniew",
+      "miasto": "Gniew",
+      "licencja": "11100033",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "22",
+      "nr_pzszach": "190/PO",
+      "nazwa": "UKS CENTRUM Tczew",
+      "miasto": "Tczew",
+      "licencja": "11100012",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "23",
+      "nr_pzszach": "287/PO",
+      "nazwa": "UKS GEDANENSIS Gdańsk",
+      "miasto": "Gdańsk",
+      "licencja": "11100006",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "24",
+      "nr_pzszach": "285/PO",
+      "nazwa": "UKS JANTAR Pruszcz Gdański",
+      "miasto": "Pruszcz Gdański",
+      "licencja": "11100007",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "25",
+      "nr_pzszach": "753/PO",
+      "nazwa": "UKS KORONA Gdańsk",
+      "miasto": "Gdańsk",
+      "licencja": "11100017",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "26",
+      "nr_pzszach": "783/PO",
+      "nazwa": "UKS MDK GDYNIA",
+      "miasto": "Gdynia",
+      "licencja": "11100020",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "27",
+      "nr_pzszach": "431/PO",
+      "nazwa": "UKS ÓSEMKA Chojnice",
+      "miasto": "Chojnice",
+      "licencja": "02100020",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "28",
+      "nr_pzszach": "078/PO",
+      "nazwa": "UKS SP11 SKOCZEK Tczew",
+      "miasto": "Tczew",
+      "licencja": "11100014",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "29",
+      "nr_pzszach": "070/PO",
+      "nazwa": "UKS WDA Lipusz",
+      "miasto": "Lipusz",
+      "licencja": "11100016",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "30",
+      "nr_pzszach": "799/PO",
+      "nazwa": "WKS FLOTA Gdynia",
+      "miasto": "Gdynia",
+      "licencja": "11100021",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    }
+  ]
+}

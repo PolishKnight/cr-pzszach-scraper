@@ -1,0 +1,906 @@
+{
+  "createdAt": "2026-04-22T21:52:28.855Z",
+  "totalRecords": 100,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "3187",
+      "nazwisko_imie": "DUDA Jan-Krzysztof",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2739",
+      "klub": "MKS MOS Wieliczka",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "4888",
+      "nazwisko_imie": "WOJTASZEK Radosław",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2662",
+      "klub": "KS GWIAZDA Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "5950",
+      "nazwisko_imie": "NAVARA David",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2643",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "29659",
+      "nazwisko_imie": "GUMULARZ Szymon",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2590",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "21423",
+      "nazwisko_imie": "FEDORCHUK Sergey A",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2585",
+      "klub": "MCKiS Jaworzno",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "2966",
+      "nazwisko_imie": "SOĆKO Bartosz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2584",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "6123",
+      "nazwisko_imie": "¦WIERCZ Dariusz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2579",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "27071",
+      "nazwisko_imie": "TECLAF Paweł",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2572",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "33553",
+      "nazwisko_imie": "ZHIGALKO Sergei",
+      "tytul_kategoria": "",
+      "rank_fide": "2572",
+      "klub": "",
+      "wojewodztwo_zwiazek": ""
+    },
+    {
+      "id": "10",
+      "id_pzszach": "2569",
+      "nazwisko_imie": "BARTEL Mateusz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2568",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "2844",
+      "nazwisko_imie": "MITOŃ Kamil",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2568",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "59619",
+      "nazwisko_imie": "OLEKSIENKO Mikhailo",
+      "tytul_kategoria": "",
+      "rank_fide": "2558",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "4396",
+      "nazwisko_imie": "WARAKOMSKI Tomasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2557",
+      "klub": "Akademia Szachowa Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "2022",
+      "nazwisko_imie": "GAJEWSKI Grzegorz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2547",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "65730",
+      "nazwisko_imie": "SEEMANN Jakub",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2545",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "33551",
+      "nazwisko_imie": "BALOGH Csaba",
+      "tytul_kategoria": "",
+      "rank_fide": "2544",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "5028",
+      "nazwisko_imie": "MORANDA Wojciech",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2537",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "1778",
+      "nazwisko_imie": "PIORUN Kacper",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2536",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "7250",
+      "nazwisko_imie": "TOMCZAK Jacek",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2533",
+      "klub": "Akademia Szachowa Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "27934",
+      "nazwisko_imie": "KOSAKOWSKI Jakub",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2533",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "61585",
+      "nazwisko_imie": "MALEK Jan",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2533",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "22548",
+      "nazwisko_imie": "GAZIK Viktor",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2529",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "2736",
+      "nazwisko_imie": "KEMPIŃSKI Robert",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2527",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "27232",
+      "nazwisko_imie": "HRACEK Zbynek",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2527",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "50000",
+      "nazwisko_imie": "MOZHAROV Mikhail",
+      "tytul_kategoria": "",
+      "rank_fide": "2527",
+      "klub": "",
+      "wojewodztwo_zwiazek": ""
+    },
+    {
+      "id": "26",
+      "id_pzszach": "49998",
+      "nazwisko_imie": "MASTROVASILIS Dimitrios",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2526",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "50004",
+      "nazwisko_imie": "SIVUK Vitaly",
+      "tytul_kategoria": "",
+      "rank_fide": "2522",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "90395",
+      "nazwisko_imie": "CVEK Robert",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2517",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "2870",
+      "nazwisko_imie": "OLSZEWSKI Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2516",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "5739",
+      "nazwisko_imie": "HEBERLA Bartłomiej",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2514",
+      "klub": "KS LAURA Chylice",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "41665",
+      "nazwisko_imie": "KAZAKOV Mikhail",
+      "tytul_kategoria": "",
+      "rank_fide": "2513",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "1247",
+      "nazwisko_imie": "DRAGUN Kamil",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2512",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "2817",
+      "nazwisko_imie": "MACIEJA Bartłomiej",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2512",
+      "klub": "KSz POLONIA Warszawa",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "4353",
+      "nazwisko_imie": "NASUTA Grzegorz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2506",
+      "klub": "KS GWIAZDA Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "2580",
+      "nazwisko_imie": "BLEHM Paweł",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2505",
+      "klub": "",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "23258",
+      "nazwisko_imie": "JANIK Igor",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2504",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "2019",
+      "nazwisko_imie": "DZIUBA Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2503",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "2998",
+      "nazwisko_imie": "TAZBIR Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2501",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "9807",
+      "nazwisko_imie": "HERA Imre",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2501",
+      "klub": "UKS ROTMISTRZ Grudzi±dz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "38364",
+      "nazwisko_imie": "PSYK Radosław",
+      "tytul_kategoria": "K++",
+      "rank_fide": "2501",
+      "klub": "KSz PIˇTKA Skierniewice",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "438",
+      "nazwisko_imie": "WIECZOREK Oskar",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2499",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "2880",
+      "nazwisko_imie": "PAKLEZA Zbigniew",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2499",
+      "klub": "KS KINGSOFCHESS Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "23650",
+      "nazwisko_imie": "SZPAR Miłosz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2499",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "64249",
+      "nazwisko_imie": "KLIMKOWSKI Jan",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2498",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "91671",
+      "nazwisko_imie": "CIE¦LAK Patryk",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2495",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "6472",
+      "nazwisko_imie": "MI¦TA Aleksander",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2494",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "5328",
+      "nazwisko_imie": "KRZYŻANOWSKI Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2493",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "64505",
+      "nazwisko_imie": "RACZEK Krzysztof",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2490",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "1050",
+      "nazwisko_imie": "LICZNERSKI Łukasz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2486",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "27165",
+      "nazwisko_imie": "BABULA Vlastimil",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2485",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "2779",
+      "nazwisko_imie": "KUCZYŃSKI Robert",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2484",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "2765",
+      "nazwisko_imie": "KRASENKOW Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2483",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "100547",
+      "nazwisko_imie": "KASHLINSKAYA Alina",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2480",
+      "klub": "KS GWIAZDA Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "5917",
+      "nazwisko_imie": "MATLAK Marek",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2479",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "2659",
+      "nazwisko_imie": "GDAŃSKI Jacek",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2478",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "3466",
+      "nazwisko_imie": "SADZIKOWSKI Daniel",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2478",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "7465",
+      "nazwisko_imie": "KANAREK Marcel",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2478",
+      "klub": "KS LAURA Chylice",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "17555",
+      "nazwisko_imie": "SOCHACKI Christophe",
+      "tytul_kategoria": "",
+      "rank_fide": "2478",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "2834",
+      "nazwisko_imie": "MARKOWSKI Tomasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2475",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "2467",
+      "nazwisko_imie": "MATUSZEWSKI Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2474",
+      "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "2801",
+      "nazwisko_imie": "LENIART Arkadiusz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2473",
+      "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "2608",
+      "nazwisko_imie": "CZAKON Jakub",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2465",
+      "klub": "SzSON ZAGŁĘBIE D±browa Górnicza",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "2962",
+      "nazwisko_imie": "SŁABY Jerzy",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2464",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "3317",
+      "nazwisko_imie": "CZARNOTA Paweł",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2462",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "4006",
+      "nazwisko_imie": "KU¬MICZ Krystian",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2462",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "925",
+      "nazwisko_imie": "DROZDOWSKI Kacper",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2461",
+      "klub": "UKS ROTMISTRZ Grudzi±dz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "5807",
+      "nazwisko_imie": "KLEKOWSKI Maciej",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2460",
+      "klub": "Akademia Szachowa Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "90311",
+      "nazwisko_imie": "Druska Juraj",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2460",
+      "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "2009",
+      "nazwisko_imie": "CYBOROWSKI Łukasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2459",
+      "klub": "LKS WRZOS Międzyborów",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "41913",
+      "nazwisko_imie": "CZOPOR Maciej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2458",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "59641",
+      "nazwisko_imie": "FIRMAN Nazar",
+      "tytul_kategoria": "",
+      "rank_fide": "2458",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "265",
+      "nazwisko_imie": "KAMIŃSKI Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2457",
+      "klub": "Wrocławski Klub Szachowy HETMAN",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "146803",
+      "nazwisko_imie": "MAYORAU Mikita",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2457",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "1343",
+      "nazwisko_imie": "BRODOWSKI Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2451",
+      "klub": "BKS CHEMIK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "523",
+      "nazwisko_imie": "SZABLOWSKI Paweł",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2450",
+      "klub": "MUKS MDK ¦ródmie¶cie Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "21398",
+      "nazwisko_imie": "SULYPA Aleksander",
+      "tytul_kategoria": "",
+      "rank_fide": "2450",
+      "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "32002",
+      "nazwisko_imie": "BAUM Jonasz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2447",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "5551",
+      "nazwisko_imie": "ANTONIEWSKI Rafał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2446",
+      "klub": "LKS WRZOS Międzyborów",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "1735",
+      "nazwisko_imie": "KOŁOSOWSKI Mateusz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2444",
+      "klub": "WKS Kopernik",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "19849",
+      "nazwisko_imie": "ROZENTALIS Eduardas",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2444",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "4072",
+      "nazwisko_imie": "SKALSKI Michał",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2441",
+      "klub": "",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "23608",
+      "nazwisko_imie": "TOMCZAK Mikołaj",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2440",
+      "klub": "STRZELEC Strzelce Opolskie",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "2036",
+      "nazwisko_imie": "JARACZ Paweł",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2437",
+      "klub": "ŻTMS BASZTA Żnin",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "4321",
+      "nazwisko_imie": "JAKUBOWSKI Krzysztof",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2434",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "5581",
+      "nazwisko_imie": "BOBRAS Piotr",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2432",
+      "klub": "KSz MIED¬ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "7218",
+      "nazwisko_imie": "STANISZEWSKI Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2431",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "4567",
+      "nazwisko_imie": "WEICHHOLD Paweł",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2430",
+      "klub": "SzSON ZAGŁĘBIE D±browa Górnicza",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "5861",
+      "nazwisko_imie": "KULIGOWSKI Adam",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2430",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "453",
+      "nazwisko_imie": "ZAWADZKI Stanisław",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2425",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "7258",
+      "nazwisko_imie": "URBAN Klaudiusz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2425",
+      "klub": "Akademia Szachowa Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "15181",
+      "nazwisko_imie": "GAJEK Radosław",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2423",
+      "klub": "",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "40265",
+      "nazwisko_imie": "KOZAK Antoni",
+      "tytul_kategoria": "M",
+      "rank_fide": "2421",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "68002",
+      "nazwisko_imie": "SOWIŃSKI Paweł",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2421",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "2694",
+      "nazwisko_imie": "JAKUBIEC Artur",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2420",
+      "klub": "KS KINGSOFCHESS Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "5563",
+      "nazwisko_imie": "BANY Jerzy",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2420",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "50147",
+      "nazwisko_imie": "DZIDA Kamil",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2418",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "21245",
+      "nazwisko_imie": "MAKSIMENKO Andrei",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2417",
+      "klub": "SzSON ZAGŁĘBIE D±browa Górnicza",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "6109",
+      "nazwisko_imie": "STRYJECKI Marek",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2416",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "5671",
+      "nazwisko_imie": "EJSMONT Krzysztof",
+      "tytul_kategoria": "M",
+      "rank_fide": "2415",
+      "klub": "UKS HETMAN Częstochowa",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "26053",
+      "nazwisko_imie": "JARMUŁA Łukasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2412",
+      "klub": "KSz Hetman Płock",
+      "wojewodztwo_zwiazek": "MA"
+    }
+  ]
+}

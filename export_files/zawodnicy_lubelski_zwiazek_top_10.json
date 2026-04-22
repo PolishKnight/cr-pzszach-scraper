@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:43.855Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "2109",
+      "nazwisko_imie": "PIWOWARCZYK Piotr",
+      "tytul_kategoria": "M",
+      "rank_fide": "2328",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "2132",
+      "nazwisko_imie": "SYDOR Andrzej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2325",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "2033",
+      "nazwisko_imie": "JAKUBOWSKI Tomasz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2313",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "2013",
+      "nazwisko_imie": "DOBOSZ Henryk",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2310",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "2071",
+      "nazwisko_imie": "ŁOBEJKO Rafał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2300",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "2130",
+      "nazwisko_imie": "STOMA Paweł",
+      "tytul_kategoria": "M",
+      "rank_fide": "2286",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "2018",
+      "nazwisko_imie": "DYBOWSKI Jerzy",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2270",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "2131",
+      "nazwisko_imie": "SWÓŁ Michał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2248",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "2048",
+      "nazwisko_imie": "KIELECH Arkadiusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2225",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "2012",
+      "nazwisko_imie": "DŁUŻNIEWSKI Marcin",
+      "tytul_kategoria": "K",
+      "rank_fide": "2218",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    }
+  ]
+}

@@ -1,0 +1,4506 @@
+{
+  "createdAt": "2026-04-22T21:52:43.860Z",
+  "totalRecords": 500,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "2109",
+      "nazwisko_imie": "PIWOWARCZYK Piotr",
+      "tytul_kategoria": "M",
+      "rank_fide": "2328",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "2132",
+      "nazwisko_imie": "SYDOR Andrzej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2325",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "2033",
+      "nazwisko_imie": "JAKUBOWSKI Tomasz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2313",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "2013",
+      "nazwisko_imie": "DOBOSZ Henryk",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2310",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "2071",
+      "nazwisko_imie": "ŁOBEJKO Rafał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2300",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "2130",
+      "nazwisko_imie": "STOMA Paweł",
+      "tytul_kategoria": "M",
+      "rank_fide": "2286",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "2018",
+      "nazwisko_imie": "DYBOWSKI Jerzy",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2270",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "2131",
+      "nazwisko_imie": "SWÓŁ Michał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2248",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "2048",
+      "nazwisko_imie": "KIELECH Arkadiusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2225",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "2012",
+      "nazwisko_imie": "DŁUŻNIEWSKI Marcin",
+      "tytul_kategoria": "K",
+      "rank_fide": "2218",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "2118",
+      "nazwisko_imie": "PYDA Zbigniew",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2217",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "2151",
+      "nazwisko_imie": "WOJCIESZYN Jacenty",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2214",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "2092",
+      "nazwisko_imie": "NIEMIEC Artur",
+      "tytul_kategoria": "K",
+      "rank_fide": "2202",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "2108",
+      "nazwisko_imie": "PIKULIŃSKI Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2202",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "2082",
+      "nazwisko_imie": "MIROSŁAW Michał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2194",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "2032",
+      "nazwisko_imie": "JAKIMA Mirosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "2185",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "4340",
+      "nazwisko_imie": "KOZAK Magdalena",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2175",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "2043",
+      "nazwisko_imie": "JUSIAK Grzegorz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2167",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "39430",
+      "nazwisko_imie": "WASZCZUK Patrycja",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2163",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "4230",
+      "nazwisko_imie": "KAMYS Stanislaw",
+      "tytul_kategoria": "K",
+      "rank_fide": "2157",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "2057",
+      "nazwisko_imie": "KOPEĆ Zenon",
+      "tytul_kategoria": "I",
+      "rank_fide": "2155",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "2099",
+      "nazwisko_imie": "PANAS Paweł",
+      "tytul_kategoria": "K",
+      "rank_fide": "2144",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "2085",
+      "nazwisko_imie": "MORYC Ignacy",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2141",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "4215",
+      "nazwisko_imie": "PONIKOWSKI Dariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2121",
+      "klub": "Radzyńskie Towarzystwo Szachowe",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "2084",
+      "nazwisko_imie": "MONISZKA Krzysztof",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2115",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "1999",
+      "nazwisko_imie": "BIELAK Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "2106",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "2056",
+      "nazwisko_imie": "KOMORZYCKI Jakub",
+      "tytul_kategoria": "K",
+      "rank_fide": "2100",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "2116",
+      "nazwisko_imie": "PROBOLA Ryszard",
+      "tytul_kategoria": "K",
+      "rank_fide": "2100",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "1982",
+      "nazwisko_imie": "PROBOLA Bartosz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2090",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "2111",
+      "nazwisko_imie": "POLKOWSKI Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "2089",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "1986",
+      "nazwisko_imie": "ŻˇDŁO Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2087",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "6467",
+      "nazwisko_imie": "MICHAŁEK Bartosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2087",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "1901",
+      "nazwisko_imie": "KWIECIEŃ Joanna",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2085",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "1923",
+      "nazwisko_imie": "DYMEK Łukasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2082",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "47233",
+      "nazwisko_imie": "IWAŃCZUK Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2082",
+      "klub": "MKS AGROS Chełm",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "67368",
+      "nazwisko_imie": "BOGDANOV Ignat",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2082",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "2097",
+      "nazwisko_imie": "PADRAK Rafał",
+      "tytul_kategoria": "I",
+      "rank_fide": "2078",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "2117",
+      "nazwisko_imie": "PURC Sławomir",
+      "tytul_kategoria": "K",
+      "rank_fide": "2078",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "2156",
+      "nazwisko_imie": "ŻUK Andrzej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2074",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "2041",
+      "nazwisko_imie": "JOŃCZYK Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "2071",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "2028",
+      "nazwisko_imie": "GORZKIEWICZ Łukasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2070",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "1944",
+      "nazwisko_imie": "JÓ¬WICKA Urszula",
+      "tytul_kategoria": "K",
+      "rank_fide": "2067",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "2077",
+      "nazwisko_imie": "MˇKA Marcin",
+      "tytul_kategoria": "K",
+      "rank_fide": "2062",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "2016",
+      "nazwisko_imie": "DUDZIAK Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "2058",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "2076",
+      "nazwisko_imie": "MˇKA-POLKOWSKA Magdalena",
+      "tytul_kategoria": "K",
+      "rank_fide": "2056",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "2003",
+      "nazwisko_imie": "CIECHOCIŃSKA-MIEĆKO Zofia",
+      "tytul_kategoria": "K",
+      "rank_fide": "2055",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "20270",
+      "nazwisko_imie": "DZIDO Dawid",
+      "tytul_kategoria": "I",
+      "rank_fide": "2049",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "105261",
+      "nazwisko_imie": "MADEJSKI Miłosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2048",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "2123",
+      "nazwisko_imie": "MOTOR Marta",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2036",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "2146",
+      "nazwisko_imie": "WIˇCEK Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "2031",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "2095",
+      "nazwisko_imie": "OSTROWSKI Robert",
+      "tytul_kategoria": "I",
+      "rank_fide": "2027",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "1972",
+      "nazwisko_imie": "GOSEK Zenon",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2025",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "1955",
+      "nazwisko_imie": "TUROWSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "2012",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "2078",
+      "nazwisko_imie": "MˇKA Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "2003",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "2051",
+      "nazwisko_imie": "KLIMECKI Jacek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1995",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "60330",
+      "nazwisko_imie": "ROGACEWICZ Mikołaj",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1995",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "1924",
+      "nazwisko_imie": "DZIUBIŃSKI Paweł",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1986",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "17403",
+      "nazwisko_imie": "SIEDLANOWSKI Łukasz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1986",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "1918",
+      "nazwisko_imie": "BARTCZAK Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1978",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "85830",
+      "nazwisko_imie": "BARAN Franciszek",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1976",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "2115",
+      "nazwisko_imie": "PRASZAK Michał",
+      "tytul_kategoria": "M",
+      "rank_fide": "1975",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "1953",
+      "nazwisko_imie": "SZURGOT Dominik",
+      "tytul_kategoria": "I",
+      "rank_fide": "1974",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "96629",
+      "nazwisko_imie": "OLESZCZUK Artur",
+      "tytul_kategoria": "I",
+      "rank_fide": "1958",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "53746",
+      "nazwisko_imie": "GROCHOWSKI Kosma",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1954",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "1534",
+      "nazwisko_imie": "DYMEK Magdalena",
+      "tytul_kategoria": "K",
+      "rank_fide": "1950",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "2152",
+      "nazwisko_imie": "WOJCIESZYN Zdzisław",
+      "tytul_kategoria": "K",
+      "rank_fide": "1946",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "17148",
+      "nazwisko_imie": "GÓRA Antonina",
+      "tytul_kategoria": "K",
+      "rank_fide": "1946",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "1973",
+      "nazwisko_imie": "KOWALCZYK Marian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1941",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "24298",
+      "nazwisko_imie": "CYMBAŁA Ireneusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1934",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "24315",
+      "nazwisko_imie": "DERU¦ Jerzy",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1929",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "1894",
+      "nazwisko_imie": "SZPAKIEWICZ Andrzej",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1927",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "10566",
+      "nazwisko_imie": "ŻˇDŁO Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1927",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "1876",
+      "nazwisko_imie": "BIEŃ Janusz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1914",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "17395",
+      "nazwisko_imie": "BARTOSZEK Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "1926",
+      "nazwisko_imie": "GNATIUK Rafał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1912",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "115695",
+      "nazwisko_imie": "KOZŁOWSKI Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1912",
+      "klub": "Top Chess Biłgoraj",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "2021",
+      "nazwisko_imie": "FRˇCZEK Dariusz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "1910",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "1985",
+      "nazwisko_imie": "ŻˇDŁO Anna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1909",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "59213",
+      "nazwisko_imie": "KUREK Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1900",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "33152",
+      "nazwisko_imie": "SIWEK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1899",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "1920",
+      "nazwisko_imie": "CHOMIUK Łukasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1896",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "1885",
+      "nazwisko_imie": "KRZYŻANOWSKI Wojciech",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1895",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "7908",
+      "nazwisko_imie": "PĘKAŁA Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1895",
+      "klub": "Radzyńskie Towarzystwo Szachowe",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "50276",
+      "nazwisko_imie": "WOJCIECHOWSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1894",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "33135",
+      "nazwisko_imie": "ROGOZA Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1892",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "58022",
+      "nazwisko_imie": "CISEK Kamil",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1892",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "24356",
+      "nazwisko_imie": "SWATEK Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1891",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "47213",
+      "nazwisko_imie": "SKWARZYŃSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1891",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "104564",
+      "nazwisko_imie": "LIPIAK Bartosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1891",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "4937",
+      "nazwisko_imie": "SARNOWSKI Witold",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1889",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "2005",
+      "nazwisko_imie": "CIECHOCIŃSKI Stefan",
+      "tytul_kategoria": "K",
+      "rank_fide": "1888",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "17162",
+      "nazwisko_imie": "WAROWNY Marcin",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1888",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "17405",
+      "nazwisko_imie": "SIKORA Rafał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1881",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "27098",
+      "nazwisko_imie": "SZCZYGIEŁ Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1881",
+      "klub": "KSz Hetman Krynka",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "53350",
+      "nazwisko_imie": "PIWOWARCZYK Julia",
+      "tytul_kategoria": "K",
+      "rank_fide": "1879",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "2133",
+      "nazwisko_imie": "SYKUŁA Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1874",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "72028",
+      "nazwisko_imie": "MAZU¦ Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1874",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "2144",
+      "nazwisko_imie": "U¦CIŃSKI Marek",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1871",
+      "klub": "ULKS NIWKA Łomazy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "17153",
+      "nazwisko_imie": "KRASOWSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1870",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "1919",
+      "nazwisko_imie": "BUCIOR Tomasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1869",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "101",
+      "id_pzszach": "27097",
+      "nazwisko_imie": "SZCZYGIEŁ Konrad",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1858",
+      "klub": "KSz Hetman Krynka",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "102",
+      "id_pzszach": "25749",
+      "nazwisko_imie": "FRˇCZEK Weronika",
+      "tytul_kategoria": "K++",
+      "rank_fide": "1857",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "103",
+      "id_pzszach": "49907",
+      "nazwisko_imie": "BOJCZEWSKI Mateusz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1856",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "104",
+      "id_pzszach": "26495",
+      "nazwisko_imie": "U¦CIŃSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1853",
+      "klub": "ULKS NIWKA Łomazy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "105",
+      "id_pzszach": "17394",
+      "nazwisko_imie": "BARTOSZEK Jakub",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1851",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "106",
+      "id_pzszach": "17396",
+      "nazwisko_imie": "BARTOSZEK Michał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1848",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "107",
+      "id_pzszach": "30073",
+      "nazwisko_imie": "WÓJCIK Bogumił",
+      "tytul_kategoria": "I",
+      "rank_fide": "1845",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "108",
+      "id_pzszach": "17147",
+      "nazwisko_imie": "FLISIAK Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1841",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "109",
+      "id_pzszach": "1984",
+      "nazwisko_imie": "GORZKIEWICZ Marta",
+      "tytul_kategoria": "I",
+      "rank_fide": "1839",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "110",
+      "id_pzszach": "20288",
+      "nazwisko_imie": "HORBACZ Agata",
+      "tytul_kategoria": "K+",
+      "rank_fide": "1839",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "111",
+      "id_pzszach": "22696",
+      "nazwisko_imie": "KURZĘPA Bartłomiej",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1837",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "112",
+      "id_pzszach": "49906",
+      "nazwisko_imie": "BOJCZEWSKI Rafał",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1837",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "113",
+      "id_pzszach": "2014",
+      "nazwisko_imie": "DROB Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1833",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "114",
+      "id_pzszach": "40740",
+      "nazwisko_imie": "SEREDYN Dominik",
+      "tytul_kategoria": "I",
+      "rank_fide": "1832",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "115",
+      "id_pzszach": "55568",
+      "nazwisko_imie": "CZAJKA Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1828",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "116",
+      "id_pzszach": "7464",
+      "nazwisko_imie": "KAŁUSZYŃSKI Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1825",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "117",
+      "id_pzszach": "61537",
+      "nazwisko_imie": "¦WIĆ Bartosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1822",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "118",
+      "id_pzszach": "69798",
+      "nazwisko_imie": "Hałas Leszek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1820",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "119",
+      "id_pzszach": "41182",
+      "nazwisko_imie": "NIEWĘGŁOWSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1819",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "120",
+      "id_pzszach": "17401",
+      "nazwisko_imie": "CAMPBELL Karina",
+      "tytul_kategoria": "II",
+      "rank_fide": "1814",
+      "klub": "LUKS Fajsławice",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "121",
+      "id_pzszach": "2031",
+      "nazwisko_imie": "JABŁOŃSKI Jerzy",
+      "tytul_kategoria": "I",
+      "rank_fide": "1812",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "122",
+      "id_pzszach": "16233",
+      "nazwisko_imie": "PAWŁOWSKI Dariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1811",
+      "klub": "Sz MOK DEBIUT Terespol",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "123",
+      "id_pzszach": "17412",
+      "nazwisko_imie": "MAZUREK Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1810",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "124",
+      "id_pzszach": "37826",
+      "nazwisko_imie": "GOŁAWSKI Hubert",
+      "tytul_kategoria": "I",
+      "rank_fide": "1810",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "125",
+      "id_pzszach": "17161",
+      "nazwisko_imie": "SZYSZ Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1807",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "126",
+      "id_pzszach": "17158",
+      "nazwisko_imie": "MAŁYSKA Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1806",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "127",
+      "id_pzszach": "22720",
+      "nazwisko_imie": "PUSZKARSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1806",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "128",
+      "id_pzszach": "25545",
+      "nazwisko_imie": "TOBER Dariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1806",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "129",
+      "id_pzszach": "129936",
+      "nazwisko_imie": "PRYSTAŃSKI Adam",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1805",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "130",
+      "id_pzszach": "24378",
+      "nazwisko_imie": "LORKIEWICZ Ziemowit",
+      "tytul_kategoria": "II",
+      "rank_fide": "1802",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "131",
+      "id_pzszach": "2045",
+      "nazwisko_imie": "KANIA Tomasz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1800",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "132",
+      "id_pzszach": "4912",
+      "nazwisko_imie": "WZIˇTEK Marek",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1800",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "133",
+      "id_pzszach": "17391",
+      "nazwisko_imie": "KU¬NIARZ Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1800",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "134",
+      "id_pzszach": "47112",
+      "nazwisko_imie": "GOŁAWSKI Mariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1799",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "135",
+      "id_pzszach": "20276",
+      "nazwisko_imie": "PIETRA¦ Daniel",
+      "tytul_kategoria": "I",
+      "rank_fide": "1797",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "136",
+      "id_pzszach": "17152",
+      "nazwisko_imie": "KONERA Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1795",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "137",
+      "id_pzszach": "20272",
+      "nazwisko_imie": "MADEJ Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1795",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "138",
+      "id_pzszach": "112723",
+      "nazwisko_imie": "SUPRUNOV Artem",
+      "tytul_kategoria": "",
+      "rank_fide": "1794",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "139",
+      "id_pzszach": "58988",
+      "nazwisko_imie": "SŁOMKA Przemysław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1791",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "140",
+      "id_pzszach": "84350",
+      "nazwisko_imie": "GROMOWSKI Stanisław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1789",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "141",
+      "id_pzszach": "60332",
+      "nazwisko_imie": "GÓRNIAK Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1788",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "142",
+      "id_pzszach": "22669",
+      "nazwisko_imie": "ROKITA Mirosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1787",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "143",
+      "id_pzszach": "26944",
+      "nazwisko_imie": "POKAROWSKI Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1786",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "144",
+      "id_pzszach": "139115",
+      "nazwisko_imie": "KO¬MALA Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1783",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "145",
+      "id_pzszach": "2002",
+      "nazwisko_imie": "BOLESTA Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1778",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "146",
+      "id_pzszach": "24806",
+      "nazwisko_imie": "WOLCZYK Karol",
+      "tytul_kategoria": "I",
+      "rank_fide": "1777",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "147",
+      "id_pzszach": "60018",
+      "nazwisko_imie": "SADLAK Rafał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1777",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "148",
+      "id_pzszach": "97373",
+      "nazwisko_imie": "ROWIŃSKI Marek",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1774",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "149",
+      "id_pzszach": "99683",
+      "nazwisko_imie": "ZIELONKA Kamil",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1774",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "150",
+      "id_pzszach": "41780",
+      "nazwisko_imie": "MICHALAK Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1772",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "151",
+      "id_pzszach": "51098",
+      "nazwisko_imie": "KOŻUCH Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1772",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "152",
+      "id_pzszach": "1892",
+      "nazwisko_imie": "PYCKA Joanna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1768",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "153",
+      "id_pzszach": "20143",
+      "nazwisko_imie": "KURDZIAŁEK Stanisław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1765",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "154",
+      "id_pzszach": "26762",
+      "nazwisko_imie": "WAGNER Jacek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1763",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "155",
+      "id_pzszach": "2081",
+      "nazwisko_imie": "MAZUR Eugeniusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1762",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "156",
+      "id_pzszach": "110033",
+      "nazwisko_imie": "CHOLEWA Paweł",
+      "tytul_kategoria": "III",
+      "rank_fide": "1762",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "157",
+      "id_pzszach": "28854",
+      "nazwisko_imie": "WĘGRZYNIAK Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1761",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "158",
+      "id_pzszach": "27106",
+      "nazwisko_imie": "KLIMASZEWSKA Marta",
+      "tytul_kategoria": "",
+      "rank_fide": "1760",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "159",
+      "id_pzszach": "1941",
+      "nazwisko_imie": "NAROJEK Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1759",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "160",
+      "id_pzszach": "70741",
+      "nazwisko_imie": "MIELNICZEK Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1759",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "161",
+      "id_pzszach": "3311",
+      "nazwisko_imie": "CHWALEWSKI Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1756",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "162",
+      "id_pzszach": "38334",
+      "nazwisko_imie": "STARCZEWSKI Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1756",
+      "klub": "TSz HUSARIA Puławy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "163",
+      "id_pzszach": "59237",
+      "nazwisko_imie": "GRYGLICKI Mateusz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1756",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "164",
+      "id_pzszach": "92315",
+      "nazwisko_imie": "WOJTASIK Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1754",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "165",
+      "id_pzszach": "22723",
+      "nazwisko_imie": "ZAWADZKA Katarzyna",
+      "tytul_kategoria": "",
+      "rank_fide": "1752",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "166",
+      "id_pzszach": "119654",
+      "nazwisko_imie": "WˇGIEL Mikołaj",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1748",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "167",
+      "id_pzszach": "1938",
+      "nazwisko_imie": "MAZUR Kornel",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1747",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "168",
+      "id_pzszach": "61379",
+      "nazwisko_imie": "PIWOWARCZYK Edward",
+      "tytul_kategoria": "III",
+      "rank_fide": "1747",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "169",
+      "id_pzszach": "41389",
+      "nazwisko_imie": "FIAŁA Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1746",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "170",
+      "id_pzszach": "1949",
+      "nazwisko_imie": "SIWEK Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1742",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "171",
+      "id_pzszach": "2000",
+      "nazwisko_imie": "BŁASZCZAK Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1742",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "172",
+      "id_pzszach": "27618",
+      "nazwisko_imie": "HACIA Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1741",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "173",
+      "id_pzszach": "43959",
+      "nazwisko_imie": "TOPOLAN Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1741",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "174",
+      "id_pzszach": "51768",
+      "nazwisko_imie": "PAWŁOWSKI Sławomir",
+      "tytul_kategoria": "I",
+      "rank_fide": "1741",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "175",
+      "id_pzszach": "98195",
+      "nazwisko_imie": "PRZYGRODZKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1741",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "176",
+      "id_pzszach": "96783",
+      "nazwisko_imie": "LUBAŃSKI Andrzej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1737",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "177",
+      "id_pzszach": "56139",
+      "nazwisko_imie": "MAJKOWSKI Błażej",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1736",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "178",
+      "id_pzszach": "55651",
+      "nazwisko_imie": "WOJCIESZYN Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1734",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "179",
+      "id_pzszach": "59790",
+      "nazwisko_imie": "KURTYJ Michał",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1733",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "180",
+      "id_pzszach": "43570",
+      "nazwisko_imie": "DYBOWSKI Artur",
+      "tytul_kategoria": "II",
+      "rank_fide": "1729",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "181",
+      "id_pzszach": "28864",
+      "nazwisko_imie": "OLICHWIROWICZ Grzegorz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1728",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "182",
+      "id_pzszach": "41138",
+      "nazwisko_imie": "WASZCZUK Mariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1725",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "183",
+      "id_pzszach": "46656",
+      "nazwisko_imie": "SAWA Daria",
+      "tytul_kategoria": "I",
+      "rank_fide": "1725",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "184",
+      "id_pzszach": "1372",
+      "nazwisko_imie": "JA¦NIEWICZ Rafał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1724",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "185",
+      "id_pzszach": "109165",
+      "nazwisko_imie": "KRAMEK Igor",
+      "tytul_kategoria": "III",
+      "rank_fide": "1724",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "186",
+      "id_pzszach": "1910",
+      "nazwisko_imie": "WAWER Eliza",
+      "tytul_kategoria": "II",
+      "rank_fide": "1722",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "187",
+      "id_pzszach": "87295",
+      "nazwisko_imie": "BARANOWSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1722",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "188",
+      "id_pzszach": "51832",
+      "nazwisko_imie": "DRZEWICKI Konrad",
+      "tytul_kategoria": "III",
+      "rank_fide": "1721",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "189",
+      "id_pzszach": "41419",
+      "nazwisko_imie": "WAŻNY Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1720",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "190",
+      "id_pzszach": "129364",
+      "nazwisko_imie": "DZIEDZIC Adrian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1720",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "191",
+      "id_pzszach": "149036",
+      "nazwisko_imie": "POLAK Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1720",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "192",
+      "id_pzszach": "45766",
+      "nazwisko_imie": "CHUDY Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1719",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "193",
+      "id_pzszach": "8941",
+      "nazwisko_imie": "ŁABUĆ Adrian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1716",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "194",
+      "id_pzszach": "47317",
+      "nazwisko_imie": "SZWAST Artur",
+      "tytul_kategoria": "II",
+      "rank_fide": "1716",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "195",
+      "id_pzszach": "22721",
+      "nazwisko_imie": "GRENDA Wojciech",
+      "tytul_kategoria": "III",
+      "rank_fide": "1715",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "196",
+      "id_pzszach": "20280",
+      "nazwisko_imie": "RÓŻANIECKA Katarzyna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1713",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "197",
+      "id_pzszach": "27105",
+      "nazwisko_imie": "KLIMASZEWSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1713",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "198",
+      "id_pzszach": "105459",
+      "nazwisko_imie": "ROGOWSKI Tomasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1713",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "199",
+      "id_pzszach": "25464",
+      "nazwisko_imie": "OLECH Damian",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1712",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "200",
+      "id_pzszach": "26494",
+      "nazwisko_imie": "DEMIDOWICZ Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1712",
+      "klub": "ULKS NIWKA Łomazy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "201",
+      "id_pzszach": "1947",
+      "nazwisko_imie": "PRÓCHNICKI Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1711",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "202",
+      "id_pzszach": "12130",
+      "nazwisko_imie": "KIMAK Artur",
+      "tytul_kategoria": "I",
+      "rank_fide": "1711",
+      "klub": "Top Chess Biłgoraj",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "203",
+      "id_pzszach": "41366",
+      "nazwisko_imie": "PSZCZOŁA Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1710",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "204",
+      "id_pzszach": "17400",
+      "nazwisko_imie": "KIEŁBASA Artur",
+      "tytul_kategoria": "II",
+      "rank_fide": "1708",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "205",
+      "id_pzszach": "130428",
+      "nazwisko_imie": "SHABAN Aliaksandra",
+      "tytul_kategoria": "",
+      "rank_fide": "1708",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "206",
+      "id_pzszach": "17398",
+      "nazwisko_imie": "BEDNARCZYK Sylwester",
+      "tytul_kategoria": "II",
+      "rank_fide": "1707",
+      "klub": "LUKS Fajsławice",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "207",
+      "id_pzszach": "27682",
+      "nazwisko_imie": "WOJTCZAK Mirosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1704",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "208",
+      "id_pzszach": "68647",
+      "nazwisko_imie": "TYRKA Dominik",
+      "tytul_kategoria": "III",
+      "rank_fide": "1704",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "209",
+      "id_pzszach": "101317",
+      "nazwisko_imie": "MACIEJEWSKI Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1704",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "210",
+      "id_pzszach": "1909",
+      "nazwisko_imie": "¦LIWIŃSKA Dorota",
+      "tytul_kategoria": "II",
+      "rank_fide": "1699",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "211",
+      "id_pzszach": "40735",
+      "nazwisko_imie": "MAZUREK Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1699",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "212",
+      "id_pzszach": "55660",
+      "nazwisko_imie": "STRYCHARCZUK Marek",
+      "tytul_kategoria": "",
+      "rank_fide": "1697",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "213",
+      "id_pzszach": "33630",
+      "nazwisko_imie": "STRZAŁKA Jerzy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1696",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "214",
+      "id_pzszach": "50882",
+      "nazwisko_imie": "KUKAWSKI Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "1696",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "215",
+      "id_pzszach": "17397",
+      "nazwisko_imie": "BEDNARCZYK Alicja",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1695",
+      "klub": "LUKS Fajsławice",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "216",
+      "id_pzszach": "36527",
+      "nazwisko_imie": "PAROL Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1695",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "217",
+      "id_pzszach": "41139",
+      "nazwisko_imie": "ZAWISTOWSKI Mirosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1695",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "218",
+      "id_pzszach": "22004",
+      "nazwisko_imie": "MOLENDA Agnieszka",
+      "tytul_kategoria": "II",
+      "rank_fide": "1694",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "219",
+      "id_pzszach": "122668",
+      "nazwisko_imie": "CHMIELEWSKI Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1690",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "220",
+      "id_pzszach": "67810",
+      "nazwisko_imie": "CZUCHRYTA Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1689",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "221",
+      "id_pzszach": "22692",
+      "nazwisko_imie": "WAWSZCZAK Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1688",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "222",
+      "id_pzszach": "47892",
+      "nazwisko_imie": "DĘBCZAK Hubert",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1688",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "223",
+      "id_pzszach": "51389",
+      "nazwisko_imie": "MATYJASZCZYK Adrian",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1686",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "224",
+      "id_pzszach": "75310",
+      "nazwisko_imie": "WALASZEK Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1686",
+      "klub": "Radzyńskie Towarzystwo Szachowe",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "225",
+      "id_pzszach": "22665",
+      "nazwisko_imie": "CYTRYŃSKI Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1684",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "226",
+      "id_pzszach": "73920",
+      "nazwisko_imie": "NAKAZIUK Aleksander",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1684",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "227",
+      "id_pzszach": "102437",
+      "nazwisko_imie": "MAZUR Igor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1684",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "228",
+      "id_pzszach": "111336",
+      "nazwisko_imie": "MORAWSKI Jakub",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1684",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "229",
+      "id_pzszach": "24342",
+      "nazwisko_imie": "GRESZETA Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1683",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "230",
+      "id_pzszach": "58779",
+      "nazwisko_imie": "PASZKIEWICZ Artur",
+      "tytul_kategoria": "III",
+      "rank_fide": "1683",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "231",
+      "id_pzszach": "106459",
+      "nazwisko_imie": "SKUPIEŃ Artur",
+      "tytul_kategoria": "II",
+      "rank_fide": "1683",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "232",
+      "id_pzszach": "53745",
+      "nazwisko_imie": "WAWER Mateusz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1680",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "233",
+      "id_pzszach": "61539",
+      "nazwisko_imie": "WAWER Jarosław",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1680",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "234",
+      "id_pzszach": "90599",
+      "nazwisko_imie": "NAUMIUK Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1680",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "235",
+      "id_pzszach": "41304",
+      "nazwisko_imie": "SAMUJŁO Bronisław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1678",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "236",
+      "id_pzszach": "44025",
+      "nazwisko_imie": "BUKAŁA Norbert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1678",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "237",
+      "id_pzszach": "46479",
+      "nazwisko_imie": "GÓRKA Andrzej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1677",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "238",
+      "id_pzszach": "17585",
+      "nazwisko_imie": "TOPOLAN Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1676",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "239",
+      "id_pzszach": "48359",
+      "nazwisko_imie": "DYJOR Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1674",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "240",
+      "id_pzszach": "58565",
+      "nazwisko_imie": "BURZMIŃSKI Janusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1672",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "241",
+      "id_pzszach": "87945",
+      "nazwisko_imie": "STYCZYŃSKI Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1672",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "242",
+      "id_pzszach": "38348",
+      "nazwisko_imie": "MAIK Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1671",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "243",
+      "id_pzszach": "39505",
+      "nazwisko_imie": "DYBOWSKI Oscar",
+      "tytul_kategoria": "III",
+      "rank_fide": "1671",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "244",
+      "id_pzszach": "42858",
+      "nazwisko_imie": "DUDZIAK Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1671",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "245",
+      "id_pzszach": "1916",
+      "nazwisko_imie": "PRZYGRODZKI Jakub",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1666",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "246",
+      "id_pzszach": "138019",
+      "nazwisko_imie": "ZAJˇC Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1663",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "247",
+      "id_pzszach": "20298",
+      "nazwisko_imie": "ZAWI¦LAK Żaneta",
+      "tytul_kategoria": "II",
+      "rank_fide": "1661",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "248",
+      "id_pzszach": "22667",
+      "nazwisko_imie": "TRZPIL Sławomir",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1661",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "249",
+      "id_pzszach": "83994",
+      "nazwisko_imie": "RADZIK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1661",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "250",
+      "id_pzszach": "129728",
+      "nazwisko_imie": "PIˇTKOWSKI Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1660",
+      "klub": "Radzyńskie Towarzystwo Szachowe",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "251",
+      "id_pzszach": "63831",
+      "nazwisko_imie": "CABAJ Dariusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1657",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "252",
+      "id_pzszach": "72026",
+      "nazwisko_imie": "OLSZOWY Paweł",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1657",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "253",
+      "id_pzszach": "91027",
+      "nazwisko_imie": "KULESZOW Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1653",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "254",
+      "id_pzszach": "28858",
+      "nazwisko_imie": "SAMUJŁO Agnieszka",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1652",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "255",
+      "id_pzszach": "56174",
+      "nazwisko_imie": "NIEWOLIK Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1652",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "256",
+      "id_pzszach": "94376",
+      "nazwisko_imie": "CZAJKOWSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1652",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "257",
+      "id_pzszach": "113041",
+      "nazwisko_imie": "WI¦NIEWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1652",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "258",
+      "id_pzszach": "47893",
+      "nazwisko_imie": "DĘBCZAK Krystian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1650",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "259",
+      "id_pzszach": "87068",
+      "nazwisko_imie": "NIEZBECKI Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1650",
+      "klub": "KS Szach-Partia Puławy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "260",
+      "id_pzszach": "94445",
+      "nazwisko_imie": "KOZAK Krystian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1648",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "261",
+      "id_pzszach": "39327",
+      "nazwisko_imie": "DROB Julia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1646",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "262",
+      "id_pzszach": "95231",
+      "nazwisko_imie": "CZERONKO Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1646",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "263",
+      "id_pzszach": "80069",
+      "nazwisko_imie": "KĘDZIORA Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1645",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "264",
+      "id_pzszach": "57893",
+      "nazwisko_imie": "LESZEK Sławomir",
+      "tytul_kategoria": "II",
+      "rank_fide": "1644",
+      "klub": "Sz MOK DEBIUT Terespol",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "265",
+      "id_pzszach": "49904",
+      "nazwisko_imie": "KUNACH Tomasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1641",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "266",
+      "id_pzszach": "74219",
+      "nazwisko_imie": "KIJKO Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1639",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "267",
+      "id_pzszach": "4490",
+      "nazwisko_imie": "TRACZEWSKI Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1638",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "268",
+      "id_pzszach": "42109",
+      "nazwisko_imie": "¦LIWONIK Robert",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1637",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "269",
+      "id_pzszach": "22853",
+      "nazwisko_imie": "WRÓBLEWSKI Mieczysław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1636",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "270",
+      "id_pzszach": "52023",
+      "nazwisko_imie": "ARTYMIAK Borys",
+      "tytul_kategoria": "II",
+      "rank_fide": "1636",
+      "klub": "UKS LIDER Zamo¶ć",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "271",
+      "id_pzszach": "39046",
+      "nazwisko_imie": "NICZYPORUK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1635",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "272",
+      "id_pzszach": "118839",
+      "nazwisko_imie": "CIENIUCH Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1635",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "273",
+      "id_pzszach": "21782",
+      "nazwisko_imie": "NIEDZIELA Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1632",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "274",
+      "id_pzszach": "91948",
+      "nazwisko_imie": "NATONIEWSKI Sebastian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1632",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "275",
+      "id_pzszach": "116346",
+      "nazwisko_imie": "BULSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1632",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "276",
+      "id_pzszach": "17415",
+      "nazwisko_imie": "OMIELAŃCZYK Remigiusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1629",
+      "klub": "LUKS Fajsławice",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "277",
+      "id_pzszach": "52720",
+      "nazwisko_imie": "WOJNAR Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1629",
+      "klub": "LUKS Tomasovia Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "278",
+      "id_pzszach": "63816",
+      "nazwisko_imie": "GOŁAWSKI Jacek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1628",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "279",
+      "id_pzszach": "135235",
+      "nazwisko_imie": "SZARAWARSKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1628",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "280",
+      "id_pzszach": "78340",
+      "nazwisko_imie": "WÓJCICKI Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1627",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "281",
+      "id_pzszach": "41303",
+      "nazwisko_imie": "SAMUJŁO Małgorzata",
+      "tytul_kategoria": "II",
+      "rank_fide": "1626",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "282",
+      "id_pzszach": "42387",
+      "nazwisko_imie": "CIEPLAK Dariusz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1626",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "283",
+      "id_pzszach": "120523",
+      "nazwisko_imie": "ANIOŁEK Robert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1625",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "284",
+      "id_pzszach": "25657",
+      "nazwisko_imie": "GRABEK Antoni",
+      "tytul_kategoria": "III",
+      "rank_fide": "1624",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "285",
+      "id_pzszach": "49908",
+      "nazwisko_imie": "WIERZBICKI Dariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1624",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "286",
+      "id_pzszach": "21491",
+      "nazwisko_imie": "BEDNARCZYK Katarzyna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1621",
+      "klub": "LUKS Fajsławice",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "287",
+      "id_pzszach": "90707",
+      "nazwisko_imie": "BEREZA Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1621",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "288",
+      "id_pzszach": "69106",
+      "nazwisko_imie": "IDZIOR Izabela",
+      "tytul_kategoria": "I",
+      "rank_fide": "1618",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "289",
+      "id_pzszach": "28452",
+      "nazwisko_imie": "TARCZYŃSKI Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1617",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "290",
+      "id_pzszach": "1978",
+      "nazwisko_imie": "TOMILO Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1615",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "291",
+      "id_pzszach": "54027",
+      "nazwisko_imie": "MICHALSKI Adrian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1615",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "292",
+      "id_pzszach": "123551",
+      "nazwisko_imie": "GRESZTA Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1615",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "293",
+      "id_pzszach": "139107",
+      "nazwisko_imie": "KŁODA Bartłomiej",
+      "tytul_kategoria": "",
+      "rank_fide": "1615",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "294",
+      "id_pzszach": "98813",
+      "nazwisko_imie": "WIAK Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1612",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "295",
+      "id_pzszach": "119986",
+      "nazwisko_imie": "BOGUSZ Marcin",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1611",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "296",
+      "id_pzszach": "132392",
+      "nazwisko_imie": "TURCZYNOWICZ Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1610",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "297",
+      "id_pzszach": "24344",
+      "nazwisko_imie": "BELCZEWSKI Arkadiusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1609",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "298",
+      "id_pzszach": "68514",
+      "nazwisko_imie": "WOREK Rafał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1608",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "299",
+      "id_pzszach": "69800",
+      "nazwisko_imie": "Bochenek Szymon",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1607",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "300",
+      "id_pzszach": "31922",
+      "nazwisko_imie": "POLESZCZUK Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1605",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "301",
+      "id_pzszach": "74258",
+      "nazwisko_imie": "PIETKIEWICZ Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1605",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "302",
+      "id_pzszach": "79231",
+      "nazwisko_imie": "GˇSKA Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1605",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "303",
+      "id_pzszach": "58350",
+      "nazwisko_imie": "OPALIŃSKA Wiktoria",
+      "tytul_kategoria": "III",
+      "rank_fide": "1600",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "304",
+      "id_pzszach": "78574",
+      "nazwisko_imie": "KOWALCZEWSKI Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1600",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "305",
+      "id_pzszach": "49397",
+      "nazwisko_imie": "BOREK Dominika",
+      "tytul_kategoria": "I",
+      "rank_fide": "1599",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "306",
+      "id_pzszach": "106162",
+      "nazwisko_imie": "KOWALIK Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1599",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "307",
+      "id_pzszach": "108901",
+      "nazwisko_imie": "KNAST Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1599",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "308",
+      "id_pzszach": "111310",
+      "nazwisko_imie": "SZOKA Kamil",
+      "tytul_kategoria": "III",
+      "rank_fide": "1599",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "309",
+      "id_pzszach": "135959",
+      "nazwisko_imie": "PACHOŁ Michał",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1598",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "310",
+      "id_pzszach": "28852",
+      "nazwisko_imie": "ZGORZAŁEK Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1596",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "311",
+      "id_pzszach": "39043",
+      "nazwisko_imie": "PROKOPIUK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1596",
+      "klub": "Sz MOK DEBIUT Terespol",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "312",
+      "id_pzszach": "77467",
+      "nazwisko_imie": "JAKUBIAK Tadeusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1595",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "313",
+      "id_pzszach": "20136",
+      "nazwisko_imie": "KIEŁBASA Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1594",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "314",
+      "id_pzszach": "47311",
+      "nazwisko_imie": "ŁAGOWSKI Damian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1594",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "315",
+      "id_pzszach": "70210",
+      "nazwisko_imie": "SADOWNIK Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1593",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "316",
+      "id_pzszach": "129760",
+      "nazwisko_imie": "YERMEKOV Rauan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1593",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "317",
+      "id_pzszach": "105247",
+      "nazwisko_imie": "WOŁKOWSKI Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1592",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "318",
+      "id_pzszach": "93263",
+      "nazwisko_imie": "CZERNIAK Maksymilian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1591",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "319",
+      "id_pzszach": "103580",
+      "nazwisko_imie": "NIELIPIUK Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1591",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "320",
+      "id_pzszach": "126760",
+      "nazwisko_imie": "CHOCHOWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1591",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "321",
+      "id_pzszach": "61739",
+      "nazwisko_imie": "SAWINIEC Jarosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1590",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "322",
+      "id_pzszach": "62336",
+      "nazwisko_imie": "GROMEK Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1590",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "323",
+      "id_pzszach": "41154",
+      "nazwisko_imie": "LIPKA Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1588",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "324",
+      "id_pzszach": "50500",
+      "nazwisko_imie": "GOŁAWSKA Aleksandra",
+      "tytul_kategoria": "II",
+      "rank_fide": "1588",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "325",
+      "id_pzszach": "1948",
+      "nazwisko_imie": "PRZYGRODZKA Marzanna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1587",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "326",
+      "id_pzszach": "42684",
+      "nazwisko_imie": "CHUDZIK Jakub",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1587",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "327",
+      "id_pzszach": "84384",
+      "nazwisko_imie": "KRÓLIKOWSKI Tomasz",
+      "tytul_kategoria": "",
+      "rank_fide": "1587",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "328",
+      "id_pzszach": "64639",
+      "nazwisko_imie": "AUGUSTYNIAK Rafał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1586",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "329",
+      "id_pzszach": "97810",
+      "nazwisko_imie": "GRONDKOWSKI Jan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1586",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "330",
+      "id_pzszach": "130110",
+      "nazwisko_imie": "TOMALSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1585",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "331",
+      "id_pzszach": "42725",
+      "nazwisko_imie": "MACIEJSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1583",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "332",
+      "id_pzszach": "48477",
+      "nazwisko_imie": "ŁOBACZ Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1582",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "333",
+      "id_pzszach": "100502",
+      "nazwisko_imie": "JABŁOŃSKI Adrian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1582",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "334",
+      "id_pzszach": "132528",
+      "nazwisko_imie": "HAFTANIUK Grzegorz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1582",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "335",
+      "id_pzszach": "139810",
+      "nazwisko_imie": "WALCZYNA Karol",
+      "tytul_kategoria": "III",
+      "rank_fide": "1582",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "336",
+      "id_pzszach": "53450",
+      "nazwisko_imie": "BIEŃ Oliwier",
+      "tytul_kategoria": "III",
+      "rank_fide": "1581",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "337",
+      "id_pzszach": "97924",
+      "nazwisko_imie": "NOSOWICZ Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1580",
+      "klub": "TSz HUSARIA Puławy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "338",
+      "id_pzszach": "17145",
+      "nazwisko_imie": "CHLEWIŃSKI Artur",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1579",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "339",
+      "id_pzszach": "95286",
+      "nazwisko_imie": "GRELEWICZ Arkadiusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1578",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "340",
+      "id_pzszach": "117634",
+      "nazwisko_imie": "BARSZCZ Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1577",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "341",
+      "id_pzszach": "17151",
+      "nazwisko_imie": "GÓRA Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1575",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "342",
+      "id_pzszach": "93513",
+      "nazwisko_imie": "LARWA Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1574",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "343",
+      "id_pzszach": "45771",
+      "nazwisko_imie": "BOREK Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1572",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "344",
+      "id_pzszach": "126527",
+      "nazwisko_imie": "CHARLES Cleophas",
+      "tytul_kategoria": "II",
+      "rank_fide": "1571",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "345",
+      "id_pzszach": "146748",
+      "nazwisko_imie": "HAWRYLUK Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1569",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "346",
+      "id_pzszach": "58347",
+      "nazwisko_imie": "NAPIÓRKOWSKI Kacper",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1568",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "347",
+      "id_pzszach": "28252",
+      "nazwisko_imie": "PRUS Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1567",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "348",
+      "id_pzszach": "59695",
+      "nazwisko_imie": "MACKIEWICZ Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1567",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "349",
+      "id_pzszach": "78638",
+      "nazwisko_imie": "PRYSZCZEWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1567",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "350",
+      "id_pzszach": "84788",
+      "nazwisko_imie": "GADOMSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1567",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "351",
+      "id_pzszach": "131031",
+      "nazwisko_imie": "KISIELEWSKI Mikołaj",
+      "tytul_kategoria": "III",
+      "rank_fide": "1567",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "352",
+      "id_pzszach": "132948",
+      "nazwisko_imie": "SEGIT Maksymilian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1567",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "353",
+      "id_pzszach": "123926",
+      "nazwisko_imie": "WI¦NIEWSKI Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1565",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "354",
+      "id_pzszach": "28861",
+      "nazwisko_imie": "RZESZOWSKI Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1564",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "355",
+      "id_pzszach": "43504",
+      "nazwisko_imie": "LISEK Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1562",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "356",
+      "id_pzszach": "28249",
+      "nazwisko_imie": "WĘGRZYN Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1561",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "357",
+      "id_pzszach": "110901",
+      "nazwisko_imie": "CHOJNA Rafał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1561",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "358",
+      "id_pzszach": "98066",
+      "nazwisko_imie": "KOSEK Marcos",
+      "tytul_kategoria": "II",
+      "rank_fide": "1559",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "359",
+      "id_pzszach": "24222",
+      "nazwisko_imie": "SOĆKO Paweł",
+      "tytul_kategoria": "III",
+      "rank_fide": "1558",
+      "klub": "KSz Hetman Krynka",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "360",
+      "id_pzszach": "98918",
+      "nazwisko_imie": "ZIĘTEK Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1558",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "361",
+      "id_pzszach": "122325",
+      "nazwisko_imie": "NOWO¦WIAT Karol",
+      "tytul_kategoria": "III",
+      "rank_fide": "1558",
+      "klub": "UKS LIDER Zamo¶ć",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "362",
+      "id_pzszach": "22676",
+      "nazwisko_imie": "SPRAWKA Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1557",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "363",
+      "id_pzszach": "59348",
+      "nazwisko_imie": "MALEJKA Andrzej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1557",
+      "klub": "SSz SZACHPOL Łuków",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "364",
+      "id_pzszach": "113562",
+      "nazwisko_imie": "HUBAL Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1556",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "365",
+      "id_pzszach": "1893",
+      "nazwisko_imie": "RUDKO Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1555",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "366",
+      "id_pzszach": "90654",
+      "nazwisko_imie": "KONDRASZUK Kajetan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1554",
+      "klub": "Radzyńskie Towarzystwo Szachowe",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "367",
+      "id_pzszach": "30085",
+      "nazwisko_imie": "KOBYLIŃSKA Monika",
+      "tytul_kategoria": "II",
+      "rank_fide": "1553",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "368",
+      "id_pzszach": "76566",
+      "nazwisko_imie": "KOJTYCH Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1551",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "369",
+      "id_pzszach": "130300",
+      "nazwisko_imie": "HMADNA Józef",
+      "tytul_kategoria": "III",
+      "rank_fide": "1551",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "370",
+      "id_pzszach": "40269",
+      "nazwisko_imie": "MODRZEJEWSKI Tymoteusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1550",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "371",
+      "id_pzszach": "41302",
+      "nazwisko_imie": "STĘPNIAK Alan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1550",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "372",
+      "id_pzszach": "96185",
+      "nazwisko_imie": "BENDA Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1550",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "373",
+      "id_pzszach": "111455",
+      "nazwisko_imie": "KRÓL Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1549",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "374",
+      "id_pzszach": "28945",
+      "nazwisko_imie": "PIELACH Jacek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1548",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "375",
+      "id_pzszach": "92923",
+      "nazwisko_imie": "PIEKARCZYK Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1548",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "376",
+      "id_pzszach": "27096",
+      "nazwisko_imie": "SZCZYGIEŁ Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1546",
+      "klub": "KSz Hetman Krynka",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "377",
+      "id_pzszach": "115386",
+      "nazwisko_imie": "KRĘT Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1546",
+      "klub": "Top Chess Biłgoraj",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "378",
+      "id_pzszach": "61970",
+      "nazwisko_imie": "GOŁAWSKI Bartłomiej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1544",
+      "klub": "Radzyńskie Towarzystwo Szachowe",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "379",
+      "id_pzszach": "95342",
+      "nazwisko_imie": "STA¦KIEWICZ Rafał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1542",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "380",
+      "id_pzszach": "86823",
+      "nazwisko_imie": "WO¦ Amelia",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1540",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "381",
+      "id_pzszach": "125480",
+      "nazwisko_imie": "GRESZTA Konrad",
+      "tytul_kategoria": "III",
+      "rank_fide": "1539",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "382",
+      "id_pzszach": "129036",
+      "nazwisko_imie": "SOKOŁOWSKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1539",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "383",
+      "id_pzszach": "50279",
+      "nazwisko_imie": "PARTYCKI Przemysław",
+      "tytul_kategoria": "III",
+      "rank_fide": "1538",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "384",
+      "id_pzszach": "50283",
+      "nazwisko_imie": "BOJCZEWSKI Grzegorz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1538",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "385",
+      "id_pzszach": "110818",
+      "nazwisko_imie": "CHAZARKIEWICZ Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1538",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "386",
+      "id_pzszach": "113019",
+      "nazwisko_imie": "MICHALSKI Kamil",
+      "tytul_kategoria": "III",
+      "rank_fide": "1538",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "387",
+      "id_pzszach": "91029",
+      "nazwisko_imie": "GARBACZ Dominik",
+      "tytul_kategoria": "III",
+      "rank_fide": "1536",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "388",
+      "id_pzszach": "25660",
+      "nazwisko_imie": "GRZYB Władysław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1535",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "389",
+      "id_pzszach": "92475",
+      "nazwisko_imie": "MICOR Igor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1535",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "390",
+      "id_pzszach": "65514",
+      "nazwisko_imie": "KIEŁBIŃSKI Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1534",
+      "klub": "UKS LIDER Zamo¶ć",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "391",
+      "id_pzszach": "132221",
+      "nazwisko_imie": "BEDNARZ Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1534",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "392",
+      "id_pzszach": "133216",
+      "nazwisko_imie": "PARCHETA Kajetan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1534",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "393",
+      "id_pzszach": "132390",
+      "nazwisko_imie": "PECYNA Krystian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1532",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "394",
+      "id_pzszach": "111660",
+      "nazwisko_imie": "RÓŻAŃSKI Ignacy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1531",
+      "klub": "Zamojski Klub Szachowy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "395",
+      "id_pzszach": "122971",
+      "nazwisko_imie": "HAURYLAVA Ulyana",
+      "tytul_kategoria": "II",
+      "rank_fide": "1531",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "396",
+      "id_pzszach": "66557",
+      "nazwisko_imie": "PAŃKO Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1530",
+      "klub": "UKS LIDER Zamo¶ć",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "397",
+      "id_pzszach": "79786",
+      "nazwisko_imie": "MAKULEC Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1530",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "398",
+      "id_pzszach": "116521",
+      "nazwisko_imie": "WAGA Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1530",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "399",
+      "id_pzszach": "64279",
+      "nazwisko_imie": "ABRAMEK Aleksandra",
+      "tytul_kategoria": "II",
+      "rank_fide": "1529",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "400",
+      "id_pzszach": "90596",
+      "nazwisko_imie": "SIKORA Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1528",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "401",
+      "id_pzszach": "123738",
+      "nazwisko_imie": "NOWICKI Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1528",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "402",
+      "id_pzszach": "39506",
+      "nazwisko_imie": "DYBOWSKI Robert",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1526",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "403",
+      "id_pzszach": "46683",
+      "nazwisko_imie": "CZUKIEWSKI Tymoteusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1525",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "404",
+      "id_pzszach": "25656",
+      "nazwisko_imie": "WILGOS Roman",
+      "tytul_kategoria": "III",
+      "rank_fide": "1524",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "405",
+      "id_pzszach": "42678",
+      "nazwisko_imie": "SMOLAK Jerzy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1523",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "406",
+      "id_pzszach": "135203",
+      "nazwisko_imie": "UZAREK Marcin",
+      "tytul_kategoria": "III",
+      "rank_fide": "1523",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "407",
+      "id_pzszach": "92127",
+      "nazwisko_imie": "MISZCZAK Marcel",
+      "tytul_kategoria": "III",
+      "rank_fide": "1522",
+      "klub": "TSz HUSARIA Puławy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "408",
+      "id_pzszach": "129661",
+      "nazwisko_imie": "TYLUS Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1522",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "409",
+      "id_pzszach": "22010",
+      "nazwisko_imie": "SOSZKA Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1520",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "410",
+      "id_pzszach": "24400",
+      "nazwisko_imie": "PALUCH Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1520",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "411",
+      "id_pzszach": "53538",
+      "nazwisko_imie": "HAWEŁKO Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1519",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "412",
+      "id_pzszach": "106386",
+      "nazwisko_imie": "KUCIO Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1518",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "413",
+      "id_pzszach": "112686",
+      "nazwisko_imie": "SMOLIGA Julian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1518",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "414",
+      "id_pzszach": "128876",
+      "nazwisko_imie": "MANIKOWSKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1515",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "415",
+      "id_pzszach": "28859",
+      "nazwisko_imie": "BOCHNIARZ Katarzyna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1514",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "416",
+      "id_pzszach": "95720",
+      "nazwisko_imie": "WYRWISZ Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1514",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "417",
+      "id_pzszach": "98679",
+      "nazwisko_imie": "SKRZYPCZAK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1513",
+      "klub": "Radzyńskie Towarzystwo Szachowe",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "418",
+      "id_pzszach": "37066",
+      "nazwisko_imie": "ŁUKASIEWICZ Justyna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1511",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "419",
+      "id_pzszach": "60271",
+      "nazwisko_imie": "BOROWIK Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1511",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "420",
+      "id_pzszach": "73206",
+      "nazwisko_imie": "WALENTYN Zuzanna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1511",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "421",
+      "id_pzszach": "102490",
+      "nazwisko_imie": "BUDZYŃSKI Norbert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1511",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "422",
+      "id_pzszach": "55130",
+      "nazwisko_imie": "KRZYSZCZAK Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1510",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "423",
+      "id_pzszach": "111910",
+      "nazwisko_imie": "KWIATKOWSKI Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1507",
+      "klub": "TSz HUSARIA Puławy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "424",
+      "id_pzszach": "125481",
+      "nazwisko_imie": "KRÓL Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1505",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "425",
+      "id_pzszach": "89901",
+      "nazwisko_imie": "JASIŃSKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1504",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "426",
+      "id_pzszach": "105621",
+      "nazwisko_imie": "DUDZIŃSKI Wojciech",
+      "tytul_kategoria": "III",
+      "rank_fide": "1504",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "427",
+      "id_pzszach": "41143",
+      "nazwisko_imie": "RZEŃCA Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1503",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "428",
+      "id_pzszach": "46661",
+      "nazwisko_imie": "TKACZYK Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1503",
+      "klub": "LUKS Fajsławice",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "429",
+      "id_pzszach": "51096",
+      "nazwisko_imie": "KRUK Paweł",
+      "tytul_kategoria": "III",
+      "rank_fide": "1499",
+      "klub": "TSz HUSARIA Puławy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "430",
+      "id_pzszach": "122337",
+      "nazwisko_imie": "KWIATKOWSKI Mateusz",
+      "tytul_kategoria": "",
+      "rank_fide": "1499",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "431",
+      "id_pzszach": "87665",
+      "nazwisko_imie": "STRUŻEK Konrad",
+      "tytul_kategoria": "II",
+      "rank_fide": "1496",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "432",
+      "id_pzszach": "135982",
+      "nazwisko_imie": "GOLA Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1496",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "433",
+      "id_pzszach": "28956",
+      "nazwisko_imie": "ZŁOTUCHA Sławomir",
+      "tytul_kategoria": "II",
+      "rank_fide": "1495",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "434",
+      "id_pzszach": "102779",
+      "nazwisko_imie": "TUTKA Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1492",
+      "klub": "Top Chess Biłgoraj",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "435",
+      "id_pzszach": "74702",
+      "nazwisko_imie": "WIESIOŁEK Daniel",
+      "tytul_kategoria": "II",
+      "rank_fide": "1488",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "436",
+      "id_pzszach": "120971",
+      "nazwisko_imie": "GÓRSKI Miłosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1488",
+      "klub": "TSz HUSARIA Puławy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "437",
+      "id_pzszach": "96088",
+      "nazwisko_imie": "HALETA Serhii",
+      "tytul_kategoria": "II",
+      "rank_fide": "1486",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "438",
+      "id_pzszach": "47113",
+      "nazwisko_imie": "GOŁAWSKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1485",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "439",
+      "id_pzszach": "106442",
+      "nazwisko_imie": "KRACZEK Witold",
+      "tytul_kategoria": "II",
+      "rank_fide": "1485",
+      "klub": "Top Chess Biłgoraj",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "440",
+      "id_pzszach": "102427",
+      "nazwisko_imie": "WÓJCIK Witold",
+      "tytul_kategoria": "II",
+      "rank_fide": "1483",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "441",
+      "id_pzszach": "134571",
+      "nazwisko_imie": "KUPROWSKI Mikołaj",
+      "tytul_kategoria": "III",
+      "rank_fide": "1481",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "442",
+      "id_pzszach": "45384",
+      "nazwisko_imie": "CZUKIEWSKI Mieszko",
+      "tytul_kategoria": "III",
+      "rank_fide": "1480",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "443",
+      "id_pzszach": "62323",
+      "nazwisko_imie": "KOPERWAS Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1479",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "444",
+      "id_pzszach": "80071",
+      "nazwisko_imie": "RACZYŃSKI Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1479",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "445",
+      "id_pzszach": "90266",
+      "nazwisko_imie": "NOWAK Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1479",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "446",
+      "id_pzszach": "105119",
+      "nazwisko_imie": "MAZURKIEWICZ Krzysztof",
+      "tytul_kategoria": "III",
+      "rank_fide": "1479",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "447",
+      "id_pzszach": "87236",
+      "nazwisko_imie": "CZERNICHOWSKI Konrad",
+      "tytul_kategoria": "III",
+      "rank_fide": "1478",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "448",
+      "id_pzszach": "53682",
+      "nazwisko_imie": "BOREK Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1477",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "449",
+      "id_pzszach": "49398",
+      "nazwisko_imie": "DOLANOWSKI Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1475",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "450",
+      "id_pzszach": "111630",
+      "nazwisko_imie": "STAWARSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1474",
+      "klub": "Top Chess Biłgoraj",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "451",
+      "id_pzszach": "89938",
+      "nazwisko_imie": "CABAJ Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1473",
+      "klub": "KSz Hetman Krynka",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "452",
+      "id_pzszach": "51184",
+      "nazwisko_imie": "SZYSZKO Aleksandra",
+      "tytul_kategoria": "II",
+      "rank_fide": "1471",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "453",
+      "id_pzszach": "51174",
+      "nazwisko_imie": "MAJCZYNA Patrycja",
+      "tytul_kategoria": "I",
+      "rank_fide": "1467",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "454",
+      "id_pzszach": "62055",
+      "nazwisko_imie": "MAJEK Waldemar",
+      "tytul_kategoria": "II",
+      "rank_fide": "1467",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "455",
+      "id_pzszach": "74259",
+      "nazwisko_imie": "OLEKSIUK Anna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1467",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "456",
+      "id_pzszach": "52014",
+      "nazwisko_imie": "PUZIO Robert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1466",
+      "klub": "KSz Hetman Krynka",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "457",
+      "id_pzszach": "122969",
+      "nazwisko_imie": "STOLTZ Filip",
+      "tytul_kategoria": "III",
+      "rank_fide": "1465",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "458",
+      "id_pzszach": "41369",
+      "nazwisko_imie": "GŁAZ Marek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1463",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "459",
+      "id_pzszach": "99687",
+      "nazwisko_imie": "TOPÓR Maria",
+      "tytul_kategoria": "II",
+      "rank_fide": "1463",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "460",
+      "id_pzszach": "58667",
+      "nazwisko_imie": "WALENCIUK Dawid",
+      "tytul_kategoria": "III",
+      "rank_fide": "1462",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "461",
+      "id_pzszach": "81480",
+      "nazwisko_imie": "SMERACHANSKI Mihail",
+      "tytul_kategoria": "II",
+      "rank_fide": "1462",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "462",
+      "id_pzszach": "114862",
+      "nazwisko_imie": "PUTOWSKI Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1460",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "463",
+      "id_pzszach": "54300",
+      "nazwisko_imie": "MAJÓWKA Aleksandra",
+      "tytul_kategoria": "III",
+      "rank_fide": "1459",
+      "klub": "MKS AGROS Chełm",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "464",
+      "id_pzszach": "125528",
+      "nazwisko_imie": "MARCINIAK Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1458",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "465",
+      "id_pzszach": "64244",
+      "nazwisko_imie": "BOROWIK Ryszard",
+      "tytul_kategoria": "III",
+      "rank_fide": "1455",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "466",
+      "id_pzszach": "56479",
+      "nazwisko_imie": "OPOLSKI Wiktor",
+      "tytul_kategoria": "III",
+      "rank_fide": "1453",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "467",
+      "id_pzszach": "69799",
+      "nazwisko_imie": "Janczura Jacek",
+      "tytul_kategoria": "",
+      "rank_fide": "1453",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "468",
+      "id_pzszach": "151748",
+      "nazwisko_imie": "GÓRSKI Krzysztof",
+      "tytul_kategoria": "III",
+      "rank_fide": "1450",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "469",
+      "id_pzszach": "100608",
+      "nazwisko_imie": "KOZYRA Hubert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1448",
+      "klub": "UKS LIDER Zamo¶ć",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "470",
+      "id_pzszach": "51219",
+      "nazwisko_imie": "SIEDLISKI Daniel",
+      "tytul_kategoria": "III",
+      "rank_fide": "1444",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "471",
+      "id_pzszach": "141365",
+      "nazwisko_imie": "JABŁOŃSKI Mateusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1444",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "472",
+      "id_pzszach": "41083",
+      "nazwisko_imie": "GÓRA Aleksandra",
+      "tytul_kategoria": "II",
+      "rank_fide": "1438",
+      "klub": "KS Szach-Partia Puławy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "473",
+      "id_pzszach": "128931",
+      "nazwisko_imie": "BAKUN Krzysztof",
+      "tytul_kategoria": "III",
+      "rank_fide": "1438",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "474",
+      "id_pzszach": "97695",
+      "nazwisko_imie": "MY¦LIŃSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1437",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "475",
+      "id_pzszach": "61538",
+      "nazwisko_imie": "SIERADZ Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1436",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "476",
+      "id_pzszach": "108398",
+      "nazwisko_imie": "KOWALCZYK Kacper",
+      "tytul_kategoria": "III",
+      "rank_fide": "1436",
+      "klub": "Radzyńskie Towarzystwo Szachowe",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "477",
+      "id_pzszach": "68667",
+      "nazwisko_imie": "KOPER Kacper",
+      "tytul_kategoria": "III",
+      "rank_fide": "1435",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "478",
+      "id_pzszach": "136089",
+      "nazwisko_imie": "ANTOSZ Radosław",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1431",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "479",
+      "id_pzszach": "50281",
+      "nazwisko_imie": "BOJCZEWSKI Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1428",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "480",
+      "id_pzszach": "87947",
+      "nazwisko_imie": "KISZKA Krystian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1428",
+      "klub": "Zamojski Klub Szachowy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "481",
+      "id_pzszach": "110049",
+      "nazwisko_imie": "JÓ¬WIK Adrian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1428",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "482",
+      "id_pzszach": "100643",
+      "nazwisko_imie": "ŁUSZCZAK Martyna",
+      "tytul_kategoria": "III",
+      "rank_fide": "1427",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "483",
+      "id_pzszach": "113744",
+      "nazwisko_imie": "GRZEJSZCZAK Gabriela",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1427",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "484",
+      "id_pzszach": "56639",
+      "nazwisko_imie": "PIECH Jacek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1426",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "485",
+      "id_pzszach": "56640",
+      "nazwisko_imie": "PIECH Aniela",
+      "tytul_kategoria": "III",
+      "rank_fide": "1421",
+      "klub": "MKS AGROS Chełm",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "486",
+      "id_pzszach": "102652",
+      "nazwisko_imie": "LUDEF Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1421",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "487",
+      "id_pzszach": "134458",
+      "nazwisko_imie": "PRZYBYŁ Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1419",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "488",
+      "id_pzszach": "46665",
+      "nazwisko_imie": "GAWRON Wojciech",
+      "tytul_kategoria": "III",
+      "rank_fide": "1416",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "489",
+      "id_pzszach": "131026",
+      "nazwisko_imie": "WOJCIECHOWSKI Paweł",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1416",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "490",
+      "id_pzszach": "99675",
+      "nazwisko_imie": "PAĆ Przemysław",
+      "tytul_kategoria": "III",
+      "rank_fide": "1414",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "491",
+      "id_pzszach": "66551",
+      "nazwisko_imie": "GROMEK Aleksandra",
+      "tytul_kategoria": "II",
+      "rank_fide": "1413",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "492",
+      "id_pzszach": "54301",
+      "nazwisko_imie": "JAROSZUK Ireneusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1412",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "493",
+      "id_pzszach": "138334",
+      "nazwisko_imie": "KACZAN Franciszek",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1411",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "494",
+      "id_pzszach": "82710",
+      "nazwisko_imie": "KORPYSZ Hanna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1401",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "495",
+      "id_pzszach": "104571",
+      "nazwisko_imie": "KANIA Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1401",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "496",
+      "id_pzszach": "106",
+      "nazwisko_imie": "KOCHANOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "497",
+      "id_pzszach": "1877",
+      "nazwisko_imie": "BUCZEK Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "498",
+      "id_pzszach": "1878",
+      "nazwisko_imie": "BARTOSZCZE Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "499",
+      "id_pzszach": "1879",
+      "nazwisko_imie": "GRAB Maksymilian",
+      "tytul_kategoria": "III",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "500",
+      "id_pzszach": "1881",
+      "nazwisko_imie": "KĘDZIERAWSKI Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    }
+  ]
+}

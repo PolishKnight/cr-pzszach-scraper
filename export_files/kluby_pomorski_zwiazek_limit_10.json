@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:51.554Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "960/PO",
+      "nazwa": "AS Kolbudy",
+      "miasto": "Kolbudy",
+      "licencja": "11100026",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "1077/PO",
+      "nazwa": "JANTAR Gdańsk",
+      "miasto": "Gdańsk",
+      "licencja": "11100035",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "210/PO",
+      "nazwa": "KKS ORMUZD Kartuzy",
+      "miasto": "Kartuzy",
+      "licencja": "11100008",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "831/PO",
+      "nazwa": "KLUB MARYNARKI WOJENNEJ",
+      "miasto": "Gdynia",
+      "licencja": "11100024",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "1092/PO",
+      "nazwa": "KS FOX CHESS",
+      "miasto": "Kwidzyn",
+      "licencja": "11100036",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "963/PO",
+      "nazwa": "KS Olimpijczyk Kwakowo",
+      "miasto": "Kwakowo",
+      "licencja": "11100027",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "1048/PO",
+      "nazwa": "KSz Sg1 Wejherowo",
+      "miasto": "Wejherowo",
+      "licencja": "11100032",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "1018/PO",
+      "nazwa": "KSz Biało-Czarni Bolszewo",
+      "miasto": "Bolszewo",
+      "licencja": "11100029",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "892/PO",
+      "nazwa": "KS MAGNAT",
+      "miasto": "Łowcze",
+      "licencja": "11100025",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "793/PO",
+      "nazwa": "COR CORDIUM Starogard Gdański",
+      "miasto": "Starogard Gdański",
+      "licencja": "11100022",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

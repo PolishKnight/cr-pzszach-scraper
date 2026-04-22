@@ -1,0 +1,626 @@
+{
+  "createdAt": "2026-04-22T21:52:53.825Z",
+  "totalRecords": 62,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "270/SL",
+      "nazwa": "AKS Mikołów",
+      "miasto": "Mikołów",
+      "licencja": "12100041",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "878/SL",
+      "nazwa": "Dom Kultury Koszęcin",
+      "miasto": "Koszęcin",
+      "licencja": "12100072",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "1083/SL",
+      "nazwa": "Fundacja 64 pola",
+      "miasto": "Katowice",
+      "licencja": "12100092",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "970/SL",
+      "nazwa": "Fundacja Elektrowni Rybnik",
+      "miasto": "Rybnik",
+      "licencja": "12100080",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "1078/SL",
+      "nazwa": "Fundacja Młody Sportowiec",
+      "miasto": "Sosnowiec",
+      "licencja": "12100091",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "1027/SL",
+      "nazwa": "SKRA Częstochowa",
+      "miasto": "Częstochowa",
+      "licencja": "12100087",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "1070/SL",
+      "nazwa": "Wytworzymy (Forteca) CzeladĽ",
+      "miasto": "CzeladĽ",
+      "licencja": "12100089",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "796/SL",
+      "nazwa": "TKKF BORONOVIA Boronów",
+      "miasto": "Boronów",
+      "licencja": "12100061",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "708/SL",
+      "nazwa": "KS DORS Ruda ¦l±ska",
+      "miasto": "Ruda ¦l±ska",
+      "licencja": "12100010",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "1015/SL",
+      "nazwa": "KS KuĽnia Ustroń",
+      "miasto": "Ustroń",
+      "licencja": "12100086",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "981/SL",
+      "nazwa": "KS Młode Talenty w Jaworznie",
+      "miasto": "Jaworzno",
+      "licencja": "12100082",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "976/SL",
+      "nazwa": "KS Młodzi Mistrzowie Szachów ¦wierklany",
+      "miasto": "¦wierklany",
+      "licencja": "12100081",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "312/SL",
+      "nazwa": "Pszczyńskie Szachy",
+      "miasto": "Pszczyna",
+      "licencja": "12100031",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "755/SL",
+      "nazwa": "KS ROSZADA Żory",
+      "miasto": "Żory",
+      "licencja": "12100056",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "918/SL",
+      "nazwa": "Klub Szachowy CAISSA Katowice",
+      "miasto": "Katowice",
+      "licencja": "12100074",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "959/SL",
+      "nazwa": "KSz GAMBIT Gorzyce",
+      "miasto": "Gorzyce",
+      "licencja": "12100079",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "17",
+      "nr_pzszach": "253/SL",
+      "nazwa": "KSz GÓRNIK Lędziny",
+      "miasto": "Lędziny",
+      "licencja": "12100022",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "18",
+      "nr_pzszach": "247/SL",
+      "nazwa": "KSz HETMAN Katowice",
+      "miasto": "Katowice",
+      "licencja": "12100003",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "19",
+      "nr_pzszach": "321/SL",
+      "nazwa": "KSz SILESIA Racibórz",
+      "miasto": "Racibórz",
+      "licencja": "12100005",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "20",
+      "nr_pzszach": "691/SL",
+      "nazwa": "KSz SKOCZEK Czerwionka-Leszczyny",
+      "miasto": "Czerwionka-Leszczyny",
+      "licencja": "12100044",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "21",
+      "nr_pzszach": "326/SL",
+      "nazwa": "KSz ZEFIR Boguszowice",
+      "miasto": "Rybnik-Boguszowice",
+      "licencja": "12100024",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "22",
+      "nr_pzszach": "240/SL",
+      "nazwa": "K¦ AZS Politechniki ¦l±skiej Gliwice",
+      "miasto": "Gliwice",
+      "licencja": "12100002",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "23",
+      "nr_pzszach": "860/SL",
+      "nazwa": "LKS Orzeł Kozy",
+      "miasto": "Kozy",
+      "licencja": "12100070",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "24",
+      "nr_pzszach": "993/SL",
+      "nazwa": "LKS GWIAZDA Skrzyszów",
+      "miasto": "Skrzyszów",
+      "licencja": "12100083",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "25",
+      "nr_pzszach": "803/SL",
+      "nazwa": "LKS OLZA Pogwizdów",
+      "miasto": "Pogwizdów",
+      "licencja": "12100062",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "26",
+      "nr_pzszach": "635/SL",
+      "nazwa": "LKS POLONIA Poraj",
+      "miasto": "Poraj",
+      "licencja": "12100007",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "27",
+      "nr_pzszach": "695/SL",
+      "nazwa": "LKS SPARTA Lubliniec",
+      "miasto": "Lubliniec",
+      "licencja": "12100046",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "28",
+      "nr_pzszach": "745/SL",
+      "nazwa": "LKS Strażak Zabrzeg",
+      "miasto": "Zabrzeg",
+      "licencja": "12100055",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "29",
+      "nr_pzszach": "823/SL",
+      "nazwa": "LKS Tworków",
+      "miasto": "Tworków",
+      "licencja": "12100067",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "30",
+      "nr_pzszach": "245/SL",
+      "nazwa": "LKS WISŁA Strumień",
+      "miasto": "Strumień",
+      "licencja": "12100047",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "31",
+      "nr_pzszach": "1076/SL",
+      "nazwa": "Mały Mistrz Bielsko-Biała",
+      "miasto": "Bielsko-Biała",
+      "licencja": "12100090",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "32",
+      "nr_pzszach": "235/SL",
+      "nazwa": "MKSz Rybnik",
+      "miasto": "Rybnik",
+      "licencja": "12100016",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "33",
+      "nr_pzszach": "516/SL",
+      "nazwa": "MUKS SZS Cieszyn",
+      "miasto": "Cieszyn",
+      "licencja": "12100058",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "34",
+      "nr_pzszach": "306/SL",
+      "nazwa": "MCKiS Jaworzno",
+      "miasto": "Jaworzno",
+      "licencja": "12100040",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "35",
+      "nr_pzszach": "712/SL",
+      "nazwa": "MGOK WoĽniki",
+      "miasto": "Wożniki",
+      "licencja": "12100048",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "36",
+      "nr_pzszach": "866/SL",
+      "nazwa": "MDK nr 1 Bytom",
+      "miasto": "Bytom",
+      "licencja": "12100071",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "37",
+      "nr_pzszach": "837/SL",
+      "nazwa": "MDK Chorzów",
+      "miasto": "Chorzów",
+      "licencja": "12100068",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "38",
+      "nr_pzszach": "473/SL",
+      "nazwa": "MKSz DIAGONALIA Imielin",
+      "miasto": "Imielin",
+      "licencja": "12100026",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "39",
+      "nr_pzszach": "741/SL",
+      "nazwa": "RKS MAT Ruda ¦l±ska",
+      "miasto": "Ruda ¦l±ska",
+      "licencja": "12100059",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "40",
+      "nr_pzszach": "713/SL",
+      "nazwa": "Akademia Szachowa Gliwice",
+      "miasto": "Gliwice",
+      "licencja": "12100054",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "41",
+      "nr_pzszach": "1009/SL",
+      "nazwa": "Stowarzyszenie Odkrywamy Talenty",
+      "miasto": "D±browa Górnicza",
+      "licencja": "12100085",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "100.00 PLN"
+    },
+    {
+      "id": "42",
+      "nr_pzszach": "1030/SL",
+      "nazwa": "Hetman Gliwice",
+      "miasto": "Gliwice",
+      "licencja": "12100088",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "250.00 PLN"
+    },
+    {
+      "id": "43",
+      "nr_pzszach": "556/SL",
+      "nazwa": "St Eurobeskidy Łodygowice",
+      "miasto": "Łodygowice",
+      "licencja": "12100038",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "44",
+      "nr_pzszach": "258/SL",
+      "nazwa": "SSz GMINY PAWŁOWICE",
+      "miasto": "Pawłowice",
+      "licencja": "12100030",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "45",
+      "nr_pzszach": "1103/SL",
+      "nazwa": "SSz LE¦NIK Istebna",
+      "miasto": "Istebna",
+      "licencja": "12100094",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "46",
+      "nr_pzszach": "836/SL",
+      "nazwa": "SSz OLIMPIA Goleszów",
+      "miasto": "Goleszów",
+      "licencja": "12100069",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "47",
+      "nr_pzszach": "309/SL",
+      "nazwa": "TG Mat",
+      "miasto": "Tarnowskie Góry",
+      "licencja": "12100001",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "48",
+      "nr_pzszach": "807/SL",
+      "nazwa": "SzSON ZAGŁĘBIE D±browa Górnicza",
+      "miasto": "D±browa Górnicza",
+      "licencja": "12100064",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "49",
+      "nr_pzszach": "",
+      "nazwa": "¦LZSzach",
+      "miasto": "Katowice",
+      "licencja": "012",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "50",
+      "nr_pzszach": "320/SL",
+      "nazwa": "TMS ROSZADA Gliwice",
+      "miasto": "Gliwice",
+      "licencja": "12100020",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "51",
+      "nr_pzszach": "812/SL",
+      "nazwa": "UKS BASZTA Wodzisław ¦l±ski",
+      "miasto": "Wodzisław ¦l±ski",
+      "licencja": "12100065",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "52",
+      "nr_pzszach": "702/SL",
+      "nazwa": "UKS 21 PODLESIE",
+      "miasto": "Katowice",
+      "licencja": "12100053",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "53",
+      "nr_pzszach": "898/SL",
+      "nazwa": "UKS Dębowy Król D±browa Górnicza",
+      "miasto": "D±browa Górnicza",
+      "licencja": "12100073",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "54",
+      "nr_pzszach": "763/SL",
+      "nazwa": "UKS G4 Tarnowskie Góry",
+      "miasto": "Tarnowskie Góry",
+      "licencja": "12100060",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "55",
+      "nr_pzszach": "231/SL",
+      "nazwa": "UKS HETMAN Częstochowa",
+      "miasto": "Częstochowa",
+      "licencja": "12100006",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "56",
+      "nr_pzszach": "630/SL",
+      "nazwa": "UKS OGNISKO Rydułtowy",
+      "miasto": "Rydułtowy",
+      "licencja": "12100008",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "57",
+      "nr_pzszach": "596/SL",
+      "nazwa": "UKS Pałac Młodzieży Katowice",
+      "miasto": "Katowice",
+      "licencja": "12100013",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "58",
+      "nr_pzszach": "529/SL",
+      "nazwa": "UKS PIONIER Jastrzębie-Zdrój",
+      "miasto": "Jastrzębie-Zdrój",
+      "licencja": "12100012",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "59",
+      "nr_pzszach": "956/SL",
+      "nazwa": "UKS SOKÓŁ Zbrosławice",
+      "miasto": "Zbrosławice",
+      "licencja": "12100078",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "60",
+      "nr_pzszach": "423/SL",
+      "nazwa": "UKS SP1 JEDYNKA Tychy",
+      "miasto": "Tychy",
+      "licencja": "12100011",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "61",
+      "nr_pzszach": "324/SL",
+      "nazwa": "UKS SZACH MAT Zabrze",
+      "miasto": "Zabrze",
+      "licencja": "12100039",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "62",
+      "nr_pzszach": "1085/SL",
+      "nazwa": "UKS Szach-Mat Tarnowskie Góry",
+      "miasto": "Tarnowskie Góry",
+      "licencja": "12100093",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

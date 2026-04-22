@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:44.416Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "1117/LU",
+      "nazwa": "ICSR START Lublin",
+      "miasto": "Lublin",
+      "licencja": "",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "100.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "941/LU",
+      "nazwa": "IKAR Lublin",
+      "miasto": "Lublin",
+      "licencja": "03100035",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "913/LU",
+      "nazwa": "KS Szach-Partia Puławy",
+      "miasto": "Puławy",
+      "licencja": "03100033",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "984/LU",
+      "nazwa": "Top Chess Biłgoraj",
+      "miasto": "Biłgoraj",
+      "licencja": "03100039",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "992/LU",
+      "nazwa": "KSz Hetman Krynka",
+      "miasto": "Łuków",
+      "licencja": "03100040",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "464/LU",
+      "nazwa": "LUKS Lubartów",
+      "miasto": "Lubartów",
+      "licencja": "03100017",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "782/LU",
+      "nazwa": "LKSz Lublin",
+      "miasto": "Lublin",
+      "licencja": "03100027",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "904/LU",
+      "nazwa": "LWZSzach",
+      "miasto": "Biała Podlaska",
+      "licencja": "017",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "698/LU",
+      "nazwa": "LUKS Tomasovia Tomaszów Lubelski",
+      "miasto": "Tomaszów Lubelski",
+      "licencja": "03100025",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "328/LU",
+      "nazwa": "LUKS TEMPO Ożarów",
+      "miasto": "Nałęczów 3",
+      "licencja": "03100001",
+      "wojewodztwo_zwiazek": "LU",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

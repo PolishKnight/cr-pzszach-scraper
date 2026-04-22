@@ -1,0 +1,4506 @@
+{
+  "createdAt": "2026-04-22T21:52:54.125Z",
+  "totalRecords": 500,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "6472",
+      "nazwisko_imie": "MI¦TA Aleksander",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2494",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "9876",
+      "nazwisko_imie": "RENKOWSKI Piotr",
+      "tytul_kategoria": "M",
+      "rank_fide": "2329",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "6450",
+      "nazwisko_imie": "LISTEWNIK Zbigniew",
+      "tytul_kategoria": "K",
+      "rank_fide": "2250",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "6496",
+      "nazwisko_imie": "PROBOLA Grzegorz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2245",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "6527",
+      "nazwisko_imie": "SKRZYPCZAK Jerzy",
+      "tytul_kategoria": "K",
+      "rank_fide": "2245",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "6380",
+      "nazwisko_imie": "DˇBROWSKI Wojciech",
+      "tytul_kategoria": "K",
+      "rank_fide": "2242",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "6455",
+      "nazwisko_imie": "MAŁACHOWSKI Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2235",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "6520",
+      "nazwisko_imie": "SINICA Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "2235",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "64477",
+      "nazwisko_imie": "KRA¦NIEWSKI Maciej",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2228",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "6417",
+      "nazwisko_imie": "KA¬MIERCZAK Rafał",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2202",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "6563",
+      "nazwisko_imie": "ZACHAREK Michał",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2200",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "6462",
+      "nazwisko_imie": "MARTOWICZ Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2195",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "2612",
+      "nazwisko_imie": "DˇBROWSKA Krystyna",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2187",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "6361",
+      "nazwisko_imie": "BUDREWICZ Krzysztof",
+      "tytul_kategoria": "M",
+      "rank_fide": "2185",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "21463",
+      "nazwisko_imie": "KRESTIANOWA Tatiana",
+      "tytul_kategoria": "",
+      "rank_fide": "2176",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "6406",
+      "nazwisko_imie": "JADANOWSKI Łukasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2169",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "6365",
+      "nazwisko_imie": "CHARCHALIS Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "2163",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "6461",
+      "nazwisko_imie": "MARKUNAS Grzegorz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2161",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "6459",
+      "nazwisko_imie": "MALCZYK Rafał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2158",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "6422",
+      "nazwisko_imie": "KLIMASZEWSKI Dariusz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2152",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "59075",
+      "nazwisko_imie": "KOZŁOWSKI Michał",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2150",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "6349",
+      "nazwisko_imie": "BARTOSZEWSKI Marcin",
+      "tytul_kategoria": "K",
+      "rank_fide": "2144",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "61993",
+      "nazwisko_imie": "TARANOWICZ Michał",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2142",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "6429",
+      "nazwisko_imie": "KOZŁOWSKI Waldemar",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2135",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "38301",
+      "nazwisko_imie": "HRYMOWICZ Artur",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2131",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "77433",
+      "nazwisko_imie": "MURAWSKI Jan",
+      "tytul_kategoria": "V",
+      "rank_fide": "2123",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "108055",
+      "nazwisko_imie": "RZˇP Filip",
+      "tytul_kategoria": "K",
+      "rank_fide": "2123",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "6389",
+      "nazwisko_imie": "DYDEL Aleksander",
+      "tytul_kategoria": "I",
+      "rank_fide": "2111",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "64176",
+      "nazwisko_imie": "TROCHIMCZUK Szymon",
+      "tytul_kategoria": "K",
+      "rank_fide": "2110",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "6376",
+      "nazwisko_imie": "CZARTORYSKI Paweł",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2104",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "6434",
+      "nazwisko_imie": "KRZYWICKI Dariusz",
+      "tytul_kategoria": "M",
+      "rank_fide": "2102",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "6381",
+      "nazwisko_imie": "DANILUK Jerzy",
+      "tytul_kategoria": "K",
+      "rank_fide": "2100",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "6502",
+      "nazwisko_imie": "REDLICKI Tomasz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2098",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "6393",
+      "nazwisko_imie": "GOSIEWSKI Piotr",
+      "tytul_kategoria": "M",
+      "rank_fide": "2096",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "6525",
+      "nazwisko_imie": "SKINDZIER Saturnin",
+      "tytul_kategoria": "K",
+      "rank_fide": "2082",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "7981",
+      "nazwisko_imie": "SZACHT Egbert",
+      "tytul_kategoria": "K",
+      "rank_fide": "2075",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "6492",
+      "nazwisko_imie": "PLICHTA Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "2073",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "6532",
+      "nazwisko_imie": "SPISAK Marta",
+      "tytul_kategoria": "K",
+      "rank_fide": "2071",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "6266",
+      "nazwisko_imie": "JABŁOŃSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "2070",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "6500",
+      "nazwisko_imie": "RABIJ Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2059",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "6448",
+      "nazwisko_imie": "LISOWSKI Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2058",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "6353",
+      "nazwisko_imie": "BIELUSZEWSKI Piotr",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2055",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "6489",
+      "nazwisko_imie": "PLESIUK Andrzej",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2054",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "6350",
+      "nazwisko_imie": "BATURO Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2050",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "6458",
+      "nazwisko_imie": "MALCZYK Radosław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2040",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "6377",
+      "nazwisko_imie": "CZAUS Piotr",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2037",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "970",
+      "nazwisko_imie": "HORODYSKI Roman",
+      "tytul_kategoria": "K",
+      "rank_fide": "2036",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "6435",
+      "nazwisko_imie": "KRZYWINA Michał",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2036",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "41615",
+      "nazwisko_imie": "CZARNECKA Lidia",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "2034",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "6453",
+      "nazwisko_imie": "SADOWSKA Angelika",
+      "tytul_kategoria": "K",
+      "rank_fide": "2031",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "23459",
+      "nazwisko_imie": "KOTARSKI Bartosz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2031",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "6416",
+      "nazwisko_imie": "KA¬MIERCZAK Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "2024",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "6356",
+      "nazwisko_imie": "BORKOWSKI Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2018",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "6403",
+      "nazwisko_imie": "IWANCIO Łukasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2012",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "106516",
+      "nazwisko_imie": "TOPCHII Gennadii",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2012",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "6433",
+      "nazwisko_imie": "KRZEWSKI Dariusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2011",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "6378",
+      "nazwisko_imie": "CZERWIŃSKI Marek",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2008",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "6411",
+      "nazwisko_imie": "JALIŃSKI Robert",
+      "tytul_kategoria": "I",
+      "rank_fide": "2003",
+      "klub": "KSz HETMAN Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "6370",
+      "nazwisko_imie": "CIE¦LUKOWSKA Katarzyna",
+      "tytul_kategoria": "K",
+      "rank_fide": "2000",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "6399",
+      "nazwisko_imie": "HARKOWSKI Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1999",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "38457",
+      "nazwisko_imie": "JORDAN Adam",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1992",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "6528",
+      "nazwisko_imie": "SŁAWIŃSKI Mirosław",
+      "tytul_kategoria": "K",
+      "rank_fide": "1987",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "6546",
+      "nazwisko_imie": "KA¬MIERCZAK Lena",
+      "tytul_kategoria": "K",
+      "rank_fide": "1984",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "6436",
+      "nazwisko_imie": "KRZYWINA Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1978",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "64482",
+      "nazwisko_imie": "KRA¦NIEWSKI Szymon",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1978",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "6503",
+      "nazwisko_imie": "ROLBIECKI Leszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1974",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "6427",
+      "nazwisko_imie": "CZARTORYSKA Anna",
+      "tytul_kategoria": "K",
+      "rank_fide": "1972",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "87461",
+      "nazwisko_imie": "Krasowski Tomasz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1969",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "61930",
+      "nazwisko_imie": "WARCABA Jakub",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1965",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "62004",
+      "nazwisko_imie": "KITEWSKI Bartosz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1962",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "4738",
+      "nazwisko_imie": "PALIKOWSKA Katarzyna",
+      "tytul_kategoria": "K+",
+      "rank_fide": "1961",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "3708",
+      "nazwisko_imie": "SUDER Ryszard",
+      "tytul_kategoria": "K++",
+      "rank_fide": "1958",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "6457",
+      "nazwisko_imie": "MALCZYK Jakub",
+      "tytul_kategoria": "K",
+      "rank_fide": "1957",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "6412",
+      "nazwisko_imie": "JĘDRA Waldemar",
+      "tytul_kategoria": "I",
+      "rank_fide": "1956",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "6401",
+      "nazwisko_imie": "HENNIG Tadeusz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1954",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "6522",
+      "nazwisko_imie": "SIWOŃ Bogdan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1953",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "6373",
+      "nazwisko_imie": "WINIARCZYK Natalia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1939",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "6413",
+      "nazwisko_imie": "JÓ¬WIK Rafał",
+      "tytul_kategoria": "K",
+      "rank_fide": "1936",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "26244",
+      "nazwisko_imie": "ZAKRZEWSKI Robert",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1935",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "6447",
+      "nazwisko_imie": "LIPIEJKO Artur",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1932",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "15902",
+      "nazwisko_imie": "BUDAKOW Adrian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1932",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "39646",
+      "nazwisko_imie": "SZULC Kamil",
+      "tytul_kategoria": "III",
+      "rank_fide": "1930",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "573",
+      "nazwisko_imie": "SANDOR Aleksandra",
+      "tytul_kategoria": "K",
+      "rank_fide": "1929",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "4799",
+      "nazwisko_imie": "PLEWA Piotr",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1926",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "6568",
+      "nazwisko_imie": "ZARĘBSKI Cezary",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1925",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "6298",
+      "nazwisko_imie": "GÓRALSKI Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1924",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "6565",
+      "nazwisko_imie": "ZAJˇCZKOWSKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1924",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "6343",
+      "nazwisko_imie": "ANDREARCZYK Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1923",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "6491",
+      "nazwisko_imie": "PLICHTA Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1922",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "6445",
+      "nazwisko_imie": "LESIŃSKI Zdzisław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1921",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "85340",
+      "nazwisko_imie": "MIGALA Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "1917",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "38998",
+      "nazwisko_imie": "STREPIKOWSKI Paweł",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1914",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "6441",
+      "nazwisko_imie": "KUPRYJANIUK Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1910",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "48928",
+      "nazwisko_imie": "LENDZION Kamil",
+      "tytul_kategoria": "I",
+      "rank_fide": "1910",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "6677",
+      "nazwisko_imie": "PAWLICKA Alicja",
+      "tytul_kategoria": "I",
+      "rank_fide": "1902",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "6405",
+      "nazwisko_imie": "JADANOWSKA Beata",
+      "tytul_kategoria": "I",
+      "rank_fide": "1899",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "6481",
+      "nazwisko_imie": "OPALIŃSKI Sebastian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1896",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "6460",
+      "nazwisko_imie": "MALEC Radosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1892",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "6263",
+      "nazwisko_imie": "BORAWSKI Ryszard",
+      "tytul_kategoria": "I",
+      "rank_fide": "1890",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "28996",
+      "nazwisko_imie": "TRENDOWSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1888",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "101",
+      "id_pzszach": "1114",
+      "nazwisko_imie": "RAK Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "1885",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "102",
+      "id_pzszach": "27258",
+      "nazwisko_imie": "SOŁTYK Leszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1884",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "103",
+      "id_pzszach": "6374",
+      "nazwisko_imie": "CZAJKOWSKI Alan",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1882",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "104",
+      "id_pzszach": "6398",
+      "nazwisko_imie": "GULA Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1874",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "105",
+      "id_pzszach": "10087",
+      "nazwisko_imie": "GÓRLIK Dariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1870",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "106",
+      "id_pzszach": "84716",
+      "nazwisko_imie": "KOPACKI Aleksander",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1870",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "107",
+      "id_pzszach": "21788",
+      "nazwisko_imie": "WOJTUNIK Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1869",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "108",
+      "id_pzszach": "6294",
+      "nazwisko_imie": "OPALIŃSKI Patryk",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1868",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "109",
+      "id_pzszach": "6328",
+      "nazwisko_imie": "MALECKI Janusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1862",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "110",
+      "id_pzszach": "6560",
+      "nazwisko_imie": "WOLIŃSKI Sebastian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1862",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "111",
+      "id_pzszach": "62154",
+      "nazwisko_imie": "JEDA Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1862",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "112",
+      "id_pzszach": "15940",
+      "nazwisko_imie": "CIEPŁOWSKI Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1860",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "113",
+      "id_pzszach": "6554",
+      "nazwisko_imie": "WIECHOWSKI Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1856",
+      "klub": "KSz HETMAN Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "114",
+      "id_pzszach": "6293",
+      "nazwisko_imie": "OPALIŃSKI Krzysztof",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1855",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "115",
+      "id_pzszach": "6550",
+      "nazwisko_imie": "TUSZYŃSKI Eugeniusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1854",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "116",
+      "id_pzszach": "72499",
+      "nazwisko_imie": "FRONCZAK Andrzej",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1852",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "117",
+      "id_pzszach": "76734",
+      "nazwisko_imie": "HARTLIŃSKI Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1852",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "118",
+      "id_pzszach": "6539",
+      "nazwisko_imie": "JAKUBIK Anna",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "1850",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "119",
+      "id_pzszach": "109333",
+      "nazwisko_imie": "SHALOVYLO Matwij",
+      "tytul_kategoria": "",
+      "rank_fide": "1848",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "120",
+      "id_pzszach": "6307",
+      "nazwisko_imie": "BRYNDA Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1840",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "121",
+      "id_pzszach": "6407",
+      "nazwisko_imie": "JADANOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1840",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "122",
+      "id_pzszach": "6893",
+      "nazwisko_imie": "BŁAŻYŃSKI Jarosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1840",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "123",
+      "id_pzszach": "6548",
+      "nazwisko_imie": "BOROWIK Dorota",
+      "tytul_kategoria": "I",
+      "rank_fide": "1839",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "124",
+      "id_pzszach": "24481",
+      "nazwisko_imie": "SAWANIEWICZ Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1839",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "125",
+      "id_pzszach": "107800",
+      "nazwisko_imie": "SZWED Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1839",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "126",
+      "id_pzszach": "6484",
+      "nazwisko_imie": "MALESZEWSKA Natalia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1837",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "127",
+      "id_pzszach": "6347",
+      "nazwisko_imie": "BARAN Dawid",
+      "tytul_kategoria": "I",
+      "rank_fide": "1836",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "128",
+      "id_pzszach": "75794",
+      "nazwisko_imie": "KAMIŃSKI Andrzej",
+      "tytul_kategoria": "",
+      "rank_fide": "1834",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "129",
+      "id_pzszach": "22740",
+      "nazwisko_imie": "KOTLEWSKI Łukasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1833",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "130",
+      "id_pzszach": "15944",
+      "nazwisko_imie": "GNIADO Radosław",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1832",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "131",
+      "id_pzszach": "6529",
+      "nazwisko_imie": "SOBIERAJ Sławomir",
+      "tytul_kategoria": "I",
+      "rank_fide": "1831",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "132",
+      "id_pzszach": "46893",
+      "nazwisko_imie": "KIETRYS Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1831",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "133",
+      "id_pzszach": "67742",
+      "nazwisko_imie": "RODZIEWICZ-BIELEWICZ Kuba",
+      "tytul_kategoria": "I",
+      "rank_fide": "1831",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "134",
+      "id_pzszach": "6478",
+      "nazwisko_imie": "NOWOSIELSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1829",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "135",
+      "id_pzszach": "9957",
+      "nazwisko_imie": "CICHOCKA Urszula",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1825",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "136",
+      "id_pzszach": "67844",
+      "nazwisko_imie": "GRABOWSKI Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1824",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "137",
+      "id_pzszach": "45990",
+      "nazwisko_imie": "KAZNOWSKA Weronika",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1819",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "138",
+      "id_pzszach": "6371",
+      "nazwisko_imie": "CYBULSKI Ryszard",
+      "tytul_kategoria": "I",
+      "rank_fide": "1815",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "139",
+      "id_pzszach": "105002",
+      "nazwisko_imie": "BRANECKI Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1813",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "140",
+      "id_pzszach": "31415",
+      "nazwisko_imie": "BOBRYK Konrad",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1804",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "141",
+      "id_pzszach": "15861",
+      "nazwisko_imie": "KARPIŃSKI Ryszard",
+      "tytul_kategoria": "II",
+      "rank_fide": "1803",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "142",
+      "id_pzszach": "81393",
+      "nazwisko_imie": "TARASIONAK Arseni",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1803",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "143",
+      "id_pzszach": "6400",
+      "nazwisko_imie": "HEKMAN Dominik",
+      "tytul_kategoria": "II",
+      "rank_fide": "1800",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "144",
+      "id_pzszach": "41167",
+      "nazwisko_imie": "GRABARCZYK Sylwester",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1799",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "145",
+      "id_pzszach": "21948",
+      "nazwisko_imie": "WIERZBOWSKA Aleksandra",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1797",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "146",
+      "id_pzszach": "10905",
+      "nazwisko_imie": "SOBICH Stanisław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1796",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "147",
+      "id_pzszach": "37748",
+      "nazwisko_imie": "ŻÓŁKIEWSKI Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1792",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "148",
+      "id_pzszach": "79377",
+      "nazwisko_imie": "GAŁĘZIEWSKI Olaf",
+      "tytul_kategoria": "I",
+      "rank_fide": "1791",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "149",
+      "id_pzszach": "39611",
+      "nazwisko_imie": "HARASIM Wiesław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1787",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "150",
+      "id_pzszach": "10082",
+      "nazwisko_imie": "FALICKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1786",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "151",
+      "id_pzszach": "120016",
+      "nazwisko_imie": "PANASIUK Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1786",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "152",
+      "id_pzszach": "6432",
+      "nazwisko_imie": "KRYSZTOPA-CZUPRYŃSKA Barbara",
+      "tytul_kategoria": "I",
+      "rank_fide": "1785",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "153",
+      "id_pzszach": "6426",
+      "nazwisko_imie": "KOLENDO Kamil",
+      "tytul_kategoria": "I",
+      "rank_fide": "1779",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "154",
+      "id_pzszach": "21945",
+      "nazwisko_imie": "KLIMIUK Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1779",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "155",
+      "id_pzszach": "100505",
+      "nazwisko_imie": "FILIPKOWSKI Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1778",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "156",
+      "id_pzszach": "6482",
+      "nazwisko_imie": "ORŁOWSKI Bogdan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1777",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "157",
+      "id_pzszach": "2648",
+      "nazwisko_imie": "GAJEWSKI Dariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1772",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "158",
+      "id_pzszach": "6410",
+      "nazwisko_imie": "JAKUBOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1770",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "159",
+      "id_pzszach": "15950",
+      "nazwisko_imie": "KANTOREK Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1766",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "160",
+      "id_pzszach": "22733",
+      "nazwisko_imie": "ADAMOWICZ Marek",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1766",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "161",
+      "id_pzszach": "46552",
+      "nazwisko_imie": "EYVAZOV Adil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1763",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "162",
+      "id_pzszach": "10017",
+      "nazwisko_imie": "MALCZYK Barbara",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1761",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "163",
+      "id_pzszach": "128230",
+      "nazwisko_imie": "KOZŁOWSKI Dominik",
+      "tytul_kategoria": "I",
+      "rank_fide": "1761",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "164",
+      "id_pzszach": "26846",
+      "nazwisko_imie": "DALIGA Anita",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1759",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "165",
+      "id_pzszach": "98767",
+      "nazwisko_imie": "SZEWCZYK Stanisław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1759",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "166",
+      "id_pzszach": "15926",
+      "nazwisko_imie": "INGIELEWICZ Konrad",
+      "tytul_kategoria": "I",
+      "rank_fide": "1758",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "167",
+      "id_pzszach": "117999",
+      "nazwisko_imie": "KUMOR Artur",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1757",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "168",
+      "id_pzszach": "6524",
+      "nazwisko_imie": "SIWOŃ Zbigniew",
+      "tytul_kategoria": "I",
+      "rank_fide": "1756",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "169",
+      "id_pzszach": "31413",
+      "nazwisko_imie": "BOBER Wojciech",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1755",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "170",
+      "id_pzszach": "6533",
+      "nazwisko_imie": "STACHOWICZ Feliks",
+      "tytul_kategoria": "I",
+      "rank_fide": "1754",
+      "klub": "KSz HETMAN Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "171",
+      "id_pzszach": "21944",
+      "nazwisko_imie": "KLIMEK Cezary",
+      "tytul_kategoria": "II",
+      "rank_fide": "1754",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "172",
+      "id_pzszach": "7558",
+      "nazwisko_imie": "SILUK Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1753",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "173",
+      "id_pzszach": "7752",
+      "nazwisko_imie": "JACYNA Dariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1750",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "174",
+      "id_pzszach": "120604",
+      "nazwisko_imie": "PAWLIK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1750",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "175",
+      "id_pzszach": "10020",
+      "nazwisko_imie": "MŁODYSTACH Henryk",
+      "tytul_kategoria": "II",
+      "rank_fide": "1748",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "176",
+      "id_pzszach": "6512",
+      "nazwisko_imie": "SAPIERZYŃSKI Tadeusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1742",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "177",
+      "id_pzszach": "7916",
+      "nazwisko_imie": "PIWNICKI Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1741",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "178",
+      "id_pzszach": "76736",
+      "nazwisko_imie": "MAŁECKI Patryk",
+      "tytul_kategoria": "I",
+      "rank_fide": "1741",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "179",
+      "id_pzszach": "10026",
+      "nazwisko_imie": "PROBOSZCZ Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1737",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "180",
+      "id_pzszach": "26126",
+      "nazwisko_imie": "ŻEMAJKO Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1737",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "181",
+      "id_pzszach": "116114",
+      "nazwisko_imie": "WIRCHANOWICZ Konrad",
+      "tytul_kategoria": "II",
+      "rank_fide": "1737",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "182",
+      "id_pzszach": "23074",
+      "nazwisko_imie": "SKOMSKI Karol",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1736",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "183",
+      "id_pzszach": "26124",
+      "nazwisko_imie": "ORŁOWSKI Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1735",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "184",
+      "id_pzszach": "10023",
+      "nazwisko_imie": "PAWLUK Józef",
+      "tytul_kategoria": "II",
+      "rank_fide": "1730",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "185",
+      "id_pzszach": "6556",
+      "nazwisko_imie": "WIELICZKO Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1727",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "186",
+      "id_pzszach": "9972",
+      "nazwisko_imie": "KORECKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1726",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "187",
+      "id_pzszach": "84904",
+      "nazwisko_imie": "PRZYSTAWKO Roman",
+      "tytul_kategoria": "I",
+      "rank_fide": "1725",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "188",
+      "id_pzszach": "6463",
+      "nazwisko_imie": "MARZEC Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1724",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "189",
+      "id_pzszach": "124004",
+      "nazwisko_imie": "GUTKOWSKI Konrad",
+      "tytul_kategoria": "I",
+      "rank_fide": "1724",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "190",
+      "id_pzszach": "10039",
+      "nazwisko_imie": "BIELSKI Jerzy",
+      "tytul_kategoria": "I",
+      "rank_fide": "1723",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "191",
+      "id_pzszach": "6390",
+      "nazwisko_imie": "DYMITRIEW Dominik",
+      "tytul_kategoria": "I",
+      "rank_fide": "1721",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "192",
+      "id_pzszach": "7769",
+      "nazwisko_imie": "KARPIŃSKI Waldemar",
+      "tytul_kategoria": "II",
+      "rank_fide": "1717",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "193",
+      "id_pzszach": "22742",
+      "nazwisko_imie": "HENNIG Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1715",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "194",
+      "id_pzszach": "6311",
+      "nazwisko_imie": "GRYGLAS Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1712",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "195",
+      "id_pzszach": "77432",
+      "nazwisko_imie": "MURAWSKI Paweł",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1710",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "196",
+      "id_pzszach": "43487",
+      "nazwisko_imie": "PENOT Thierry",
+      "tytul_kategoria": "II",
+      "rank_fide": "1706",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "197",
+      "id_pzszach": "6476",
+      "nazwisko_imie": "NICZYPORUK Daniel",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1699",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "198",
+      "id_pzszach": "20631",
+      "nazwisko_imie": "GRYSZKO Przemysław",
+      "tytul_kategoria": "III",
+      "rank_fide": "1696",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "199",
+      "id_pzszach": "108492",
+      "nazwisko_imie": "WRZESIŃSKA Amelia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1695",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "200",
+      "id_pzszach": "26130",
+      "nazwisko_imie": "ROSIŃSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1694",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "201",
+      "id_pzszach": "6419",
+      "nazwisko_imie": "KIEJDO Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1692",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "202",
+      "id_pzszach": "20627",
+      "nazwisko_imie": "MURAWSKI Jacek",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1692",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "203",
+      "id_pzszach": "74044",
+      "nazwisko_imie": "KRA¦NIEWSKI Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1690",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "204",
+      "id_pzszach": "79370",
+      "nazwisko_imie": "DIETRICH Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1689",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "205",
+      "id_pzszach": "87250",
+      "nazwisko_imie": "CZUPRYŃSKI Janusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1688",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "206",
+      "id_pzszach": "97331",
+      "nazwisko_imie": "SZEWCZAK Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1683",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "207",
+      "id_pzszach": "111956",
+      "nazwisko_imie": "SYPYTKOWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1683",
+      "klub": "UKS ELO Ełk",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "208",
+      "id_pzszach": "84905",
+      "nazwisko_imie": "PNIEWSKI Wiesław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1682",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "209",
+      "id_pzszach": "64693",
+      "nazwisko_imie": "OLENDER Roman",
+      "tytul_kategoria": "II",
+      "rank_fide": "1681",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "210",
+      "id_pzszach": "6309",
+      "nazwisko_imie": "CICHANOWICZ Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1680",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "211",
+      "id_pzszach": "15846",
+      "nazwisko_imie": "GÓRSKI Wawrzyniec",
+      "tytul_kategoria": "II",
+      "rank_fide": "1680",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "212",
+      "id_pzszach": "123318",
+      "nazwisko_imie": "DANOWSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1680",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "213",
+      "id_pzszach": "146113",
+      "nazwisko_imie": "GUZEWICZ Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1680",
+      "klub": "UKS ELO Ełk",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "214",
+      "id_pzszach": "22732",
+      "nazwisko_imie": "ADAMOWICZ Piotr",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1675",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "215",
+      "id_pzszach": "6514",
+      "nazwisko_imie": "SAWICKI Jarosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1674",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "216",
+      "id_pzszach": "15964",
+      "nazwisko_imie": "POLAŃSKI Marek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1672",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "217",
+      "id_pzszach": "129526",
+      "nazwisko_imie": "SKOWROŃSKI Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1671",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "218",
+      "id_pzszach": "6456",
+      "nazwisko_imie": "MALCER Joanna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1670",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "219",
+      "id_pzszach": "75778",
+      "nazwisko_imie": "RUDZIŃSKI Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1670",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "220",
+      "id_pzszach": "6256",
+      "nazwisko_imie": "JÓZEFOWICZ Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1669",
+      "klub": "KSz HETMAN Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "221",
+      "id_pzszach": "63483",
+      "nazwisko_imie": "MAGREL Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1669",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "222",
+      "id_pzszach": "82556",
+      "nazwisko_imie": "SIENKIEWICZ Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1668",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "223",
+      "id_pzszach": "26227",
+      "nazwisko_imie": "TRZECIAK Bartosz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1666",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "224",
+      "id_pzszach": "6385",
+      "nazwisko_imie": "DOGIEL Leszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1664",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "225",
+      "id_pzszach": "45997",
+      "nazwisko_imie": "KAZNOWSKA Kinga",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1664",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "226",
+      "id_pzszach": "15865",
+      "nazwisko_imie": "ZAWADZKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1658",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "227",
+      "id_pzszach": "26843",
+      "nazwisko_imie": "PIECZYSKI Arkadiusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1658",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "228",
+      "id_pzszach": "109420",
+      "nazwisko_imie": "GRAJEWSKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1657",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "229",
+      "id_pzszach": "88603",
+      "nazwisko_imie": "GAWERSKA Karolina",
+      "tytul_kategoria": "I",
+      "rank_fide": "1656",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "230",
+      "id_pzszach": "128666",
+      "nazwisko_imie": "POLEWKO Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1652",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "231",
+      "id_pzszach": "108044",
+      "nazwisko_imie": "PAWLIK Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1651",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "232",
+      "id_pzszach": "101242",
+      "nazwisko_imie": "BERNAS Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1650",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "233",
+      "id_pzszach": "120472",
+      "nazwisko_imie": "TUTKA Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1649",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "234",
+      "id_pzszach": "104108",
+      "nazwisko_imie": "KOCZARA Mikołaj",
+      "tytul_kategoria": "II",
+      "rank_fide": "1648",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "235",
+      "id_pzszach": "38306",
+      "nazwisko_imie": "BOHDANOWICZ Nikola",
+      "tytul_kategoria": "I",
+      "rank_fide": "1646",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "236",
+      "id_pzszach": "39802",
+      "nazwisko_imie": "ZIEHM Robert",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1645",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "237",
+      "id_pzszach": "6022",
+      "nazwisko_imie": "POLAKOWSKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1644",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "238",
+      "id_pzszach": "6259",
+      "nazwisko_imie": "KARABELA Dariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1644",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "239",
+      "id_pzszach": "91807",
+      "nazwisko_imie": "CYBULSKI Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1644",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "240",
+      "id_pzszach": "111371",
+      "nazwisko_imie": "PODLEWSKI Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1643",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "241",
+      "id_pzszach": "37360",
+      "nazwisko_imie": "NIKLAS Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1642",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "242",
+      "id_pzszach": "9875",
+      "nazwisko_imie": "RATAJCZAK Zdzisław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1641",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "243",
+      "id_pzszach": "22736",
+      "nazwisko_imie": "BERGOLC Sylwester",
+      "tytul_kategoria": "III",
+      "rank_fide": "1641",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "244",
+      "id_pzszach": "92044",
+      "nazwisko_imie": "STAWSKI Igor",
+      "tytul_kategoria": "III",
+      "rank_fide": "1638",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "245",
+      "id_pzszach": "6490",
+      "nazwisko_imie": "PLESIUK Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "1637",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "246",
+      "id_pzszach": "124887",
+      "nazwisko_imie": "SZCZECINA Patryk",
+      "tytul_kategoria": "III",
+      "rank_fide": "1636",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "247",
+      "id_pzszach": "15862",
+      "nazwisko_imie": "ŁUKASZEWICZ Jerzy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1635",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "248",
+      "id_pzszach": "69734",
+      "nazwisko_imie": "OBIDZIŃSKI Cezary",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1634",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "249",
+      "id_pzszach": "72035",
+      "nazwisko_imie": "FLIS Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1634",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "250",
+      "id_pzszach": "16793",
+      "nazwisko_imie": "GŁĘBOCKI Piotr",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1633",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "251",
+      "id_pzszach": "26841",
+      "nazwisko_imie": "HENNIG Cezary",
+      "tytul_kategoria": "II",
+      "rank_fide": "1632",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "252",
+      "id_pzszach": "37752",
+      "nazwisko_imie": "WAWER Marek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1630",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "253",
+      "id_pzszach": "89242",
+      "nazwisko_imie": "MIROSŁAW Miłosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1629",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "254",
+      "id_pzszach": "82869",
+      "nazwisko_imie": "CZESZEWSKI Jerzy",
+      "tytul_kategoria": "",
+      "rank_fide": "1628",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "255",
+      "id_pzszach": "146170",
+      "nazwisko_imie": "CHODAŃ Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1628",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "256",
+      "id_pzszach": "97054",
+      "nazwisko_imie": "TAŃSKI Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1627",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "257",
+      "id_pzszach": "26976",
+      "nazwisko_imie": "SOCHA Mateusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1623",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "258",
+      "id_pzszach": "25020",
+      "nazwisko_imie": "KRZYWICKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1620",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "259",
+      "id_pzszach": "6317",
+      "nazwisko_imie": "ŻUKOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1619",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "260",
+      "id_pzszach": "94126",
+      "nazwisko_imie": "TOMASZEWSKI Mirosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1619",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "261",
+      "id_pzszach": "55245",
+      "nazwisko_imie": "TOKARSKI Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1618",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "262",
+      "id_pzszach": "10102",
+      "nazwisko_imie": "RYBIŃSKI Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1616",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "263",
+      "id_pzszach": "97338",
+      "nazwisko_imie": "LISICA Lena",
+      "tytul_kategoria": "I",
+      "rank_fide": "1615",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "264",
+      "id_pzszach": "58622",
+      "nazwisko_imie": "SAWICKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1614",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "265",
+      "id_pzszach": "10016",
+      "nazwisko_imie": "MALCZYK Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1613",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "266",
+      "id_pzszach": "63228",
+      "nazwisko_imie": "PAŁASZ Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1613",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "267",
+      "id_pzszach": "78002",
+      "nazwisko_imie": "ANDRZEJCZUK Marek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1612",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "268",
+      "id_pzszach": "70623",
+      "nazwisko_imie": "KAMIENIECKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1611",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "269",
+      "id_pzszach": "6329",
+      "nazwisko_imie": "MROCZKOWSKA Danuta",
+      "tytul_kategoria": "II",
+      "rank_fide": "1610",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "270",
+      "id_pzszach": "100802",
+      "nazwisko_imie": "ZAKRZEWSKI Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1610",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "271",
+      "id_pzszach": "6240",
+      "nazwisko_imie": "KILJAŃCZYK Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1609",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "272",
+      "id_pzszach": "7747",
+      "nazwisko_imie": "INGIELEWICZ Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1609",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "273",
+      "id_pzszach": "99921",
+      "nazwisko_imie": "KOWALKOWSKI Krystian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1608",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "274",
+      "id_pzszach": "66288",
+      "nazwisko_imie": "KĘPKA Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1606",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "275",
+      "id_pzszach": "75586",
+      "nazwisko_imie": "MELLER Oliwier",
+      "tytul_kategoria": "III",
+      "rank_fide": "1606",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "276",
+      "id_pzszach": "10052",
+      "nazwisko_imie": "BRODOWSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1605",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "277",
+      "id_pzszach": "25496",
+      "nazwisko_imie": "BUKO Marcin",
+      "tytul_kategoria": "III",
+      "rank_fide": "1604",
+      "klub": "SSz DEBIUT Giżycko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "278",
+      "id_pzszach": "73118",
+      "nazwisko_imie": "OWIERCZUK Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1598",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "279",
+      "id_pzszach": "93239",
+      "nazwisko_imie": "PIOTROWSKI Igor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1598",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "280",
+      "id_pzszach": "74036",
+      "nazwisko_imie": "JAROSZEWSKI Marian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1597",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "281",
+      "id_pzszach": "116131",
+      "nazwisko_imie": "WIECZOREK Zofia",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1597",
+      "klub": "KSz HETMAN Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "282",
+      "id_pzszach": "75486",
+      "nazwisko_imie": "JASIŃSKI Aleksander",
+      "tytul_kategoria": "III",
+      "rank_fide": "1596",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "283",
+      "id_pzszach": "121817",
+      "nazwisko_imie": "¦WIĘTOŃ Zofia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1596",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "284",
+      "id_pzszach": "79497",
+      "nazwisko_imie": "HANC Maksymilian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1595",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "285",
+      "id_pzszach": "62002",
+      "nazwisko_imie": "MARCINKOWSKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1594",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "286",
+      "id_pzszach": "141389",
+      "nazwisko_imie": "¦WIDZIŃSKI Adam",
+      "tytul_kategoria": "III",
+      "rank_fide": "1594",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "287",
+      "id_pzszach": "92040",
+      "nazwisko_imie": "MACIERZYŃSKI Maciej",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1593",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "288",
+      "id_pzszach": "143735",
+      "nazwisko_imie": "PAŁUBIŃSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1593",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "289",
+      "id_pzszach": "144458",
+      "nazwisko_imie": "ROZENTALSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1593",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "290",
+      "id_pzszach": "25606",
+      "nazwisko_imie": "KOTARSKI Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1591",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "291",
+      "id_pzszach": "72436",
+      "nazwisko_imie": "NAPIÓRKOWSKI Bartosz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1590",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "292",
+      "id_pzszach": "51648",
+      "nazwisko_imie": "SKOMSKI Marcin",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1589",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "293",
+      "id_pzszach": "51533",
+      "nazwisko_imie": "SZOSTEK Artur",
+      "tytul_kategoria": "II",
+      "rank_fide": "1588",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "294",
+      "id_pzszach": "123310",
+      "nazwisko_imie": "DARMOFAŁ Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1588",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "295",
+      "id_pzszach": "71151",
+      "nazwisko_imie": "PACHO Maria",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1587",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "296",
+      "id_pzszach": "15939",
+      "nazwisko_imie": "BURAKIEWICZ Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1586",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "297",
+      "id_pzszach": "87465",
+      "nazwisko_imie": "KRASOWSKI Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1586",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "298",
+      "id_pzszach": "10103",
+      "nazwisko_imie": "RYDEL Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1585",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "299",
+      "id_pzszach": "61477",
+      "nazwisko_imie": "DOMIN Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1584",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "300",
+      "id_pzszach": "78832",
+      "nazwisko_imie": "KLIMIUK Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1584",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "301",
+      "id_pzszach": "49287",
+      "nazwisko_imie": "PROBOSZCZ Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1583",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "302",
+      "id_pzszach": "114213",
+      "nazwisko_imie": "PEREKITKO Julian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1582",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "303",
+      "id_pzszach": "25498",
+      "nazwisko_imie": "NARKIEWICZ Bartosz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1579",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "304",
+      "id_pzszach": "7952",
+      "nazwisko_imie": "SAŃKO Piotr",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1578",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "305",
+      "id_pzszach": "94116",
+      "nazwisko_imie": "BIELECKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1578",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "306",
+      "id_pzszach": "23077",
+      "nazwisko_imie": "SMUKOWSKI Dawid",
+      "tytul_kategoria": "III",
+      "rank_fide": "1577",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "307",
+      "id_pzszach": "76297",
+      "nazwisko_imie": "SZWARC Cyprian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1577",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "308",
+      "id_pzszach": "78276",
+      "nazwisko_imie": "SZAŁAJ Agnieszka",
+      "tytul_kategoria": "II",
+      "rank_fide": "1577",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "309",
+      "id_pzszach": "126654",
+      "nazwisko_imie": "ASIUKIEWICZ Jan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1575",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "310",
+      "id_pzszach": "25023",
+      "nazwisko_imie": "KRZYWICKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1573",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "311",
+      "id_pzszach": "116388",
+      "nazwisko_imie": "TYMOWICZ Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1572",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "312",
+      "id_pzszach": "85767",
+      "nazwisko_imie": "WASIŁOWSKA Anna",
+      "tytul_kategoria": "III",
+      "rank_fide": "1571",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "313",
+      "id_pzszach": "87035",
+      "nazwisko_imie": "KLONOWSKI Kacper",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1571",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "314",
+      "id_pzszach": "15859",
+      "nazwisko_imie": "GRUBALSKA Daria",
+      "tytul_kategoria": "II",
+      "rank_fide": "1568",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "315",
+      "id_pzszach": "103287",
+      "nazwisko_imie": "PESTA Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1567",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "316",
+      "id_pzszach": "15815",
+      "nazwisko_imie": "BIEGAJSKI Roman",
+      "tytul_kategoria": "II",
+      "rank_fide": "1566",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "317",
+      "id_pzszach": "38308",
+      "nazwisko_imie": "SIKORSKI Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1566",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "318",
+      "id_pzszach": "91816",
+      "nazwisko_imie": "DREWNIAK Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1566",
+      "klub": "UKS ELO Ełk",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "319",
+      "id_pzszach": "41314",
+      "nazwisko_imie": "GRALA Stanisław",
+      "tytul_kategoria": "III",
+      "rank_fide": "1565",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "320",
+      "id_pzszach": "28933",
+      "nazwisko_imie": "OPOKA Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1562",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "321",
+      "id_pzszach": "75429",
+      "nazwisko_imie": "ZAKRZEWSKA Gabriela",
+      "tytul_kategoria": "I",
+      "rank_fide": "1562",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "322",
+      "id_pzszach": "15799",
+      "nazwisko_imie": "WÓJCIK Marta",
+      "tytul_kategoria": "II",
+      "rank_fide": "1561",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "323",
+      "id_pzszach": "27268",
+      "nazwisko_imie": "GRANACKI Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1561",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "324",
+      "id_pzszach": "39581",
+      "nazwisko_imie": "ROKITA Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1559",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "325",
+      "id_pzszach": "57081",
+      "nazwisko_imie": "GREMBOCKA Zuzanna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1559",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "326",
+      "id_pzszach": "73058",
+      "nazwisko_imie": "GRABOWSKI Paweł",
+      "tytul_kategoria": "III",
+      "rank_fide": "1559",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "327",
+      "id_pzszach": "97330",
+      "nazwisko_imie": "WIOSNA Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1559",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "328",
+      "id_pzszach": "85664",
+      "nazwisko_imie": "BRZOZOWSKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1558",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "329",
+      "id_pzszach": "107852",
+      "nazwisko_imie": "TRAWIŃSKI Mateusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1558",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "330",
+      "id_pzszach": "94097",
+      "nazwisko_imie": "GŁOWACKI Bartosz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1557",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "331",
+      "id_pzszach": "10019",
+      "nazwisko_imie": "MATUSZEWICZ Ryszard",
+      "tytul_kategoria": "II",
+      "rank_fide": "1556",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "332",
+      "id_pzszach": "39592",
+      "nazwisko_imie": "FEDYK Kamil",
+      "tytul_kategoria": "III",
+      "rank_fide": "1554",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "333",
+      "id_pzszach": "102125",
+      "nazwisko_imie": "ŻORAŃSKI Rafał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1552",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "334",
+      "id_pzszach": "123212",
+      "nazwisko_imie": "BUŁHAK Edward",
+      "tytul_kategoria": "III",
+      "rank_fide": "1552",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "335",
+      "id_pzszach": "73159",
+      "nazwisko_imie": "GRˇDZKI Artur",
+      "tytul_kategoria": "II",
+      "rank_fide": "1551",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "336",
+      "id_pzszach": "90420",
+      "nazwisko_imie": "DUNALSKI Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1551",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "337",
+      "id_pzszach": "82175",
+      "nazwisko_imie": "LEWANDOWSKA Weronika",
+      "tytul_kategoria": "II",
+      "rank_fide": "1549",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "338",
+      "id_pzszach": "58158",
+      "nazwisko_imie": "GRELECKI Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1547",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "339",
+      "id_pzszach": "64171",
+      "nazwisko_imie": "GRACZYK Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1545",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "340",
+      "id_pzszach": "6318",
+      "nazwisko_imie": "ORŁOWSKI Mirosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1544",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "341",
+      "id_pzszach": "30478",
+      "nazwisko_imie": "RYDZEWSKI Marceli",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1542",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "342",
+      "id_pzszach": "25022",
+      "nazwisko_imie": "CIESZYŃSKI Artur",
+      "tytul_kategoria": "III",
+      "rank_fide": "1541",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "343",
+      "id_pzszach": "118730",
+      "nazwisko_imie": "MAKO¦ Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1540",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "344",
+      "id_pzszach": "91572",
+      "nazwisko_imie": "JEZIORSKI Dawid",
+      "tytul_kategoria": "III",
+      "rank_fide": "1539",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "345",
+      "id_pzszach": "120088",
+      "nazwisko_imie": "MARCHLIK Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1539",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "346",
+      "id_pzszach": "133225",
+      "nazwisko_imie": "Charabin Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1539",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "347",
+      "id_pzszach": "97336",
+      "nazwisko_imie": "DUBEL Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1537",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "348",
+      "id_pzszach": "89742",
+      "nazwisko_imie": "GRALA Lech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1535",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "349",
+      "id_pzszach": "100415",
+      "nazwisko_imie": "MARCINKIEWICZ Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1534",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "350",
+      "id_pzszach": "137875",
+      "nazwisko_imie": "ZDROJEWSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1533",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "351",
+      "id_pzszach": "127749",
+      "nazwisko_imie": "CZACHOROWSKI Marek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1532",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "352",
+      "id_pzszach": "63882",
+      "nazwisko_imie": "BARDZIŃSKI Sławomir",
+      "tytul_kategoria": "II",
+      "rank_fide": "1531",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "353",
+      "id_pzszach": "60460",
+      "nazwisko_imie": "FIL Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1530",
+      "klub": "SSz DEBIUT Giżycko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "354",
+      "id_pzszach": "108048",
+      "nazwisko_imie": "KOŁAKOWSKI Nikodem",
+      "tytul_kategoria": "II",
+      "rank_fide": "1529",
+      "klub": "KSz HETMAN Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "355",
+      "id_pzszach": "100264",
+      "nazwisko_imie": "SKUKOWSKI Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1528",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "356",
+      "id_pzszach": "85768",
+      "nazwisko_imie": "WASIŁOWSKI Łukasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1527",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "357",
+      "id_pzszach": "107140",
+      "nazwisko_imie": "CZAPLIŃSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1527",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "358",
+      "id_pzszach": "22745",
+      "nazwisko_imie": "PIELACH Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1525",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "359",
+      "id_pzszach": "39227",
+      "nazwisko_imie": "MAKAREWICZ Marietta",
+      "tytul_kategoria": "II",
+      "rank_fide": "1525",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "360",
+      "id_pzszach": "37749",
+      "nazwisko_imie": "OBOLEWICZ Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1523",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "361",
+      "id_pzszach": "26135",
+      "nazwisko_imie": "MIELNIK Daniel",
+      "tytul_kategoria": "II",
+      "rank_fide": "1519",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "362",
+      "id_pzszach": "79744",
+      "nazwisko_imie": "DIETRICH Grzegorz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1516",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "363",
+      "id_pzszach": "70080",
+      "nazwisko_imie": "WO¬NIAK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1515",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "364",
+      "id_pzszach": "122697",
+      "nazwisko_imie": "DALIGA Hubert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1515",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "365",
+      "id_pzszach": "10034",
+      "nazwisko_imie": "SAPIERZYŃSKI Adam",
+      "tytul_kategoria": "III",
+      "rank_fide": "1513",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "366",
+      "id_pzszach": "123308",
+      "nazwisko_imie": "DOMURAD Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1513",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "367",
+      "id_pzszach": "65550",
+      "nazwisko_imie": "KRA¦NIEWSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1512",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "368",
+      "id_pzszach": "123734",
+      "nazwisko_imie": "KRUPIŃSKI Jonasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1512",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "369",
+      "id_pzszach": "10114",
+      "nazwisko_imie": "GALIŃSKI Grzegorz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1511",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "370",
+      "id_pzszach": "15932",
+      "nazwisko_imie": "PAŁDYNA Leszek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1511",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "371",
+      "id_pzszach": "26129",
+      "nazwisko_imie": "BARTOSZEWICZ Arkadiusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1511",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "372",
+      "id_pzszach": "84717",
+      "nazwisko_imie": "JĘDRA¦ Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1511",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "373",
+      "id_pzszach": "62008",
+      "nazwisko_imie": "FILIPIAK Magdalena",
+      "tytul_kategoria": "I",
+      "rank_fide": "1510",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "374",
+      "id_pzszach": "108627",
+      "nazwisko_imie": "WOLTER Sławomir",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1510",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "375",
+      "id_pzszach": "15872",
+      "nazwisko_imie": "HAMERNIK Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1509",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "376",
+      "id_pzszach": "39229",
+      "nazwisko_imie": "KOSMALA Damian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1509",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "377",
+      "id_pzszach": "52798",
+      "nazwisko_imie": "BRUZDEWICZ Hubert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1506",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "378",
+      "id_pzszach": "73059",
+      "nazwisko_imie": "ZAWAL Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1506",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "379",
+      "id_pzszach": "137117",
+      "nazwisko_imie": "KURPIEWSKI Franciszek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1505",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "380",
+      "id_pzszach": "10002",
+      "nazwisko_imie": "GALIN Paweł",
+      "tytul_kategoria": "III",
+      "rank_fide": "1503",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "381",
+      "id_pzszach": "25499",
+      "nazwisko_imie": "MALECKI Jakub",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1503",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "382",
+      "id_pzszach": "85764",
+      "nazwisko_imie": "SARBIEWSKA Oliwia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1502",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "383",
+      "id_pzszach": "95398",
+      "nazwisko_imie": "DĘBSKI Jan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1502",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "384",
+      "id_pzszach": "60197",
+      "nazwisko_imie": "ŻYHAŁKO Konrad",
+      "tytul_kategoria": "II",
+      "rank_fide": "1500",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "385",
+      "id_pzszach": "70662",
+      "nazwisko_imie": "TAŃSKI Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1500",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "386",
+      "id_pzszach": "49288",
+      "nazwisko_imie": "KOWALSKI Bogdan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1498",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "387",
+      "id_pzszach": "56358",
+      "nazwisko_imie": "LUSZOWSKI Marcel",
+      "tytul_kategoria": "III",
+      "rank_fide": "1498",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "388",
+      "id_pzszach": "73069",
+      "nazwisko_imie": "ŻELAZOWSKI Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1498",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "389",
+      "id_pzszach": "77521",
+      "nazwisko_imie": "SZELˇG Mikołaj",
+      "tytul_kategoria": "III",
+      "rank_fide": "1498",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "390",
+      "id_pzszach": "111704",
+      "nazwisko_imie": "PROĆ Aleksander",
+      "tytul_kategoria": "III",
+      "rank_fide": "1496",
+      "klub": "CWKS VĘGORIA Węgorzewo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "391",
+      "id_pzszach": "117116",
+      "nazwisko_imie": "BOROWSKI Adam",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1496",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "392",
+      "id_pzszach": "84980",
+      "nazwisko_imie": "TARASIUK Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1495",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "393",
+      "id_pzszach": "127405",
+      "nazwisko_imie": "SZMIT Alan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1493",
+      "klub": "KSz HETMAN Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "394",
+      "id_pzszach": "48927",
+      "nazwisko_imie": "DZIODKO Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1489",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "395",
+      "id_pzszach": "33468",
+      "nazwisko_imie": "ORŁOWSKI Sebastian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1488",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "396",
+      "id_pzszach": "85606",
+      "nazwisko_imie": "PUZYREWSKI Ksawery",
+      "tytul_kategoria": "III",
+      "rank_fide": "1488",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "397",
+      "id_pzszach": "88379",
+      "nazwisko_imie": "BUTKIEWICZ Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1487",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "398",
+      "id_pzszach": "120481",
+      "nazwisko_imie": "KOWALEWSKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1486",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "399",
+      "id_pzszach": "69227",
+      "nazwisko_imie": "DZIODKO Wiktoria",
+      "tytul_kategoria": "II",
+      "rank_fide": "1484",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "400",
+      "id_pzszach": "73063",
+      "nazwisko_imie": "KAWA Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1484",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "401",
+      "id_pzszach": "108677",
+      "nazwisko_imie": "WI¦NIEWSKA Natalia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1483",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "402",
+      "id_pzszach": "49812",
+      "nazwisko_imie": "KOZAK Krzysztof",
+      "tytul_kategoria": "III",
+      "rank_fide": "1482",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "403",
+      "id_pzszach": "72053",
+      "nazwisko_imie": "NADOLNY Adam",
+      "tytul_kategoria": "III",
+      "rank_fide": "1481",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "404",
+      "id_pzszach": "110173",
+      "nazwisko_imie": "KASZUBA Rafał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1481",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "405",
+      "id_pzszach": "120255",
+      "nazwisko_imie": "PUDEŁEK Daniel",
+      "tytul_kategoria": "III",
+      "rank_fide": "1480",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "406",
+      "id_pzszach": "138065",
+      "nazwisko_imie": "DZIKOWSKA Michalina",
+      "tytul_kategoria": "II",
+      "rank_fide": "1480",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "407",
+      "id_pzszach": "72876",
+      "nazwisko_imie": "¦WIERCZ Nikola",
+      "tytul_kategoria": "II",
+      "rank_fide": "1478",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "408",
+      "id_pzszach": "120477",
+      "nazwisko_imie": "SEWERYN Adam",
+      "tytul_kategoria": "III",
+      "rank_fide": "1478",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "409",
+      "id_pzszach": "57841",
+      "nazwisko_imie": "ASENHAJMER Aleksander",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1477",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "410",
+      "id_pzszach": "52687",
+      "nazwisko_imie": "RASZKOWSKI Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1476",
+      "klub": "MLKS CZARNI Olecko",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "411",
+      "id_pzszach": "38300",
+      "nazwisko_imie": "NIKLAS Ignacy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1475",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "412",
+      "id_pzszach": "79374",
+      "nazwisko_imie": "KULAWIK Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1475",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "413",
+      "id_pzszach": "59248",
+      "nazwisko_imie": "SKRZYPCZYŃSKI Wiktor",
+      "tytul_kategoria": "V",
+      "rank_fide": "1473",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "414",
+      "id_pzszach": "126711",
+      "nazwisko_imie": "GUMIŃSKI Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1470",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "415",
+      "id_pzszach": "61929",
+      "nazwisko_imie": "TARANOWICZ Zofia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1468",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "416",
+      "id_pzszach": "79367",
+      "nazwisko_imie": "BITTEL Kacper",
+      "tytul_kategoria": "III",
+      "rank_fide": "1468",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "417",
+      "id_pzszach": "85765",
+      "nazwisko_imie": "SARBIEWSKi Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1468",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "418",
+      "id_pzszach": "128238",
+      "nazwisko_imie": "KONOPKO Bartosz",
+      "tytul_kategoria": "",
+      "rank_fide": "1465",
+      "klub": "UKS ELO Ełk",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "419",
+      "id_pzszach": "137828",
+      "nazwisko_imie": "SEMENIUK Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1462",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "420",
+      "id_pzszach": "26837",
+      "nazwisko_imie": "CIS Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1460",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "421",
+      "id_pzszach": "88826",
+      "nazwisko_imie": "ŁYSZCZARZ Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1460",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "422",
+      "id_pzszach": "135606",
+      "nazwisko_imie": "DYMKOWSKI Dawid",
+      "tytul_kategoria": "III",
+      "rank_fide": "1459",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "423",
+      "id_pzszach": "98331",
+      "nazwisko_imie": "SUBOCZ Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1458",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "424",
+      "id_pzszach": "132093",
+      "nazwisko_imie": "DUSZAK Franciszek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1458",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "425",
+      "id_pzszach": "87346",
+      "nazwisko_imie": "PETRUSEWICZ Antonina",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1457",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "426",
+      "id_pzszach": "104830",
+      "nazwisko_imie": "GESEK Pola",
+      "tytul_kategoria": "II",
+      "rank_fide": "1457",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "427",
+      "id_pzszach": "97036",
+      "nazwisko_imie": "SĘKOWSKI Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1456",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "428",
+      "id_pzszach": "109750",
+      "nazwisko_imie": "BOGDASZEWSKI Mikołaj",
+      "tytul_kategoria": "III",
+      "rank_fide": "1456",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "429",
+      "id_pzszach": "116629",
+      "nazwisko_imie": "GAWROŃSKI Cezary",
+      "tytul_kategoria": "III",
+      "rank_fide": "1456",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "430",
+      "id_pzszach": "48323",
+      "nazwisko_imie": "KOCZELA Grzegorz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1452",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "431",
+      "id_pzszach": "55765",
+      "nazwisko_imie": "GREMBOCKA Joanna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1452",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "432",
+      "id_pzszach": "97053",
+      "nazwisko_imie": "TAŃSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1450",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "433",
+      "id_pzszach": "99823",
+      "nazwisko_imie": "BŁASZCZYK Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1450",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "434",
+      "id_pzszach": "78439",
+      "nazwisko_imie": "ROCŁAWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1449",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "435",
+      "id_pzszach": "84641",
+      "nazwisko_imie": "HARTLIŃSKI Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1449",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "436",
+      "id_pzszach": "108633",
+      "nazwisko_imie": "WOJNOWSKI Radomir",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1449",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "437",
+      "id_pzszach": "91082",
+      "nazwisko_imie": "KORZENIEWSKI Arkadiusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1448",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "438",
+      "id_pzszach": "99040",
+      "nazwisko_imie": "TABOR Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1446",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "439",
+      "id_pzszach": "47068",
+      "nazwisko_imie": "MA¦LEWSKA Anna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1444",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "440",
+      "id_pzszach": "102521",
+      "nazwisko_imie": "SKIBA Daniel",
+      "tytul_kategoria": "II",
+      "rank_fide": "1443",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "441",
+      "id_pzszach": "126341",
+      "nazwisko_imie": "ZUBRZYCKI Dominik",
+      "tytul_kategoria": "III",
+      "rank_fide": "1443",
+      "klub": "UKS ELO Ełk",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "442",
+      "id_pzszach": "76494",
+      "nazwisko_imie": "MAŁECKI Karol",
+      "tytul_kategoria": "III",
+      "rank_fide": "1442",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "443",
+      "id_pzszach": "47220",
+      "nazwisko_imie": "NIKLAS Ryszard",
+      "tytul_kategoria": "III",
+      "rank_fide": "1441",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "444",
+      "id_pzszach": "100144",
+      "nazwisko_imie": "GANCEWSKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1441",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "445",
+      "id_pzszach": "69262",
+      "nazwisko_imie": "PACHO Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1439",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "446",
+      "id_pzszach": "70232",
+      "nazwisko_imie": "KRA¦NIEWSKA Zofia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1439",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "447",
+      "id_pzszach": "76293",
+      "nazwisko_imie": "KŁOSOWSKI Rafał",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1438",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "448",
+      "id_pzszach": "94744",
+      "nazwisko_imie": "Strzyż Andrzej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1438",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "449",
+      "id_pzszach": "101626",
+      "nazwisko_imie": "GO¦LIŃSKI Dominik",
+      "tytul_kategoria": "III",
+      "rank_fide": "1438",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "450",
+      "id_pzszach": "59542",
+      "nazwisko_imie": "KLEINSZMIDT Daniel",
+      "tytul_kategoria": "II",
+      "rank_fide": "1437",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "451",
+      "id_pzszach": "87333",
+      "nazwisko_imie": "WOYTITZKI Robert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1437",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "452",
+      "id_pzszach": "123300",
+      "nazwisko_imie": "BASARA Aleks",
+      "tytul_kategoria": "III",
+      "rank_fide": "1437",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "453",
+      "id_pzszach": "15933",
+      "nazwisko_imie": "PAŁDYNA Natalia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1436",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "454",
+      "id_pzszach": "67842",
+      "nazwisko_imie": "WILCZEWSKI Artur",
+      "tytul_kategoria": "II",
+      "rank_fide": "1434",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "455",
+      "id_pzszach": "76491",
+      "nazwisko_imie": "TARANOWICZ Patrycja",
+      "tytul_kategoria": "II",
+      "rank_fide": "1433",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "456",
+      "id_pzszach": "38296",
+      "nazwisko_imie": "RYDZEWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1429",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "457",
+      "id_pzszach": "55250",
+      "nazwisko_imie": "KAZNOWSKI Mirosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1428",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "458",
+      "id_pzszach": "66801",
+      "nazwisko_imie": "DUDA Miłosz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1428",
+      "klub": "UKS Skoczek Elbl±g",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "459",
+      "id_pzszach": "128776",
+      "nazwisko_imie": "CHĘCMANOWSKI Wojciech",
+      "tytul_kategoria": "III",
+      "rank_fide": "1428",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "460",
+      "id_pzszach": "80500",
+      "nazwisko_imie": "KOTARSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1427",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "461",
+      "id_pzszach": "98328",
+      "nazwisko_imie": "DˇBROWSKI Łukasz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1427",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "462",
+      "id_pzszach": "121699",
+      "nazwisko_imie": "MICHALSKI Dariusz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1426",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "463",
+      "id_pzszach": "43495",
+      "nazwisko_imie": "SIKORSKA Anna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1425",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "464",
+      "id_pzszach": "80366",
+      "nazwisko_imie": "GO¬DZIEWSKI Piotr",
+      "tytul_kategoria": "III",
+      "rank_fide": "1424",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "465",
+      "id_pzszach": "67841",
+      "nazwisko_imie": "SUCHOCKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1423",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "466",
+      "id_pzszach": "75492",
+      "nazwisko_imie": "¦WIĘTOŃ Grzegorz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1423",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "467",
+      "id_pzszach": "101867",
+      "nazwisko_imie": "STARCZEWSKI Adam",
+      "tytul_kategoria": "III",
+      "rank_fide": "1423",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "468",
+      "id_pzszach": "69726",
+      "nazwisko_imie": "STOBIECKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1422",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "469",
+      "id_pzszach": "97339",
+      "nazwisko_imie": "DUBEL Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1422",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "470",
+      "id_pzszach": "41400",
+      "nazwisko_imie": "PIELACH Bartosz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1421",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "471",
+      "id_pzszach": "56061",
+      "nazwisko_imie": "WARKOWSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1421",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "472",
+      "id_pzszach": "82813",
+      "nazwisko_imie": "TARASIUK Dawid",
+      "tytul_kategoria": "III",
+      "rank_fide": "1420",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "473",
+      "id_pzszach": "108493",
+      "nazwisko_imie": "GÓRSKI Aleksander",
+      "tytul_kategoria": "III",
+      "rank_fide": "1419",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "474",
+      "id_pzszach": "50213",
+      "nazwisko_imie": "HRYMOWICZ Artur",
+      "tytul_kategoria": "III",
+      "rank_fide": "1417",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "475",
+      "id_pzszach": "65824",
+      "nazwisko_imie": "DWULAT Wiktor",
+      "tytul_kategoria": "III",
+      "rank_fide": "1417",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "476",
+      "id_pzszach": "85668",
+      "nazwisko_imie": "JÓ¬WIAK Artur",
+      "tytul_kategoria": "III",
+      "rank_fide": "1416",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "477",
+      "id_pzszach": "111138",
+      "nazwisko_imie": "LEWANDOWSKI Krzysztof",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1416",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "478",
+      "id_pzszach": "123215",
+      "nazwisko_imie": "DˇBROWSKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1416",
+      "klub": "UKS Debiut Dziesi±tka Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "479",
+      "id_pzszach": "73740",
+      "nazwisko_imie": "¦WIĘTOŃ Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1415",
+      "klub": "MKSz HETMAN-PIONIER Kętrzyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "480",
+      "id_pzszach": "85666",
+      "nazwisko_imie": "GALLAS Gerard",
+      "tytul_kategoria": "III",
+      "rank_fide": "1413",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "481",
+      "id_pzszach": "107088",
+      "nazwisko_imie": "WESOŁOWSKI Cezary",
+      "tytul_kategoria": "III",
+      "rank_fide": "1413",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "482",
+      "id_pzszach": "41408",
+      "nazwisko_imie": "RUSIN Tomasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1412",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "483",
+      "id_pzszach": "24244",
+      "nazwisko_imie": "STRZYŻ Jan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1411",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "484",
+      "id_pzszach": "59806",
+      "nazwisko_imie": "BARTKOWSKA Dorota",
+      "tytul_kategoria": "II",
+      "rank_fide": "1407",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "485",
+      "id_pzszach": "89387",
+      "nazwisko_imie": "MAZUR Filip",
+      "tytul_kategoria": "III",
+      "rank_fide": "1404",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "486",
+      "id_pzszach": "98498",
+      "nazwisko_imie": "BIELECKI Tomasz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1404",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "487",
+      "id_pzszach": "103380",
+      "nazwisko_imie": "GRˇŻAWSKI Kamil",
+      "tytul_kategoria": "III",
+      "rank_fide": "1403",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "488",
+      "id_pzszach": "136440",
+      "nazwisko_imie": "WI¦NIEWSKA-WÓJCIK Krystyna",
+      "tytul_kategoria": "",
+      "rank_fide": "1401",
+      "klub": "KSz HETMAN Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "489",
+      "id_pzszach": "129",
+      "nazwisko_imie": "BAŁDYGA Józef",
+      "tytul_kategoria": "I",
+      "rank_fide": "0",
+      "klub": "MKS MRˇGOVIA Mr±gowo",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "490",
+      "id_pzszach": "4367",
+      "nazwisko_imie": "RĘKAWEK Lech",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "491",
+      "id_pzszach": "6258",
+      "nazwisko_imie": "DRZEWIECKI Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "492",
+      "id_pzszach": "6260",
+      "nazwisko_imie": "ŁUSZCZYK Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "493",
+      "id_pzszach": "6261",
+      "nazwisko_imie": "SKAŁECKI Krzysztof",
+      "tytul_kategoria": "IV",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "494",
+      "id_pzszach": "6262",
+      "nazwisko_imie": "SOBOLEWSKI Alfred",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "495",
+      "id_pzszach": "6264",
+      "nazwisko_imie": "GEIGER Dorota",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "496",
+      "id_pzszach": "6265",
+      "nazwisko_imie": "GÓRSKI Paweł",
+      "tytul_kategoria": "II+",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "497",
+      "id_pzszach": "6267",
+      "nazwisko_imie": "LORBIECKI Bartosz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "498",
+      "id_pzszach": "6274",
+      "nazwisko_imie": "LIBURSKI Adam",
+      "tytul_kategoria": "K",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "499",
+      "id_pzszach": "6279",
+      "nazwisko_imie": "POŁOCH Lilia",
+      "tytul_kategoria": "II+",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "500",
+      "id_pzszach": "6280",
+      "nazwisko_imie": "PTASZYŃSKI Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "0",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    }
+  ]
+}

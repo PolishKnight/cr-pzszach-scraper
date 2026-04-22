@@ -1,0 +1,506 @@
+{
+  "createdAt": "2026-04-22T21:52:47.352Z",
+  "totalRecords": 50,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "557/MP",
+      "nazwa": "CKiS Skawina",
+      "miasto": "Skawina",
+      "licencja": "06100015",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "1098/MP",
+      "nazwa": "CIS Czernichów",
+      "miasto": "Czernichów",
+      "licencja": "06100059",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "886/MP",
+      "nazwa": "Gens Una Sumus Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100036",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "1014/MP",
+      "nazwa": "Fundacja PASJA Mogilany",
+      "miasto": "Mogilany",
+      "licencja": "06100049",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "945/MP",
+      "nazwa": "GOS ENERGIA Libi±ż",
+      "miasto": "Libi±ż",
+      "licencja": "06100043",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "543/MP",
+      "nazwa": "GKSz KORNUTY Gorlice",
+      "miasto": "Gorlice",
+      "licencja": "06100020",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "1067/MP",
+      "nazwa": "Hetman Borzęcin",
+      "miasto": "Borzęcin",
+      "licencja": "06100054",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "1034/MP",
+      "nazwa": "IT Chess Club Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100051",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "608/MP",
+      "nazwa": "KS Cracovia 1906 Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100013",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "940/MP",
+      "nazwa": "Szachownica Kłaj",
+      "miasto": "Kłaj",
+      "licencja": "06100042",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "991/MP",
+      "nazwa": "KS 100 Bajek w Chrzanowie",
+      "miasto": "Chrzanów",
+      "licencja": "06100045",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "903/MP",
+      "nazwa": "KS Chess in Chrzanow",
+      "miasto": "Chrzanów",
+      "licencja": "06100038",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "1000/MP",
+      "nazwa": "KS KINGSOFCHESS Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100047",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "977/MP",
+      "nazwa": "Korona 1919 Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100044",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "990/MP",
+      "nazwa": "KS Małopolskie Chess Tour",
+      "miasto": "Kraków",
+      "licencja": "06100046",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "1114/MP",
+      "nazwa": "KS Nadwi¶lanka 1956 Okle¶na",
+      "miasto": "Alwernia",
+      "licencja": "",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "100.00 PLN"
+    },
+    {
+      "id": "17",
+      "nr_pzszach": "1089/MP",
+      "nazwa": "KSz GRYF Gorlice",
+      "miasto": "Gorlice",
+      "licencja": "",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "18",
+      "nr_pzszach": "780/MP",
+      "nazwa": "Klub Szachowy KANA Tarnów",
+      "miasto": "Tarnów",
+      "licencja": "06100028",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "19",
+      "nr_pzszach": "950/MP",
+      "nazwa": "KS KRAK",
+      "miasto": "Kraków",
+      "licencja": "06100045",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "20",
+      "nr_pzszach": "1021/MP",
+      "nazwa": "KSz Królewscy Tarnów",
+      "miasto": "Tarnów",
+      "licencja": "06100050",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "21",
+      "nr_pzszach": "978/MP",
+      "nazwa": "KS SzachMat Stary S±cz",
+      "miasto": "Stary S±cz",
+      "licencja": "06100043",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "22",
+      "nr_pzszach": "298/MP",
+      "nazwa": "KKSz Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100007",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "23",
+      "nr_pzszach": "213/MP",
+      "nazwa": "LKS Dziecanovia Dziekanowice",
+      "miasto": "Dobczyce",
+      "licencja": "06100022",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "24",
+      "nr_pzszach": "427/MP",
+      "nazwa": "LKS PŁOMIEŃ Limanowa",
+      "miasto": "Limanowa",
+      "licencja": "06100006",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "25",
+      "nr_pzszach": "1065/MP",
+      "nazwa": "LKS Wierzchosławice - Ostrów",
+      "miasto": "Wierzchosławice",
+      "licencja": "06100053",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "26",
+      "nr_pzszach": "",
+      "nazwa": "MPZSzach Kraków",
+      "miasto": "Kraków",
+      "licencja": "006",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "27",
+      "nr_pzszach": "839/MP",
+      "nazwa": "MAT My¶lenice",
+      "miasto": "My¶lenice",
+      "licencja": "06100031",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "28",
+      "nr_pzszach": "798/MP",
+      "nazwa": "OLIMPIJCZYK Chrzanów",
+      "miasto": "Chrzanów",
+      "licencja": "06100034",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "29",
+      "nr_pzszach": "243/MP",
+      "nazwa": "MKS CENTRUM Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100016",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "30",
+      "nr_pzszach": "282/MP",
+      "nazwa": "MKS MOS Wieliczka",
+      "miasto": "Wieliczka",
+      "licencja": "06100003",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "31",
+      "nr_pzszach": "211/MP",
+      "nazwa": "TKKF DROGOWIEC Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100002",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "32",
+      "nr_pzszach": "862/MP",
+      "nazwa": "Ognisko TKKF w Dobczycach",
+      "miasto": "Dobczyce",
+      "licencja": "06100033",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "33",
+      "nr_pzszach": "508/MP",
+      "nazwa": "PUKS KAROLINA Tarnów",
+      "miasto": "Tarnów",
+      "licencja": "06100005",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "34",
+      "nr_pzszach": "944/MP",
+      "nazwa": "Stowarzyszenie NADZIEJA",
+      "miasto": "Kraków",
+      "licencja": "06100044",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "100.00 PLN"
+    },
+    {
+      "id": "35",
+      "nr_pzszach": "964/MP",
+      "nazwa": "AZS AGH Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100046",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "36",
+      "nr_pzszach": "1037/MP",
+      "nazwa": "Szach&Mat Brzesko",
+      "miasto": "Brzesko",
+      "licencja": "06100052",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "37",
+      "nr_pzszach": "730/MP",
+      "nazwa": "TKKF Leskowiec -Wieża Wadowice",
+      "miasto": "Wadowice",
+      "licencja": "06100026",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "38",
+      "nr_pzszach": "911/MP",
+      "nazwa": "UKS Bakcyl Bielany",
+      "miasto": "Kraków",
+      "licencja": "06100039",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "39",
+      "nr_pzszach": "1013/MP",
+      "nazwa": "UKS Dragon Mokrzyska",
+      "miasto": "Brzesko",
+      "licencja": "06100048",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "40",
+      "nr_pzszach": "283/MP",
+      "nazwa": "UKS GONIEC Stani±tki",
+      "miasto": "Stani±tki (gm. Niepołomice)",
+      "licencja": "06100008",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "41",
+      "nr_pzszach": "1097/MP",
+      "nazwa": "UKS GRYF Ple¶na",
+      "miasto": "Ple¶na",
+      "licencja": "06100057",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "42",
+      "nr_pzszach": "1096/MP",
+      "nazwa": "UKS HALNY Zakopane",
+      "miasto": "Zakopane",
+      "licencja": "06100058",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "43",
+      "nr_pzszach": "216/MP",
+      "nazwa": "UKS HETMAN KORONNY Trzebinia",
+      "miasto": "Trzebinia",
+      "licencja": "06100010",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "44",
+      "nr_pzszach": "893/MP",
+      "nazwa": "UKS LISEK Lisia Góra",
+      "miasto": "Lisia Góra",
+      "licencja": "06100037",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "45",
+      "nr_pzszach": "561/MP",
+      "nazwa": "UKS MAGNUS Rzezawa",
+      "miasto": "Rzezawa",
+      "licencja": "06100019",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "46",
+      "nr_pzszach": "921/MP",
+      "nazwa": "UKS OMEGA w Rzuchowej",
+      "miasto": "Rzuchowa",
+      "licencja": "06100039",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "47",
+      "nr_pzszach": "876/MP",
+      "nazwa": "ULKS LIPINKI",
+      "miasto": "Lipinki",
+      "licencja": "06100035",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "48",
+      "nr_pzszach": "1093/MP",
+      "nazwa": "Akademia Szachowa OPP Andrychów",
+      "miasto": "Andrychów",
+      "licencja": "06100056",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "49",
+      "nr_pzszach": "301/MP",
+      "nazwa": "UKS przy SP 8 Chrzanów",
+      "miasto": "Chrzanów",
+      "licencja": "06100011",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "50",
+      "nr_pzszach": "922/MP",
+      "nazwa": "WKS Uran Łukowica",
+      "miasto": "Łukowica",
+      "licencja": "06100040",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

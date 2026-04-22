@@ -1,0 +1,906 @@
+{
+  "createdAt": "2026-04-22T21:52:51.854Z",
+  "totalRecords": 100,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "2913",
+      "nazwisko_imie": "PRZEDMOJSKI Rafał",
+      "tytul_kategoria": "M",
+      "rank_fide": "2357",
+      "klub": "KLIM UKSz Gambit Starachowice",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "57060",
+      "nazwisko_imie": "SHKURAN Danylo",
+      "tytul_kategoria": "",
+      "rank_fide": "2329",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "37124",
+      "nazwisko_imie": "NESTER Ihor",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2268",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "4989",
+      "nazwisko_imie": "BARTOSIK Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "2260",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "5012",
+      "nazwisko_imie": "KARCZ Robert",
+      "tytul_kategoria": "I",
+      "rank_fide": "2215",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "17264",
+      "nazwisko_imie": "JĘDRAS Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "2152",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "4938",
+      "nazwisko_imie": "DUDEK Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2138",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "5039",
+      "nazwisko_imie": "PROKOP Jacek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2135",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "5002",
+      "nazwisko_imie": "FABROWSKI Janusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2134",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "17035",
+      "nazwisko_imie": "HARAZIŃSKA Ewa",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2128",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "5000",
+      "nazwisko_imie": "DULIŃSKI Jacek",
+      "tytul_kategoria": "K",
+      "rank_fide": "2127",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "5061",
+      "nazwisko_imie": "SZUBER Grzegorz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2109",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "97042",
+      "nazwisko_imie": "KAWKA Milena",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "2094",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "5060",
+      "nazwisko_imie": "SZCZUKIEWICZ Andrzej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2085",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "4999",
+      "nazwisko_imie": "DROGOSZ Zbigniew",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2070",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "5059",
+      "nazwisko_imie": "SZCZECINA Michał",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2069",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "48484",
+      "nazwisko_imie": "TRYBU¦ Daniel",
+      "tytul_kategoria": "K",
+      "rank_fide": "2055",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "1556",
+      "nazwisko_imie": "SZCZERBAK Jarosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "2040",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "5069",
+      "nazwisko_imie": "WOZNIAK Pawel",
+      "tytul_kategoria": "I",
+      "rank_fide": "2035",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "4968",
+      "nazwisko_imie": "ZAREBA Grzegorz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2028",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "5032",
+      "nazwisko_imie": "PAŁOSZ Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2027",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "117534",
+      "nazwisko_imie": "DOMAŃSKI Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "2020",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "5050",
+      "nazwisko_imie": "SKRZYPCZAK Anna",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2015",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "4612",
+      "nazwisko_imie": "WALCZAK Krystian",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2012",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "21985",
+      "nazwisko_imie": "DUDA Marcin",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2007",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "137636",
+      "nazwisko_imie": "BILENKIY Maksym",
+      "tytul_kategoria": "I",
+      "rank_fide": "2002",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "5051",
+      "nazwisko_imie": "SKRZYPCZAK Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1999",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "5022",
+      "nazwisko_imie": "MARCINKOWSKI Paweł",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1992",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "62612",
+      "nazwisko_imie": "BARTKIEWICZ Paweł",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1992",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "2496",
+      "nazwisko_imie": "PO¦NIK Maurycy",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1991",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "39556",
+      "nazwisko_imie": "SZCZEPANOWSKI Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1989",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "50651",
+      "nazwisko_imie": "KOZERA Dawid",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1985",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "37107",
+      "nazwisko_imie": "MATVIYCHUK Andrey",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1983",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "4934",
+      "nazwisko_imie": "RUTKOWSKI Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1980",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "7792",
+      "nazwisko_imie": "KOMPERDA Robert",
+      "tytul_kategoria": "I",
+      "rank_fide": "1977",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "4975",
+      "nazwisko_imie": "KOZIEJ Maciej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "1971",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "65195",
+      "nazwisko_imie": "PARTYKA Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "1970",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "5036",
+      "nazwisko_imie": "PLICNER Justyna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1965",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "49296",
+      "nazwisko_imie": "SEREWA Antoni",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1964",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "2848",
+      "nazwisko_imie": "MRÓZ Waldemar",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1956",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "4969",
+      "nazwisko_imie": "BORATYŃSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1952",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "5005",
+      "nazwisko_imie": "GIEMZA Joanna",
+      "tytul_kategoria": "K",
+      "rank_fide": "1947",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "5062",
+      "nazwisko_imie": "SZYMANSKI Grzegorz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1945",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "4976",
+      "nazwisko_imie": "KUSPAK Aleksander",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1940",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "31354",
+      "nazwisko_imie": "KACZMARSKA-KĘDZIERSKA Joanna",
+      "tytul_kategoria": "K++",
+      "rank_fide": "1938",
+      "klub": "SSz ROSZADA Końskie",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "24368",
+      "nazwisko_imie": "ARENDARSKI Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1936",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "25968",
+      "nazwisko_imie": "KAPUT Roman",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1935",
+      "klub": "KLIM UKSz Gambit Starachowice",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "23237",
+      "nazwisko_imie": "CHOINA Michał",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1934",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "23235",
+      "nazwisko_imie": "CHOINA Adam",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1928",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "120610",
+      "nazwisko_imie": "KOWALCZYK Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1928",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "40427",
+      "nazwisko_imie": "MŁYNARSKI Kamil",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1927",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "5016",
+      "nazwisko_imie": "KOPER Ireneusz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1923",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "49022",
+      "nazwisko_imie": "SŁONIEWSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "9908",
+      "nazwisko_imie": "SZUMAŃSKI Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1911",
+      "klub": "LZS KORDIAN Bliżyn",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "17277",
+      "nazwisko_imie": "FILIPOW Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1911",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "4995",
+      "nazwisko_imie": "CZECH Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "1908",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "5070",
+      "nazwisko_imie": "ZOLOBOWSKI Grzegorz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1908",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "2495",
+      "nazwisko_imie": "POMAGALSKI Marcin",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1907",
+      "klub": "LKS Skała Tumlin",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "5027",
+      "nazwisko_imie": "MORANDA Katarzyna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1905",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "4970",
+      "nazwisko_imie": "FURMAN Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1904",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "5048",
+      "nazwisko_imie": "SAJTYNA Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1900",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "5065",
+      "nazwisko_imie": "URBAN Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1899",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "3451",
+      "nazwisko_imie": "PYTEL Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1898",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "5035",
+      "nazwisko_imie": "PLICNER Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1898",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "4917",
+      "nazwisko_imie": "MISZTAL Piotr",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1892",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "4988",
+      "nazwisko_imie": "BARTOSIK Lech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1870",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "5042",
+      "nazwisko_imie": "REGA Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1870",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "3038",
+      "nazwisko_imie": "ZIĘTEK Waldemar",
+      "tytul_kategoria": "I",
+      "rank_fide": "1865",
+      "klub": "KLIM UKSz Gambit Starachowice",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "5043",
+      "nazwisko_imie": "RELIDZYNSKI Tadeusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1860",
+      "klub": "KSz HETMAN Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "5055",
+      "nazwisko_imie": "STEFANIAK Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1860",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "4928",
+      "nazwisko_imie": "¦WIONTEK Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1858",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "4971",
+      "nazwisko_imie": "FURMAN Justyna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1857",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "5010",
+      "nazwisko_imie": "JUSZCZAK Anna",
+      "tytul_kategoria": "K",
+      "rank_fide": "1852",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "30130",
+      "nazwisko_imie": "ZAJˇCZKOWSKI Michał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1851",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "75039",
+      "nazwisko_imie": "POŻOGA Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1851",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "86442",
+      "nazwisko_imie": "DASZKIEWICZ Adrian",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1850",
+      "klub": "LKS Skała Tumlin",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "4986",
+      "nazwisko_imie": "BAKALARZ Leszek",
+      "tytul_kategoria": "FM",
+      "rank_fide": "1848",
+      "klub": "KSz HETMAN Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "20478",
+      "nazwisko_imie": "KILJAŃSKI Jędrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1847",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "52103",
+      "nazwisko_imie": "FIDOR Łukasz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1845",
+      "klub": "LZS KORDIAN Bliżyn",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "20479",
+      "nazwisko_imie": "KOŁODZIEJ Przemysław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1843",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "56335",
+      "nazwisko_imie": "OLESIŃSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1839",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "7927",
+      "nazwisko_imie": "PRZYBYL Jozef",
+      "tytul_kategoria": "I",
+      "rank_fide": "1836",
+      "klub": "KSz HETMAN Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "46399",
+      "nazwisko_imie": "CHOINA Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1834",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "5026",
+      "nazwisko_imie": "MICHALSKI Artur",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1833",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "49613",
+      "nazwisko_imie": "PRZEPIÓRA Anna",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1831",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "20481",
+      "nazwisko_imie": "SZYMANOWICZ Maksymilian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1828",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "63074",
+      "nazwisko_imie": "NOWAK Maciej",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1826",
+      "klub": "SSz ROSZADA Końskie",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "5013",
+      "nazwisko_imie": "KARPETA Robert",
+      "tytul_kategoria": "I",
+      "rank_fide": "1824",
+      "klub": "LZS KORDIAN Bliżyn",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "46787",
+      "nazwisko_imie": "PA¬DZIERZ Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1824",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "5056",
+      "nazwisko_imie": "STOLARSKI Janusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1814",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "38805",
+      "nazwisko_imie": "KOCIA Kamil",
+      "tytul_kategoria": "I",
+      "rank_fide": "1814",
+      "klub": "LKS Skała Tumlin",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "49017",
+      "nazwisko_imie": "SŁONIEWSKA Alicja",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1811",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "4929",
+      "nazwisko_imie": "SZCZYPKOWSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1810",
+      "klub": "HETMAN Ostrowiec ¦więtokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "67809",
+      "nazwisko_imie": "BARAŃSKI Zbigniew",
+      "tytul_kategoria": "II",
+      "rank_fide": "1807",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "13505",
+      "nazwisko_imie": "KAPUSTA Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1806",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "20477",
+      "nazwisko_imie": "JASZEWSKA Oliwia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1798",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "5047",
+      "nazwisko_imie": "RYBAK Mariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1797",
+      "klub": "KLIM UKSz Gambit Starachowice",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "37678",
+      "nazwisko_imie": "SKAWIŃSKI Szymon",
+      "tytul_kategoria": "I",
+      "rank_fide": "1797",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "38803",
+      "nazwisko_imie": "DETKA Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1796",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "28605",
+      "nazwisko_imie": "BUREK Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1794",
+      "klub": "UKS KADET Sandomierz",
+      "wojewodztwo_zwiazek": "SK"
+    }
+  ]
+}

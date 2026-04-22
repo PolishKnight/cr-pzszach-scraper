@@ -1,0 +1,346 @@
+{
+  "createdAt": "2026-04-22T21:52:42.068Z",
+  "totalRecords": 34,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "828/KP",
+      "nazwa": "AZS UMK Toruń",
+      "miasto": "Toruń",
+      "licencja": "02100046",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "348/KP",
+      "nazwa": "BKS CHEMIK Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100013",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "1012/KP",
+      "nazwa": "ITS FENIKS Inowrocław",
+      "miasto": "Inowrocław",
+      "licencja": "02100058",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "1084/KP",
+      "nazwa": "Fundacja Zagrajmy Razem Ernestowo",
+      "miasto": "Ernestowo",
+      "licencja": "02100061",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "1004/KP",
+      "nazwa": "IKS BYDGOSZCZ",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100055",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "1091/KP",
+      "nazwa": "Czerwona Królowa Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100062",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "953/KP",
+      "nazwa": "KS GWIAZDA Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100052",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "925/KP",
+      "nazwa": "KS Royal Chess Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100050",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "205/KP",
+      "nazwa": "KSz GAMBIT ¦wiecie",
+      "miasto": "¦wiecie n/Wisł±",
+      "licencja": "02100018",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "1056/KP",
+      "nazwa": "KSz Hetman Łubianka",
+      "miasto": "Łubianka",
+      "licencja": "02100060",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "",
+      "nazwa": "KPZszach",
+      "miasto": "Toruń",
+      "licencja": "002",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "279/KP",
+      "nazwa": "LKS PROMIEŃ Kowalewo Pomorskie",
+      "miasto": "Kowalewo Pomorskie",
+      "licencja": "02100038",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "202/KP",
+      "nazwa": "LUKS FENIKS Mrocza",
+      "miasto": "Mrocza",
+      "licencja": "02100032",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "369/KP",
+      "nazwa": "LZS WIEŻA Więcbork",
+      "miasto": "Więcbork",
+      "licencja": "02100034",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "196/KP",
+      "nazwa": "MLKS KRAJNA Sępólno Kraj.",
+      "miasto": "Sępólno Kraj.",
+      "licencja": "02100005",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "939/KP",
+      "nazwa": "MLKS TUCHOLANKA Tuchola",
+      "miasto": "Tuchola",
+      "licencja": "02100051",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "17",
+      "nr_pzszach": "1010/KP",
+      "nazwa": "MGKS Kujawiak Kowal",
+      "miasto": "Kowal",
+      "licencja": "02100056",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "18",
+      "nr_pzszach": "686/KP",
+      "nazwa": "M-LKS WISŁA Nowe",
+      "miasto": "Nowe",
+      "licencja": "02100036",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "19",
+      "nr_pzszach": "198/KP",
+      "nazwa": "MKS EMDEK Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100002",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "20",
+      "nr_pzszach": "362/KP",
+      "nazwa": "PKS WIATRAK Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100024",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "21",
+      "nr_pzszach": "493/KP",
+      "nazwa": "KSN ŁUCZNICZKA Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100029",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Niepełnosprawni",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "22",
+      "nr_pzszach": "965/KP",
+      "nazwa": "Start Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100053",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "23",
+      "nr_pzszach": "342/KP",
+      "nazwa": "UKS MDK Nr 1 - Hetman Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100008",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "24",
+      "nr_pzszach": "873/KP",
+      "nazwa": "UKS Gambit Toruń",
+      "miasto": "Toruń",
+      "licencja": "02100048",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "25",
+      "nr_pzszach": "791/KP",
+      "nazwa": "UKS FALA ¦wiekatowo",
+      "miasto": "¦wiekatowo",
+      "licencja": "02100045",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "26",
+      "nr_pzszach": "1029/KP",
+      "nazwa": "UKS KOPERNIK Czernikowo",
+      "miasto": "Czernikowo",
+      "licencja": "02100059",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "250.00 PLN"
+    },
+    {
+      "id": "27",
+      "nr_pzszach": "478/KP",
+      "nazwa": "UKS OPP Toruń",
+      "miasto": "Toruń",
+      "licencja": "02100007",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "28",
+      "nr_pzszach": "480/KP",
+      "nazwa": "UKS ROTMISTRZ Grudzi±dz",
+      "miasto": "Grudzi±dz",
+      "licencja": "02100012",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "29",
+      "nr_pzszach": "912/KP",
+      "nazwa": "UKS Rycerz Golub-Dobrzyń",
+      "miasto": "Golub-Dobrzyń",
+      "licencja": "02100049",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "30",
+      "nr_pzszach": "792/KP",
+      "nazwa": "UKS SZACHOWA DWÓJKA Szubin",
+      "miasto": "Szubin",
+      "licencja": "02100044",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "31",
+      "nr_pzszach": "1107/KP",
+      "nazwa": "UKS SZACHOWE ORŁY Dobrcz",
+      "miasto": "Dobrcz",
+      "licencja": "02100063",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "32",
+      "nr_pzszach": "975/KP",
+      "nazwa": "UKS SZACHY Osielsko",
+      "miasto": "Osielsko",
+      "licencja": "02100054",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "33",
+      "nr_pzszach": "743/KP",
+      "nazwa": "WKSz 1938 Włocławek",
+      "miasto": "Włocławek",
+      "licencja": "02100043",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "34",
+      "nr_pzszach": "195/KP",
+      "nazwa": "ŻTMS BASZTA Żnin",
+      "miasto": "Żnin",
+      "licencja": "02100004",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

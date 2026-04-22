@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:43.560Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "1100/LD",
+      "nazwa": "FRS OTWARCIE Wolbórz",
+      "miasto": "Wolbórz",
+      "licencja": "05100025",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "842/LD",
+      "nazwa": "KS LogIN Skierniewice",
+      "miasto": "Skierniewice",
+      "licencja": "05100015",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "863/LD",
+      "nazwa": "K. Sz. Dwie Wieże Rzgów",
+      "miasto": "Rzgów",
+      "licencja": "05100017",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "1022/LD",
+      "nazwa": "HETMAN ŁódĽ",
+      "miasto": "ŁódĽ",
+      "licencja": "05100023",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "156/LD",
+      "nazwa": "KSz PIˇTKA Skierniewice",
+      "miasto": "Skierniewice",
+      "licencja": "05100002",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "1047/LD",
+      "nazwa": "Klub Szachowych Wojowników",
+      "miasto": "Bełchatów",
+      "licencja": "05100024",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "1019/LD",
+      "nazwa": "Hetman Żelechlinek",
+      "miasto": "Żelechlinek",
+      "licencja": "05100022",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "1049/LD",
+      "nazwa": "LKS Opocznianka Opoczno",
+      "miasto": "Opoczno",
+      "licencja": "05100026",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "675/LD",
+      "nazwa": "LKS PARK Starzenice",
+      "miasto": "Wieluń",
+      "licencja": "00100002",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "821/LD",
+      "nazwa": "Łódzka Liga Szachowa",
+      "miasto": "ŁódĽ",
+      "licencja": "05100018",
+      "wojewodztwo_zwiazek": "LD",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

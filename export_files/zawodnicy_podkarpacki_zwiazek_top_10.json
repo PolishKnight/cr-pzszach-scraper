@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:48.407Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "59619",
+      "nazwisko_imie": "OLEKSIENKO Mikhailo",
+      "tytul_kategoria": "",
+      "rank_fide": "2558",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "41665",
+      "nazwisko_imie": "KAZAKOV Mikhail",
+      "tytul_kategoria": "",
+      "rank_fide": "2513",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "2019",
+      "nazwisko_imie": "DZIUBA Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2503",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "59641",
+      "nazwisko_imie": "FIRMAN Nazar",
+      "tytul_kategoria": "",
+      "rank_fide": "2458",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "45824",
+      "nazwisko_imie": "TURSKI Bartłomiej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2404",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "87285",
+      "nazwisko_imie": "RADZIMSKI Antoni",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2403",
+      "klub": "LKSz GCKiP Czarna",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "43029",
+      "nazwisko_imie": "CZERNEK Tymon",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2401",
+      "klub": "LKSz GCKiP Czarna",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "47163",
+      "nazwisko_imie": "CHYŻY Jakub",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2361",
+      "klub": "LKSz GCKiP Czarna",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "2593",
+      "nazwisko_imie": "BRZESKI Maciej",
+      "tytul_kategoria": "M",
+      "rank_fide": "2357",
+      "klub": "LKS PARNAS Stara Wie¶",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "59625",
+      "nazwisko_imie": "SERGEEV Vladimir",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2357",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    }
+  ]
+}

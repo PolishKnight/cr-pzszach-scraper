@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:42.334Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "1247",
+      "nazwisko_imie": "DRAGUN Kamil",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2512",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "23258",
+      "nazwisko_imie": "JANIK Igor",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2504",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "2765",
+      "nazwisko_imie": "KRASENKOW Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2483",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "5917",
+      "nazwisko_imie": "MATLAK Marek",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2479",
+      "klub": "Akademia Szachowa Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "50147",
+      "nazwisko_imie": "DZIDA Kamil",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2418",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "1413",
+      "nazwisko_imie": "OLIWA Marek",
+      "tytul_kategoria": "M",
+      "rank_fide": "2390",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "1437",
+      "nazwisko_imie": "SKALIK Przemysław",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2367",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "1252",
+      "nazwisko_imie": "KLIM Kamil",
+      "tytul_kategoria": "M",
+      "rank_fide": "2362",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "1423",
+      "nazwisko_imie": "PISULIŃSKI Jan",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2343",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "1391",
+      "nazwisko_imie": "LIWAK Przemysław",
+      "tytul_kategoria": "M",
+      "rank_fide": "2342",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    }
+  ]
+}

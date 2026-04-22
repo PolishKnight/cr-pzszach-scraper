@@ -1,0 +1,906 @@
+{
+  "createdAt": "2026-04-22T21:52:47.593Z",
+  "totalRecords": 100,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "23608",
+      "nazwisko_imie": "TOMCZAK Mikołaj",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2440",
+      "klub": "STRZELEC Strzelce Opolskie",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "40265",
+      "nazwisko_imie": "KOZAK Antoni",
+      "tytul_kategoria": "M",
+      "rank_fide": "2421",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "9846",
+      "nazwisko_imie": "KOVALEV Andrei",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2407",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "36952",
+      "nazwisko_imie": "MI¦ Mieszko",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2397",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "40872",
+      "nazwisko_imie": "GODZWON Iwo",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2394",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "56031",
+      "nazwisko_imie": "NIEDBAŁA Bartłomiej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2382",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "6209",
+      "nazwisko_imie": "WI¦NIEWSKI Adrian",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2351",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "3268",
+      "nazwisko_imie": "BARSKI Radosław",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2335",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "49895",
+      "nazwisko_imie": "KACPRZAK Kacper",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2324",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "19764",
+      "nazwisko_imie": "ŁUKASIEWICZ Krzysztof",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2322",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "49896",
+      "nazwisko_imie": "KACPRZAK Karol",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2312",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "3539",
+      "nazwisko_imie": "JANKOWSKI Jozef",
+      "tytul_kategoria": "K",
+      "rank_fide": "2310",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "33657",
+      "nazwisko_imie": "OGŁAZA Oskar",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2310",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "23152",
+      "nazwisko_imie": "PUŁTORAK Jan",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2303",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "10822",
+      "nazwisko_imie": "ŻOCHOWSKI Kacper",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2287",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "3684",
+      "nazwisko_imie": "NAJBAR Marcin",
+      "tytul_kategoria": "M",
+      "rank_fide": "2234",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "4389",
+      "nazwisko_imie": "SZYMAŃSKI Piotr",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2229",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "3625",
+      "nazwisko_imie": "CHEŃSKI Dariusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2225",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "3629",
+      "nazwisko_imie": "CISZEWSKI Maciej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2224",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "43889",
+      "nazwisko_imie": "MALICKA Maria",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2223",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "3618",
+      "nazwisko_imie": "BANASIK Krzysztof",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2172",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "3672",
+      "nazwisko_imie": "KRZYWDA Andrzej",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2172",
+      "klub": "KS Feniks Brzeg",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "3626",
+      "nazwisko_imie": "CHOJNACKI Sławomir",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2166",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "3679",
+      "nazwisko_imie": "LUDWIKOWSKI Dariusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2160",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "3683",
+      "nazwisko_imie": "MEINERT Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2159",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "33531",
+      "nazwisko_imie": "HASTEROK Mateusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2156",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "3657",
+      "nazwisko_imie": "HUDZIAK Paweł",
+      "tytul_kategoria": "K",
+      "rank_fide": "2154",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "3690",
+      "nazwisko_imie": "OLSZYŃSKI Kazimierz",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2151",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "3624",
+      "nazwisko_imie": "BUGNAR Józef",
+      "tytul_kategoria": "K",
+      "rank_fide": "2138",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "3669",
+      "nazwisko_imie": "KOWOLIK Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2135",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "15729",
+      "nazwisko_imie": "ADAMCZEWSKI Maciej",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2120",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "5818",
+      "nazwisko_imie": "KOCWIN Bartosz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2118",
+      "klub": "STRZELEC Strzelce Opolskie",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "3723",
+      "nazwisko_imie": "WALCZAK Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2109",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "6143",
+      "nazwisko_imie": "SZTWIERTNIA Jan Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2107",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "44881",
+      "nazwisko_imie": "BUDZISZ Adrian",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2103",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "3546",
+      "nazwisko_imie": "WARMUZ Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "2096",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "3711",
+      "nazwisko_imie": "SZYMANOWSKA Karolina",
+      "tytul_kategoria": "K",
+      "rank_fide": "2096",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "3670",
+      "nazwisko_imie": "KO¬MIŃSKI Bartosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2085",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "3688",
+      "nazwisko_imie": "OGIEWKA Rafał",
+      "tytul_kategoria": "I",
+      "rank_fide": "2065",
+      "klub": "UKS Gekon Nysa",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "7736",
+      "nazwisko_imie": "HADZICKI Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2059",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "3665",
+      "nazwisko_imie": "KLIMIEC Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "2053",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "3710",
+      "nazwisko_imie": "SZCZE¦NIAK Konrad",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2051",
+      "klub": "UKS Gekon Nysa",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "52299",
+      "nazwisko_imie": "CZERNECKI Andrzej",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2040",
+      "klub": "MDK Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "3585",
+      "nazwisko_imie": "JACHYM Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "2038",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "3637",
+      "nazwisko_imie": "DRECZKOWSKI Ryszard",
+      "tytul_kategoria": "K",
+      "rank_fide": "2034",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "3699",
+      "nazwisko_imie": "RACZYNSKI Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "2027",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "3736",
+      "nazwisko_imie": "ZGADZAJ Rafał",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2024",
+      "klub": "UKS Gekon Nysa",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "53657",
+      "nazwisko_imie": "SOWA Wiktoria",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2015",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "3649",
+      "nazwisko_imie": "GRAJDEK Jarosław",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2007",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "3685",
+      "nazwisko_imie": "NAJBAR Mateusz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2004",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "3680",
+      "nazwisko_imie": "MAŁECKI Rafał",
+      "tytul_kategoria": "K+",
+      "rank_fide": "1992",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "3694",
+      "nazwisko_imie": "PILARSKI Marian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1986",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "3616",
+      "nazwisko_imie": "ARENDARSKI Kazimierz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1984",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "3693",
+      "nazwisko_imie": "PIETROCZUK Roman",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1984",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "3691",
+      "nazwisko_imie": "OLSZYŃSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1977",
+      "klub": "UKS Gekon Nysa",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "3667",
+      "nazwisko_imie": "KOMIDZIERSKI Eugeniusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1975",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "3709",
+      "nazwisko_imie": "SZAJDA Marcin",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1974",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "3702",
+      "nazwisko_imie": "SIEKANIEC Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "1969",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "9659",
+      "nazwisko_imie": "SZARATA Adrian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1968",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "50872",
+      "nazwisko_imie": "TALIK Patryk",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1968",
+      "klub": "STRZELEC Strzelce Opolskie",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "3559",
+      "nazwisko_imie": "POPEK Jacek",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1963",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "3566",
+      "nazwisko_imie": "SZYBKA Andrzej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1962",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "2906",
+      "nazwisko_imie": "POZNAŃSKA Katarzyna",
+      "tytul_kategoria": "K++",
+      "rank_fide": "1961",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "3638",
+      "nazwisko_imie": "DZIEDZIC Robert",
+      "tytul_kategoria": "I",
+      "rank_fide": "1961",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "9386",
+      "nazwisko_imie": "MARCHEWKA Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1961",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "3714",
+      "nazwisko_imie": "TABOŁA Marcin",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1953",
+      "klub": "STRZELEC Strzelce Opolskie",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "7944",
+      "nazwisko_imie": "RUDZKI Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1952",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "28959",
+      "nazwisko_imie": "ADAMCZYK Zuzanna",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "1950",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "3609",
+      "nazwisko_imie": "MARCINKIEWICZ Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1942",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "7735",
+      "nazwisko_imie": "GWO¬DZIK Zbigniew",
+      "tytul_kategoria": "I",
+      "rank_fide": "1942",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "5634",
+      "nazwisko_imie": "CZEMPIEL Henryk",
+      "tytul_kategoria": "I",
+      "rank_fide": "1940",
+      "klub": "STRZELEC Strzelce Opolskie",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "71069",
+      "nazwisko_imie": "OGŁAZA Dawid",
+      "tytul_kategoria": "I",
+      "rank_fide": "1937",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "116261",
+      "nazwisko_imie": "KOWALSKI Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1937",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "3586",
+      "nazwisko_imie": "KLIMEK Marcin",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1932",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "3686",
+      "nazwisko_imie": "CHMIEL Dominika",
+      "tytul_kategoria": "M",
+      "rank_fide": "1932",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "7934",
+      "nazwisko_imie": "REWASIEWICZ Miłosz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1926",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "9286",
+      "nazwisko_imie": "KOPICA Paulina",
+      "tytul_kategoria": "K",
+      "rank_fide": "1925",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "3706",
+      "nazwisko_imie": "SRUTWA Maciej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1915",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "9869",
+      "nazwisko_imie": "SZMER Aleksander",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "3703",
+      "nazwisko_imie": "SKUPINSKA Anna",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1912",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "9449",
+      "nazwisko_imie": "NOCON Marian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1911",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "142800",
+      "nazwisko_imie": "RIABOV Valeri",
+      "tytul_kategoria": "",
+      "rank_fide": "1909",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "3594",
+      "nazwisko_imie": "WOLSKI Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1908",
+      "klub": "STRZELEC Strzelce Opolskie",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "3728",
+      "nazwisko_imie": "WILK Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1907",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "8998",
+      "nazwisko_imie": "AUGUSTYNOWICZ Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1906",
+      "klub": "LZS VICTORIA Chró¶cice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "3715",
+      "nazwisko_imie": "WODECKA Marta",
+      "tytul_kategoria": "I",
+      "rank_fide": "1905",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "9270",
+      "nazwisko_imie": "KLIMEK Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1901",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "12860",
+      "nazwisko_imie": "WRÓBEL Maciej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1901",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "19743",
+      "nazwisko_imie": "RACŁAWICKI Kacper",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1898",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "51935",
+      "nazwisko_imie": "BEDNARCZYK Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1897",
+      "klub": "KS Feniks Brzeg",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "10614",
+      "nazwisko_imie": "MANIA Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1896",
+      "klub": "STRZELEC Strzelce Opolskie",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "3623",
+      "nazwisko_imie": "BOBOWSKA Joanna",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1893",
+      "klub": "LKS ZARZEWIE Prudnik",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "3597",
+      "nazwisko_imie": "JANKOWSKI Grzegorz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1892",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "3573",
+      "nazwisko_imie": "KAMIŃSKI Leszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1891",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "30018",
+      "nazwisko_imie": "ORLIK Sandra",
+      "tytul_kategoria": "K",
+      "rank_fide": "1886",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "3666",
+      "nazwisko_imie": "KOCON Wiktor",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1884",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "3596",
+      "nazwisko_imie": "BAZAN Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1879",
+      "klub": "UKS RODŁO Opole",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "3549",
+      "nazwisko_imie": "JEZIORSKA Iwona",
+      "tytul_kategoria": "I",
+      "rank_fide": "1876",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "3556",
+      "nazwisko_imie": "PILARSKI Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1873",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "3707",
+      "nazwisko_imie": "STRZĘP Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1873",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    }
+  ]
+}

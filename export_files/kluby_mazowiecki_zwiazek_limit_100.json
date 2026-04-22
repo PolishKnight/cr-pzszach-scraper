@@ -1,0 +1,716 @@
+{
+  "createdAt": "2026-04-22T21:52:46.043Z",
+  "totalRecords": 71,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "583/MA",
+      "nazwa": "CKR SSz Grójec",
+      "miasto": "Grójec",
+      "licencja": "07100054",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "989/MA",
+      "nazwa": "CLKS MAZOVIA",
+      "miasto": "Ciechanów",
+      "licencja": "07100084",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "936/MA",
+      "nazwa": "Fundacja Artus",
+      "miasto": "Józefów",
+      "licencja": "07100073",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "909/MA",
+      "nazwa": "Groteka",
+      "miasto": "Warszawa",
+      "licencja": "07100074",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "1057/MA",
+      "nazwa": "Fundacja Inicjatyw Niebanalnych",
+      "miasto": "Warszawa",
+      "licencja": "07100095",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "250.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "1054/MA",
+      "nazwa": "VOLAT",
+      "miasto": "Warszawa",
+      "licencja": "07100100",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "1081/MA",
+      "nazwa": "Legia Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100104",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "568/MA",
+      "nazwa": "Fundacja Szachowa Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "0",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "980/MA",
+      "nazwa": "Fundacja Szachy w Szkołach",
+      "miasto": "Warszawa",
+      "licencja": "07100078",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "1055/MA",
+      "nazwa": "Szansa",
+      "miasto": "Warszawa",
+      "licencja": "07100108",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "250.00 PLN"
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "983/MA",
+      "nazwa": "FWCI KS Mogalo Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100080",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "982/MA",
+      "nazwa": "KS Sokół Serock",
+      "miasto": "Serock",
+      "licencja": "07100079",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "1017/MA",
+      "nazwa": "KS Child-Kingdom",
+      "miasto": "Warszawa",
+      "licencja": "07100088",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "804/MA",
+      "nazwa": "KS LAURA Chylice",
+      "miasto": "Chylice",
+      "licencja": "07100053",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "787/MA",
+      "nazwa": "KS LEGION Legionowo",
+      "miasto": "Legionowo",
+      "licencja": "07100050",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "986/MA",
+      "nazwa": "Montownia Rozrywki",
+      "miasto": "Warszawa",
+      "licencja": "07100081",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "17",
+      "nr_pzszach": "995/MA",
+      "nazwa": "KS SZACHOLANDIA",
+      "miasto": "Warszawa",
+      "licencja": "07100085",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "18",
+      "nr_pzszach": "773/MA",
+      "nazwa": "KSSSN URSYNÓW Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100044",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "19",
+      "nr_pzszach": "1042/MA",
+      "nazwa": "KS W¶ciekła Wieża",
+      "miasto": "Warszawa",
+      "licencja": "07100094",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "20",
+      "nr_pzszach": "920/MA",
+      "nazwa": "KSz ZUGZWANG Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100070",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "21",
+      "nr_pzszach": "971/MA",
+      "nazwa": "KSz Debiut Zamienie",
+      "miasto": "Zamienie",
+      "licencja": "07100077",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "22",
+      "nr_pzszach": "1059/MA",
+      "nazwa": "KSz. DROMADER",
+      "miasto": "Warszawa",
+      "licencja": "07100099",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "23",
+      "nr_pzszach": "884/MA",
+      "nazwa": "KSz Hetman Płock",
+      "miasto": "Płock",
+      "licencja": "07100063",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "24",
+      "nr_pzszach": "988/MA",
+      "nazwa": "KSz Król Batory Otwock",
+      "miasto": "Otwock",
+      "licencja": "07100082",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "25",
+      "nr_pzszach": "999/MA",
+      "nazwa": "KS Pan Hilary PBS Wyszków",
+      "miasto": "Wyszków",
+      "licencja": "07100087",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "26",
+      "nr_pzszach": "1026/MA",
+      "nazwa": "KSzPW ENTROPIA",
+      "miasto": "Warszawa",
+      "licencja": "07100089",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "27",
+      "nr_pzszach": "659/MA",
+      "nazwa": "KSz POLONIA Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100019",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "28",
+      "nr_pzszach": "987/MA",
+      "nazwa": "KSz Skoczek Pie¶cirogi",
+      "miasto": "Nowe Pie¶cirogi",
+      "licencja": "07100083",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "29",
+      "nr_pzszach": "459/MA",
+      "nazwa": "KSz SKOCZEK Siedlce",
+      "miasto": "Siedlce",
+      "licencja": "07100020",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "30",
+      "nr_pzszach": "814/MA",
+      "nazwa": "KSz SKOCZEK TROJAŃSKI",
+      "miasto": "Warszawa",
+      "licencja": "07100055",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "31",
+      "nr_pzszach": "890/MA",
+      "nazwa": "KSz SzachMatek Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100064",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "32",
+      "nr_pzszach": "778/MA",
+      "nazwa": "KSz WARSAW SHARKS Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100049",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "33",
+      "nr_pzszach": "187/MA",
+      "nazwa": "LKS WRZOS Międzyborów",
+      "miasto": "Miedzyborów",
+      "licencja": "07100012",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "34",
+      "nr_pzszach": "",
+      "nazwa": "MAZSzach w Warszawie",
+      "miasto": "Warszawa",
+      "licencja": "007",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "35",
+      "nr_pzszach": "942/MA",
+      "nazwa": "MKS KORONA Góra Kalwaria",
+      "miasto": "Góra Kalwaria",
+      "licencja": "07100075",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "36",
+      "nr_pzszach": "220/MA",
+      "nazwa": "MLKS NADNARWIANKA Pułtusk",
+      "miasto": "Pułtusk",
+      "licencja": "07100025",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "37",
+      "nr_pzszach": "794/MA",
+      "nazwa": "TKKF PROMYK Ciechanów",
+      "miasto": "Ciechanów",
+      "licencja": "07100052",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "38",
+      "nr_pzszach": "952/MA",
+      "nazwa": "MUKS TĘCZA Ostrołęka",
+      "miasto": "Ostrołęka",
+      "licencja": "07100076",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "39",
+      "nr_pzszach": "525/MA",
+      "nazwa": "MTSz Mińsk Mazowiecki",
+      "miasto": "Mińsk Mazowiecki",
+      "licencja": "07100011",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "40",
+      "nr_pzszach": "1035/MA",
+      "nazwa": "Stowarzyszenie Paraolimpijczyk",
+      "miasto": "Płock",
+      "licencja": "07100107",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "250.00 PLN"
+    },
+    {
+      "id": "41",
+      "nr_pzszach": "1041/MA",
+      "nazwa": "KS Gambit NiedĽwiedzia",
+      "miasto": "Węgrów",
+      "licencja": "07100092",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "42",
+      "nr_pzszach": "1050/MA",
+      "nazwa": "KS Poliszachnika",
+      "miasto": "Warszawa",
+      "licencja": "07100096",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "43",
+      "nr_pzszach": "897/MA",
+      "nazwa": "Kotwica Borzęcin",
+      "miasto": "Borzęcin Duży",
+      "licencja": "07100067",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "44",
+      "nr_pzszach": "1036/MA",
+      "nazwa": "EMKA Wieliszew",
+      "miasto": "Poddębie",
+      "licencja": "07100091",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "45",
+      "nr_pzszach": "929/MA",
+      "nazwa": "Stowarzyszenie SYRENKA",
+      "miasto": "Warszawa",
+      "licencja": "07100071",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Niepełnosprawni",
+      "oplata_roczna": "100.00 PLN"
+    },
+    {
+      "id": "46",
+      "nr_pzszach": "1053/MA",
+      "nazwa": "Stowarzyszenie 70",
+      "miasto": "Płock",
+      "licencja": "07100097",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "47",
+      "nr_pzszach": "1094/MA",
+      "nazwa": "SZACH-MAT Puszcza Mariańska",
+      "miasto": "Puszcza Mariańska",
+      "licencja": "07100102",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "48",
+      "nr_pzszach": "599/MA",
+      "nazwa": "SzUKS Gostmat 83 Gostynin",
+      "miasto": "Gostynin",
+      "licencja": "07100047",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "49",
+      "nr_pzszach": "931/MA",
+      "nazwa": "UKS Rakovia",
+      "miasto": "Warszawa",
+      "licencja": "07100072",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "50",
+      "nr_pzszach": "733/MA",
+      "nazwa": "UKS-STSz Sokołów Podlaski",
+      "miasto": "Sokołów Podlaski",
+      "licencja": "07100033",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "51",
+      "nr_pzszach": "572/MA",
+      "nazwa": "UKS CAISSA Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100026",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "52",
+      "nr_pzszach": "545/MA",
+      "nazwa": "UKS CZTERNASTKA Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100003",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "53",
+      "nr_pzszach": "789/MA",
+      "nazwa": "UKS GAMBIT Wesoła",
+      "miasto": "Warszawa",
+      "licencja": "07100051",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "54",
+      "nr_pzszach": "615/MA",
+      "nazwa": "UKS HETMAN Puszcza Mariańska",
+      "miasto": "Puszcza Mariańska",
+      "licencja": "07100005",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "55",
+      "nr_pzszach": "124/MA",
+      "nazwa": "UKS ŁADY Raszyn",
+      "miasto": "Raszyn",
+      "licencja": "07100023",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "56",
+      "nr_pzszach": "849/MA",
+      "nazwa": "UKS Montessori",
+      "miasto": "Warszawa",
+      "licencja": "07100061",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "57",
+      "nr_pzszach": "1032/MA",
+      "nazwa": "UKS Najdorf Szczęsne",
+      "miasto": "Grodzisk Mazowiecki",
+      "licencja": "07100090",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "58",
+      "nr_pzszach": "728/MA",
+      "nazwa": "UKS Roszada Radom",
+      "miasto": "Radom",
+      "licencja": "07100098",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "59",
+      "nr_pzszach": "750/MA",
+      "nazwa": "UKS SP 321 Warszawa-Bemowo",
+      "miasto": "Warszawa",
+      "licencja": "07100035",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "60",
+      "nr_pzszach": "900/MA",
+      "nazwa": "UKS SPARTA Białołęka",
+      "miasto": "Warszawa",
+      "licencja": "07100069",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "61",
+      "nr_pzszach": "996/MA",
+      "nazwa": "UKS Sternik Pruszków",
+      "miasto": "Pruszków",
+      "licencja": "07100086",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "62",
+      "nr_pzszach": "847/MA",
+      "nazwa": "UKS Szachowa Dwójka Grodzisk Maz.",
+      "miasto": "Grodzisk Mazowiecki",
+      "licencja": "07100060",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "63",
+      "nr_pzszach": "1082/MA",
+      "nazwa": "UKS Szachowe Przygody Radom",
+      "miasto": "Radom",
+      "licencja": "07100103",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "64",
+      "nr_pzszach": "497/MA",
+      "nazwa": "UKS TSz Zieloni Zielonka",
+      "miasto": "Zielonka",
+      "licencja": "07100028",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "65",
+      "nr_pzszach": "1113/MA",
+      "nazwa": "UKS TWIERDZA Mokotów",
+      "miasto": "Warszawa",
+      "licencja": "07100105",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "100.00 PLN"
+    },
+    {
+      "id": "66",
+      "nr_pzszach": "1074/MA",
+      "nazwa": "UKS W±sewska Wieża",
+      "miasto": "W±sewo",
+      "licencja": "07100101",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "67",
+      "nr_pzszach": "832/MA",
+      "nazwa": "UKS ŻAGLE Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100057",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "68",
+      "nr_pzszach": "192/MA",
+      "nazwa": "UKSz Hetman Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100030",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "69",
+      "nr_pzszach": "1116/MA",
+      "nazwa": "UKS PITAGORAS Rusiec",
+      "miasto": "Rusiec",
+      "licencja": "07100106",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "70",
+      "nr_pzszach": "1039/MA",
+      "nazwa": "UKS III Ogród Jordanowski",
+      "miasto": "Warszawa",
+      "licencja": "07100093",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "71",
+      "nr_pzszach": "450/MA",
+      "nazwa": "ZMCh Polska YMCA Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100027",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:56.494Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "4091",
+      "nazwisko_imie": "SYGULSKI Artur",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2378",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "44526",
+      "nazwisko_imie": "ŁUCZAK Filip",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2362",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "7508",
+      "nazwisko_imie": "PANOCKI Adrian",
+      "tytul_kategoria": "M",
+      "rank_fide": "2356",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "50017",
+      "nazwisko_imie": "ALIAVDIN Nikolai",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2348",
+      "klub": "UKSz SKOCZEK Choszczno",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "7495",
+      "nazwisko_imie": "MA¦LANKA Robert",
+      "tytul_kategoria": "K",
+      "rank_fide": "2300",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "7480",
+      "nazwisko_imie": "KULA Robert",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2284",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "7427",
+      "nazwisko_imie": "CHOCHULSKI Artur",
+      "tytul_kategoria": "K",
+      "rank_fide": "2280",
+      "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "7498",
+      "nazwisko_imie": "MATUSIAK Janusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2235",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "17650",
+      "nazwisko_imie": "ANTOLAK Julia",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2223",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "7323",
+      "nazwisko_imie": "MASŁOWSKI Michał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2205",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    }
+  ]
+}

@@ -1,0 +1,4506 @@
+{
+  "createdAt": "2026-04-22T21:52:50.142Z",
+  "totalRecords": 500,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "17555",
+      "nazwisko_imie": "SOCHACKI Christophe",
+      "tytul_kategoria": "",
+      "rank_fide": "2478",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "2834",
+      "nazwisko_imie": "MARKOWSKI Tomasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2475",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "146803",
+      "nazwisko_imie": "MAYORAU Mikita",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2457",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "4390",
+      "nazwisko_imie": "SZYPULSKI Andrzej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2405",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "51610",
+      "nazwisko_imie": "KAROLCZUK Iwo",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2373",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "4322",
+      "nazwisko_imie": "JAKUBOWSKI Maciej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2343",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "4359",
+      "nazwisko_imie": "OSTROWSKI Leszek",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2335",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "4317",
+      "nazwisko_imie": "GRYCEL Kamil",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2315",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "4307",
+      "nazwisko_imie": "DRZEMICKI Dariusz",
+      "tytul_kategoria": "M",
+      "rank_fide": "2300",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "4334",
+      "nazwisko_imie": "KOSCIUK Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "2295",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "4192",
+      "nazwisko_imie": "SPIRYDONSKI Michal",
+      "tytul_kategoria": "K",
+      "rank_fide": "2282",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "74435",
+      "nazwisko_imie": "REKUĆ Patryk",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2280",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "17280",
+      "nazwisko_imie": "SOCHACKI Wojtek",
+      "tytul_kategoria": "",
+      "rank_fide": "2278",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "4369",
+      "nazwisko_imie": "ROSZKOWSKI Rafał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2268",
+      "klub": "KSz Jagiellonia Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "56789",
+      "nazwisko_imie": "KRÓL Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "2267",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "68948",
+      "nazwisko_imie": "JASIULEWICZ Dawid",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2266",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "73484",
+      "nazwisko_imie": "CHISZKO Oskar",
+      "tytul_kategoria": "K",
+      "rank_fide": "2263",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "4282",
+      "nazwisko_imie": "ANUSZKIEWICZ Konrad",
+      "tytul_kategoria": "K",
+      "rank_fide": "2249",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "79030",
+      "nazwisko_imie": "BUTKIEWICZ Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "2248",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "4326",
+      "nazwisko_imie": "KAMINSKI Viktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "2247",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "4351",
+      "nazwisko_imie": "MORCHAT Miroslaw",
+      "tytul_kategoria": "K",
+      "rank_fide": "2246",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "4284",
+      "nazwisko_imie": "BATRUCH Kazimierz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2245",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "57038",
+      "nazwisko_imie": "SZCZOTKA Klara",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2241",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "81763",
+      "nazwisko_imie": "OBRYCKI Tomasz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2236",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "4346",
+      "nazwisko_imie": "ŁAPIŃSKI Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2229",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "54487",
+      "nazwisko_imie": "BACKIEL Hubert",
+      "tytul_kategoria": "K",
+      "rank_fide": "2226",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "4290",
+      "nazwisko_imie": "BORAWSKI Jakub",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2222",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "4314",
+      "nazwisko_imie": "GALKIEWICZ Dariusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2222",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "4323",
+      "nazwisko_imie": "JAKUBOWSKI Marcin",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2220",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "4387",
+      "nazwisko_imie": "MICKIEWICZ Maria",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2220",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "4300",
+      "nazwisko_imie": "CIRUK Jerzy",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2215",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "16956",
+      "nazwisko_imie": "SZÓSTKO Jakub",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2212",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "4336",
+      "nazwisko_imie": "KOSTYRA Stanisław",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2190",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "58857",
+      "nazwisko_imie": "BOROWIK Wojciech",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2188",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "4161",
+      "nazwisko_imie": "OLSZEWSKI Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2181",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "4335",
+      "nazwisko_imie": "KOSMOWSKI Przemysław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2179",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "11443",
+      "nazwisko_imie": "JAROCH Paweł",
+      "tytul_kategoria": "K",
+      "rank_fide": "2169",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "4399",
+      "nazwisko_imie": "WINSKI Łukasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2137",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "4182",
+      "nazwisko_imie": "KLUSOWSKI Marek",
+      "tytul_kategoria": "K",
+      "rank_fide": "2135",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "4330",
+      "nazwisko_imie": "KLIMASZEWSKI Dariusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2128",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "4344",
+      "nazwisko_imie": "KWIATKOWSKI Maciej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2128",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "79034",
+      "nazwisko_imie": "SAWICKI Dorian",
+      "tytul_kategoria": "K",
+      "rank_fide": "2117",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "4279",
+      "nazwisko_imie": "ALIJEV Boris",
+      "tytul_kategoria": "II+",
+      "rank_fide": "2109",
+      "klub": "UKS Augustovia Augustów",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "6368",
+      "nazwisko_imie": "CHOJNOWSKI Marcin",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2107",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "4352",
+      "nazwisko_imie": "NALIWAJKO Wojciech",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2100",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "4343",
+      "nazwisko_imie": "KUJAWA Jacek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2095",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "4681",
+      "nazwisko_imie": "ZDZIECHOWSKA Maja",
+      "tytul_kategoria": "M",
+      "rank_fide": "2093",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "4281",
+      "nazwisko_imie": "ANDREJCZUK Maciej",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2091",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "4394",
+      "nazwisko_imie": "WALEWSKI Wojciech",
+      "tytul_kategoria": "K",
+      "rank_fide": "2086",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "4333",
+      "nazwisko_imie": "KORECKI Lukasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2082",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "4177",
+      "nazwisko_imie": "HACKIEWICZ Wlodzimierz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2077",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "4341",
+      "nazwisko_imie": "KOZŁOWSKI Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2075",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "65832",
+      "nazwisko_imie": "PTASZYŃSKI Szymon",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2073",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "4156",
+      "nazwisko_imie": "JABLONSKI Zenon",
+      "tytul_kategoria": "K",
+      "rank_fide": "2072",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "36627",
+      "nazwisko_imie": "KALINOWSKA Zuzanna",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2072",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "70057",
+      "nazwisko_imie": "RACIS Michał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2068",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "27319",
+      "nazwisko_imie": "FILEWICZ Przemysław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2062",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "28793",
+      "nazwisko_imie": "KOZŁOWSKI Paweł",
+      "tytul_kategoria": "K",
+      "rank_fide": "2061",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "126430",
+      "nazwisko_imie": "SZUMIŃSKI Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "2052",
+      "klub": "KS Zaszachowani",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "60",
+      "id_pzszach": "21487",
+      "nazwisko_imie": "KIOŁBASA Damian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2050",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "4293",
+      "nazwisko_imie": "BUKOWSKI Wojciech",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2045",
+      "klub": "UKS Augustovia Augustów",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "62",
+      "id_pzszach": "94628",
+      "nazwisko_imie": "BUKŁAHO Ignacy",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2044",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "63",
+      "id_pzszach": "52244",
+      "nazwisko_imie": "CISZEWSKI Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2041",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "64",
+      "id_pzszach": "4299",
+      "nazwisko_imie": "CIOLEK Marcin",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2040",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "4201",
+      "nazwisko_imie": "JANKOWSKI Zbigniew",
+      "tytul_kategoria": "I",
+      "rank_fide": "2037",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "66",
+      "id_pzszach": "21271",
+      "nazwisko_imie": "HASANOV Sahib",
+      "tytul_kategoria": "II+",
+      "rank_fide": "2036",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "67",
+      "id_pzszach": "4301",
+      "nazwisko_imie": "CYLUK Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "2035",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "68",
+      "id_pzszach": "4172",
+      "nazwisko_imie": "DACIUK Sławomir",
+      "tytul_kategoria": "I",
+      "rank_fide": "2032",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "69",
+      "id_pzszach": "116117",
+      "nazwisko_imie": "OBUKHAVA Anastasiya",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2031",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "4147",
+      "nazwisko_imie": "MAZEK Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2027",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "4286",
+      "nazwisko_imie": "BERNACKI Krzysztof",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2017",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "72",
+      "id_pzszach": "4150",
+      "nazwisko_imie": "SZCZEPANSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "2016",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "4292",
+      "nazwisko_imie": "BRZOSTOWSKA Magdalena",
+      "tytul_kategoria": "I",
+      "rank_fide": "2015",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "4176",
+      "nazwisko_imie": "GRABOWSKI Adam",
+      "tytul_kategoria": "K",
+      "rank_fide": "2013",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "75",
+      "id_pzszach": "4168",
+      "nazwisko_imie": "ZDANCEWICZ Jarosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "2004",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "4187",
+      "nazwisko_imie": "PO¦WIATOWSKI Michał",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1998",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "4159",
+      "nazwisko_imie": "MURZA Adam",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1995",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "4145",
+      "nazwisko_imie": "CZAJA Wojciech",
+      "tytul_kategoria": "I",
+      "rank_fide": "1991",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "79",
+      "id_pzszach": "27318",
+      "nazwisko_imie": "FILEWICZ Radosław",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1990",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "30078",
+      "nazwisko_imie": "MARCIŃCZYK Monika",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "1990",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "81",
+      "id_pzszach": "60468",
+      "nazwisko_imie": "BARTNIK Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1990",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "82",
+      "id_pzszach": "9835",
+      "nazwisko_imie": "MAKSIMIUK Jaroslaw",
+      "tytul_kategoria": "I",
+      "rank_fide": "1986",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "83",
+      "id_pzszach": "4382",
+      "nazwisko_imie": "SOKOŁOWSKI Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1983",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "4357",
+      "nazwisko_imie": "ORŁOWSKA Anna",
+      "tytul_kategoria": "K",
+      "rank_fide": "1980",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "85",
+      "id_pzszach": "4398",
+      "nazwisko_imie": "LESZCZYŃSKA Małgorzata",
+      "tytul_kategoria": "K",
+      "rank_fide": "1979",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "86",
+      "id_pzszach": "22425",
+      "nazwisko_imie": "PYTEL Maciej",
+      "tytul_kategoria": "K",
+      "rank_fide": "1979",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "4347",
+      "nazwisko_imie": "LEWIARZ Piotr",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1975",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "88",
+      "id_pzszach": "56923",
+      "nazwisko_imie": "ZIANOWICZ Dominik",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1970",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "89",
+      "id_pzszach": "45076",
+      "nazwisko_imie": "BANCAREWICZ Aleks",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1969",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "1417",
+      "nazwisko_imie": "PACZKOWSKI Daniel",
+      "tytul_kategoria": "I",
+      "rank_fide": "1961",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "75149",
+      "nazwisko_imie": "BUSIŃSKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1961",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "92",
+      "id_pzszach": "4309",
+      "nazwisko_imie": "DUDEL Anna",
+      "tytul_kategoria": "K+",
+      "rank_fide": "1960",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "93",
+      "id_pzszach": "4204",
+      "nazwisko_imie": "MAMMADOV Vafa",
+      "tytul_kategoria": "K",
+      "rank_fide": "1959",
+      "klub": "KS Elbrus Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "94",
+      "id_pzszach": "4325",
+      "nazwisko_imie": "KAMINSKI Pawel",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1959",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "95",
+      "id_pzszach": "4285",
+      "nazwisko_imie": "BERNACKI Gabriel",
+      "tytul_kategoria": "I",
+      "rank_fide": "1954",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "4356",
+      "nazwisko_imie": "OCYTKO Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "1951",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "4370",
+      "nazwisko_imie": "RYSZKIEWICZ Adam",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1951",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "98",
+      "id_pzszach": "32359",
+      "nazwisko_imie": "WIERZBICKI Michał",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1941",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "99",
+      "id_pzszach": "10500",
+      "nazwisko_imie": "MILEWSKI Karol",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1936",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "57015",
+      "nazwisko_imie": "PASZKOWSKI Krystian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1935",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "101",
+      "id_pzszach": "75741",
+      "nazwisko_imie": "WASILUK Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1934",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "102",
+      "id_pzszach": "4296",
+      "nazwisko_imie": "BUZUN Michal",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1933",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "103",
+      "id_pzszach": "4358",
+      "nazwisko_imie": "AMROGOWICZ Dominika",
+      "tytul_kategoria": "K",
+      "rank_fide": "1933",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "104",
+      "id_pzszach": "42289",
+      "nazwisko_imie": "SZYDŁO Michał",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1930",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "105",
+      "id_pzszach": "10319",
+      "nazwisko_imie": "JARCZEWSKI Marcin",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1928",
+      "klub": "KSz Jagiellonia Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "106",
+      "id_pzszach": "6251",
+      "nazwisko_imie": "REMISZEWSKI Tomasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1924",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "107",
+      "id_pzszach": "4236",
+      "nazwisko_imie": "DOKTOR Ryszard",
+      "tytul_kategoria": "I",
+      "rank_fide": "1922",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "108",
+      "id_pzszach": "4139",
+      "nazwisko_imie": "KOZŁOWSKI Bogdan",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1921",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "109",
+      "id_pzszach": "4310",
+      "nazwisko_imie": "DUDEL Michal",
+      "tytul_kategoria": "I",
+      "rank_fide": "1921",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "110",
+      "id_pzszach": "4175",
+      "nazwisko_imie": "GAŁASZEWSKI Patryk",
+      "tytul_kategoria": "I",
+      "rank_fide": "1920",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "111",
+      "id_pzszach": "19835",
+      "nazwisko_imie": "KURNICKI Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1920",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "112",
+      "id_pzszach": "4331",
+      "nazwisko_imie": "KOJŁO Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1917",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "113",
+      "id_pzszach": "50363",
+      "nazwisko_imie": "ARCISZEWSKA Zuzanna",
+      "tytul_kategoria": "K",
+      "rank_fide": "1915",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "114",
+      "id_pzszach": "67228",
+      "nazwisko_imie": "JASZCZUK Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "115",
+      "id_pzszach": "4401",
+      "nazwisko_imie": "ZAJKOWSKA Agata",
+      "tytul_kategoria": "I",
+      "rank_fide": "1911",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "116",
+      "id_pzszach": "7812",
+      "nazwisko_imie": "KRUTUL Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1909",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "117",
+      "id_pzszach": "4195",
+      "nazwisko_imie": "WALCZAK Rafał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1908",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "118",
+      "id_pzszach": "10663",
+      "nazwisko_imie": "SIEKLUCKI Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1908",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "119",
+      "id_pzszach": "22426",
+      "nazwisko_imie": "PYTEL Przemysław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1903",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "120",
+      "id_pzszach": "9809",
+      "nazwisko_imie": "JA¦KIEWICZ Kamila",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1898",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "121",
+      "id_pzszach": "4376",
+      "nazwisko_imie": "SIELIWONIK Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1894",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "122",
+      "id_pzszach": "4146",
+      "nazwisko_imie": "KONOPKO Łukasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1893",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "123",
+      "id_pzszach": "4298",
+      "nazwisko_imie": "CHILKIEWICZ Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1893",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "124",
+      "id_pzszach": "4207",
+      "nazwisko_imie": "OBIEDZIŃSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1887",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "125",
+      "id_pzszach": "4277",
+      "nazwisko_imie": "RANT Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1887",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "126",
+      "id_pzszach": "84833",
+      "nazwisko_imie": "RACIS Weronika",
+      "tytul_kategoria": "K",
+      "rank_fide": "1887",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "127",
+      "id_pzszach": "4234",
+      "nazwisko_imie": "CHILKIEWICZ Marek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1884",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "128",
+      "id_pzszach": "20869",
+      "nazwisko_imie": "TYLENDA Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1881",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "129",
+      "id_pzszach": "4355",
+      "nazwisko_imie": "OBIEDZIŃSKI Paweł",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1879",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "130",
+      "id_pzszach": "45352",
+      "nazwisko_imie": "KOPEĆ Norbert",
+      "tytul_kategoria": "I",
+      "rank_fide": "1879",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "131",
+      "id_pzszach": "10509",
+      "nazwisko_imie": "MURAWKO Julia",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1878",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "132",
+      "id_pzszach": "10816",
+      "nazwisko_imie": "ZOCH Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1867",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "133",
+      "id_pzszach": "61220",
+      "nazwisko_imie": "POJAWA Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1867",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "134",
+      "id_pzszach": "79695",
+      "nazwisko_imie": "PIESZKO Antoni",
+      "tytul_kategoria": "I",
+      "rank_fide": "1866",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "135",
+      "id_pzszach": "4278",
+      "nazwisko_imie": "RANT Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1865",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "136",
+      "id_pzszach": "4283",
+      "nazwisko_imie": "BARTOSZEWICZ Marcin",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1865",
+      "klub": "UKS Augustovia Augustów",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "137",
+      "id_pzszach": "61236",
+      "nazwisko_imie": "PIECZULIS Hubert",
+      "tytul_kategoria": "I",
+      "rank_fide": "1865",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "138",
+      "id_pzszach": "4380",
+      "nazwisko_imie": "SOBOCIŃSKI Sławomir",
+      "tytul_kategoria": "I",
+      "rank_fide": "1864",
+      "klub": "UKS ŻAK Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "139",
+      "id_pzszach": "22485",
+      "nazwisko_imie": "WIDELSKI Kacper",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1861",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "140",
+      "id_pzszach": "10249",
+      "nazwisko_imie": "DZIENISIUK Janusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1859",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "141",
+      "id_pzszach": "24309",
+      "nazwisko_imie": "PO¦WIATOWSKI Stanisław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1858",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "142",
+      "id_pzszach": "17907",
+      "nazwisko_imie": "KOZACZYŃSKA Aleksandra",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1857",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "143",
+      "id_pzszach": "22360",
+      "nazwisko_imie": "KAMIŃSKI Maciej",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1857",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "144",
+      "id_pzszach": "44796",
+      "nazwisko_imie": "CZARNIECKI Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1857",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "145",
+      "id_pzszach": "90881",
+      "nazwisko_imie": "WNOROWSKI Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "1857",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "146",
+      "id_pzszach": "4258",
+      "nazwisko_imie": "NIESTERUK Mikolaj",
+      "tytul_kategoria": "I",
+      "rank_fide": "1854",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "147",
+      "id_pzszach": "4225",
+      "nazwisko_imie": "URBANSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1852",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "148",
+      "id_pzszach": "4361",
+      "nazwisko_imie": "PAWLAK Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1851",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "149",
+      "id_pzszach": "22329",
+      "nazwisko_imie": "BURAKOWSKA Gabriela",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1849",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "150",
+      "id_pzszach": "38499",
+      "nazwisko_imie": "WOŁˇGIEWICZ Kinga",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1849",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "151",
+      "id_pzszach": "4149",
+      "nazwisko_imie": "STRUMILO Sławomir",
+      "tytul_kategoria": "I",
+      "rank_fide": "1845",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "152",
+      "id_pzszach": "4371",
+      "nazwisko_imie": "RYSZKIEWICZ Anna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1840",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "153",
+      "id_pzszach": "69802",
+      "nazwisko_imie": "JASIULEWICZ Kamil",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1840",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "154",
+      "id_pzszach": "94569",
+      "nazwisko_imie": "CZARNOWICZ Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1839",
+      "klub": "KSz Hetman Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "155",
+      "id_pzszach": "10158",
+      "nazwisko_imie": "BARMUTA Bartosz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1837",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "156",
+      "id_pzszach": "10253",
+      "nazwisko_imie": "FILIMONIUK Marcin",
+      "tytul_kategoria": "I",
+      "rank_fide": "1837",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "157",
+      "id_pzszach": "10478",
+      "nazwisko_imie": "MANKOWSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1830",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "158",
+      "id_pzszach": "67946",
+      "nazwisko_imie": "WOJTACHA Krzysztof",
+      "tytul_kategoria": "I",
+      "rank_fide": "1830",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "159",
+      "id_pzszach": "31725",
+      "nazwisko_imie": "KORUCH Maria",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1826",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "160",
+      "id_pzszach": "113916",
+      "nazwisko_imie": "MYKHALIUK Mykhailo",
+      "tytul_kategoria": "I",
+      "rank_fide": "1823",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "161",
+      "id_pzszach": "24267",
+      "nazwisko_imie": "BREJER Ryszard",
+      "tytul_kategoria": "II",
+      "rank_fide": "1822",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "162",
+      "id_pzszach": "10758",
+      "nazwisko_imie": "WASILUK Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1821",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "163",
+      "id_pzszach": "29549",
+      "nazwisko_imie": "CHOMICKA Kinga",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1819",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "164",
+      "id_pzszach": "4243",
+      "nazwisko_imie": "DUBRAWSKA Greta",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1817",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "165",
+      "id_pzszach": "4250",
+      "nazwisko_imie": "ZINCZUK Leon",
+      "tytul_kategoria": "I",
+      "rank_fide": "1816",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "166",
+      "id_pzszach": "4291",
+      "nazwisko_imie": "BRZEK Damian",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1814",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "167",
+      "id_pzszach": "4246",
+      "nazwisko_imie": "NIEBRZYDOWSKI Emil",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1811",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "168",
+      "id_pzszach": "17915",
+      "nazwisko_imie": "OLEKSZA Radosław",
+      "tytul_kategoria": "I",
+      "rank_fide": "1809",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "169",
+      "id_pzszach": "31330",
+      "nazwisko_imie": "SZULC Filip",
+      "tytul_kategoria": "I",
+      "rank_fide": "1801",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "170",
+      "id_pzszach": "10274",
+      "nazwisko_imie": "GORBACZ Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1798",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "171",
+      "id_pzszach": "10230",
+      "nazwisko_imie": "DACIUK Jarosław",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1796",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "172",
+      "id_pzszach": "4241",
+      "nazwisko_imie": "SIELIWONIK Katarzyna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1795",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "173",
+      "id_pzszach": "10678",
+      "nazwisko_imie": "SOBOLEWSKI Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1794",
+      "klub": "UKS Augustovia Augustów",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "174",
+      "id_pzszach": "75222",
+      "nazwisko_imie": "KRYNICKI Filip",
+      "tytul_kategoria": "I",
+      "rank_fide": "1794",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "175",
+      "id_pzszach": "10285",
+      "nazwisko_imie": "GROCHOWSKI Robert",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1793",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "176",
+      "id_pzszach": "98136",
+      "nazwisko_imie": "WNOROWSKI Łukasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1790",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "177",
+      "id_pzszach": "4269",
+      "nazwisko_imie": "FRYZOWSKI Grzegorz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1789",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "178",
+      "id_pzszach": "10190",
+      "nazwisko_imie": "BUCKO Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1789",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "179",
+      "id_pzszach": "73556",
+      "nazwisko_imie": "PIEKUTOWSKA Lena",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1787",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "180",
+      "id_pzszach": "22334",
+      "nazwisko_imie": "DARGIEWICZ Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1784",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "181",
+      "id_pzszach": "64090",
+      "nazwisko_imie": "GERASIMIUK Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1784",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "182",
+      "id_pzszach": "38451",
+      "nazwisko_imie": "JANOWICZ Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1783",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "183",
+      "id_pzszach": "10197",
+      "nazwisko_imie": "BUŁATOW Witali",
+      "tytul_kategoria": "II",
+      "rank_fide": "1782",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "184",
+      "id_pzszach": "4211",
+      "nazwisko_imie": "SOLIWODA Aleksandra",
+      "tytul_kategoria": "I",
+      "rank_fide": "1778",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "185",
+      "id_pzszach": "61535",
+      "nazwisko_imie": "BOROWIK Monika",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1778",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "186",
+      "id_pzszach": "10273",
+      "nazwisko_imie": "GORBACZ Dominika",
+      "tytul_kategoria": "I",
+      "rank_fide": "1776",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "187",
+      "id_pzszach": "59325",
+      "nazwisko_imie": "BOROWIK Karol",
+      "tytul_kategoria": "I",
+      "rank_fide": "1776",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "188",
+      "id_pzszach": "23056",
+      "nazwisko_imie": "TROFIMIUK Tomasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1774",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "189",
+      "id_pzszach": "4188",
+      "nazwisko_imie": "RACZYNSKI Miłosz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1773",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "190",
+      "id_pzszach": "39983",
+      "nazwisko_imie": "JASZCZUK Hubert",
+      "tytul_kategoria": "I",
+      "rank_fide": "1771",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "191",
+      "id_pzszach": "75712",
+      "nazwisko_imie": "ETEL Szymon",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1771",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "192",
+      "id_pzszach": "56364",
+      "nazwisko_imie": "PAŁEJKO Maria",
+      "tytul_kategoria": "I",
+      "rank_fide": "1769",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "193",
+      "id_pzszach": "23100",
+      "nazwisko_imie": "ZIZIUK Martyna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1768",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "194",
+      "id_pzszach": "10333",
+      "nazwisko_imie": "JUREWICZ Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1767",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "195",
+      "id_pzszach": "17916",
+      "nazwisko_imie": "CHMIELECKA Aleksandra",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1767",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "196",
+      "id_pzszach": "100275",
+      "nazwisko_imie": "KOZŁOWSKI Cezary",
+      "tytul_kategoria": "I",
+      "rank_fide": "1763",
+      "klub": "KSz Hetman Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "197",
+      "id_pzszach": "52157",
+      "nazwisko_imie": "SAPIŃSKI Sebastian",
+      "tytul_kategoria": "I",
+      "rank_fide": "1762",
+      "klub": "KSz Hetman Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "198",
+      "id_pzszach": "38455",
+      "nazwisko_imie": "SALAMOŃSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1761",
+      "klub": "UKS ŻAK Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "199",
+      "id_pzszach": "25833",
+      "nazwisko_imie": "MATEJCZYK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1760",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "200",
+      "id_pzszach": "87668",
+      "nazwisko_imie": "MARKOWSKI Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1760",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "201",
+      "id_pzszach": "56783",
+      "nazwisko_imie": "JAROCKI Gabriel",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1759",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "202",
+      "id_pzszach": "1317",
+      "nazwisko_imie": "SAPKOWSKA Agnieszka",
+      "tytul_kategoria": "I",
+      "rank_fide": "1758",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "203",
+      "id_pzszach": "4210",
+      "nazwisko_imie": "SOKOŁOWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1758",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "204",
+      "id_pzszach": "4272",
+      "nazwisko_imie": "KALEJTA Arkadiusz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1757",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "205",
+      "id_pzszach": "27315",
+      "nazwisko_imie": "CHOIŃSKA Debora",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1756",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "206",
+      "id_pzszach": "4151",
+      "nazwisko_imie": "DUBRAWSKI Michal",
+      "tytul_kategoria": "I",
+      "rank_fide": "1754",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "207",
+      "id_pzszach": "4148",
+      "nazwisko_imie": "ROSZKOWSKI Paweł",
+      "tytul_kategoria": "",
+      "rank_fide": "1753",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "208",
+      "id_pzszach": "28994",
+      "nazwisko_imie": "SZEWCZYK Malwina",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1752",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "209",
+      "id_pzszach": "124937",
+      "nazwisko_imie": "SALIUK Maryia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1752",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "210",
+      "id_pzszach": "37100",
+      "nazwisko_imie": "ZAPERT Grzegorz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1746",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "211",
+      "id_pzszach": "151762",
+      "nazwisko_imie": "RUTKOWSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1746",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "212",
+      "id_pzszach": "10255",
+      "nazwisko_imie": "FILIPKOWSKA Martyna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1744",
+      "klub": "KS Wieża Północy Szczuczyn",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "213",
+      "id_pzszach": "10818",
+      "nazwisko_imie": "ZWOLAN Anna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1743",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "214",
+      "id_pzszach": "96029",
+      "nazwisko_imie": "CZACHURSKI Ignacy",
+      "tytul_kategoria": "I",
+      "rank_fide": "1741",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "215",
+      "id_pzszach": "10144",
+      "nazwisko_imie": "BABICZ Bartosz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1740",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "216",
+      "id_pzszach": "10624",
+      "nazwisko_imie": "ROMANIUK Bartłomiej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1740",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "217",
+      "id_pzszach": "10713",
+      "nazwisko_imie": "SZWAJKOWSKI Patryk",
+      "tytul_kategoria": "II",
+      "rank_fide": "1740",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "218",
+      "id_pzszach": "10689",
+      "nazwisko_imie": "STASIEWICZ Jan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1739",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "219",
+      "id_pzszach": "17918",
+      "nazwisko_imie": "SMOLARCZYK Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1738",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "220",
+      "id_pzszach": "58188",
+      "nazwisko_imie": "PAŁEJKO Gabriela",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1737",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "221",
+      "id_pzszach": "20871",
+      "nazwisko_imie": "MENDAK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1736",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "222",
+      "id_pzszach": "24462",
+      "nazwisko_imie": "POPŁAWSKI Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1736",
+      "klub": "KS Zaszachowani",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "223",
+      "id_pzszach": "71800",
+      "nazwisko_imie": "SIENICKI Oliwier",
+      "tytul_kategoria": "II",
+      "rank_fide": "1735",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "224",
+      "id_pzszach": "541",
+      "nazwisko_imie": "SZYDŁOWSKI Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "1733",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "225",
+      "id_pzszach": "31329",
+      "nazwisko_imie": "SZULC Zofia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1733",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "226",
+      "id_pzszach": "21610",
+      "nazwisko_imie": "NIEDBAŁA Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1727",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "227",
+      "id_pzszach": "10599",
+      "nazwisko_imie": "PTAK Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1726",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "228",
+      "id_pzszach": "19834",
+      "nazwisko_imie": "FILIPOW Arkadiusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1725",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "229",
+      "id_pzszach": "10517",
+      "nazwisko_imie": "NASUTA Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1724",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "230",
+      "id_pzszach": "45066",
+      "nazwisko_imie": "TOKAJUK Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1724",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "231",
+      "id_pzszach": "52163",
+      "nazwisko_imie": "SAWICKI Wojciech",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1723",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "232",
+      "id_pzszach": "22583",
+      "nazwisko_imie": "BURAKOWSKI Mariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1722",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "233",
+      "id_pzszach": "10289",
+      "nazwisko_imie": "GRYGORCZUK Pawel",
+      "tytul_kategoria": "II",
+      "rank_fide": "1719",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "234",
+      "id_pzszach": "98625",
+      "nazwisko_imie": "KORONKIEWICZ Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1719",
+      "klub": "KSz Hetman Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "235",
+      "id_pzszach": "100503",
+      "nazwisko_imie": "OSZUTOWSKI Antoni",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1719",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "236",
+      "id_pzszach": "21408",
+      "nazwisko_imie": "GLOWACKI Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1717",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "237",
+      "id_pzszach": "59486",
+      "nazwisko_imie": "BUSIŃSKI Karol",
+      "tytul_kategoria": "I",
+      "rank_fide": "1715",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "238",
+      "id_pzszach": "17911",
+      "nazwisko_imie": "SZYMANIUK Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1714",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "239",
+      "id_pzszach": "62404",
+      "nazwisko_imie": "MAKAREC Anna",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1714",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "240",
+      "id_pzszach": "97932",
+      "nazwisko_imie": "WOROSZYŁO Jacek",
+      "tytul_kategoria": "",
+      "rank_fide": "1714",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "241",
+      "id_pzszach": "55837",
+      "nazwisko_imie": "CHEŁSTOWSKI Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1713",
+      "klub": "KS Elbrus Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "242",
+      "id_pzszach": "10265",
+      "nazwisko_imie": "GIERDA Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1712",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "243",
+      "id_pzszach": "142364",
+      "nazwisko_imie": "WAWIERNIA Emil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1710",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "244",
+      "id_pzszach": "62280",
+      "nazwisko_imie": "MOROZ Adrian",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1709",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "245",
+      "id_pzszach": "4253",
+      "nazwisko_imie": "KOZLOWSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1707",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "246",
+      "id_pzszach": "39979",
+      "nazwisko_imie": "KOJŁO Szymon",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1707",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "247",
+      "id_pzszach": "43237",
+      "nazwisko_imie": "CZAPKO Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1707",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "248",
+      "id_pzszach": "45689",
+      "nazwisko_imie": "KONDRUSIK Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1705",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "249",
+      "id_pzszach": "10817",
+      "nazwisko_imie": "ZWOLAN Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1704",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "250",
+      "id_pzszach": "4235",
+      "nazwisko_imie": "CHILKIEWICZ Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1702",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "251",
+      "id_pzszach": "4268",
+      "nazwisko_imie": "BIZIEWSKA Paula",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1701",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "252",
+      "id_pzszach": "66478",
+      "nazwisko_imie": "DOBAJ Daniel",
+      "tytul_kategoria": "III",
+      "rank_fide": "1701",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "253",
+      "id_pzszach": "100781",
+      "nazwisko_imie": "GALIŃSKA Pola",
+      "tytul_kategoria": "I",
+      "rank_fide": "1700",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "254",
+      "id_pzszach": "4405",
+      "nazwisko_imie": "ZAJKOWSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1699",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "255",
+      "id_pzszach": "49521",
+      "nazwisko_imie": "DZIESZKO Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1699",
+      "klub": "ASU Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "256",
+      "id_pzszach": "52201",
+      "nazwisko_imie": "ŁYDKA Sebastian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1699",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "257",
+      "id_pzszach": "63270",
+      "nazwisko_imie": "DUNDA Szymon",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1698",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "258",
+      "id_pzszach": "36624",
+      "nazwisko_imie": "FRANK Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1693",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "259",
+      "id_pzszach": "2536",
+      "nazwisko_imie": "STROJEK Kazimierz",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1692",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "260",
+      "id_pzszach": "51484",
+      "nazwisko_imie": "DALLEMURA Anna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1692",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "261",
+      "id_pzszach": "25621",
+      "nazwisko_imie": "GIERASIMIUK Jacek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1690",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "262",
+      "id_pzszach": "7636",
+      "nazwisko_imie": "BOBRAS Jan",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1689",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "263",
+      "id_pzszach": "38203",
+      "nazwisko_imie": "ŁUKASZEWSKI Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1687",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "264",
+      "id_pzszach": "30116",
+      "nazwisko_imie": "KOZŁOWSKI Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1682",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "265",
+      "id_pzszach": "40997",
+      "nazwisko_imie": "PIOTROWSKI Patryk",
+      "tytul_kategoria": "II",
+      "rank_fide": "1679",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "266",
+      "id_pzszach": "28787",
+      "nazwisko_imie": "KUCZYŃSKI Dariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1678",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "267",
+      "id_pzszach": "62578",
+      "nazwisko_imie": "PŁOCHA Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1675",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "268",
+      "id_pzszach": "79198",
+      "nazwisko_imie": "DOSZUTA Wojciech",
+      "tytul_kategoria": "III",
+      "rank_fide": "1675",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "269",
+      "id_pzszach": "81099",
+      "nazwisko_imie": "BOGUSZEWSKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1674",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "270",
+      "id_pzszach": "4194",
+      "nazwisko_imie": "TOMICKI Marek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1673",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "271",
+      "id_pzszach": "64490",
+      "nazwisko_imie": "WI¦NIEWSKI Adam",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1673",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "272",
+      "id_pzszach": "37093",
+      "nazwisko_imie": "MALINOWSKI Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1672",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "273",
+      "id_pzszach": "102628",
+      "nazwisko_imie": "AZAREWICZ Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1669",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "274",
+      "id_pzszach": "25798",
+      "nazwisko_imie": "GIERASIMIUK Gabriela",
+      "tytul_kategoria": "II",
+      "rank_fide": "1663",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "275",
+      "id_pzszach": "10741",
+      "nazwisko_imie": "TROJNIAR Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1662",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "276",
+      "id_pzszach": "10777",
+      "nazwisko_imie": "WISZNIEWSKI Przemyslaw",
+      "tytul_kategoria": "II",
+      "rank_fide": "1661",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "277",
+      "id_pzszach": "27941",
+      "nazwisko_imie": "SADOWSKI Michał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1660",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "278",
+      "id_pzszach": "59851",
+      "nazwisko_imie": "MICHAŁOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1659",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "279",
+      "id_pzszach": "30979",
+      "nazwisko_imie": "EJSMONT Wiesław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1658",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "280",
+      "id_pzszach": "116057",
+      "nazwisko_imie": "KRUTUL Juliusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1656",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "281",
+      "id_pzszach": "11663",
+      "nazwisko_imie": "PIŁKA Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1655",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "282",
+      "id_pzszach": "29567",
+      "nazwisko_imie": "DOLATA Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1654",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "283",
+      "id_pzszach": "27939",
+      "nazwisko_imie": "JATEL Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1652",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "284",
+      "id_pzszach": "79029",
+      "nazwisko_imie": "BUTKIEWICZ Hanna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1651",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "285",
+      "id_pzszach": "26643",
+      "nazwisko_imie": "SIENKIEWICZ Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1650",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "286",
+      "id_pzszach": "57135",
+      "nazwisko_imie": "¦MIAROWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1650",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "287",
+      "id_pzszach": "72822",
+      "nazwisko_imie": "KRETOWICZ Dawid",
+      "tytul_kategoria": "III",
+      "rank_fide": "1648",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "288",
+      "id_pzszach": "58367",
+      "nazwisko_imie": "Podlewski Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1647",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "289",
+      "id_pzszach": "10686",
+      "nazwisko_imie": "STASIEŁUK Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1643",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "290",
+      "id_pzszach": "10687",
+      "nazwisko_imie": "STASIENKO Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1643",
+      "klub": "KS Zaszachowani",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "291",
+      "id_pzszach": "98614",
+      "nazwisko_imie": "OLEJNICZAK Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1640",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "292",
+      "id_pzszach": "51624",
+      "nazwisko_imie": "KRAHEL Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1639",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "293",
+      "id_pzszach": "39910",
+      "nazwisko_imie": "SZYŁAK Miłosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1637",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "294",
+      "id_pzszach": "40585",
+      "nazwisko_imie": "KUTYŁO Konrad",
+      "tytul_kategoria": "I",
+      "rank_fide": "1636",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "295",
+      "id_pzszach": "73189",
+      "nazwisko_imie": "TALECKI Karol",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1636",
+      "klub": "KS Zaszachowani",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "296",
+      "id_pzszach": "73191",
+      "nazwisko_imie": "KRYSIEWICZ Zofia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1636",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "297",
+      "id_pzszach": "70397",
+      "nazwisko_imie": "PANASIUK Błażej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1635",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "298",
+      "id_pzszach": "94738",
+      "nazwisko_imie": "DOSZUTA Grzegorz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1635",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "299",
+      "id_pzszach": "97714",
+      "nazwisko_imie": "Smyczek Henryk",
+      "tytul_kategoria": "III",
+      "rank_fide": "1635",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "300",
+      "id_pzszach": "86184",
+      "nazwisko_imie": "PERKOWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1634",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "301",
+      "id_pzszach": "10712",
+      "nazwisko_imie": "SZWAJKOWSKA Kamila",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1633",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "302",
+      "id_pzszach": "52177",
+      "nazwisko_imie": "BEDNARSKA Julita",
+      "tytul_kategoria": "I",
+      "rank_fide": "1633",
+      "klub": "KSz Hetman Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "303",
+      "id_pzszach": "52240",
+      "nazwisko_imie": "SZCZOTKA Matylda",
+      "tytul_kategoria": "I",
+      "rank_fide": "1632",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "304",
+      "id_pzszach": "66502",
+      "nazwisko_imie": "GŁADYSZEWSKA Kinga",
+      "tytul_kategoria": "I",
+      "rank_fide": "1630",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "305",
+      "id_pzszach": "29408",
+      "nazwisko_imie": "MALISZEWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1628",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "306",
+      "id_pzszach": "38486",
+      "nazwisko_imie": "SZCZERBAK Kamil",
+      "tytul_kategoria": "",
+      "rank_fide": "1627",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "307",
+      "id_pzszach": "67909",
+      "nazwisko_imie": "PĘKSA Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1627",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "308",
+      "id_pzszach": "25986",
+      "nazwisko_imie": "FREJLICH Robert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1626",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "309",
+      "id_pzszach": "61419",
+      "nazwisko_imie": "OLSZEWSKI Jan",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1626",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "310",
+      "id_pzszach": "85955",
+      "nazwisko_imie": "¦LIWOWSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1625",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "311",
+      "id_pzszach": "104455",
+      "nazwisko_imie": "BULEJ Dawid",
+      "tytul_kategoria": "III",
+      "rank_fide": "1625",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "312",
+      "id_pzszach": "42240",
+      "nazwisko_imie": "ZAŁĘSKI Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1624",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "313",
+      "id_pzszach": "90320",
+      "nazwisko_imie": "GRUCEL Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1623",
+      "klub": "KSz Skoczek Ciechanowiec",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "314",
+      "id_pzszach": "23456",
+      "nazwisko_imie": "ANZEL Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1622",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "315",
+      "id_pzszach": "60805",
+      "nazwisko_imie": "STANIEWICZ Adrianna",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "1622",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "316",
+      "id_pzszach": "88978",
+      "nazwisko_imie": "WILCZEWSKI Michał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1620",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "317",
+      "id_pzszach": "114867",
+      "nazwisko_imie": "ZALEWSKI Przemysław",
+      "tytul_kategoria": "",
+      "rank_fide": "1615",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "318",
+      "id_pzszach": "10317",
+      "nazwisko_imie": "JANKOWSKI Rafał",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1614",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "319",
+      "id_pzszach": "10541",
+      "nazwisko_imie": "OLOW Kacper",
+      "tytul_kategoria": "III",
+      "rank_fide": "1614",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "320",
+      "id_pzszach": "60325",
+      "nazwisko_imie": "SZELIGOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1611",
+      "klub": "KS Elbrus Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "321",
+      "id_pzszach": "62973",
+      "nazwisko_imie": "ZUBACKI Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1609",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "322",
+      "id_pzszach": "143827",
+      "nazwisko_imie": "GRAŻUL Alan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1609",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "323",
+      "id_pzszach": "108295",
+      "nazwisko_imie": "LASZUK Stefan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1608",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "324",
+      "id_pzszach": "25858",
+      "nazwisko_imie": "SUCHOWIERSKI Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1607",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "325",
+      "id_pzszach": "23057",
+      "nazwisko_imie": "KOPACZEWSKI Zbigniew",
+      "tytul_kategoria": "I",
+      "rank_fide": "1605",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "326",
+      "id_pzszach": "26999",
+      "nazwisko_imie": "MIAKISZ Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1602",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "327",
+      "id_pzszach": "114811",
+      "nazwisko_imie": "TRYNISZEWSKA Paulina",
+      "tytul_kategoria": "II",
+      "rank_fide": "1602",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "328",
+      "id_pzszach": "56067",
+      "nazwisko_imie": "GRYSZKO Hubert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1601",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "329",
+      "id_pzszach": "17922",
+      "nazwisko_imie": "KALBARCZYK Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1598",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "330",
+      "id_pzszach": "4259",
+      "nazwisko_imie": "PILIMON Zbigniew",
+      "tytul_kategoria": "I",
+      "rank_fide": "1597",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "331",
+      "id_pzszach": "97495",
+      "nazwisko_imie": "KURCIŃSKI Sebastian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1597",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "332",
+      "id_pzszach": "43322",
+      "nazwisko_imie": "SIEMIENIUK Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1596",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "333",
+      "id_pzszach": "71445",
+      "nazwisko_imie": "TROCHIMCZUK Bartosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1596",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "334",
+      "id_pzszach": "31724",
+      "nazwisko_imie": "KULFAN Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1595",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "335",
+      "id_pzszach": "86349",
+      "nazwisko_imie": "BUJNOWSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1595",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "336",
+      "id_pzszach": "125103",
+      "nazwisko_imie": "MINKIEWICZ Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1595",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "337",
+      "id_pzszach": "27133",
+      "nazwisko_imie": "SKRODZKI Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1594",
+      "klub": "UKS ŻAK Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "338",
+      "id_pzszach": "22349",
+      "nazwisko_imie": "HAPUNIK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1593",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "339",
+      "id_pzszach": "142475",
+      "nazwisko_imie": "DYMIDIUK Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1593",
+      "klub": "KS Zaszachowani",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "340",
+      "id_pzszach": "38500",
+      "nazwisko_imie": "WYSOCKA Edyta",
+      "tytul_kategoria": "I",
+      "rank_fide": "1591",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "341",
+      "id_pzszach": "72387",
+      "nazwisko_imie": "GROCHOWSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1591",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "342",
+      "id_pzszach": "64376",
+      "nazwisko_imie": "KRZYWOSZ Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1590",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "343",
+      "id_pzszach": "79694",
+      "nazwisko_imie": "PAWLUCZUK Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1589",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "344",
+      "id_pzszach": "122608",
+      "nazwisko_imie": "PACH Gabriel",
+      "tytul_kategoria": "",
+      "rank_fide": "1589",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "345",
+      "id_pzszach": "50375",
+      "nazwisko_imie": "FRONCZYK Wiktor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1588",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "346",
+      "id_pzszach": "10542",
+      "nazwisko_imie": "ONICHIMIUK Janusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1587",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "347",
+      "id_pzszach": "27157",
+      "nazwisko_imie": "LACHOWICZ Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1587",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "348",
+      "id_pzszach": "119206",
+      "nazwisko_imie": "ZACHAR Adrian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1587",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "349",
+      "id_pzszach": "60691",
+      "nazwisko_imie": "KOZŁOWSKI Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1586",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "350",
+      "id_pzszach": "22493",
+      "nazwisko_imie": "ZACHARCZUK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1585",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "351",
+      "id_pzszach": "33951",
+      "nazwisko_imie": "SADOWSKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1584",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "352",
+      "id_pzszach": "66569",
+      "nazwisko_imie": "OBUCHOWICZ Jerzy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1584",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "353",
+      "id_pzszach": "89943",
+      "nazwisko_imie": "MIKULICZ Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1584",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "354",
+      "id_pzszach": "112608",
+      "nazwisko_imie": "WASILEWICZ Wawrzyniec",
+      "tytul_kategoria": "II",
+      "rank_fide": "1582",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "355",
+      "id_pzszach": "20865",
+      "nazwisko_imie": "POPIEL Natalia",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1581",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "356",
+      "id_pzszach": "56063",
+      "nazwisko_imie": "HARASIMCZUK Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1580",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "357",
+      "id_pzszach": "102627",
+      "nazwisko_imie": "CHOIŃSKI Ignacy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1580",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "358",
+      "id_pzszach": "22402",
+      "nazwisko_imie": "MIECZNIK Albert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1579",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "359",
+      "id_pzszach": "38244",
+      "nazwisko_imie": "WOŁPIUK Bartłomiej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1579",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "360",
+      "id_pzszach": "93985",
+      "nazwisko_imie": "SMÓŁKO Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1578",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "361",
+      "id_pzszach": "67218",
+      "nazwisko_imie": "WAWRUKIEWICZ Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1576",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "362",
+      "id_pzszach": "26996",
+      "nazwisko_imie": "GAŁKA Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1573",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "363",
+      "id_pzszach": "52180",
+      "nazwisko_imie": "WALENDYKIEWICZ Martyna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1573",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "364",
+      "id_pzszach": "21636",
+      "nazwisko_imie": "WASILEWSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1572",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "365",
+      "id_pzszach": "50394",
+      "nazwisko_imie": "GARBOWSKA Maja",
+      "tytul_kategoria": "I",
+      "rank_fide": "1572",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "366",
+      "id_pzszach": "59526",
+      "nazwisko_imie": "NIKOŁAJUK Konrad",
+      "tytul_kategoria": "III",
+      "rank_fide": "1572",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "367",
+      "id_pzszach": "26998",
+      "nazwisko_imie": "RUSAK Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1571",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "368",
+      "id_pzszach": "45037",
+      "nazwisko_imie": "KARWOWSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1571",
+      "klub": "KS Elbrus Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "369",
+      "id_pzszach": "44660",
+      "nazwisko_imie": "GALEJ Jarosław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1569",
+      "klub": "KSz Jagiellonia Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "370",
+      "id_pzszach": "99066",
+      "nazwisko_imie": "TYSZKA Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1569",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "371",
+      "id_pzszach": "108302",
+      "nazwisko_imie": "SOSNOWSKI Oliwier",
+      "tytul_kategoria": "II",
+      "rank_fide": "1566",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "372",
+      "id_pzszach": "38498",
+      "nazwisko_imie": "¦WIˇTEK Jakub",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1564",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "373",
+      "id_pzszach": "52233",
+      "nazwisko_imie": "JUREWICZ Igor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1564",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "374",
+      "id_pzszach": "10698",
+      "nazwisko_imie": "STUPAK Kamil",
+      "tytul_kategoria": "II",
+      "rank_fide": "1563",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "375",
+      "id_pzszach": "17923",
+      "nazwisko_imie": "SIEŃKO Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1563",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "376",
+      "id_pzszach": "70056",
+      "nazwisko_imie": "RACIS Dominika",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1563",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "377",
+      "id_pzszach": "95551",
+      "nazwisko_imie": "BIELEC Laura",
+      "tytul_kategoria": "II",
+      "rank_fide": "1563",
+      "klub": "ASU Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "378",
+      "id_pzszach": "10597",
+      "nazwisko_imie": "PRAŻYCH Tadeusz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1562",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "379",
+      "id_pzszach": "61219",
+      "nazwisko_imie": "MILEWSKI Mateusz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1562",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "380",
+      "id_pzszach": "101650",
+      "nazwisko_imie": "BORAWSKI Łukasz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1562",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "381",
+      "id_pzszach": "144925",
+      "nazwisko_imie": "WASILUK Patryk",
+      "tytul_kategoria": "II",
+      "rank_fide": "1562",
+      "klub": "KS Zaszachowani",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "382",
+      "id_pzszach": "56068",
+      "nazwisko_imie": "SEMENIEC Zbigniew",
+      "tytul_kategoria": "II",
+      "rank_fide": "1561",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "383",
+      "id_pzszach": "67504",
+      "nazwisko_imie": "PĘKSA Zuzanna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1561",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "384",
+      "id_pzszach": "129481",
+      "nazwisko_imie": "RACZKIEWICZ Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1561",
+      "klub": "KS Zaszachowani",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "385",
+      "id_pzszach": "10549",
+      "nazwisko_imie": "OSTROWSKI Mateusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1560",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "386",
+      "id_pzszach": "95552",
+      "nazwisko_imie": "DZIEŁAK Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1560",
+      "klub": "ASU Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "387",
+      "id_pzszach": "108171",
+      "nazwisko_imie": "ŻUKIEWICZ Dawid",
+      "tytul_kategoria": "III",
+      "rank_fide": "1559",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "388",
+      "id_pzszach": "116578",
+      "nazwisko_imie": "BACZYŃSKI Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1559",
+      "klub": "KSz Hetman Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "389",
+      "id_pzszach": "50261",
+      "nazwisko_imie": "KORWEK Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1557",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "390",
+      "id_pzszach": "94896",
+      "nazwisko_imie": "BARSZCZEWSKA Nadia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1556",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "391",
+      "id_pzszach": "60050",
+      "nazwisko_imie": "SZYDŁOWSKI Rafał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1555",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "392",
+      "id_pzszach": "67892",
+      "nazwisko_imie": "KUDRASZOW Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1555",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "393",
+      "id_pzszach": "110056",
+      "nazwisko_imie": "SŁAWIŃSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1555",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "394",
+      "id_pzszach": "51921",
+      "nazwisko_imie": "FRONCZYK Mariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1553",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "395",
+      "id_pzszach": "73092",
+      "nazwisko_imie": "ANCIPIUK Aleksander",
+      "tytul_kategoria": "II",
+      "rank_fide": "1553",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "396",
+      "id_pzszach": "53331",
+      "nazwisko_imie": "MACIEJEK Mariusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1552",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "397",
+      "id_pzszach": "71850",
+      "nazwisko_imie": "ŻUKOWSKI Jan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1551",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "398",
+      "id_pzszach": "74994",
+      "nazwisko_imie": "ZALEUSKI Uladzimir",
+      "tytul_kategoria": "III",
+      "rank_fide": "1551",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "399",
+      "id_pzszach": "124023",
+      "nazwisko_imie": "ORŁOWSKA Natalia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1551",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "400",
+      "id_pzszach": "25822",
+      "nazwisko_imie": "RZOŃCA Konrad",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1549",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "401",
+      "id_pzszach": "67221",
+      "nazwisko_imie": "WASILEWSKI Stanisław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1549",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "402",
+      "id_pzszach": "122918",
+      "nazwisko_imie": "WRÓBLEWSKI Patryk",
+      "tytul_kategoria": "III",
+      "rank_fide": "1549",
+      "klub": "KS Wieża Północy Szczuczyn",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "403",
+      "id_pzszach": "10794",
+      "nazwisko_imie": "ZALEWSKI Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1546",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "404",
+      "id_pzszach": "95826",
+      "nazwisko_imie": "MAKARSKI Igor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1546",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "405",
+      "id_pzszach": "96302",
+      "nazwisko_imie": "KRAJEWSKI Franciszek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1546",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "406",
+      "id_pzszach": "7938",
+      "nazwisko_imie": "ROMANKIEWICZ Romuald",
+      "tytul_kategoria": "II",
+      "rank_fide": "1545",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "407",
+      "id_pzszach": "43986",
+      "nazwisko_imie": "MACIEJEK Maksymilian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1544",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "408",
+      "id_pzszach": "96025",
+      "nazwisko_imie": "BAŃKOWSKI Paweł",
+      "tytul_kategoria": "III",
+      "rank_fide": "1544",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "409",
+      "id_pzszach": "115266",
+      "nazwisko_imie": "SUŁKOWSKI Ignacy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1544",
+      "klub": "KSz Hetman Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "410",
+      "id_pzszach": "102036",
+      "nazwisko_imie": "PUSZKO Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1543",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "411",
+      "id_pzszach": "41838",
+      "nazwisko_imie": "STEPANIUK Sebastian",
+      "tytul_kategoria": "III",
+      "rank_fide": "1541",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "412",
+      "id_pzszach": "59299",
+      "nazwisko_imie": "JANCZYLIK Tomasz",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1541",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "413",
+      "id_pzszach": "96718",
+      "nazwisko_imie": "KOSMALA Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1541",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "414",
+      "id_pzszach": "118926",
+      "nazwisko_imie": "WOJCIECHOWSKI Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1541",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "415",
+      "id_pzszach": "47152",
+      "nazwisko_imie": "CHOJNOWSKA Justyna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1540",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "416",
+      "id_pzszach": "56776",
+      "nazwisko_imie": "DALLEMURA Julia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1537",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "417",
+      "id_pzszach": "88359",
+      "nazwisko_imie": "ROSZKOWSKI Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1536",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "418",
+      "id_pzszach": "38497",
+      "nazwisko_imie": "SZYMCZYK Gabriela",
+      "tytul_kategoria": "II",
+      "rank_fide": "1535",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "419",
+      "id_pzszach": "67633",
+      "nazwisko_imie": "CHOMICKI Kornel",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1535",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "420",
+      "id_pzszach": "123152",
+      "nazwisko_imie": "KLIMUSZKO Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1535",
+      "klub": "KS Zaszachowani",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "421",
+      "id_pzszach": "61612",
+      "nazwisko_imie": "WALU¦ Igor",
+      "tytul_kategoria": "III",
+      "rank_fide": "1534",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "422",
+      "id_pzszach": "73088",
+      "nazwisko_imie": "SAMOILO Aleksandr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1534",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "423",
+      "id_pzszach": "93640",
+      "nazwisko_imie": "SZEKOWSKI Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1534",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "424",
+      "id_pzszach": "94377",
+      "nazwisko_imie": "DZIEŁAK Czesław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1534",
+      "klub": "ASU Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "425",
+      "id_pzszach": "57991",
+      "nazwisko_imie": "MAKAR Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1533",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "426",
+      "id_pzszach": "99067",
+      "nazwisko_imie": "STANKIEWICZ Kamil",
+      "tytul_kategoria": "III",
+      "rank_fide": "1533",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "427",
+      "id_pzszach": "108348",
+      "nazwisko_imie": "KLIMOWICZ Hubert",
+      "tytul_kategoria": "III",
+      "rank_fide": "1533",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "428",
+      "id_pzszach": "71620",
+      "nazwisko_imie": "WˇDOŁOWSKI Adrian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1532",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "429",
+      "id_pzszach": "106969",
+      "nazwisko_imie": "SIEGIEŃCZUK Kacper",
+      "tytul_kategoria": "III",
+      "rank_fide": "1532",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "430",
+      "id_pzszach": "42405",
+      "nazwisko_imie": "PUL Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1531",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "431",
+      "id_pzszach": "45286",
+      "nazwisko_imie": "ZAJKOWSKI Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1531",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "432",
+      "id_pzszach": "38185",
+      "nazwisko_imie": "ŁUKASZEWSKA Magdalena",
+      "tytul_kategoria": "II",
+      "rank_fide": "1529",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "433",
+      "id_pzszach": "67994",
+      "nazwisko_imie": "CHISZKO Wiktoria",
+      "tytul_kategoria": "I",
+      "rank_fide": "1529",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "434",
+      "id_pzszach": "60661",
+      "nazwisko_imie": "FIRMUGA Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1527",
+      "klub": "KS Elbrus Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "435",
+      "id_pzszach": "61222",
+      "nazwisko_imie": "WISZNIEWSKA Gabriela",
+      "tytul_kategoria": "I",
+      "rank_fide": "1527",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "436",
+      "id_pzszach": "84859",
+      "nazwisko_imie": "KOŁOSZA Zuzanna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1527",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "437",
+      "id_pzszach": "72783",
+      "nazwisko_imie": "DŁUŻNIEWSKI Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1526",
+      "klub": "KS Elbrus Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "438",
+      "id_pzszach": "84844",
+      "nazwisko_imie": "FILIPKOWSKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1526",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "439",
+      "id_pzszach": "87993",
+      "nazwisko_imie": "ŻELAZNA Adrianna",
+      "tytul_kategoria": "II",
+      "rank_fide": "1526",
+      "klub": "KS Elbrus Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "440",
+      "id_pzszach": "111071",
+      "nazwisko_imie": "HOŁOWIENKO Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1526",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "441",
+      "id_pzszach": "33656",
+      "nazwisko_imie": "OKULEWICZ Zbigniew",
+      "tytul_kategoria": "II",
+      "rank_fide": "1525",
+      "klub": "UKS ŻAK Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "442",
+      "id_pzszach": "69570",
+      "nazwisko_imie": "MAŁASZKIEWICZ Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1525",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "443",
+      "id_pzszach": "72386",
+      "nazwisko_imie": "KRYSIEWICZ Łukasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1525",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "444",
+      "id_pzszach": "77404",
+      "nazwisko_imie": "SAMEŁKO Grzegorz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1525",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "445",
+      "id_pzszach": "79500",
+      "nazwisko_imie": "SHELEG Andrei",
+      "tytul_kategoria": "",
+      "rank_fide": "1525",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "446",
+      "id_pzszach": "63019",
+      "nazwisko_imie": "STEFANOWICZ Kacper",
+      "tytul_kategoria": "III",
+      "rank_fide": "1524",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "447",
+      "id_pzszach": "96148",
+      "nazwisko_imie": "MILEWSKI Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1522",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "448",
+      "id_pzszach": "10298",
+      "nazwisko_imie": "HAŃCZARUK Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1521",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "449",
+      "id_pzszach": "92258",
+      "nazwisko_imie": "KOŁOSZA Luiza",
+      "tytul_kategoria": "II",
+      "rank_fide": "1520",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "450",
+      "id_pzszach": "97242",
+      "nazwisko_imie": "TRYBURSKI Szymon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1520",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "451",
+      "id_pzszach": "69850",
+      "nazwisko_imie": "WIECZOREK Ewa",
+      "tytul_kategoria": "II",
+      "rank_fide": "1519",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "452",
+      "id_pzszach": "38188",
+      "nazwisko_imie": "PODSTOLSKI Igor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1518",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "453",
+      "id_pzszach": "42317",
+      "nazwisko_imie": "MISIEWICZ Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1518",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "454",
+      "id_pzszach": "47151",
+      "nazwisko_imie": "CHOJNOWSKA Karolina",
+      "tytul_kategoria": "II",
+      "rank_fide": "1518",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "455",
+      "id_pzszach": "61504",
+      "nazwisko_imie": "MALINOWSKI Andrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1518",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "456",
+      "id_pzszach": "86216",
+      "nazwisko_imie": "DˇBROWSKA Eliza",
+      "tytul_kategoria": "I",
+      "rank_fide": "1517",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "457",
+      "id_pzszach": "57989",
+      "nazwisko_imie": "SKROUBA Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1516",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "458",
+      "id_pzszach": "84285",
+      "nazwisko_imie": "PERKOWSKI Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1516",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "459",
+      "id_pzszach": "75904",
+      "nazwisko_imie": "PAPPAI Kamil Felix",
+      "tytul_kategoria": "III",
+      "rank_fide": "1515",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "460",
+      "id_pzszach": "87906",
+      "nazwisko_imie": "MASIEWICZ Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1514",
+      "klub": "UKS Augustovia Augustów",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "461",
+      "id_pzszach": "99532",
+      "nazwisko_imie": "SOKÓŁ Karol",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1514",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "462",
+      "id_pzszach": "128835",
+      "nazwisko_imie": "LESZCZYŃSKI Marek",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1514",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "463",
+      "id_pzszach": "10267",
+      "nazwisko_imie": "GŁADYSZEWSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1513",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "464",
+      "id_pzszach": "41344",
+      "nazwisko_imie": "CHMIELEWSKA Julia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1513",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "465",
+      "id_pzszach": "82450",
+      "nazwisko_imie": "ROSZKOWSKA Zuzanna",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1513",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "466",
+      "id_pzszach": "77466",
+      "nazwisko_imie": "WASILUK Gabriel",
+      "tytul_kategoria": "III",
+      "rank_fide": "1512",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "467",
+      "id_pzszach": "39355",
+      "nazwisko_imie": "KU¬MICZ Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1510",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "468",
+      "id_pzszach": "84863",
+      "nazwisko_imie": "ORŁOWSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1509",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "469",
+      "id_pzszach": "116675",
+      "nazwisko_imie": "PIŁKA Oskar",
+      "tytul_kategoria": "II",
+      "rank_fide": "1507",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "470",
+      "id_pzszach": "68675",
+      "nazwisko_imie": "WISZNIEWSKI Stanisław",
+      "tytul_kategoria": "II",
+      "rank_fide": "1506",
+      "klub": "KS Elbrus Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "471",
+      "id_pzszach": "64088",
+      "nazwisko_imie": "ŁOZOWSKI Marcin",
+      "tytul_kategoria": "",
+      "rank_fide": "1505",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "472",
+      "id_pzszach": "72470",
+      "nazwisko_imie": "PISZCZATOWSKI Zbigniew",
+      "tytul_kategoria": "II",
+      "rank_fide": "1504",
+      "klub": "UKS ŻAK Łomża",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "473",
+      "id_pzszach": "75728",
+      "nazwisko_imie": "GÓRKA Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1504",
+      "klub": "LUKSz ORIENT Sokółka",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "474",
+      "id_pzszach": "61229",
+      "nazwisko_imie": "JANKOWSKI Kacper",
+      "tytul_kategoria": "II",
+      "rank_fide": "1503",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "475",
+      "id_pzszach": "115262",
+      "nazwisko_imie": "PROKOP Jakub",
+      "tytul_kategoria": "III",
+      "rank_fide": "1503",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "476",
+      "id_pzszach": "54049",
+      "nazwisko_imie": "WORONIS Sabrina",
+      "tytul_kategoria": "II",
+      "rank_fide": "1502",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "477",
+      "id_pzszach": "123155",
+      "nazwisko_imie": "OSTROWSKI Maciej",
+      "tytul_kategoria": "III",
+      "rank_fide": "1502",
+      "klub": "KS Zaszachowani",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "478",
+      "id_pzszach": "67834",
+      "nazwisko_imie": "OLSZEWSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1501",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "479",
+      "id_pzszach": "93062",
+      "nazwisko_imie": "AKACIN Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1500",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "480",
+      "id_pzszach": "56786",
+      "nazwisko_imie": "KORONIECKI Rafał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1499",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "481",
+      "id_pzszach": "90589",
+      "nazwisko_imie": "GRUCEL Leszek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1499",
+      "klub": "KSz Skoczek Ciechanowiec",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "482",
+      "id_pzszach": "128562",
+      "nazwisko_imie": "MINKIEWICZ Jan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1499",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "483",
+      "id_pzszach": "25720",
+      "nazwisko_imie": "SZUMSKI Apolinary",
+      "tytul_kategoria": "III",
+      "rank_fide": "1498",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "484",
+      "id_pzszach": "75912",
+      "nazwisko_imie": "BIEGAŃSKI Franciszek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1498",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "485",
+      "id_pzszach": "104461",
+      "nazwisko_imie": "PANASIEWICZ Natalia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1498",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "486",
+      "id_pzszach": "56797",
+      "nazwisko_imie": "ROSOŁOWSKI Julian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1497",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "487",
+      "id_pzszach": "72033",
+      "nazwisko_imie": "GRE¦ Rafał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1497",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "488",
+      "id_pzszach": "73081",
+      "nazwisko_imie": "ZYSKOWSKI Jan",
+      "tytul_kategoria": "III",
+      "rank_fide": "1497",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "489",
+      "id_pzszach": "57042",
+      "nazwisko_imie": "MALINOWSKA Natalia",
+      "tytul_kategoria": "I",
+      "rank_fide": "1496",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "490",
+      "id_pzszach": "25840",
+      "nazwisko_imie": "SADOWSKI Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1495",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "491",
+      "id_pzszach": "111536",
+      "nazwisko_imie": "ZDUŃCZYK Maciej",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1495",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "492",
+      "id_pzszach": "62364",
+      "nazwisko_imie": "DˇBROWSKI Piotr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1494",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "493",
+      "id_pzszach": "88290",
+      "nazwisko_imie": "TOCZYŁOWSKI Mateusz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1494",
+      "klub": "Klub Szachowy Jaćwież Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "494",
+      "id_pzszach": "105484",
+      "nazwisko_imie": "SŁOMCZYŃSKI Michał",
+      "tytul_kategoria": "III",
+      "rank_fide": "1494",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "495",
+      "id_pzszach": "10521",
+      "nazwisko_imie": "NIED¬WIED¬ Mateusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1493",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "496",
+      "id_pzszach": "73516",
+      "nazwisko_imie": "KACZAN Anna",
+      "tytul_kategoria": "I",
+      "rank_fide": "1493",
+      "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "497",
+      "id_pzszach": "122721",
+      "nazwisko_imie": "NOWICKI Zbigniew",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1493",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "498",
+      "id_pzszach": "25813",
+      "nazwisko_imie": "¦WIDERSKI Marcin",
+      "tytul_kategoria": "II",
+      "rank_fide": "1492",
+      "klub": "MDK Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "499",
+      "id_pzszach": "82422",
+      "nazwisko_imie": "TSYBIN Egor",
+      "tytul_kategoria": "II",
+      "rank_fide": "1492",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "500",
+      "id_pzszach": "112068",
+      "nazwisko_imie": "KOZŁOWSKI Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1492",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PL"
+    }
+  ]
+}

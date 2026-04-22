@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:40.805Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "",
+      "nazwa": "DZSzach",
+      "miasto": "Wrocław",
+      "licencja": "001",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "1007/DS",
+      "nazwa": "FCC Wrocław",
+      "miasto": "Wrocław",
+      "licencja": "01100055",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "856/DS",
+      "nazwa": "Fundacja im. Adolfa Anderssena",
+      "miasto": "Wrocław",
+      "licencja": "01100043",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "1058/DS",
+      "nazwa": "Klub Szachowy C4",
+      "miasto": "Jelenia Góra",
+      "licencja": "01100061",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "1023/DS",
+      "nazwa": "Fundacja KSz Polonia Wrocław",
+      "miasto": "Wrocław",
+      "licencja": "01100057",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "1003/DS",
+      "nazwa": "RIVUS",
+      "miasto": "Wrocław",
+      "licencja": "1100054",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "857/DS",
+      "nazwa": "WKS Kopernik",
+      "miasto": "Wrocław",
+      "licencja": "01100044",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "949/DS",
+      "nazwa": "GKSz Debiut Długołęka",
+      "miasto": "Kiełczów",
+      "licencja": "01100051",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "115/DS",
+      "nazwa": "GLKS Goniec Żarów",
+      "miasto": "Żarów",
+      "licencja": "01100007",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "125/DS",
+      "nazwa": "KS AZS Wratislavia",
+      "miasto": "Wrocław",
+      "licencja": "01100018",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

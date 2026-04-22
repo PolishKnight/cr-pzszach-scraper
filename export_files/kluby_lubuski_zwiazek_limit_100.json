@@ -1,0 +1,166 @@
+{
+  "createdAt": "2026-04-22T21:52:42.716Z",
+  "totalRecords": 16,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "885/LB",
+      "nazwa": "Akademia Szachowa Zielona Góra",
+      "miasto": "Zielona Góra",
+      "licencja": "04100016",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "717/LB",
+      "nazwa": "GZSN START Gorzów Wlkp.",
+      "miasto": "Gorzów Wlkp.",
+      "licencja": "04100013",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Niepełnosprawni",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "850/LB",
+      "nazwa": "GKSz Gubin",
+      "miasto": "Gubin",
+      "licencja": "04100014",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "716/LB",
+      "nazwa": "Hetman Wschowa",
+      "miasto": "Wschowa",
+      "licencja": "04100012",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "484/LB",
+      "nazwa": "KSz ODRODZENIE Kożuchów",
+      "miasto": "Kożuchów",
+      "licencja": "04100003",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "300/LB",
+      "nazwa": "KSz Stilon Gorzów Wlkp.",
+      "miasto": "Gorzów Wlkp.",
+      "licencja": "04100002",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "843/LB",
+      "nazwa": "KSGU TĘCZA Krosno Odrzańskie",
+      "miasto": "Krosno Odrzańskie",
+      "licencja": "04100015",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "535/LB",
+      "nazwa": "LKSz CAISSA Lubsko",
+      "miasto": "Lubsko",
+      "licencja": "04100004",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "",
+      "nazwa": "LZSzach",
+      "miasto": "Gorzów Wlkp.",
+      "licencja": "004",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "914/LB",
+      "nazwa": "PCSzN IDEA",
+      "miasto": "¦wiebodzin",
+      "licencja": "04100018",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "957/LB",
+      "nazwa": "S.I.S.G. OBRA-WARTA",
+      "miasto": "Skwierzyna",
+      "licencja": "04100020",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "1110/LB",
+      "nazwa": "HARCOWNIK Zielona Góra",
+      "miasto": "Zielona Góra",
+      "licencja": "04100021",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "916/LB",
+      "nazwa": "SRGU STRATEGIA Kożuchów",
+      "miasto": "Kożuchów",
+      "licencja": "04100019",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "701/LB",
+      "nazwa": "STMGK Strzelce Krajeńskie",
+      "miasto": "Strzelce Krajeńskie",
+      "licencja": "04100011",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "896/LB",
+      "nazwa": "ŻTGS",
+      "miasto": "Żagań",
+      "licencja": "04100016",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "680/LB",
+      "nazwa": "ŻKSz Żary",
+      "miasto": "Żary",
+      "licencja": "04100001",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

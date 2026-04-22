@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:48.129Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "163/OP",
+      "nazwa": "SKS ORLIK Brzeg",
+      "miasto": "Brzeg",
+      "licencja": "08100009",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "1099/OP",
+      "nazwa": "MDK Opole",
+      "miasto": "Opole",
+      "licencja": "08100025",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "1079/OP",
+      "nazwa": "KS Feniks Brzeg",
+      "miasto": "Żłobizna",
+      "licencja": "08100023",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "1043/OP",
+      "nazwa": "AZS KU Politechniki Opolskiej",
+      "miasto": "Opole",
+      "licencja": "08100022",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "085/OP",
+      "nazwa": "LKS ZARZEWIE Prudnik",
+      "miasto": "Prudnik",
+      "licencja": "08100014",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "373/OP",
+      "nazwa": "LZS VICTORIA Chró¶cice",
+      "miasto": "Chró¶cice",
+      "licencja": "08100011",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "1089/OP",
+      "nazwa": "OKS Olesno",
+      "miasto": "Olesno",
+      "licencja": "08100024",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "",
+      "nazwa": "OPZSzach",
+      "miasto": "Opole",
+      "licencja": "008",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "631/OP",
+      "nazwa": "STRZELEC Strzelce Opolskie",
+      "miasto": "Strzelce Opolskie",
+      "licencja": "08100015",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "830/OP",
+      "nazwa": "UKS CAPER Kędzierzyn-KoĽle",
+      "miasto": "Kędzierzyn-KoĽle",
+      "licencja": "08100018",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    }
+  ]
+}

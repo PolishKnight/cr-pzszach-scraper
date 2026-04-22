@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:54.808Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "7218",
+      "nazwisko_imie": "STANISZEWSKI Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2431",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "7192",
+      "nazwisko_imie": "SIECIECHOWICZ Marcin",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2383",
+      "klub": "KSz LECH-WSUS Poznań",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "7283",
+      "nazwisko_imie": "WODA Jacek",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2383",
+      "klub": "KSz LECH-WSUS Poznań",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "2890",
+      "nazwisko_imie": "PĘDZICH Dominik",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2373",
+      "klub": "KSz LECH-WSUS Poznań",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "26062",
+      "nazwisko_imie": "NIEKRA¦ Dawid",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2371",
+      "klub": "ASSz LIPNO Stęszew",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "7081",
+      "nazwisko_imie": "MACIEJCZAK Jakub",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2366",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "6976",
+      "nazwisko_imie": "GRABOWSKI Andrzej",
+      "tytul_kategoria": "M",
+      "rank_fide": "2350",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "7160",
+      "nazwisko_imie": "PRZYBYLSKI Wojciech",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2349",
+      "klub": "KS KORONA Zakrzewo",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "6885",
+      "nazwisko_imie": "BERNARD Ryszard",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2339",
+      "klub": "KSz LECH-WSUS Poznań",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "39447",
+      "nazwisko_imie": "NOWAK Mikołaj",
+      "tytul_kategoria": "M",
+      "rank_fide": "2338",
+      "klub": "KSz LECH-WSUS Poznań",
+      "wojewodztwo_zwiazek": "WP"
+    }
+  ]
+}

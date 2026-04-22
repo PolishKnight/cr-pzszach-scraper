@@ -1,0 +1,96 @@
+{
+  "createdAt": "2026-04-22T21:52:46.305Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "3187",
+      "nazwisko_imie": "DUDA Jan-Krzysztof",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2739",
+      "klub": "MKS MOS Wieliczka",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "2880",
+      "nazwisko_imie": "PAKLEZA Zbigniew",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2499",
+      "klub": "KS KINGSOFCHESS Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "2467",
+      "nazwisko_imie": "MATUSZEWSKI Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2474",
+      "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "2801",
+      "nazwisko_imie": "LENIART Arkadiusz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2473",
+      "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "90311",
+      "nazwisko_imie": "Druska Juraj",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2460",
+      "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "4072",
+      "nazwisko_imie": "SKALSKI Michał",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2441",
+      "klub": "",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "2694",
+      "nazwisko_imie": "JAKUBIEC Artur",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2420",
+      "klub": "KS KINGSOFCHESS Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "2696",
+      "nazwisko_imie": "JANCZARSKI Michał",
+      "tytul_kategoria": "M",
+      "rank_fide": "2406",
+      "klub": "TKKF DROGOWIEC Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "33591",
+      "nazwisko_imie": "SUDER Jakub",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2400",
+      "klub": "MAT My¶lenice",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "90310",
+      "nazwisko_imie": "Osmak Iulija",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2387",
+      "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    }
+  ]
+}

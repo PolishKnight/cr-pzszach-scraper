@@ -1,0 +1,536 @@
+{
+  "createdAt": "2026-04-22T21:52:56.252Z",
+  "totalRecords": 53,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "130/WP",
+      "nazwa": "ASSz LIPNO Stęszew",
+      "miasto": "Stęszew",
+      "licencja": "15100043",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "1062/WP",
+      "nazwa": "Szachowa GILDIA Swarzędz",
+      "miasto": "Swarzędz",
+      "licencja": "15100070",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "1002/WP",
+      "nazwa": "GOK Wierzbinek",
+      "miasto": "Sadlno",
+      "licencja": "15100066",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "765/WP",
+      "nazwa": "GKS Gorzyce Wielkie",
+      "miasto": "Gorzyce Wielkie",
+      "licencja": "15100052",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "905/WP",
+      "nazwa": "HETMAN ¦roda Wlkp.",
+      "miasto": "¦roda Wielkopolska",
+      "licencja": "15100063",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "104/WP",
+      "nazwa": "JKSz-W Jarocin",
+      "miasto": "Jarocin",
+      "licencja": "15100006",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "032/WP",
+      "nazwa": "KTS Kalisz",
+      "miasto": "Kalisz",
+      "licencja": "15100011",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "036/WP",
+      "nazwa": "Raszyn Poznań",
+      "miasto": "Poznań",
+      "licencja": "15100040",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek wspieraj±cy",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "958/WP",
+      "nazwa": "KS 1920 Mosina",
+      "miasto": "Mosina",
+      "licencja": "15100065",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "1052/WP",
+      "nazwa": "KS Dzikie Wierzyce",
+      "miasto": "Łubowo",
+      "licencja": "15100068",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "250.00 PLN"
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "1011/WP",
+      "nazwa": "KS STAL Pleszew",
+      "miasto": "Pleszew",
+      "licencja": "15100067",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "851/WP",
+      "nazwa": "KS GOK Dwie Wieże BrzeĽno",
+      "miasto": "Krzymów",
+      "licencja": "15100057",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "012/WP",
+      "nazwa": "KSz LECH-WSUS Poznań",
+      "miasto": "Poznań",
+      "licencja": "15100033",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "132/WP",
+      "nazwa": "KSz WIEŻA ¦migiel",
+      "miasto": "¦migiel",
+      "licencja": "15100010",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "060/WP",
+      "nazwa": "KKS 1922 Lechia Kostrzyn",
+      "miasto": "Kostrzyn Wlkp.",
+      "licencja": "15100041",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "818/WP",
+      "nazwa": "POLONIA ¦roda Wlkp.",
+      "miasto": "¦roda Wielkopolska",
+      "licencja": "15100055",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "17",
+      "nr_pzszach": "101/WP",
+      "nazwa": "LKS CHROBRY Gniezno",
+      "miasto": "Gniezno",
+      "licencja": "15100016",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "18",
+      "nr_pzszach": "056/WP",
+      "nazwa": "LKS PIAST ¦rem",
+      "miasto": "¦rem",
+      "licencja": "15100003",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "19",
+      "nr_pzszach": "034/WP",
+      "nazwa": "LUKS ISKRA Marzenin",
+      "miasto": "Marzenin",
+      "licencja": "15100044",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "20",
+      "nr_pzszach": "040/WP",
+      "nazwa": "LKS PLEZURO Skoki",
+      "miasto": "Skoki",
+      "licencja": "15100031",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "21",
+      "nr_pzszach": "861/WP",
+      "nazwa": "MDK W±growiec",
+      "miasto": "W±growiec",
+      "licencja": "15100058",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "22",
+      "nr_pzszach": "131/WP",
+      "nazwa": "M-GOK Gambit ¦lesin",
+      "miasto": "¦lesin",
+      "licencja": "15100022",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "23",
+      "nr_pzszach": "737/WP",
+      "nazwa": "M-G UKS POGOŃ Nowe Skalmierzyce",
+      "miasto": "Nowe Skalmierzyce",
+      "licencja": "15100050",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "24",
+      "nr_pzszach": "022/WP",
+      "nazwa": "MKS WICHER Zb±szyń",
+      "miasto": "Zb±szyń",
+      "licencja": "15100013",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "25",
+      "nr_pzszach": "055/WP",
+      "nazwa": "MMKS WIENIAWA Leszno",
+      "miasto": "Leszno",
+      "licencja": "15100002",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "26",
+      "nr_pzszach": "014/WP",
+      "nazwa": "MUKS WIEŻA KÓRNICKA Kórnik",
+      "miasto": "Kórnik",
+      "licencja": "15100008",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "27",
+      "nr_pzszach": "404/WP",
+      "nazwa": "MKSz-W PAT Miejska Górka",
+      "miasto": "Miejska Górka",
+      "licencja": "15100035",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "28",
+      "nr_pzszach": "841/WP",
+      "nazwa": "NASZACH Nowy Tomy¶l",
+      "miasto": "Nowy Tomy¶l",
+      "licencja": "15100056",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "29",
+      "nr_pzszach": "774/WP",
+      "nazwa": "AZS Poznań",
+      "miasto": "Poznań",
+      "licencja": "00100014",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "30",
+      "nr_pzszach": "134/WP",
+      "nazwa": "OTSz Ostrów Wielkopolski",
+      "miasto": "Ostrów Wielkopolski",
+      "licencja": "15100012",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "31",
+      "nr_pzszach": "102/WP",
+      "nazwa": "RUKS Korona-Rawbud Rawicz",
+      "miasto": "Rawicz",
+      "licencja": "15100001",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "32",
+      "nr_pzszach": "1087/WP",
+      "nazwa": "SOK Skoczki ¦więciechowa",
+      "miasto": "¦więciechowa",
+      "licencja": "15100072",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "33",
+      "nr_pzszach": "935/WP",
+      "nazwa": "KSzach JEDYNKA Złotów",
+      "miasto": "Złotów",
+      "licencja": "15100064",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "34",
+      "nr_pzszach": "790/WP",
+      "nazwa": "KS KORONA Zakrzewo",
+      "miasto": "Dopiewo",
+      "licencja": "00100016",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "35",
+      "nr_pzszach": "1061/WP",
+      "nazwa": "SP2 Złotów",
+      "miasto": "Złotów",
+      "licencja": "15100071",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "36",
+      "nr_pzszach": "1106/WP",
+      "nazwa": "Stowarzyszenie UKS DOLIWA",
+      "miasto": "Rozdrażew",
+      "licencja": "15100073",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "37",
+      "nr_pzszach": "1068/WP",
+      "nazwa": "Szachowe Smoki Rychtal",
+      "miasto": "Rychtal",
+      "licencja": "15100069",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "38",
+      "nr_pzszach": "016/WP",
+      "nazwa": "TS-R HETMAN Konin",
+      "miasto": "Konin",
+      "licencja": "15100028",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "39",
+      "nr_pzszach": "877/WP",
+      "nazwa": "UKS DRAGON Smolice",
+      "miasto": "Kobylin",
+      "licencja": "15100059",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "40",
+      "nr_pzszach": "757/WP",
+      "nazwa": "UKS GCK Sękowo",
+      "miasto": "Sękowo",
+      "licencja": "15100051",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "41",
+      "nr_pzszach": "011/WP",
+      "nazwa": "UKS GONIEC Kostrzyn Wlkp.",
+      "miasto": "Kostrzyn Wlkp.",
+      "licencja": "15100004",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "42",
+      "nr_pzszach": "248/WP",
+      "nazwa": "UKS Ko¶cielec",
+      "miasto": "Ko¶cielec",
+      "licencja": "15100007",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "43",
+      "nr_pzszach": "530/WP",
+      "nazwa": "UKS PŁOMYK Nekla",
+      "miasto": "Nekla",
+      "licencja": "15100026",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "44",
+      "nr_pzszach": "564/WP",
+      "nazwa": "UKS ZSO Włoszakowice",
+      "miasto": "Włoszakowice",
+      "licencja": "15100018",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "45",
+      "nr_pzszach": "414/WP",
+      "nazwa": "UKS SKOCZEK Kopanica",
+      "miasto": "Kopanica",
+      "licencja": "15100034",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "46",
+      "nr_pzszach": "672/WP",
+      "nazwa": "UKS SMECZ Konin",
+      "miasto": "Konin",
+      "licencja": "15100045",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "47",
+      "nr_pzszach": "133/WP",
+      "nazwa": "UKS SZACH Wolsztyn",
+      "miasto": "Wolsztyn",
+      "licencja": "15100014",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "48",
+      "nr_pzszach": "009/WP",
+      "nazwa": "UKS KSM TĘCZA Ko¶cian",
+      "miasto": "Ko¶cian",
+      "licencja": "15100009",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "49",
+      "nr_pzszach": "795/WP",
+      "nazwa": "ULKS SKOCZKI Słopanowo",
+      "miasto": "Obrzycko",
+      "licencja": "00100017",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "50",
+      "nr_pzszach": "015/WP",
+      "nazwa": "UMKS NA PIĘTERKU Poznań",
+      "miasto": "Poznań",
+      "licencja": "15100005",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "51",
+      "nr_pzszach": "869/WP",
+      "nazwa": "UKS Wrzesińska Akademia Szachowa",
+      "miasto": "Wrze¶nia",
+      "licencja": "15100058",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "52",
+      "nr_pzszach": "889/WP",
+      "nazwa": "Wielkopolski Klub Szachowy",
+      "miasto": "Oborniki",
+      "licencja": "15100062",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "53",
+      "nr_pzszach": "",
+      "nazwa": "WZszach",
+      "miasto": "Poznań",
+      "licencja": "015",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    }
+  ]
+}

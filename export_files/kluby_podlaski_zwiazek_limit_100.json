@@ -1,0 +1,166 @@
+{
+  "createdAt": "2026-04-22T21:52:50.605Z",
+  "totalRecords": 16,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "827/PL",
+      "nazwa": "ASU Sokółka",
+      "miasto": "Sokółka",
+      "licencja": "10100017",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "887/PL",
+      "nazwa": "KS Elbrus Łomża",
+      "miasto": "Łomża",
+      "licencja": "10100019",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "928/PL",
+      "nazwa": "Klub Szachowy Jaćwież Suwałki",
+      "miasto": "Suwałki",
+      "licencja": "10100020",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "1073/PL",
+      "nazwa": "KS NiedĽwiedzie Białystok",
+      "miasto": "Białystok",
+      "licencja": "10100024",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "1063/PL",
+      "nazwa": "KS Wieża Północy Szczuczyn",
+      "miasto": "Szczuczyn",
+      "licencja": "10100023",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "1031/PL",
+      "nazwa": "KS Zaszachowani",
+      "miasto": "Nowodworce",
+      "licencja": "10100021",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "002/PL",
+      "nazwa": "KSz HAŃCZA Suwałki",
+      "miasto": "Suwałki",
+      "licencja": "10100003",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "1066/PL",
+      "nazwa": "KSz Hetman Białystok",
+      "miasto": "Białystok",
+      "licencja": "10100022",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "870/PL",
+      "nazwa": "KSz Jagiellonia Białystok",
+      "miasto": "Białystok",
+      "licencja": "10100018",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "1080/PL",
+      "nazwa": "KSz Skoczek Ciechanowiec",
+      "miasto": "Ciechanowiec",
+      "licencja": "10100025",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "699/PL",
+      "nazwa": "LUKSz ORIENT Sokółka",
+      "miasto": "Sokółka",
+      "licencja": "10100013",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "004/PL",
+      "nazwa": "MUKS STOCZEK 45 Białystok",
+      "miasto": "Białystok",
+      "licencja": "10100001",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "826/PL",
+      "nazwa": "MDK Białystok",
+      "miasto": "Białystok",
+      "licencja": "10100016",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "",
+      "nazwa": "PLZSzach",
+      "miasto": "Białystok",
+      "licencja": "010",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "1090/PL",
+      "nazwa": "UKS Augustovia Augustów",
+      "miasto": "Augustów",
+      "licencja": "10100026",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "150.00 PLN"
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "006/PL",
+      "nazwa": "UKS ŻAK Łomża",
+      "miasto": "Łomża",
+      "licencja": "10100006",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    }
+  ]
+}

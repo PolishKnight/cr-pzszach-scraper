@@ -1,0 +1,466 @@
+{
+  "createdAt": "2026-04-22T21:52:40.808Z",
+  "totalRecords": 46,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "",
+      "nazwa": "DZSzach",
+      "miasto": "Wrocław",
+      "licencja": "001",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "1007/DS",
+      "nazwa": "FCC Wrocław",
+      "miasto": "Wrocław",
+      "licencja": "01100055",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "856/DS",
+      "nazwa": "Fundacja im. Adolfa Anderssena",
+      "miasto": "Wrocław",
+      "licencja": "01100043",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "1058/DS",
+      "nazwa": "Klub Szachowy C4",
+      "miasto": "Jelenia Góra",
+      "licencja": "01100061",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "1023/DS",
+      "nazwa": "Fundacja KSz Polonia Wrocław",
+      "miasto": "Wrocław",
+      "licencja": "01100057",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "1003/DS",
+      "nazwa": "RIVUS",
+      "miasto": "Wrocław",
+      "licencja": "1100054",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "857/DS",
+      "nazwa": "WKS Kopernik",
+      "miasto": "Wrocław",
+      "licencja": "01100044",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "949/DS",
+      "nazwa": "GKSz Debiut Długołęka",
+      "miasto": "Kiełczów",
+      "licencja": "01100051",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "115/DS",
+      "nazwa": "GLKS Goniec Żarów",
+      "miasto": "Żarów",
+      "licencja": "01100007",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "125/DS",
+      "nazwa": "KS AZS Wratislavia",
+      "miasto": "Wrocław",
+      "licencja": "01100018",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "11",
+      "nr_pzszach": "917/DS",
+      "nazwa": "KS GÓRNIK Polkowice",
+      "miasto": "Polkowice",
+      "licencja": "01100046",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "12",
+      "nr_pzszach": "122/DS",
+      "nazwa": "KS POLANICA-ZDRÓJ",
+      "miasto": "Polanica Zdrój",
+      "licencja": "01100004",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "13",
+      "nr_pzszach": "1101/DS",
+      "nazwa": "KSz CZARNY KOŃ Oborniki ¦l±skie",
+      "miasto": "Bagno",
+      "licencja": "01100063",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "14",
+      "nr_pzszach": "746/DS",
+      "nazwa": "KSz GAMBIT MDK ¦widnica",
+      "miasto": "¦widnica",
+      "licencja": "01100036",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "15",
+      "nr_pzszach": "744/DS",
+      "nazwa": "KSz Jelonka Jelenia Góra",
+      "miasto": "Jelenia Góra",
+      "licencja": "01100035",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "16",
+      "nr_pzszach": "141/DS",
+      "nazwa": "KSz MIED¬ Legnica",
+      "miasto": "Legnica",
+      "licencja": "01100016",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "17",
+      "nr_pzszach": "938/DS",
+      "nazwa": "KSz MIKAMA ¦widnica",
+      "miasto": "¦widnica",
+      "licencja": "01100049",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "18",
+      "nr_pzszach": "139/DS",
+      "nazwa": "KSz Polonia Wrocław",
+      "miasto": "Wrocław",
+      "licencja": "01100017",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "19",
+      "nr_pzszach": "785/DS",
+      "nazwa": "KSz. WIEŻA Pęgów",
+      "miasto": "Pęgów",
+      "licencja": "00100015",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "20",
+      "nr_pzszach": "118/DS",
+      "nazwa": "MKS ROKITA Brzeg Dolny",
+      "miasto": "Brzeg Dolny",
+      "licencja": "01100003",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "21",
+      "nr_pzszach": "657/DS",
+      "nazwa": "MGLKS PARNAS Oława",
+      "miasto": "Oława",
+      "licencja": "01100019",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "22",
+      "nr_pzszach": "136/DS",
+      "nazwa": "MUKS MDK ¦ródmie¶cie Wrocław",
+      "miasto": "Wrocław",
+      "licencja": "01100013",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "23",
+      "nr_pzszach": "576/DS",
+      "nazwa": "SSz GONIEC W±sosz",
+      "miasto": "W±sosz",
+      "licencja": "01100012",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "24",
+      "nr_pzszach": "1046/DS",
+      "nazwa": "Smocza Wieża Żmigród",
+      "miasto": "Żmigród",
+      "licencja": "01100060",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "25",
+      "nr_pzszach": "613/DS",
+      "nazwa": "Biały Król Wisznia Mała",
+      "miasto": "Wisznia Mała",
+      "licencja": "01100021",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "26",
+      "nr_pzszach": "845/DS",
+      "nazwa": "KUDOWIANKA Kudowa-Zdrój",
+      "miasto": "Kudowa Zdrój",
+      "licencja": "01100042",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "27",
+      "nr_pzszach": "1024/DS",
+      "nazwa": "STRU¦ Dziadowa Kłoda",
+      "miasto": "Dziadowa Kłoda",
+      "licencja": "01100058",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "28",
+      "nr_pzszach": "927/DS",
+      "nazwa": "SCSE Strzelin",
+      "miasto": "Strzelin",
+      "licencja": "01100047",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "29",
+      "nr_pzszach": "135/DS",
+      "nazwa": "UKS DEBIUT Przedwojów",
+      "miasto": "Kamienna Góra",
+      "licencja": "01100024",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "30",
+      "nr_pzszach": "654/DS",
+      "nazwa": "UKS GIECEK Radków",
+      "miasto": "Radków",
+      "licencja": "01100010",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "31",
+      "nr_pzszach": "947/DS",
+      "nazwa": "UKS SPRINT Wrocław",
+      "miasto": "Wrocław",
+      "licencja": "01100050",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "100.00 PLN"
+    },
+    {
+      "id": "32",
+      "nr_pzszach": "227/DS",
+      "nazwa": "UKS POGOŃ Ole¶nica",
+      "miasto": "Ole¶nica",
+      "licencja": "01100027",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "33",
+      "nr_pzszach": "722/DS",
+      "nazwa": "UKS Skoczek Milicz",
+      "miasto": "Milicz",
+      "licencja": "01100045",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "34",
+      "nr_pzszach": "380/DS",
+      "nazwa": "UKS SP3 w Bogatyni",
+      "miasto": "Bogatynia",
+      "licencja": "01100009",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "35",
+      "nr_pzszach": "846/DS",
+      "nazwa": "UKS SZACH-MAT Przemków",
+      "miasto": "Przemków",
+      "licencja": "01100041",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "36",
+      "nr_pzszach": "482/DS",
+      "nazwa": "UKS SZACH-MAT Syców",
+      "miasto": "Syców",
+      "licencja": "01100001",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "37",
+      "nr_pzszach": "1020/DS",
+      "nazwa": "UKS Twierdza Kłodzko",
+      "miasto": "Kłodzko",
+      "licencja": "01100056",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "38",
+      "nr_pzszach": "581/DS",
+      "nazwa": "UKS ZADRNA Kamienna Góra",
+      "miasto": "Kamienna Góra",
+      "licencja": "01100002",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "39",
+      "nr_pzszach": "930/DS",
+      "nazwa": "UKS Zorza Pęgów",
+      "miasto": "Pęgów",
+      "licencja": "01100048",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "40",
+      "nr_pzszach": "962/DS",
+      "nazwa": "UKSz ZIELONY SKOCZEK Lubin",
+      "miasto": "Lubin",
+      "licencja": "01100053",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "41",
+      "nr_pzszach": "816/DS",
+      "nazwa": "WKSz HETMAN Wałbrzych",
+      "miasto": "Wałbrzych",
+      "licencja": "01100039",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "42",
+      "nr_pzszach": "121/DS",
+      "nazwa": "WOK Wałbrzych",
+      "miasto": "Wałbrzych",
+      "licencja": "01100034",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "43",
+      "nr_pzszach": "1102/DS",
+      "nazwa": "WKSN ¦WIT Wrocław",
+      "miasto": "Wrocław",
+      "licencja": "01100062",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "44",
+      "nr_pzszach": "137/DS",
+      "nazwa": "Wrocławski Klub Szachowy HETMAN",
+      "miasto": "Wrocław",
+      "licencja": "01100020",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "45",
+      "nr_pzszach": "954/DS",
+      "nazwa": "WSPDN Wrocław",
+      "miasto": "Wrocław",
+      "licencja": "01100052",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "46",
+      "nr_pzszach": "1038/DS",
+      "nazwa": "ZKS UNIA Złoty Stok",
+      "miasto": "Złoty Stok",
+      "licencja": "01100059",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    }
+  ]
+}

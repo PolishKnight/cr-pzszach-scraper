@@ -1,0 +1,106 @@
+{
+  "createdAt": "2026-04-22T21:52:39.345Z",
+  "totalRecords": 10,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "827/PL",
+      "nazwa": "ASU Sokółka",
+      "miasto": "Sokółka",
+      "licencja": "10100017",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "2",
+      "nr_pzszach": "960/PO",
+      "nazwa": "AS Kolbudy",
+      "miasto": "Kolbudy",
+      "licencja": "11100026",
+      "wojewodztwo_zwiazek": "PO",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "3",
+      "nr_pzszach": "885/LB",
+      "nazwa": "Akademia Szachowa Zielona Góra",
+      "miasto": "Zielona Góra",
+      "licencja": "04100016",
+      "wojewodztwo_zwiazek": "LB",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
+      "nr_pzszach": "828/KP",
+      "nazwa": "AZS UMK Toruń",
+      "miasto": "Toruń",
+      "licencja": "02100046",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "5",
+      "nr_pzszach": "270/SL",
+      "nazwa": "AKS Mikołów",
+      "miasto": "Mikołów",
+      "licencja": "12100041",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "163/OP",
+      "nazwa": "SKS ORLIK Brzeg",
+      "miasto": "Brzeg",
+      "licencja": "08100009",
+      "wojewodztwo_zwiazek": "OP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
+      "nr_pzszach": "130/WP",
+      "nazwa": "ASSz LIPNO Stęszew",
+      "miasto": "Stęszew",
+      "licencja": "15100043",
+      "wojewodztwo_zwiazek": "WP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "8",
+      "nr_pzszach": "348/KP",
+      "nazwa": "BKS CHEMIK Bydgoszcz",
+      "miasto": "Bydgoszcz",
+      "licencja": "02100013",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "9",
+      "nr_pzszach": "557/MP",
+      "nazwa": "CKiS Skawina",
+      "miasto": "Skawina",
+      "licencja": "06100015",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "583/MA",
+      "nazwa": "CKR SSz Grójec",
+      "miasto": "Grójec",
+      "licencja": "07100054",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    }
+  ]
+}
