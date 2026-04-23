@@ -159,8 +159,8 @@ async function scrape() {
         const response = await axios.get(source.url, {
           responseType: "arraybuffer",
         });
-        const html = iconv.decode(Buffer.from(response.data), "win1250");
-        const $ = cheerio.load(html);
+        const html = iconv.decode(Buffer.from(response.data), "iso-8859-2");
+        const $ = cheerio.load(html, { decodeEntities: false });
         const wszystkieDane = source.parser($);
 
         if (wszystkieDane.length === 0) {

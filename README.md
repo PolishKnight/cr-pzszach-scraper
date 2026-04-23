@@ -10,7 +10,7 @@
 ## 📝 Opis projektu
 
 Narzędzie automatyzujące proces pobierania danych z [Centralnego Rejestru PZSzach](https://www.cr-pzszach.pl/).
-Skrypt pobiera informacje o zawodnikach oraz klubach, parsuje je z formatu HTML (kodowanie win1250) i zapisuje w ustrukturyzowanych plikach JSON.
+Skrypt pobiera informacje o zawodnikach oraz klubach, parsuje je z formatu HTML (kodowanie iso-8859-2) i zapisuje w ustrukturyzowanych plikach JSON.
 
 ### Kluczowe funkcje:
 
@@ -139,7 +139,7 @@ Projekt wykorzystuje sprawdzone biblioteki:
 
 - Axios – obsługa zapytań HTTP.
 - Cheerio – szybkie parsowanie struktury HTML.
-- Iconv-lite – wsparcie dla kodowania win1250.
+- Iconv-lite – wsparcie dla kodowania iso-8859-2.
 
 ---
 
