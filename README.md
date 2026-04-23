@@ -78,6 +78,29 @@ cr-pzszach-scraper/
 
 Każdy wygenerowany plik JSON posiada metadane ułatwiające późniejszą analizę:
 
+- dla drużyn:
+
+```json
+{
+  "createdAt": "2024-05-20T12:00:00.000Z",
+  "totalRecords": 100,
+  "data": [
+    {
+      "id": "1",
+      "nr_pzszach": "000/XX",
+      "nazwa": "Przykładowy Klub Szachowy",
+      "miasto": "Miasto Testowe",
+      "licencja": "00000000",
+      "wojewodztwo_zwiazek": "XX",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    }
+  ]
+}
+```
+
+- dla zawodników:
+
 ```json
 {
   "createdAt": "2024-05-20T12:00:00.000Z",
