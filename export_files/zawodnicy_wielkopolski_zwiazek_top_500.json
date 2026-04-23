@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-23T19:44:35.594Z",
+  "createdAt": "2026-04-23T22:58:04.878Z",
   "totalRecords": 500,
   "data": [
     {
@@ -41,7 +41,7 @@
     {
       "id": "5",
       "id_pzszach": "26062",
-      "nazwisko_imie": "NIEKRA¦ Dawid",
+      "nazwisko_imie": "NIEKRAŚ Dawid",
       "tytul_kategoria": "FM",
       "rank_fide": "2371",
       "klub": "ASSz LIPNO Stęszew",
@@ -185,7 +185,7 @@
     {
       "id": "21",
       "id_pzszach": "17994",
-      "nazwisko_imie": "¦NIHUR Piotr",
+      "nazwisko_imie": "ŚNIHUR Piotr",
       "tytul_kategoria": "K+",
       "rank_fide": "2278",
       "klub": "UKS SMECZ Konin",
@@ -320,7 +320,7 @@
     {
       "id": "36",
       "id_pzszach": "7189",
-      "nazwisko_imie": "¦CIBIOR Adam",
+      "nazwisko_imie": "ŚCIBIOR Adam",
       "tytul_kategoria": "K",
       "rank_fide": "2229",
       "klub": "",
@@ -401,7 +401,7 @@
     {
       "id": "45",
       "id_pzszach": "7000",
-      "nazwisko_imie": "JA¦NIKOWSKI Zbigniew",
+      "nazwisko_imie": "JAŚNIKOWSKI Zbigniew",
       "tytul_kategoria": "IM",
       "rank_fide": "2207",
       "klub": "OTSz Ostrów Wielkopolski",
@@ -593,7 +593,7 @@
       "nazwisko_imie": "HOMSKI Paweł",
       "tytul_kategoria": "K",
       "rank_fide": "2154",
-      "klub": "UKS KSM TĘCZA Ko¶cian",
+      "klub": "UKS KSM TĘCZA Kościan",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -698,7 +698,7 @@
     {
       "id": "78",
       "id_pzszach": "22613",
-      "nazwisko_imie": "MˇDRAWSKI Krzysztof",
+      "nazwisko_imie": "MĄDRAWSKI Krzysztof",
       "tytul_kategoria": "K++",
       "rank_fide": "2132",
       "klub": "MMKS WIENIAWA Leszno",
@@ -725,7 +725,7 @@
     {
       "id": "81",
       "id_pzszach": "94607",
-      "nazwisko_imie": "¦niedziewski Emil",
+      "nazwisko_imie": "Śniedziewski Emil",
       "tytul_kategoria": "I",
       "rank_fide": "2123",
       "klub": "AZS Poznań",
@@ -842,7 +842,7 @@
     {
       "id": "94",
       "id_pzszach": "26388",
-      "nazwisko_imie": "LE¦KIEWICZ Ignacy",
+      "nazwisko_imie": "LEŚKIEWICZ Ignacy",
       "tytul_kategoria": "K",
       "rank_fide": "2099",
       "klub": "UKS SMECZ Konin",
@@ -959,7 +959,7 @@
     {
       "id": "107",
       "id_pzszach": "25592",
-      "nazwisko_imie": "ZIˇBEK Patryk",
+      "nazwisko_imie": "ZIĄBEK Patryk",
       "tytul_kategoria": "I++",
       "rank_fide": "2079",
       "klub": "",
@@ -977,7 +977,7 @@
     {
       "id": "109",
       "id_pzszach": "6861",
-      "nazwisko_imie": "MˇCZKOWSKI Jakub",
+      "nazwisko_imie": "MĄCZKOWSKI Jakub",
       "tytul_kategoria": "I+",
       "rank_fide": "2077",
       "klub": "",
@@ -1040,7 +1040,7 @@
     {
       "id": "116",
       "id_pzszach": "7232",
-      "nazwisko_imie": "¦WIˇTEK Bartosz",
+      "nazwisko_imie": "ŚWIĄTEK Bartosz",
       "tytul_kategoria": "I++",
       "rank_fide": "2065",
       "klub": "AZS Poznań",
@@ -1052,7 +1052,7 @@
       "nazwisko_imie": "SZYMANOWSKI Wojciech",
       "tytul_kategoria": "I",
       "rank_fide": "2065",
-      "klub": "UKS KSM TĘCZA Ko¶cian",
+      "klub": "UKS KSM TĘCZA Kościan",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -1070,7 +1070,7 @@
       "nazwisko_imie": "MELEROWICZ Dominik",
       "tytul_kategoria": "K",
       "rank_fide": "2054",
-      "klub": "M-GOK Gambit ¦lesin",
+      "klub": "M-GOK Gambit Ślesin",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -1121,7 +1121,7 @@
     {
       "id": "125",
       "id_pzszach": "6876",
-      "nazwisko_imie": "BˇK Leszek",
+      "nazwisko_imie": "BĄK Leszek",
       "tytul_kategoria": "I",
       "rank_fide": "2050",
       "klub": "",
@@ -1205,7 +1205,7 @@
       "nazwisko_imie": "SMIERZCHALSKI Dawid",
       "tytul_kategoria": "I++",
       "rank_fide": "2040",
-      "klub": "MKS WICHER Zb±szyń",
+      "klub": "MKS WICHER Zbąszyń",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -1313,7 +1313,7 @@
       "nazwisko_imie": "TOBYS Marcin",
       "tytul_kategoria": "I++",
       "rank_fide": "2025",
-      "klub": "MKS WICHER Zb±szyń",
+      "klub": "MKS WICHER Zbąszyń",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -1322,7 +1322,7 @@
       "nazwisko_imie": "HANUSEK Sebastian",
       "tytul_kategoria": "I++",
       "rank_fide": "2020",
-      "klub": "UKS Ko¶cielec",
+      "klub": "UKS Kościelec",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -1373,7 +1373,7 @@
     {
       "id": "153",
       "id_pzszach": "110857",
-      "nazwisko_imie": "GRZE¦KOWIAK Antoni",
+      "nazwisko_imie": "GRZEŚKOWIAK Antoni",
       "tytul_kategoria": "",
       "rank_fide": "2016",
       "klub": "",
@@ -1400,7 +1400,7 @@
     {
       "id": "156",
       "id_pzszach": "7234",
-      "nazwisko_imie": "¦WIˇTNICKI Andrzej",
+      "nazwisko_imie": "ŚWIĄTNICKI Andrzej",
       "tytul_kategoria": "K",
       "rank_fide": "2008",
       "klub": "TS-R HETMAN Konin",
@@ -1511,7 +1511,7 @@
       "nazwisko_imie": "JOACHIMIAK Roman",
       "tytul_kategoria": "I",
       "rank_fide": "1995",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -1727,7 +1727,7 @@
       "nazwisko_imie": "NADSTOGA Wojciech",
       "tytul_kategoria": "K",
       "rank_fide": "1970",
-      "klub": "NASZACH Nowy Tomy¶l",
+      "klub": "NASZACH Nowy Tomyśl",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -1808,7 +1808,7 @@
       "nazwisko_imie": "POGORZELSKI Adrian",
       "tytul_kategoria": "I",
       "rank_fide": "1965",
-      "klub": "MDK W±growiec",
+      "klub": "MDK Wągrowiec",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -1826,7 +1826,7 @@
       "nazwisko_imie": "DROŻDŻYŃSKI Daniel",
       "tytul_kategoria": "I+",
       "rank_fide": "1963",
-      "klub": "MKS WICHER Zb±szyń",
+      "klub": "MKS WICHER Zbąszyń",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -1940,7 +1940,7 @@
     {
       "id": "216",
       "id_pzszach": "885",
-      "nazwisko_imie": "WI¦NIEWSKI Robert",
+      "nazwisko_imie": "WIŚNIEWSKI Robert",
       "tytul_kategoria": "I",
       "rank_fide": "1957",
       "klub": "ASSz LIPNO Stęszew",
@@ -2024,7 +2024,7 @@
       "nazwisko_imie": "WERBLIŃSKI Wojciech",
       "tytul_kategoria": "I++",
       "rank_fide": "1951",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2039,10 +2039,10 @@
     {
       "id": "227",
       "id_pzszach": "17471",
-      "nazwisko_imie": "GO¬DZIEWICZ Robert",
+      "nazwisko_imie": "GOŹDZIEWICZ Robert",
       "tytul_kategoria": "I",
       "rank_fide": "1950",
-      "klub": "MKS WICHER Zb±szyń",
+      "klub": "MKS WICHER Zbąszyń",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2069,7 +2069,7 @@
       "nazwisko_imie": "GROCHOWSKI Michał",
       "tytul_kategoria": "I+",
       "rank_fide": "1946",
-      "klub": "UKS Ko¶cielec",
+      "klub": "UKS Kościelec",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2105,7 +2105,7 @@
       "nazwisko_imie": "RÓZGA Jakub",
       "tytul_kategoria": "II",
       "rank_fide": "1942",
-      "klub": "MKS WICHER Zb±szyń",
+      "klub": "MKS WICHER Zbąszyń",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2123,7 +2123,7 @@
       "nazwisko_imie": "MIKOLAJCZYK Mariusz",
       "tytul_kategoria": "I",
       "rank_fide": "1941",
-      "klub": "UKS KSM TĘCZA Ko¶cian",
+      "klub": "UKS KSM TĘCZA Kościan",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2132,7 +2132,7 @@
       "nazwisko_imie": "JANICKI Rafał",
       "tytul_kategoria": "I++",
       "rank_fide": "1941",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2141,7 +2141,7 @@
       "nazwisko_imie": "KOPCZYŃSKI Alan",
       "tytul_kategoria": "I++",
       "rank_fide": "1941",
-      "klub": "M-GOK Gambit ¦lesin",
+      "klub": "M-GOK Gambit Ślesin",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2150,7 +2150,7 @@
       "nazwisko_imie": "KAMECKI Mateusz",
       "tytul_kategoria": "I",
       "rank_fide": "1940",
-      "klub": "UKS Ko¶cielec",
+      "klub": "UKS Kościelec",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2213,13 +2213,13 @@
       "nazwisko_imie": "MIKOLAJCZYK Ireneusz",
       "tytul_kategoria": "I",
       "rank_fide": "1936",
-      "klub": "UKS KSM TĘCZA Ko¶cian",
+      "klub": "UKS KSM TĘCZA Kościan",
       "wojewodztwo_zwiazek": "WP"
     },
     {
       "id": "247",
       "id_pzszach": "7946",
-      "nazwisko_imie": "RY¦ Sebastian",
+      "nazwisko_imie": "RYŚ Sebastian",
       "tytul_kategoria": "I+",
       "rank_fide": "1935",
       "klub": "",
@@ -2348,7 +2348,7 @@
       "nazwisko_imie": "LISIECKI Robert",
       "tytul_kategoria": "I++",
       "rank_fide": "1926",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2453,7 +2453,7 @@
     {
       "id": "273",
       "id_pzszach": "30096",
-      "nazwisko_imie": "SZELˇG Zuzanna",
+      "nazwisko_imie": "SZELĄG Zuzanna",
       "tytul_kategoria": "WCM",
       "rank_fide": "1918",
       "klub": "Szachowa GILDIA Swarzędz",
@@ -2471,7 +2471,7 @@
     {
       "id": "275",
       "id_pzszach": "41361",
-      "nazwisko_imie": "KU¦ Aleksander",
+      "nazwisko_imie": "KUŚ Aleksander",
       "tytul_kategoria": "K",
       "rank_fide": "1917",
       "klub": "KSz LECH-WSUS Poznań",
@@ -2564,7 +2564,7 @@
       "nazwisko_imie": "WOJTKOWSKI Paweł",
       "tytul_kategoria": "K",
       "rank_fide": "1908",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2654,7 +2654,7 @@
       "nazwisko_imie": "KOZŁOWSKA Marzena",
       "tytul_kategoria": "K++",
       "rank_fide": "1900",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2717,7 +2717,7 @@
       "nazwisko_imie": "MŁYNARCZYK Dariusz",
       "tytul_kategoria": "I+",
       "rank_fide": "1896",
-      "klub": "UKS Ko¶cielec",
+      "klub": "UKS Kościelec",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2735,13 +2735,13 @@
       "nazwisko_imie": "SIMON Marek",
       "tytul_kategoria": "I++",
       "rank_fide": "1895",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
       "id": "305",
       "id_pzszach": "16437",
-      "nazwisko_imie": "KA¬MIERCZAK Miłosz",
+      "nazwisko_imie": "KAŹMIERCZAK Miłosz",
       "tytul_kategoria": "II",
       "rank_fide": "1893",
       "klub": "LKS CHROBRY Gniezno",
@@ -2780,7 +2780,7 @@
       "nazwisko_imie": "PIETRZAK Martyna",
       "tytul_kategoria": "I",
       "rank_fide": "1890",
-      "klub": "MKS WICHER Zb±szyń",
+      "klub": "MKS WICHER Zbąszyń",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2816,7 +2816,7 @@
       "nazwisko_imie": "SKRZYPCZAK Michał",
       "tytul_kategoria": "I++",
       "rank_fide": "1887",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2861,7 +2861,7 @@
       "nazwisko_imie": "WOJDYLO Zaklin",
       "tytul_kategoria": "I",
       "rank_fide": "1884",
-      "klub": "MKS WICHER Zb±szyń",
+      "klub": "MKS WICHER Zbąszyń",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2897,7 +2897,7 @@
       "nazwisko_imie": "JUDEK Magdalena",
       "tytul_kategoria": "I+",
       "rank_fide": "1881",
-      "klub": "KSz WIEŻA ¦migiel",
+      "klub": "KSz WIEŻA Śmigiel",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -2924,7 +2924,7 @@
       "nazwisko_imie": "BUCHOWSKI Radosław",
       "tytul_kategoria": "II+",
       "rank_fide": "1878",
-      "klub": "UKS KSM TĘCZA Ko¶cian",
+      "klub": "UKS KSM TĘCZA Kościan",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3038,7 +3038,7 @@
     {
       "id": "338",
       "id_pzszach": "17502",
-      "nazwisko_imie": "¦MIESZNIAK Bartłomiej",
+      "nazwisko_imie": "ŚMIESZNIAK Bartłomiej",
       "tytul_kategoria": "II",
       "rank_fide": "1869",
       "klub": "",
@@ -3122,7 +3122,7 @@
       "nazwisko_imie": "KOSCIANSKI Roman",
       "tytul_kategoria": "II+",
       "rank_fide": "1865",
-      "klub": "UKS KSM TĘCZA Ko¶cian",
+      "klub": "UKS KSM TĘCZA Kościan",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3263,7 +3263,7 @@
     {
       "id": "363",
       "id_pzszach": "6948",
-      "nazwisko_imie": "D¬WIKOWSKI Adam",
+      "nazwisko_imie": "DŹWIKOWSKI Adam",
       "tytul_kategoria": "I+",
       "rank_fide": "1856",
       "klub": "LKS CHROBRY Gniezno",
@@ -3344,7 +3344,7 @@
     {
       "id": "372",
       "id_pzszach": "6674",
-      "nazwisko_imie": "WI¦NIEWSKI Emil",
+      "nazwisko_imie": "WIŚNIEWSKI Emil",
       "tytul_kategoria": "I",
       "rank_fide": "1849",
       "klub": "LKS CHROBRY Gniezno",
@@ -3374,7 +3374,7 @@
       "nazwisko_imie": "TOMCZAK Michał",
       "tytul_kategoria": "I++",
       "rank_fide": "1846",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3419,13 +3419,13 @@
       "nazwisko_imie": "TOMCZAK Malgorzata",
       "tytul_kategoria": "I",
       "rank_fide": "1843",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
       "id": "381",
       "id_pzszach": "17477",
-      "nazwisko_imie": "KA¬MIERCZAK Amadeusz",
+      "nazwisko_imie": "KAŹMIERCZAK Amadeusz",
       "tytul_kategoria": "II",
       "rank_fide": "1843",
       "klub": "LKS CHROBRY Gniezno",
@@ -3443,7 +3443,7 @@
     {
       "id": "383",
       "id_pzszach": "6751",
-      "nazwisko_imie": "JA¦NIKOWSKA Małgorzata",
+      "nazwisko_imie": "JAŚNIKOWSKA Małgorzata",
       "tytul_kategoria": "I+",
       "rank_fide": "1842",
       "klub": "OTSz Ostrów Wielkopolski",
@@ -3482,7 +3482,7 @@
       "nazwisko_imie": "ŁACHACZ Tymoteusz",
       "tytul_kategoria": "I",
       "rank_fide": "1841",
-      "klub": "M-GOK Gambit ¦lesin",
+      "klub": "M-GOK Gambit Ślesin",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3542,7 +3542,7 @@
     {
       "id": "394",
       "id_pzszach": "40526",
-      "nazwisko_imie": "¦NIEŻEK Kacper",
+      "nazwisko_imie": "ŚNIEŻEK Kacper",
       "tytul_kategoria": "I",
       "rank_fide": "1838",
       "klub": "JKSz-W Jarocin",
@@ -3581,7 +3581,7 @@
       "nazwisko_imie": "BIAŁKOWSKI Krzysztof",
       "tytul_kategoria": "II",
       "rank_fide": "1835",
-      "klub": "UKS Ko¶cielec",
+      "klub": "UKS Kościelec",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3605,7 +3605,7 @@
     {
       "id": "401",
       "id_pzszach": "16513",
-      "nazwisko_imie": "KU¬MA Mateusz",
+      "nazwisko_imie": "KUŹMA Mateusz",
       "tytul_kategoria": "II",
       "rank_fide": "1834",
       "klub": "",
@@ -3653,7 +3653,7 @@
       "nazwisko_imie": "KOZŁOWSKI Tomasz",
       "tytul_kategoria": "K",
       "rank_fide": "1832",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3707,7 +3707,7 @@
       "nazwisko_imie": "PRZERWA Sebastian",
       "tytul_kategoria": "I+",
       "rank_fide": "1830",
-      "klub": "M-GOK Gambit ¦lesin",
+      "klub": "M-GOK Gambit Ślesin",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3734,7 +3734,7 @@
       "nazwisko_imie": "WŁODARCZAK Damian",
       "tytul_kategoria": "I+",
       "rank_fide": "1828",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3749,7 +3749,7 @@
     {
       "id": "417",
       "id_pzszach": "62656",
-      "nazwisko_imie": "ŁA¬NIEWSKA Zofia",
+      "nazwisko_imie": "ŁAŹNIEWSKA Zofia",
       "tytul_kategoria": "WFM",
       "rank_fide": "1827",
       "klub": "KSz LECH-WSUS Poznań",
@@ -3815,7 +3815,7 @@
       "nazwisko_imie": "SLAVOV Maksymilian",
       "tytul_kategoria": "II",
       "rank_fide": "1820",
-      "klub": "UKS KSM TĘCZA Ko¶cian",
+      "klub": "UKS KSM TĘCZA Kościan",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3887,7 +3887,7 @@
       "nazwisko_imie": "KOLIŃSKI Stanisław",
       "tytul_kategoria": "I",
       "rank_fide": "1815",
-      "klub": "LKS PIAST ¦rem",
+      "klub": "LKS PIAST Śrem",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3941,7 +3941,7 @@
       "nazwisko_imie": "ROZMIAREK Krzysztof",
       "tytul_kategoria": "I",
       "rank_fide": "1812",
-      "klub": "HETMAN ¦roda Wlkp.",
+      "klub": "HETMAN Środa Wlkp.",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3950,7 +3950,7 @@
       "nazwisko_imie": "GAJEWSKI Bartosz",
       "tytul_kategoria": "II",
       "rank_fide": "1810",
-      "klub": "MKS WICHER Zb±szyń",
+      "klub": "MKS WICHER Zbąszyń",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3986,7 +3986,7 @@
       "nazwisko_imie": "STANICKI Kamil",
       "tytul_kategoria": "I",
       "rank_fide": "1807",
-      "klub": "MKS WICHER Zb±szyń",
+      "klub": "MKS WICHER Zbąszyń",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -3995,7 +3995,7 @@
       "nazwisko_imie": "SIKORA Tomasz",
       "tytul_kategoria": "II+",
       "rank_fide": "1806",
-      "klub": "UKS KSM TĘCZA Ko¶cian",
+      "klub": "UKS KSM TĘCZA Kościan",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -4094,7 +4094,7 @@
       "nazwisko_imie": "SZAFRAŃSKI Piotr",
       "tytul_kategoria": "II+",
       "rank_fide": "1796",
-      "klub": "UKS Ko¶cielec",
+      "klub": "UKS Kościelec",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -4154,7 +4154,7 @@
     {
       "id": "462",
       "id_pzszach": "114678",
-      "nazwisko_imie": "WI¦NIAREK Jakub",
+      "nazwisko_imie": "WIŚNIAREK Jakub",
       "tytul_kategoria": "I",
       "rank_fide": "1794",
       "klub": "KTS Kalisz",
@@ -4190,7 +4190,7 @@
     {
       "id": "466",
       "id_pzszach": "17993",
-      "nazwisko_imie": "¦NIHUR Adam",
+      "nazwisko_imie": "ŚNIHUR Adam",
       "tytul_kategoria": "II",
       "rank_fide": "1791",
       "klub": "UKS SMECZ Konin",
@@ -4307,7 +4307,7 @@
     {
       "id": "479",
       "id_pzszach": "21084",
-      "nazwisko_imie": "FRˇCKOWIAK Andrzej",
+      "nazwisko_imie": "FRĄCKOWIAK Andrzej",
       "tytul_kategoria": "I",
       "rank_fide": "1784",
       "klub": "KS 1920 Mosina",
@@ -4364,7 +4364,7 @@
       "nazwisko_imie": "OSTROWSKI Dariusz",
       "tytul_kategoria": "II+",
       "rank_fide": "1781",
-      "klub": "UKS Ko¶cielec",
+      "klub": "UKS Kościelec",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -4460,7 +4460,7 @@
     {
       "id": "496",
       "id_pzszach": "22453",
-      "nazwisko_imie": "FRˇCKOWIAK Mateusz",
+      "nazwisko_imie": "FRĄCKOWIAK Mateusz",
       "tytul_kategoria": "II",
       "rank_fide": "1776",
       "klub": "UKS GCK Sękowo",
@@ -4472,7 +4472,7 @@
       "nazwisko_imie": "BRUCH Tomasz",
       "tytul_kategoria": "II",
       "rank_fide": "1775",
-      "klub": "M-GOK Gambit ¦lesin",
+      "klub": "M-GOK Gambit Ślesin",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -4481,7 +4481,7 @@
       "nazwisko_imie": "JAROMIN Maciej",
       "tytul_kategoria": "I",
       "rank_fide": "1774",
-      "klub": "UKS Ko¶cielec",
+      "klub": "UKS Kościelec",
       "wojewodztwo_zwiazek": "WP"
     },
     {
