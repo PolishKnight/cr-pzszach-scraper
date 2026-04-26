@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-25T04:33:37.636Z",
+  "createdAt": "2026-04-26T04:56:13.041Z",
   "totalRecords": 10,
   "data": [
     {
@@ -67,15 +67,6 @@
     },
     {
       "id": "8",
-      "id_pzszach": "71658",
-      "nazwisko_imie": "LIŚKIEWICZ Jakub",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2280",
-      "klub": "UKS GEDANENSIS Gdańsk",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "9",
       "id_pzszach": "4653",
       "nazwisko_imie": "CICHOCKI Adam",
       "tytul_kategoria": "FM",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "4731",
       "nazwisko_imie": "KWIATKOWSKI Łukasz",
       "tytul_kategoria": "K",
       "rank_fide": "2270",
       "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "4758",
+      "nazwisko_imie": "MIRSKI Stanisław",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2266",
+      "klub": "UKS GEDANENSIS Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     }
   ]

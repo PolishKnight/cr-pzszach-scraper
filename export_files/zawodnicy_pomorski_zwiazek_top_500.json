@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-25T04:33:37.636Z",
+  "createdAt": "2026-04-26T04:56:13.042Z",
   "totalRecords": 500,
   "data": [
     {
@@ -67,15 +67,6 @@
     },
     {
       "id": "8",
-      "id_pzszach": "71658",
-      "nazwisko_imie": "LIŚKIEWICZ Jakub",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2280",
-      "klub": "UKS GEDANENSIS Gdańsk",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "9",
       "id_pzszach": "4653",
       "nazwisko_imie": "CICHOCKI Adam",
       "tytul_kategoria": "FM",
@@ -84,7 +75,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "4731",
       "nazwisko_imie": "KWIATKOWSKI Łukasz",
       "tytul_kategoria": "K",
@@ -93,7 +84,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "11",
+      "id": "10",
       "id_pzszach": "4758",
       "nazwisko_imie": "MIRSKI Stanisław",
       "tytul_kategoria": "K+",
@@ -102,7 +93,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "12",
+      "id": "11",
       "id_pzszach": "4690",
       "nazwisko_imie": "JURKIEWICZ Krzysztof",
       "tytul_kategoria": "M",
@@ -111,7 +102,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "13",
+      "id": "12",
       "id_pzszach": "60550",
       "nazwisko_imie": "CHMURA Eryk",
       "tytul_kategoria": "K",
@@ -120,7 +111,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "14",
+      "id": "13",
       "id_pzszach": "949",
       "nazwisko_imie": "GRABOWSKI Paweł",
       "tytul_kategoria": "FM",
@@ -129,7 +120,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "15",
+      "id": "14",
       "id_pzszach": "4827",
       "nazwisko_imie": "SOCHA Czesław",
       "tytul_kategoria": "K",
@@ -138,7 +129,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "16",
+      "id": "15",
       "id_pzszach": "4783",
       "nazwisko_imie": "OSSOWSKI Andrzej",
       "tytul_kategoria": "K",
@@ -147,7 +138,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "17",
+      "id": "16",
       "id_pzszach": "750",
       "nazwisko_imie": "CZAPCZYK Krzysztof",
       "tytul_kategoria": "K",
@@ -156,7 +147,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "18",
+      "id": "17",
       "id_pzszach": "4450",
       "nazwisko_imie": "WYRZYKOWSKI Lubomir",
       "tytul_kategoria": "K",
@@ -165,7 +156,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "19",
+      "id": "18",
       "id_pzszach": "4847",
       "nazwisko_imie": "SYMBOR Przemysław",
       "tytul_kategoria": "K",
@@ -174,7 +165,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "20",
+      "id": "19",
       "id_pzszach": "4792",
       "nazwisko_imie": "PIECHOCKI Franciszek",
       "tytul_kategoria": "FM",
@@ -183,7 +174,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "21",
+      "id": "20",
       "id_pzszach": "4697",
       "nazwisko_imie": "KARWOWSKI Bogdan",
       "tytul_kategoria": "K",
@@ -192,7 +183,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "22",
+      "id": "21",
       "id_pzszach": "85693",
       "nazwisko_imie": "KORSZAŃSKI Stanisław",
       "tytul_kategoria": "CM",
@@ -201,7 +192,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "23",
+      "id": "22",
       "id_pzszach": "4703",
       "nazwisko_imie": "KIEŁCZEWSKI Krzysztof",
       "tytul_kategoria": "K",
@@ -210,7 +201,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "24",
+      "id": "23",
       "id_pzszach": "4849",
       "nazwisko_imie": "SZCZEP Zbigniew",
       "tytul_kategoria": "CM",
@@ -219,7 +210,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "25",
+      "id": "24",
       "id_pzszach": "4901",
       "nazwisko_imie": "ZIELIŃSKI Maciej",
       "tytul_kategoria": "K+",
@@ -228,7 +219,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "26",
+      "id": "25",
       "id_pzszach": "4701",
       "nazwisko_imie": "KEMPIŃSKI Zdzisław",
       "tytul_kategoria": "K",
@@ -237,7 +228,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "27",
+      "id": "26",
       "id_pzszach": "4730",
       "nazwisko_imie": "KUT Marcin",
       "tytul_kategoria": "I",
@@ -246,7 +237,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "28",
+      "id": "27",
       "id_pzszach": "4671",
       "nazwisko_imie": "GORNIAK Tomasz",
       "tytul_kategoria": "K",
@@ -255,7 +246,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "29",
+      "id": "28",
       "id_pzszach": "79380",
       "nazwisko_imie": "PALUSZEK Jan",
       "tytul_kategoria": "CM",
@@ -264,7 +255,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "30",
+      "id": "29",
       "id_pzszach": "4877",
       "nazwisko_imie": "WEGNER Robert",
       "tytul_kategoria": "I",
@@ -273,7 +264,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "31",
+      "id": "30",
       "id_pzszach": "4896",
       "nazwisko_imie": "ZDROJEWSKI Wojciech",
       "tytul_kategoria": "K",
@@ -282,7 +273,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "32",
+      "id": "31",
       "id_pzszach": "4795",
       "nazwisko_imie": "PIETRZYCKI Jacek",
       "tytul_kategoria": "I++",
@@ -291,7 +282,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "33",
+      "id": "32",
       "id_pzszach": "4756",
       "nazwisko_imie": "MIELNICZEK Krzysztof",
       "tytul_kategoria": "K",
@@ -300,7 +291,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "34",
+      "id": "33",
       "id_pzszach": "4478",
       "nazwisko_imie": "MORAWIEC Zdzislaw",
       "tytul_kategoria": "I",
@@ -309,7 +300,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "35",
+      "id": "34",
       "id_pzszach": "21652",
       "nazwisko_imie": "ZALESKI Łukasz",
       "tytul_kategoria": "K+",
@@ -318,7 +309,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "36",
+      "id": "35",
       "id_pzszach": "4764",
       "nazwisko_imie": "MURAWSKI Wieslaw",
       "tytul_kategoria": "I++",
@@ -327,7 +318,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "37",
+      "id": "36",
       "id_pzszach": "4745",
       "nazwisko_imie": "LIBURA Wiesław",
       "tytul_kategoria": "K",
@@ -336,7 +327,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "38",
+      "id": "37",
       "id_pzszach": "4586",
       "nazwisko_imie": "PRZYTYCKI Piotr",
       "tytul_kategoria": "I",
@@ -345,7 +336,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "39",
+      "id": "38",
       "id_pzszach": "6101",
       "nazwisko_imie": "STANDOWICZ Robert",
       "tytul_kategoria": "I+",
@@ -354,7 +345,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "40",
+      "id": "39",
       "id_pzszach": "4902",
       "nazwisko_imie": "ZIELIŃSKI Stanisław",
       "tytul_kategoria": "K",
@@ -363,7 +354,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "41",
+      "id": "40",
       "id_pzszach": "4842",
       "nazwisko_imie": "SUPINSKI Remigiusz",
       "tytul_kategoria": "I",
@@ -372,7 +363,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "42",
+      "id": "41",
       "id_pzszach": "5728",
       "nazwisko_imie": "GUMUŁA Daniel",
       "tytul_kategoria": "FM",
@@ -381,7 +372,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "43",
+      "id": "42",
       "id_pzszach": "4678",
       "nazwisko_imie": "HOFFMAN Rudolf",
       "tytul_kategoria": "K",
@@ -390,7 +381,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "44",
+      "id": "43",
       "id_pzszach": "4708",
       "nazwisko_imie": "KOC Władysław",
       "tytul_kategoria": "K",
@@ -399,7 +390,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "45",
+      "id": "44",
       "id_pzszach": "10199",
       "nazwisko_imie": "BURACZEWSKI Rafał",
       "tytul_kategoria": "CM",
@@ -408,7 +399,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "46",
+      "id": "45",
       "id_pzszach": "4628",
       "nazwisko_imie": "BADUROWICZ Leszek",
       "tytul_kategoria": "I",
@@ -417,7 +408,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "47",
+      "id": "46",
       "id_pzszach": "58373",
       "nazwisko_imie": "TRZEBIŃSKI Patryk",
       "tytul_kategoria": "CM",
@@ -426,7 +417,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "48",
+      "id": "47",
       "id_pzszach": "99213",
       "nazwisko_imie": "CZAJA Wiktor",
       "tytul_kategoria": "K",
@@ -435,7 +426,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "49",
+      "id": "48",
       "id_pzszach": "4615",
       "nazwisko_imie": "ZIELIŃSKI Wojciech",
       "tytul_kategoria": "K",
@@ -444,7 +435,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "50",
+      "id": "49",
       "id_pzszach": "26918",
       "nazwisko_imie": "WYCZLING Bartosz",
       "tytul_kategoria": "K",
@@ -453,7 +444,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "51",
+      "id": "50",
       "id_pzszach": "4775",
       "nazwisko_imie": "OKRUCIŃSKI Tadeusz",
       "tytul_kategoria": "FM",
@@ -462,7 +453,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "52",
+      "id": "51",
       "id_pzszach": "125803",
       "nazwisko_imie": "SEMENUKHA Nikita",
       "tytul_kategoria": "K",
@@ -471,7 +462,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "53",
+      "id": "52",
       "id_pzszach": "4717",
       "nazwisko_imie": "KRAWCZYK Andrzej",
       "tytul_kategoria": "K",
@@ -480,7 +471,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "54",
+      "id": "53",
       "id_pzszach": "65296",
       "nazwisko_imie": "ŚNIADECKI Oskar",
       "tytul_kategoria": "K",
@@ -489,7 +480,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "55",
+      "id": "54",
       "id_pzszach": "7444",
       "nazwisko_imie": "GAJDZICA Maciej",
       "tytul_kategoria": "K",
@@ -498,7 +489,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "56",
+      "id": "55",
       "id_pzszach": "4751",
       "nazwisko_imie": "ZDROJEWSKA Natalia",
       "tytul_kategoria": "M",
@@ -507,7 +498,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "57",
+      "id": "56",
       "id_pzszach": "4716",
       "nazwisko_imie": "KRAWCZYK Andrzej",
       "tytul_kategoria": "I",
@@ -516,7 +507,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "58",
+      "id": "57",
       "id_pzszach": "4729",
       "nazwisko_imie": "KUŚMIERZ Maciej",
       "tytul_kategoria": "K",
@@ -525,7 +516,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "59",
+      "id": "58",
       "id_pzszach": "1121",
       "nazwisko_imie": "RYBAK Tomasz",
       "tytul_kategoria": "K",
@@ -534,7 +525,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "60",
+      "id": "59",
       "id_pzszach": "4614",
       "nazwisko_imie": "KOBUS Sebastian",
       "tytul_kategoria": "I++",
@@ -543,7 +534,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "61",
+      "id": "60",
       "id_pzszach": "96819",
       "nazwisko_imie": "PRZEDLACKI Wiktor",
       "tytul_kategoria": "I",
@@ -552,7 +543,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "62",
+      "id": "61",
       "id_pzszach": "4883",
       "nazwisko_imie": "WIRKUS Mieczyslaw",
       "tytul_kategoria": "I++",
@@ -561,7 +552,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "63",
+      "id": "62",
       "id_pzszach": "10565",
       "nazwisko_imie": "ULANOWSKI Karol",
       "tytul_kategoria": "K",
@@ -570,7 +561,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "64",
+      "id": "63",
       "id_pzszach": "4643",
       "nazwisko_imie": "BUGALSKI Michał",
       "tytul_kategoria": "K",
@@ -579,7 +570,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "65",
+      "id": "64",
       "id_pzszach": "4857",
       "nazwisko_imie": "SZYMCZAK Roman",
       "tytul_kategoria": "K",
@@ -588,7 +579,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "66",
+      "id": "65",
       "id_pzszach": "4763",
       "nazwisko_imie": "MULAWA Maksymilian",
       "tytul_kategoria": "I",
@@ -597,7 +588,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "67",
+      "id": "66",
       "id_pzszach": "4544",
       "nazwisko_imie": "TUREK Andrzej",
       "tytul_kategoria": "I++",
@@ -606,7 +597,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "68",
+      "id": "67",
       "id_pzszach": "4706",
       "nazwisko_imie": "KLAMANN Marcin",
       "tytul_kategoria": "I",
@@ -615,7 +606,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "69",
+      "id": "68",
       "id_pzszach": "4627",
       "nazwisko_imie": "BACHAN Daniel",
       "tytul_kategoria": "I",
@@ -624,7 +615,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "70",
+      "id": "69",
       "id_pzszach": "4882",
       "nazwisko_imie": "WIEWIÓRKOWSKI Dariusz",
       "tytul_kategoria": "K",
@@ -633,7 +624,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "71",
+      "id": "70",
       "id_pzszach": "4841",
       "nazwisko_imie": "STUDZIŃSKI Brunon",
       "tytul_kategoria": "K",
@@ -642,7 +633,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "72",
+      "id": "71",
       "id_pzszach": "4899",
       "nazwisko_imie": "ZIELIŃSKA Danuta",
       "tytul_kategoria": "K",
@@ -651,7 +642,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "73",
+      "id": "72",
       "id_pzszach": "4648",
       "nazwisko_imie": "BYLICA Michał",
       "tytul_kategoria": "I++",
@@ -660,7 +651,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "74",
+      "id": "73",
       "id_pzszach": "1101",
       "nazwisko_imie": "PASZEK Krzysztof",
       "tytul_kategoria": "K",
@@ -669,7 +660,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "75",
+      "id": "74",
       "id_pzszach": "4504",
       "nazwisko_imie": "PIOTRZKOWSKI Mieczyslaw",
       "tytul_kategoria": "I+",
@@ -678,7 +669,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "76",
+      "id": "75",
       "id_pzszach": "4479",
       "nazwisko_imie": "STRZALBA Maciej",
       "tytul_kategoria": "I",
@@ -687,7 +678,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "77",
+      "id": "76",
       "id_pzszach": "4743",
       "nazwisko_imie": "LEWANDOWSKI Mirosław",
       "tytul_kategoria": "K",
@@ -696,7 +687,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "78",
+      "id": "77",
       "id_pzszach": "55994",
       "nazwisko_imie": "MALINOWSKI Szymon",
       "tytul_kategoria": "K",
@@ -705,7 +696,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "79",
+      "id": "78",
       "id_pzszach": "7178",
       "nazwisko_imie": "SYMBOR Beata",
       "tytul_kategoria": "K",
@@ -714,7 +705,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "80",
+      "id": "79",
       "id_pzszach": "4830",
       "nazwisko_imie": "SPODZIEJA Diogenes",
       "tytul_kategoria": "I",
@@ -723,7 +714,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "81",
+      "id": "80",
       "id_pzszach": "4810",
       "nazwisko_imie": "REK Krzysztof",
       "tytul_kategoria": "I",
@@ -732,7 +723,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "82",
+      "id": "81",
       "id_pzszach": "26930",
       "nazwisko_imie": "BELCZEWSKI Jacek",
       "tytul_kategoria": "K",
@@ -741,7 +732,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "83",
+      "id": "82",
       "id_pzszach": "19833",
       "nazwisko_imie": "MOĆKUN Dawid",
       "tytul_kategoria": "I",
@@ -750,7 +741,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "84",
+      "id": "83",
       "id_pzszach": "4652",
       "nazwisko_imie": "CHMIELEWSKI Tomasz",
       "tytul_kategoria": "I",
@@ -759,7 +750,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "85",
+      "id": "84",
       "id_pzszach": "4797",
       "nazwisko_imie": "PIOCH Zygmunt",
       "tytul_kategoria": "M",
@@ -768,7 +759,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "86",
+      "id": "85",
       "id_pzszach": "21737",
       "nazwisko_imie": "FUKOWSKI Paweł",
       "tytul_kategoria": "K",
@@ -777,7 +768,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "87",
+      "id": "86",
       "id_pzszach": "4668",
       "nazwisko_imie": "FORYS Michal",
       "tytul_kategoria": "I",
@@ -786,7 +777,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "88",
+      "id": "87",
       "id_pzszach": "4610",
       "nazwisko_imie": "PILECKI Adam",
       "tytul_kategoria": "I",
@@ -795,7 +786,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "89",
+      "id": "88",
       "id_pzszach": "4733",
       "nazwisko_imie": "LANCUCKI Maciej",
       "tytul_kategoria": "I",
@@ -804,7 +795,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "90",
+      "id": "89",
       "id_pzszach": "4659",
       "nazwisko_imie": "ROMEL-CZARNOWSKI Adam",
       "tytul_kategoria": "K",
@@ -813,7 +804,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "91",
+      "id": "90",
       "id_pzszach": "4516",
       "nazwisko_imie": "HISZCZYŃSKI Jakub",
       "tytul_kategoria": "I++",
@@ -822,7 +813,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "92",
+      "id": "91",
       "id_pzszach": "4677",
       "nazwisko_imie": "HILARECKI Grzegorz",
       "tytul_kategoria": "K",
@@ -831,7 +822,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "93",
+      "id": "92",
       "id_pzszach": "7195",
       "nazwisko_imie": "MIESZKOWSKA Justyna",
       "tytul_kategoria": "K+",
@@ -840,7 +831,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "94",
+      "id": "93",
       "id_pzszach": "84408",
       "nazwisko_imie": "SZŁOD Wiktor",
       "tytul_kategoria": "I+",
@@ -849,7 +840,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "95",
+      "id": "94",
       "id_pzszach": "4808",
       "nazwisko_imie": "RAWSKI Sławomir",
       "tytul_kategoria": "FM",
@@ -858,7 +849,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "1204",
       "nazwisko_imie": "WINDORPSKI Jacek",
       "tytul_kategoria": "I",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "7316",
       "nazwisko_imie": "FRANCKOWSKI Janusz",
       "tytul_kategoria": "I",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "100834",
       "nazwisko_imie": "ZALEWSKI Witold",
       "tytul_kategoria": "I",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "4658",
       "nazwisko_imie": "CZAPIEWSKA Izabela",
       "tytul_kategoria": "K",
@@ -894,7 +885,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "4890",
       "nazwisko_imie": "WRZESINSKI Bartosz",
       "tytul_kategoria": "I",
@@ -903,7 +894,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "101",
+      "id": "100",
       "id_pzszach": "4455",
       "nazwisko_imie": "KOTŁOWSKI Tomasz",
       "tytul_kategoria": "I++",
@@ -912,7 +903,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "102",
+      "id": "101",
       "id_pzszach": "4581",
       "nazwisko_imie": "KARŁO Tymoteusz",
       "tytul_kategoria": "I",
@@ -921,7 +912,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "103",
+      "id": "102",
       "id_pzszach": "888",
       "nazwisko_imie": "BANKERT Krzysztof",
       "tytul_kategoria": "I",
@@ -930,7 +921,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "104",
+      "id": "103",
       "id_pzszach": "4767",
       "nazwisko_imie": "NADOLINSKI Roman",
       "tytul_kategoria": "I",
@@ -939,7 +930,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "105",
+      "id": "104",
       "id_pzszach": "4642",
       "nazwisko_imie": "BORTKUN Piotr",
       "tytul_kategoria": "I",
@@ -948,7 +939,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "106",
+      "id": "105",
       "id_pzszach": "4515",
       "nazwisko_imie": "GRZYBICKI Andrzej",
       "tytul_kategoria": "I",
@@ -957,7 +948,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "107",
+      "id": "106",
       "id_pzszach": "4844",
       "nazwisko_imie": "SWIDERSKI Marek",
       "tytul_kategoria": "I",
@@ -966,7 +957,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "108",
+      "id": "107",
       "id_pzszach": "4759",
       "nazwisko_imie": "MISIEJUK Zdzislaw",
       "tytul_kategoria": "I",
@@ -975,7 +966,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "109",
+      "id": "108",
       "id_pzszach": "122032",
       "nazwisko_imie": "KRAJDOCHA Konrad",
       "tytul_kategoria": "I+",
@@ -984,7 +975,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "110",
+      "id": "109",
       "id_pzszach": "4872",
       "nazwisko_imie": "WALKUSZ Mirosław",
       "tytul_kategoria": "CM",
@@ -993,7 +984,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "111",
+      "id": "110",
       "id_pzszach": "4661",
       "nazwisko_imie": "CZYRSON Krystian",
       "tytul_kategoria": "I",
@@ -1002,7 +993,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "112",
+      "id": "111",
       "id_pzszach": "17902",
       "nazwisko_imie": "ŁADA Michał",
       "tytul_kategoria": "I++",
@@ -1011,7 +1002,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "113",
+      "id": "112",
       "id_pzszach": "4816",
       "nazwisko_imie": "SEMENIUK Adam",
       "tytul_kategoria": "I",
@@ -1020,7 +1011,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "114",
+      "id": "113",
       "id_pzszach": "1081",
       "nazwisko_imie": "MYZYK Jan",
       "tytul_kategoria": "K",
@@ -1029,7 +1020,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "115",
+      "id": "114",
       "id_pzszach": "4762",
       "nazwisko_imie": "MROZOWICKI Ryszard",
       "tytul_kategoria": "I",
@@ -1038,7 +1029,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "116",
+      "id": "115",
       "id_pzszach": "4457",
       "nazwisko_imie": "MAKURAT Adam",
       "tytul_kategoria": "II",
@@ -1047,7 +1038,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "117",
+      "id": "116",
       "id_pzszach": "4691",
       "nazwisko_imie": "JURKIEWICZ Krzysztof",
       "tytul_kategoria": "K",
@@ -1056,7 +1047,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "118",
+      "id": "117",
       "id_pzszach": "4814",
       "nazwisko_imie": "SAPIS Lucyna",
       "tytul_kategoria": "WCM",
@@ -1065,7 +1056,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "119",
+      "id": "118",
       "id_pzszach": "877",
       "nazwisko_imie": "JANUSZEWSKI Piotr",
       "tytul_kategoria": "I",
@@ -1074,7 +1065,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "120",
+      "id": "119",
       "id_pzszach": "137844",
       "nazwisko_imie": "GINDINSON Artem",
       "tytul_kategoria": "III",
@@ -1083,7 +1074,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "121",
+      "id": "120",
       "id_pzszach": "4584",
       "nazwisko_imie": "NERSESJAN Grzegorz",
       "tytul_kategoria": "II+",
@@ -1092,7 +1083,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "122",
+      "id": "121",
       "id_pzszach": "4722",
       "nazwisko_imie": "KULCZYCKI Daniel",
       "tytul_kategoria": "I",
@@ -1101,7 +1092,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "123",
+      "id": "122",
       "id_pzszach": "24629",
       "nazwisko_imie": "TYRAN Daniel",
       "tytul_kategoria": "I++",
@@ -1110,7 +1101,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "124",
+      "id": "123",
       "id_pzszach": "4616",
       "nazwisko_imie": "KWASNIEWSKI Jerzy",
       "tytul_kategoria": "I",
@@ -1119,7 +1110,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "125",
+      "id": "124",
       "id_pzszach": "4512",
       "nazwisko_imie": "BATOR Przemyslaw",
       "tytul_kategoria": "I",
@@ -1128,7 +1119,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "126",
+      "id": "125",
       "id_pzszach": "48949",
       "nazwisko_imie": "PAWLETKO Szymon",
       "tytul_kategoria": "I",
@@ -1137,7 +1128,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "127",
+      "id": "126",
       "id_pzszach": "4626",
       "nazwisko_imie": "ANDRZEJEWSKI Szymon",
       "tytul_kategoria": "I",
@@ -1146,7 +1137,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "128",
+      "id": "127",
       "id_pzszach": "1112",
       "nazwisko_imie": "POPIOŁEK Marcin",
       "tytul_kategoria": "I",
@@ -1155,7 +1146,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "129",
+      "id": "128",
       "id_pzszach": "4713",
       "nazwisko_imie": "KOT Jerzy",
       "tytul_kategoria": "FM",
@@ -1164,7 +1155,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "130",
+      "id": "129",
       "id_pzszach": "4566",
       "nazwisko_imie": "WEICHHOLD Łukasz",
       "tytul_kategoria": "II+",
@@ -1173,7 +1164,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "131",
+      "id": "130",
       "id_pzszach": "4735",
       "nazwisko_imie": "LASOWSKI Tomasz",
       "tytul_kategoria": "I++",
@@ -1182,7 +1173,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "132",
+      "id": "131",
       "id_pzszach": "4725",
       "nazwisko_imie": "KULLING Aleksander",
       "tytul_kategoria": "I",
@@ -1191,7 +1182,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "133",
+      "id": "132",
       "id_pzszach": "21570",
       "nazwisko_imie": "KINDLER Przemysław",
       "tytul_kategoria": "K",
@@ -1200,7 +1191,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "134",
+      "id": "133",
       "id_pzszach": "2101",
       "nazwisko_imie": "PAWELEC Bartosz",
       "tytul_kategoria": "K",
@@ -1209,7 +1200,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "135",
+      "id": "134",
       "id_pzszach": "4471",
       "nazwisko_imie": "MICHNIKIEWICZ Sławomir",
       "tytul_kategoria": "I",
@@ -1218,7 +1209,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "136",
+      "id": "135",
       "id_pzszach": "4655",
       "nazwisko_imie": "CISZEWSKI Marek",
       "tytul_kategoria": "I",
@@ -1227,7 +1218,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "137",
+      "id": "136",
       "id_pzszach": "17463",
       "nazwisko_imie": "SZYMANOWSKI Mateusz",
       "tytul_kategoria": "I",
@@ -1236,7 +1227,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "138",
+      "id": "137",
       "id_pzszach": "4892",
       "nazwisko_imie": "WYRWA Zdzislaw",
       "tytul_kategoria": "I",
@@ -1245,7 +1236,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "139",
+      "id": "138",
       "id_pzszach": "26852",
       "nazwisko_imie": "PUTLAK Wojciech",
       "tytul_kategoria": "I++",
@@ -1254,7 +1245,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "140",
+      "id": "139",
       "id_pzszach": "4514",
       "nazwisko_imie": "GIECEWICZ Tomasz",
       "tytul_kategoria": "II",
@@ -1263,7 +1254,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "141",
+      "id": "140",
       "id_pzszach": "4571",
       "nazwisko_imie": "TUSZYNSKI Edmund",
       "tytul_kategoria": "I",
@@ -1272,7 +1263,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "142",
+      "id": "141",
       "id_pzszach": "27753",
       "nazwisko_imie": "TARAJKIEWICZ Krzysztof",
       "tytul_kategoria": "I+",
@@ -1281,7 +1272,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "143",
+      "id": "142",
       "id_pzszach": "4459",
       "nazwisko_imie": "WARMOWSKI Paweł",
       "tytul_kategoria": "I",
@@ -1290,7 +1281,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "144",
+      "id": "143",
       "id_pzszach": "4826",
       "nazwisko_imie": "SOBOLEWSKI Piotr",
       "tytul_kategoria": "K",
@@ -1299,7 +1290,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "145",
+      "id": "144",
       "id_pzszach": "113636",
       "nazwisko_imie": "ANISKEVICH Dzmitry",
       "tytul_kategoria": "I",
@@ -1308,7 +1299,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "146",
+      "id": "145",
       "id_pzszach": "86007",
       "nazwisko_imie": "KOSZAŁKA Filip",
       "tytul_kategoria": "I",
@@ -1317,7 +1308,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "147",
+      "id": "146",
       "id_pzszach": "4768",
       "nazwisko_imie": "NARKUN Michał",
       "tytul_kategoria": "I",
@@ -1326,7 +1317,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "148",
+      "id": "147",
       "id_pzszach": "20872",
       "nazwisko_imie": "POPŁAWSKI Maciej",
       "tytul_kategoria": "I",
@@ -1335,7 +1326,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "149",
+      "id": "148",
       "id_pzszach": "4699",
       "nazwisko_imie": "KAWA Zbigniew",
       "tytul_kategoria": "I",
@@ -1344,7 +1335,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "150",
+      "id": "149",
       "id_pzszach": "77448",
       "nazwisko_imie": "BRUDZYŃSKI Wojciech",
       "tytul_kategoria": "I++",
@@ -1353,7 +1344,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "151",
+      "id": "150",
       "id_pzszach": "4518",
       "nazwisko_imie": "NAROLSKI Paweł",
       "tytul_kategoria": "II",
@@ -1362,7 +1353,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "152",
+      "id": "151",
       "id_pzszach": "9843",
       "nazwisko_imie": "KUCHARSKI Krzysztof",
       "tytul_kategoria": "II+",
@@ -1371,7 +1362,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "153",
+      "id": "152",
       "id_pzszach": "60200",
       "nazwisko_imie": "PIECZULIS Błażej",
       "tytul_kategoria": "I",
@@ -1380,7 +1371,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "154",
+      "id": "153",
       "id_pzszach": "33483",
       "nazwisko_imie": "ZARĘBA Maciej",
       "tytul_kategoria": "I+",
@@ -1389,7 +1380,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "155",
+      "id": "154",
       "id_pzszach": "4592",
       "nazwisko_imie": "KRYSZEWSKI Sebastian",
       "tytul_kategoria": "I",
@@ -1398,7 +1389,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "156",
+      "id": "155",
       "id_pzszach": "4613",
       "nazwisko_imie": "GROTA Mateusz",
       "tytul_kategoria": "I",
@@ -1407,7 +1398,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "157",
+      "id": "156",
       "id_pzszach": "4685",
       "nazwisko_imie": "JAWORSKI Andrzej",
       "tytul_kategoria": "I",
@@ -1416,7 +1407,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "158",
+      "id": "157",
       "id_pzszach": "21429",
       "nazwisko_imie": "PHAM Juliusz",
       "tytul_kategoria": "I",
@@ -1425,7 +1416,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "159",
+      "id": "158",
       "id_pzszach": "1159",
       "nazwisko_imie": "STUDZINSKI Tadeusz",
       "tytul_kategoria": "I++",
@@ -1434,7 +1425,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "160",
+      "id": "159",
       "id_pzszach": "4596",
       "nazwisko_imie": "MIERSKA Agnieszka",
       "tytul_kategoria": "I+",
@@ -1443,7 +1434,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "161",
+      "id": "160",
       "id_pzszach": "103941",
       "nazwisko_imie": "MELER Adam",
       "tytul_kategoria": "I",
@@ -1452,7 +1443,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "162",
+      "id": "161",
       "id_pzszach": "4704",
       "nazwisko_imie": "KIRSZENSTEIN Adam",
       "tytul_kategoria": "I",
@@ -1461,7 +1452,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "163",
+      "id": "162",
       "id_pzszach": "4574",
       "nazwisko_imie": "KIRSZENSTEIN Łukasz",
       "tytul_kategoria": "II",
@@ -1470,7 +1461,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "164",
+      "id": "163",
       "id_pzszach": "4601",
       "nazwisko_imie": "BRYLOWSKI Marian",
       "tytul_kategoria": "I++",
@@ -1479,7 +1470,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "165",
+      "id": "164",
       "id_pzszach": "4863",
       "nazwisko_imie": "KREFFTA Beata",
       "tytul_kategoria": "WCM",
@@ -1488,7 +1479,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "166",
+      "id": "165",
       "id_pzszach": "4637",
       "nazwisko_imie": "BODIO Leszek",
       "tytul_kategoria": "I",
@@ -1497,7 +1488,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "167",
+      "id": "166",
       "id_pzszach": "4809",
       "nazwisko_imie": "RAWSKI Wiesław",
       "tytul_kategoria": "I",
@@ -1506,7 +1497,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "168",
+      "id": "167",
       "id_pzszach": "4891",
       "nazwisko_imie": "WRZESIŃSKI-SZAJNER Paweł",
       "tytul_kategoria": "I",
@@ -1515,7 +1506,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "169",
+      "id": "168",
       "id_pzszach": "4602",
       "nazwisko_imie": "BRYLOWSKI Stefan",
       "tytul_kategoria": "I++",
@@ -1524,7 +1515,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "170",
+      "id": "169",
       "id_pzszach": "27107",
       "nazwisko_imie": "KOTAŃSKI Marek",
       "tytul_kategoria": "II",
@@ -1533,7 +1524,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "171",
+      "id": "170",
       "id_pzszach": "4453",
       "nazwisko_imie": "SZULTKA Agata",
       "tytul_kategoria": "I+",
@@ -1542,7 +1533,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "172",
+      "id": "171",
       "id_pzszach": "945",
       "nazwisko_imie": "GINTER Paweł",
       "tytul_kategoria": "II",
@@ -1551,7 +1542,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "173",
+      "id": "172",
       "id_pzszach": "6537",
       "nazwisko_imie": "STĘPIEŃ Janusz",
       "tytul_kategoria": "K",
@@ -1560,7 +1551,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "174",
+      "id": "173",
       "id_pzszach": "4750",
       "nazwisko_imie": "MARSZK Kazimierz",
       "tytul_kategoria": "FM",
@@ -1569,7 +1560,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "175",
+      "id": "174",
       "id_pzszach": "40471",
       "nazwisko_imie": "KOWALEWSKI Rafał",
       "tytul_kategoria": "I",
@@ -1578,7 +1569,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "176",
+      "id": "175",
       "id_pzszach": "40766",
       "nazwisko_imie": "FILIPSKA Maja",
       "tytul_kategoria": "K",
@@ -1587,7 +1578,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "177",
+      "id": "176",
       "id_pzszach": "143031",
       "nazwisko_imie": "Nusyo Artur",
       "tytul_kategoria": "",
@@ -1596,7 +1587,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "178",
+      "id": "177",
       "id_pzszach": "33893",
       "nazwisko_imie": "TWARDOWSKI Hubert",
       "tytul_kategoria": "I+",
@@ -1605,7 +1596,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "179",
+      "id": "178",
       "id_pzszach": "59979",
       "nazwisko_imie": "HAGEL Mariusz",
       "tytul_kategoria": "I++",
@@ -1614,7 +1605,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "180",
+      "id": "179",
       "id_pzszach": "4787",
       "nazwisko_imie": "PAZURKIEWICZ Janusz",
       "tytul_kategoria": "K",
@@ -1623,7 +1614,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "181",
+      "id": "180",
       "id_pzszach": "101250",
       "nazwisko_imie": "CHMIEL Kuba",
       "tytul_kategoria": "I",
@@ -1632,7 +1623,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "182",
+      "id": "181",
       "id_pzszach": "15236",
       "nazwisko_imie": "KIEDROWSKI Albin",
       "tytul_kategoria": "I",
@@ -1641,7 +1632,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "183",
+      "id": "182",
       "id_pzszach": "21747",
       "nazwisko_imie": "MOSZCZEŃSKI Miłosz",
       "tytul_kategoria": "I",
@@ -1650,7 +1641,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "184",
+      "id": "183",
       "id_pzszach": "1085",
       "nazwisko_imie": "STEFANIAK Kinga",
       "tytul_kategoria": "K",
@@ -1659,7 +1650,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "185",
+      "id": "184",
       "id_pzszach": "4900",
       "nazwisko_imie": "ZIELIŃSKI Jan",
       "tytul_kategoria": "I",
@@ -1668,7 +1659,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "186",
+      "id": "185",
       "id_pzszach": "4793",
       "nazwisko_imie": "PIEPIORKA Paulina",
       "tytul_kategoria": "I+",
@@ -1677,7 +1668,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "187",
+      "id": "186",
       "id_pzszach": "99554",
       "nazwisko_imie": "PROTAS Jakub",
       "tytul_kategoria": "I++",
@@ -1686,7 +1677,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "188",
+      "id": "187",
       "id_pzszach": "85101",
       "nazwisko_imie": "KILIAŃCZYK Jakub",
       "tytul_kategoria": "II+",
@@ -1695,7 +1686,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "189",
+      "id": "188",
       "id_pzszach": "4420",
       "nazwisko_imie": "SIEWERT Roman",
       "tytul_kategoria": "I++",
@@ -1704,7 +1695,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "190",
+      "id": "189",
       "id_pzszach": "4836",
       "nazwisko_imie": "STEFANIK Marcin",
       "tytul_kategoria": "I",
@@ -1713,7 +1704,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "191",
+      "id": "190",
       "id_pzszach": "1098",
       "nazwisko_imie": "PALUSZKIEWICZ Paweł",
       "tytul_kategoria": "I",
@@ -1722,7 +1713,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "192",
+      "id": "191",
       "id_pzszach": "4867",
       "nazwisko_imie": "UZIAŁKO Marek",
       "tytul_kategoria": "I",
@@ -1731,7 +1722,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "193",
+      "id": "192",
       "id_pzszach": "52426",
       "nazwisko_imie": "SKRZYPCZYŃSKI Kacper",
       "tytul_kategoria": "I",
@@ -1740,7 +1731,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "194",
+      "id": "193",
       "id_pzszach": "4461",
       "nazwisko_imie": "CZYMBOR Ryszard",
       "tytul_kategoria": "I",
@@ -1749,7 +1740,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "195",
+      "id": "194",
       "id_pzszach": "4769",
       "nazwisko_imie": "NARLOCH Zbyslaw",
       "tytul_kategoria": "I",
@@ -1758,7 +1749,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "196",
+      "id": "195",
       "id_pzszach": "4561",
       "nazwisko_imie": "KARSKI Sebastian",
       "tytul_kategoria": "II",
@@ -1767,7 +1758,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "197",
+      "id": "196",
       "id_pzszach": "4796",
       "nazwisko_imie": "PILICZEWSKI Bogusz",
       "tytul_kategoria": "CM",
@@ -1776,7 +1767,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "198",
+      "id": "197",
       "id_pzszach": "878",
       "nazwisko_imie": "LABUN Kornel",
       "tytul_kategoria": "II+",
@@ -1785,7 +1776,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "199",
+      "id": "198",
       "id_pzszach": "4519",
       "nazwisko_imie": "RZEMEK Wojciech",
       "tytul_kategoria": "I",
@@ -1794,7 +1785,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "200",
+      "id": "199",
       "id_pzszach": "4824",
       "nazwisko_imie": "SMALARA Kazimierz",
       "tytul_kategoria": "I",
@@ -1803,7 +1794,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "201",
+      "id": "200",
       "id_pzszach": "28532",
       "nazwisko_imie": "ALEKSANDROWICZ Marek",
       "tytul_kategoria": "I++",
@@ -1812,7 +1803,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "202",
+      "id": "201",
       "id_pzszach": "50029",
       "nazwisko_imie": "KROTOWSKI-CACHA Michał",
       "tytul_kategoria": "I",
@@ -1821,7 +1812,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "203",
+      "id": "202",
       "id_pzszach": "773",
       "nazwisko_imie": "HARMATA Marek",
       "tytul_kategoria": "I",
@@ -1830,7 +1821,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "204",
+      "id": "203",
       "id_pzszach": "65972",
       "nazwisko_imie": "SKÓLSKA Emilia",
       "tytul_kategoria": "K",
@@ -1839,7 +1830,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "205",
+      "id": "204",
       "id_pzszach": "26409",
       "nazwisko_imie": "ANTOKOLSKI Michał",
       "tytul_kategoria": "I",
@@ -1848,7 +1839,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "206",
+      "id": "205",
       "id_pzszach": "21765",
       "nazwisko_imie": "PARSAMYAN Narek",
       "tytul_kategoria": "II",
@@ -1857,7 +1848,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "207",
+      "id": "206",
       "id_pzszach": "4525",
       "nazwisko_imie": "CIESIELSKI Tomasz",
       "tytul_kategoria": "I",
@@ -1866,7 +1857,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "208",
+      "id": "207",
       "id_pzszach": "4693",
       "nazwisko_imie": "KAPICA Włodzimierz",
       "tytul_kategoria": "I+",
@@ -1875,7 +1866,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "209",
+      "id": "208",
       "id_pzszach": "4766",
       "nazwisko_imie": "MYSZKA Zygmunt",
       "tytul_kategoria": "I",
@@ -1884,7 +1875,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "210",
+      "id": "209",
       "id_pzszach": "112795",
       "nazwisko_imie": "TROTS Yaroslav",
       "tytul_kategoria": "I",
@@ -1893,7 +1884,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "211",
+      "id": "210",
       "id_pzszach": "935",
       "nazwisko_imie": "MROZIŃSKA Anna",
       "tytul_kategoria": "I++",
@@ -1902,7 +1893,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "212",
+      "id": "211",
       "id_pzszach": "4605",
       "nazwisko_imie": "CHOINSKI Lukasz",
       "tytul_kategoria": "II+",
@@ -1911,7 +1902,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "213",
+      "id": "212",
       "id_pzszach": "17944",
       "nazwisko_imie": "STRYKOWSKI Jakub",
       "tytul_kategoria": "II+",
@@ -1920,7 +1911,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "214",
+      "id": "213",
       "id_pzszach": "61955",
       "nazwisko_imie": "KUSSOWSKI Andrzej",
       "tytul_kategoria": "II",
@@ -1929,7 +1920,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "215",
+      "id": "214",
       "id_pzszach": "4604",
       "nazwisko_imie": "CHMIELECKI Michał",
       "tytul_kategoria": "II+",
@@ -1938,7 +1929,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "216",
+      "id": "215",
       "id_pzszach": "129075",
       "nazwisko_imie": "CHMIELEWSKI Dariusz",
       "tytul_kategoria": "III",
@@ -1947,7 +1938,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "217",
+      "id": "216",
       "id_pzszach": "4620",
       "nazwisko_imie": "CZARNOTA Jarosław",
       "tytul_kategoria": "I",
@@ -1956,7 +1947,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "218",
+      "id": "217",
       "id_pzszach": "39948",
       "nazwisko_imie": "LIPIAK Mateusz",
       "tytul_kategoria": "I",
@@ -1965,7 +1956,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "219",
+      "id": "218",
       "id_pzszach": "4594",
       "nazwisko_imie": "MAŃSKI Sylwester",
       "tytul_kategoria": "II",
@@ -1974,7 +1965,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "220",
+      "id": "219",
       "id_pzszach": "21746",
       "nazwisko_imie": "CHATYS Jakub",
       "tytul_kategoria": "I",
@@ -1983,7 +1974,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "221",
+      "id": "220",
       "id_pzszach": "22823",
       "nazwisko_imie": "WILK Oktawia",
       "tytul_kategoria": "I++",
@@ -1992,7 +1983,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "222",
+      "id": "221",
       "id_pzszach": "61601",
       "nazwisko_imie": "GOŹDZIEJEWSKI Karol",
       "tytul_kategoria": "I",
@@ -2001,7 +1992,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "223",
+      "id": "222",
       "id_pzszach": "7967",
       "nazwisko_imie": "SOBCZYŃSKI Roman",
       "tytul_kategoria": "I++",
@@ -2010,7 +2001,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "224",
+      "id": "223",
       "id_pzszach": "24573",
       "nazwisko_imie": "RYCYK Radosław",
       "tytul_kategoria": "I+",
@@ -2019,7 +2010,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "225",
+      "id": "224",
       "id_pzszach": "123777",
       "nazwisko_imie": "WIETESKA Stanisław",
       "tytul_kategoria": "I",
@@ -2028,7 +2019,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "226",
+      "id": "225",
       "id_pzszach": "4593",
       "nazwisko_imie": "MAŃSKI Damian",
       "tytul_kategoria": "II",
@@ -2037,7 +2028,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "227",
+      "id": "226",
       "id_pzszach": "45406",
       "nazwisko_imie": "DEMBICKI Karol",
       "tytul_kategoria": "I",
@@ -2046,7 +2037,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "228",
+      "id": "227",
       "id_pzszach": "4834",
       "nazwisko_imie": "STANISLAWOWICZ Jan",
       "tytul_kategoria": "I",
@@ -2055,7 +2046,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "229",
+      "id": "228",
       "id_pzszach": "9922",
       "nazwisko_imie": "KRZYWKOWSKI Marcin",
       "tytul_kategoria": "I",
@@ -2064,7 +2055,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "230",
+      "id": "229",
       "id_pzszach": "4589",
       "nazwisko_imie": "ADAMCZYK Robert",
       "tytul_kategoria": "II",
@@ -2073,7 +2064,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "231",
+      "id": "230",
       "id_pzszach": "7549",
       "nazwisko_imie": "ZMYSŁOWSKI Artur",
       "tytul_kategoria": "I",
@@ -2082,7 +2073,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "232",
+      "id": "231",
       "id_pzszach": "23262",
       "nazwisko_imie": "KINDLER Karolina",
       "tytul_kategoria": "I++",
@@ -2091,7 +2082,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "233",
+      "id": "232",
       "id_pzszach": "4508",
       "nazwisko_imie": "WĄDRZYK Zbigniew",
       "tytul_kategoria": "I",
@@ -2100,7 +2091,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "234",
+      "id": "233",
       "id_pzszach": "21428",
       "nazwisko_imie": "SZYMANOWSKI Igor",
       "tytul_kategoria": "II",
@@ -2109,7 +2100,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "235",
+      "id": "234",
       "id_pzszach": "27214",
       "nazwisko_imie": "CZERWIŃSKI Bogumil",
       "tytul_kategoria": "",
@@ -2118,7 +2109,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "236",
+      "id": "235",
       "id_pzszach": "48945",
       "nazwisko_imie": "SURKONT Jan",
       "tytul_kategoria": "I",
@@ -2127,7 +2118,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "237",
+      "id": "236",
       "id_pzszach": "24571",
       "nazwisko_imie": "ŁUKASZUK Aron",
       "tytul_kategoria": "II",
@@ -2136,7 +2127,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "238",
+      "id": "237",
       "id_pzszach": "26508",
       "nazwisko_imie": "BUŁAKOWSKI Andrzej",
       "tytul_kategoria": "",
@@ -2145,7 +2136,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "239",
+      "id": "238",
       "id_pzszach": "27751",
       "nazwisko_imie": "PAZIAK Patryk",
       "tytul_kategoria": "I+",
@@ -2154,7 +2145,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "240",
+      "id": "239",
       "id_pzszach": "4852",
       "nazwisko_imie": "SZCZYGŁO Michał",
       "tytul_kategoria": "I+",
@@ -2163,7 +2154,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "241",
+      "id": "240",
       "id_pzszach": "123780",
       "nazwisko_imie": "RUTKOWSKI Paweł",
       "tytul_kategoria": "II",
@@ -2172,7 +2163,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "242",
+      "id": "241",
       "id_pzszach": "132688",
       "nazwisko_imie": "KRUK Robert",
       "tytul_kategoria": "II",
@@ -2181,7 +2172,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "243",
+      "id": "242",
       "id_pzszach": "27695",
       "nazwisko_imie": "JÓŹWIK Jarosław",
       "tytul_kategoria": "I",
@@ -2190,7 +2181,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "244",
+      "id": "243",
       "id_pzszach": "73072",
       "nazwisko_imie": "PORĘBIAK Mateusz",
       "tytul_kategoria": "II",
@@ -2199,7 +2190,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "245",
+      "id": "244",
       "id_pzszach": "4608",
       "nazwisko_imie": "KROPIDŁOWSKI Maciej",
       "tytul_kategoria": "II+",
@@ -2208,7 +2199,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "246",
+      "id": "245",
       "id_pzszach": "4639",
       "nazwisko_imie": "BOROWSKI Jarosław",
       "tytul_kategoria": "I++",
@@ -2217,7 +2208,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "247",
+      "id": "246",
       "id_pzszach": "108920",
       "nazwisko_imie": "ŚWISŁOWSKI Michał",
       "tytul_kategoria": "I",
@@ -2226,7 +2217,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "248",
+      "id": "247",
       "id_pzszach": "124460",
       "nazwisko_imie": "GOŹDZIEJEWSKI Mariusz",
       "tytul_kategoria": "II",
@@ -2235,7 +2226,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "249",
+      "id": "248",
       "id_pzszach": "26332",
       "nazwisko_imie": "JANTA LIPINSKI Jakub",
       "tytul_kategoria": "II",
@@ -2244,7 +2235,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "250",
+      "id": "249",
       "id_pzszach": "125477",
       "nazwisko_imie": "MONGIRD Lew",
       "tytul_kategoria": "II+",
@@ -2253,7 +2244,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "251",
+      "id": "250",
       "id_pzszach": "4520",
       "nazwisko_imie": "SOKOŁOWSKA Aneta",
       "tytul_kategoria": "I",
@@ -2262,7 +2253,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "252",
+      "id": "251",
       "id_pzszach": "21430",
       "nazwisko_imie": "JAROSZEWICZ Dawid",
       "tytul_kategoria": "I",
@@ -2271,7 +2262,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "253",
+      "id": "252",
       "id_pzszach": "120805",
       "nazwisko_imie": "GADAWSKI Krzysztof",
       "tytul_kategoria": "I",
@@ -2280,7 +2271,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "254",
+      "id": "253",
       "id_pzszach": "11607",
       "nazwisko_imie": "RZEPIŃSKI Maciej",
       "tytul_kategoria": "II+",
@@ -2289,7 +2280,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "255",
+      "id": "254",
       "id_pzszach": "40392",
       "nazwisko_imie": "SIKORSKI Roman",
       "tytul_kategoria": "II",
@@ -2298,7 +2289,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "256",
+      "id": "255",
       "id_pzszach": "4435",
       "nazwisko_imie": "DZIÓBEK Jerzy",
       "tytul_kategoria": "I",
@@ -2307,7 +2298,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "257",
+      "id": "256",
       "id_pzszach": "4454",
       "nazwisko_imie": "KOTŁOWSKA Anna",
       "tytul_kategoria": "I",
@@ -2316,7 +2307,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "258",
+      "id": "257",
       "id_pzszach": "22148",
       "nazwisko_imie": "WOJSZKUN Tadeusz",
       "tytul_kategoria": "I",
@@ -2325,7 +2316,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "259",
+      "id": "258",
       "id_pzszach": "81252",
       "nazwisko_imie": "RECLAW Filip",
       "tytul_kategoria": "I",
@@ -2334,7 +2325,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "260",
+      "id": "259",
       "id_pzszach": "68781",
       "nazwisko_imie": "MIGACZ Jan",
       "tytul_kategoria": "I",
@@ -2343,7 +2334,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "261",
+      "id": "260",
       "id_pzszach": "102339",
       "nazwisko_imie": "GLINIECKI Szymon",
       "tytul_kategoria": "II",
@@ -2352,7 +2343,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "262",
+      "id": "261",
       "id_pzszach": "22563",
       "nazwisko_imie": "PELOWSKI Zdzisław",
       "tytul_kategoria": "I",
@@ -2361,7 +2352,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "263",
+      "id": "262",
       "id_pzszach": "48145",
       "nazwisko_imie": "BISKUPSKI Jan",
       "tytul_kategoria": "I",
@@ -2370,7 +2361,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "264",
+      "id": "263",
       "id_pzszach": "114725",
       "nazwisko_imie": "SZCZYGIEŁ Filip",
       "tytul_kategoria": "I",
@@ -2379,7 +2370,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "265",
+      "id": "264",
       "id_pzszach": "65274",
       "nazwisko_imie": "KONKOL Sandra",
       "tytul_kategoria": "K+",
@@ -2388,7 +2379,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "266",
+      "id": "265",
       "id_pzszach": "4521",
       "nazwisko_imie": "SOKOŁOWSKA-ADAMIAK Barbara",
       "tytul_kategoria": "I",
@@ -2397,7 +2388,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "267",
+      "id": "266",
       "id_pzszach": "44001",
       "nazwisko_imie": "GULBIŃSKI Michał",
       "tytul_kategoria": "I",
@@ -2406,7 +2397,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "268",
+      "id": "267",
       "id_pzszach": "92729",
       "nazwisko_imie": "WONS Krystian",
       "tytul_kategoria": "I",
@@ -2415,7 +2406,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "269",
+      "id": "268",
       "id_pzszach": "15962",
       "nazwisko_imie": "OSTRĘGA Przemysław",
       "tytul_kategoria": "I",
@@ -2424,7 +2415,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "270",
+      "id": "269",
       "id_pzszach": "21738",
       "nazwisko_imie": "STAWICKI Michał",
       "tytul_kategoria": "II",
@@ -2433,7 +2424,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "271",
+      "id": "270",
       "id_pzszach": "47216",
       "nazwisko_imie": "BŁASZCZUK Andrzej",
       "tytul_kategoria": "II",
@@ -2442,7 +2433,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "272",
+      "id": "271",
       "id_pzszach": "56871",
       "nazwisko_imie": "KEMPIŃSKI Szymon",
       "tytul_kategoria": "II+",
@@ -2451,7 +2442,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "273",
+      "id": "272",
       "id_pzszach": "40696",
       "nazwisko_imie": "KUJAWA Krzysztof",
       "tytul_kategoria": "I",
@@ -2460,7 +2451,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "274",
+      "id": "273",
       "id_pzszach": "1875",
       "nazwisko_imie": "NIEĆKO Stanisław",
       "tytul_kategoria": "I+",
@@ -2469,7 +2460,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "275",
+      "id": "274",
       "id_pzszach": "45606",
       "nazwisko_imie": "KOTŁOWSKI Maciej",
       "tytul_kategoria": "IV",
@@ -2478,7 +2469,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "276",
+      "id": "275",
       "id_pzszach": "43532",
       "nazwisko_imie": "WILMANOWICZ Sławomir",
       "tytul_kategoria": "II+",
@@ -2487,7 +2478,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "277",
+      "id": "276",
       "id_pzszach": "4632",
       "nazwisko_imie": "BENDYK Maciej",
       "tytul_kategoria": "II",
@@ -2496,7 +2487,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "278",
+      "id": "277",
       "id_pzszach": "15957",
       "nazwisko_imie": "MACKIEWICZ Łukasz",
       "tytul_kategoria": "II",
@@ -2505,7 +2496,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "279",
+      "id": "278",
       "id_pzszach": "41642",
       "nazwisko_imie": "GROMNICKI Janusz",
       "tytul_kategoria": "II",
@@ -2514,7 +2505,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "280",
+      "id": "279",
       "id_pzszach": "76402",
       "nazwisko_imie": "KOWALCZYK Mariusz",
       "tytul_kategoria": "I",
@@ -2523,7 +2514,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "281",
+      "id": "280",
       "id_pzszach": "117197",
       "nazwisko_imie": "PIĄTAK Adam",
       "tytul_kategoria": "I",
@@ -2532,7 +2523,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "282",
+      "id": "281",
       "id_pzszach": "24251",
       "nazwisko_imie": "FABICH Krzysztof",
       "tytul_kategoria": "II",
@@ -2541,7 +2532,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "283",
+      "id": "282",
       "id_pzszach": "4458",
       "nazwisko_imie": "SIENIEK Mateusz",
       "tytul_kategoria": "II",
@@ -2550,7 +2541,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "284",
+      "id": "283",
       "id_pzszach": "46763",
       "nazwisko_imie": "KACIOTYS Mieczysław",
       "tytul_kategoria": "I",
@@ -2559,7 +2550,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "285",
+      "id": "284",
       "id_pzszach": "23314",
       "nazwisko_imie": "ZIELIŃSKI Konrad",
       "tytul_kategoria": "I",
@@ -2568,7 +2559,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "286",
+      "id": "285",
       "id_pzszach": "23467",
       "nazwisko_imie": "TYŃSKI Beniamin",
       "tytul_kategoria": "I",
@@ -2577,7 +2568,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "287",
+      "id": "286",
       "id_pzszach": "4833",
       "nazwisko_imie": "STANIAK Mariusz",
       "tytul_kategoria": "I",
@@ -2586,7 +2577,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "288",
+      "id": "287",
       "id_pzszach": "24508",
       "nazwisko_imie": "STAWICKI Andrzej",
       "tytul_kategoria": "II",
@@ -2595,7 +2586,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "289",
+      "id": "288",
       "id_pzszach": "71939",
       "nazwisko_imie": "ANDRZEJEWSKI Jakub",
       "tytul_kategoria": "I",
@@ -2604,7 +2595,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "290",
+      "id": "289",
       "id_pzszach": "4898",
       "nazwisko_imie": "ŻEŁAJTYS Józef",
       "tytul_kategoria": "I++",
@@ -2613,7 +2604,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "291",
+      "id": "290",
       "id_pzszach": "39911",
       "nazwisko_imie": "RUDNIK Łukasz",
       "tytul_kategoria": "II+",
@@ -2622,7 +2613,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "292",
+      "id": "291",
       "id_pzszach": "139295",
       "nazwisko_imie": "SZUDROWICZ Serafin",
       "tytul_kategoria": "I",
@@ -2631,7 +2622,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "293",
+      "id": "292",
       "id_pzszach": "129296",
       "nazwisko_imie": "ADAMSKI Franciszek",
       "tytul_kategoria": "II",
@@ -2640,7 +2631,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "294",
+      "id": "293",
       "id_pzszach": "4575",
       "nazwisko_imie": "DOMBROWSKI Bartosz",
       "tytul_kategoria": "I",
@@ -2649,7 +2640,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "295",
+      "id": "294",
       "id_pzszach": "22149",
       "nazwisko_imie": "SMOLIŃSKI Dawid",
       "tytul_kategoria": "II",
@@ -2658,7 +2649,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "296",
+      "id": "295",
       "id_pzszach": "4864",
       "nazwisko_imie": "TYDA Krzysztof",
       "tytul_kategoria": "CM",
@@ -2667,7 +2658,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "297",
+      "id": "296",
       "id_pzszach": "17748",
       "nazwisko_imie": "KACZMARCZYK Jakub",
       "tytul_kategoria": "I",
@@ -2676,7 +2667,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "298",
+      "id": "297",
       "id_pzszach": "40006",
       "nazwisko_imie": "JĘDRYCH Marcin",
       "tytul_kategoria": "II",
@@ -2685,7 +2676,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "299",
+      "id": "298",
       "id_pzszach": "40694",
       "nazwisko_imie": "HŁADUN Bartłomiej",
       "tytul_kategoria": "I",
@@ -2694,7 +2685,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "300",
+      "id": "299",
       "id_pzszach": "21557",
       "nazwisko_imie": "MURAWSKI Zbigniew",
       "tytul_kategoria": "II",
@@ -2703,7 +2694,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "301",
+      "id": "300",
       "id_pzszach": "40768",
       "nazwisko_imie": "WIRKUS Oliwer",
       "tytul_kategoria": "I",
@@ -2712,7 +2703,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "302",
+      "id": "301",
       "id_pzszach": "40968",
       "nazwisko_imie": "BANACH Jakub",
       "tytul_kategoria": "I",
@@ -2721,7 +2712,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "303",
+      "id": "302",
       "id_pzszach": "54510",
       "nazwisko_imie": "OSZEJKO Krzysztof",
       "tytul_kategoria": "I+",
@@ -2730,7 +2721,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "304",
+      "id": "303",
       "id_pzszach": "30297",
       "nazwisko_imie": "BRZOZOWSKI Norbert",
       "tytul_kategoria": "I",
@@ -2739,7 +2730,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "305",
+      "id": "304",
       "id_pzszach": "66549",
       "nazwisko_imie": "KACZMAREK Paulina",
       "tytul_kategoria": "I++",
@@ -2748,7 +2739,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "306",
+      "id": "305",
       "id_pzszach": "108919",
       "nazwisko_imie": "ŚWISŁOWSKI Jan",
       "tytul_kategoria": "II+",
@@ -2757,7 +2748,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "307",
+      "id": "306",
       "id_pzszach": "121980",
       "nazwisko_imie": "CIEMIŃSKI Antoni",
       "tytul_kategoria": "II+",
@@ -2766,7 +2757,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "308",
+      "id": "307",
       "id_pzszach": "4587",
       "nazwisko_imie": "WALKUSZ Maciej",
       "tytul_kategoria": "II",
@@ -2775,7 +2766,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "309",
+      "id": "308",
       "id_pzszach": "37827",
       "nazwisko_imie": "GOSTOMSKI Mariusz",
       "tytul_kategoria": "II",
@@ -2784,7 +2775,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "310",
+      "id": "309",
       "id_pzszach": "21748",
       "nazwisko_imie": "CHMURA Krystian",
       "tytul_kategoria": "II",
@@ -2793,7 +2784,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "311",
+      "id": "310",
       "id_pzszach": "85676",
       "nazwisko_imie": "WOYTITZKI Maja",
       "tytul_kategoria": "I",
@@ -2802,7 +2793,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "312",
+      "id": "311",
       "id_pzszach": "21432",
       "nazwisko_imie": "KAPICA Paweł",
       "tytul_kategoria": "I",
@@ -2811,7 +2802,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "313",
+      "id": "312",
       "id_pzszach": "29003",
       "nazwisko_imie": "GÓRA Sebastian",
       "tytul_kategoria": "II",
@@ -2820,7 +2811,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "314",
+      "id": "313",
       "id_pzszach": "3554",
       "nazwisko_imie": "PIASTA Bartosz",
       "tytul_kategoria": "I+",
@@ -2829,7 +2820,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "315",
+      "id": "314",
       "id_pzszach": "6290",
       "nazwisko_imie": "SOŁODUCHA Olaf",
       "tytul_kategoria": "I",
@@ -2838,7 +2829,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "316",
+      "id": "315",
       "id_pzszach": "24577",
       "nazwisko_imie": "KACZANOWSKI Paweł",
       "tytul_kategoria": "I+",
@@ -2847,7 +2838,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "317",
+      "id": "316",
       "id_pzszach": "40868",
       "nazwisko_imie": "ŚWIĄTEK Mateusz",
       "tytul_kategoria": "I",
@@ -2856,7 +2847,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "318",
+      "id": "317",
       "id_pzszach": "4724",
       "nazwisko_imie": "KULIK Roman",
       "tytul_kategoria": "I",
@@ -2865,7 +2856,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "319",
+      "id": "318",
       "id_pzszach": "85587",
       "nazwisko_imie": "ZAMCZAŁA Waldemar",
       "tytul_kategoria": "II",
@@ -2874,7 +2865,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "320",
+      "id": "319",
       "id_pzszach": "4600",
       "nazwisko_imie": "TYDA Agata",
       "tytul_kategoria": "II+",
@@ -2883,7 +2874,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "321",
+      "id": "320",
       "id_pzszach": "50312",
       "nazwisko_imie": "BARTOSZEWSKI-REISKI Olaf",
       "tytul_kategoria": "I+",
@@ -2892,7 +2883,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "322",
+      "id": "321",
       "id_pzszach": "88184",
       "nazwisko_imie": "KUCIŃSKI Jan",
       "tytul_kategoria": "I",
@@ -2901,7 +2892,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "323",
+      "id": "322",
       "id_pzszach": "4835",
       "nazwisko_imie": "STARUCH Roman",
       "tytul_kategoria": "I++",
@@ -2910,7 +2901,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "324",
+      "id": "323",
       "id_pzszach": "19156",
       "nazwisko_imie": "FARON Mateusz",
       "tytul_kategoria": "I",
@@ -2919,7 +2910,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "325",
+      "id": "324",
       "id_pzszach": "24236",
       "nazwisko_imie": "MAŁECKI Jerzy",
       "tytul_kategoria": "II",
@@ -2928,7 +2919,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "326",
+      "id": "325",
       "id_pzszach": "27216",
       "nazwisko_imie": "JENCZYK Piotr",
       "tytul_kategoria": "II",
@@ -2937,7 +2928,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "327",
+      "id": "326",
       "id_pzszach": "38552",
       "nazwisko_imie": "SANDOMIERSKI Cyprian",
       "tytul_kategoria": "I",
@@ -2946,7 +2937,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "328",
+      "id": "327",
       "id_pzszach": "110700",
       "nazwisko_imie": "PIETRZAK Paweł",
       "tytul_kategoria": "II",
@@ -2955,7 +2946,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "329",
+      "id": "328",
       "id_pzszach": "21356",
       "nazwisko_imie": "SZULC Krzysztof",
       "tytul_kategoria": "II",
@@ -2964,7 +2955,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "330",
+      "id": "329",
       "id_pzszach": "33534",
       "nazwisko_imie": "WYCZLING Artur",
       "tytul_kategoria": "II+",
@@ -2973,7 +2964,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "331",
+      "id": "330",
       "id_pzszach": "52042",
       "nazwisko_imie": "KOLANKIEWICZ Tymoteusz",
       "tytul_kategoria": "II",
@@ -2982,7 +2973,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "332",
+      "id": "331",
       "id_pzszach": "4517",
       "nazwisko_imie": "KOCHAŃSKA Bogumiła",
       "tytul_kategoria": "I+",
@@ -2991,7 +2982,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "333",
+      "id": "332",
       "id_pzszach": "4552",
       "nazwisko_imie": "RAJTAR Jarosław",
       "tytul_kategoria": "I",
@@ -3000,7 +2991,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "334",
+      "id": "333",
       "id_pzszach": "21769",
       "nazwisko_imie": "MIELKE Patryk",
       "tytul_kategoria": "II",
@@ -3009,7 +3000,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "335",
+      "id": "334",
       "id_pzszach": "66293",
       "nazwisko_imie": "SZULC Marek",
       "tytul_kategoria": "I",
@@ -3018,7 +3009,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "336",
+      "id": "335",
       "id_pzszach": "43918",
       "nazwisko_imie": "WOJTACHA Piotr",
       "tytul_kategoria": "II+",
@@ -3027,7 +3018,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "337",
+      "id": "336",
       "id_pzszach": "72258",
       "nazwisko_imie": "KUCZYŃSKI Piotr",
       "tytul_kategoria": "II",
@@ -3036,7 +3027,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "338",
+      "id": "337",
       "id_pzszach": "74462",
       "nazwisko_imie": "ZAGALSKI Mirosław",
       "tytul_kategoria": "II+",
@@ -3045,7 +3036,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "339",
+      "id": "338",
       "id_pzszach": "85455",
       "nazwisko_imie": "FILIPCZYK Michał",
       "tytul_kategoria": "II+",
@@ -3054,7 +3045,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "340",
+      "id": "339",
       "id_pzszach": "4680",
       "nazwisko_imie": "HUZARSKI Stanisław",
       "tytul_kategoria": "I",
@@ -3063,7 +3054,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "341",
+      "id": "340",
       "id_pzszach": "21744",
       "nazwisko_imie": "REDMERSKA Maria",
       "tytul_kategoria": "I",
@@ -3072,7 +3063,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "342",
+      "id": "341",
       "id_pzszach": "33055",
       "nazwisko_imie": "PYKA Tomasz",
       "tytul_kategoria": "II+",
@@ -3081,7 +3072,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "343",
+      "id": "342",
       "id_pzszach": "41529",
       "nazwisko_imie": "SZLAS Michał",
       "tytul_kategoria": "I",
@@ -3090,7 +3081,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "344",
+      "id": "343",
       "id_pzszach": "4696",
       "nazwisko_imie": "KARDASZ Władysław",
       "tytul_kategoria": "I",
@@ -3099,7 +3090,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "345",
+      "id": "344",
       "id_pzszach": "4804",
       "nazwisko_imie": "POŚNIK Andrzej",
       "tytul_kategoria": "I",
@@ -3108,7 +3099,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "346",
+      "id": "345",
       "id_pzszach": "29019",
       "nazwisko_imie": "ANDRZEJEWSKI Konrad",
       "tytul_kategoria": "I",
@@ -3117,7 +3108,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "347",
+      "id": "346",
       "id_pzszach": "4585",
       "nazwisko_imie": "PIOTRZKOWSKI Krzysztof",
       "tytul_kategoria": "I+",
@@ -3126,7 +3117,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "348",
+      "id": "347",
       "id_pzszach": "18357",
       "nazwisko_imie": "PERDYAN Adrian",
       "tytul_kategoria": "II",
@@ -3135,7 +3126,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "349",
+      "id": "348",
       "id_pzszach": "71556",
       "nazwisko_imie": "ZIELONKA Mateusz",
       "tytul_kategoria": "II",
@@ -3144,7 +3135,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "350",
+      "id": "349",
       "id_pzszach": "30108",
       "nazwisko_imie": "GRYGLEWICZ Tadeusz",
       "tytul_kategoria": "I",
@@ -3153,7 +3144,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "351",
+      "id": "350",
       "id_pzszach": "51335",
       "nazwisko_imie": "PAWLAK Maciej",
       "tytul_kategoria": "II",
@@ -3162,7 +3153,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "352",
+      "id": "351",
       "id_pzszach": "24474",
       "nazwisko_imie": "WRONSKI Michał",
       "tytul_kategoria": "II+",
@@ -3171,7 +3162,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "353",
+      "id": "352",
       "id_pzszach": "4754",
       "nazwisko_imie": "METTEL Werner",
       "tytul_kategoria": "I",
@@ -3180,7 +3171,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "354",
+      "id": "353",
       "id_pzszach": "22150",
       "nazwisko_imie": "PRZEPERSKI Witold",
       "tytul_kategoria": "II",
@@ -3189,7 +3180,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "355",
+      "id": "354",
       "id_pzszach": "53186",
       "nazwisko_imie": "KULIK Mikołaj",
       "tytul_kategoria": "II",
@@ -3198,7 +3189,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "356",
+      "id": "355",
       "id_pzszach": "61803",
       "nazwisko_imie": "MATUSZEWSKI Bartłomiej",
       "tytul_kategoria": "I",
@@ -3207,7 +3198,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "357",
+      "id": "356",
       "id_pzszach": "100910",
       "nazwisko_imie": "TONGA Radosław",
       "tytul_kategoria": "II+",
@@ -3216,7 +3207,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "358",
+      "id": "357",
       "id_pzszach": "151041",
       "nazwisko_imie": "GRABOWSKI Joshua",
       "tytul_kategoria": "II",
@@ -3225,7 +3216,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "359",
+      "id": "358",
       "id_pzszach": "4609",
       "nazwisko_imie": "MAJEWSKI Karol",
       "tytul_kategoria": "II+",
@@ -3234,7 +3225,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "360",
+      "id": "359",
       "id_pzszach": "21742",
       "nazwisko_imie": "KAŁUŻNY Krzysztof",
       "tytul_kategoria": "II+",
@@ -3243,7 +3234,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "361",
+      "id": "360",
       "id_pzszach": "77712",
       "nazwisko_imie": "OŁTUSZYK Cezary",
       "tytul_kategoria": "II+",
@@ -3252,7 +3243,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "362",
+      "id": "361",
       "id_pzszach": "90235",
       "nazwisko_imie": "CICHY Olgierd",
       "tytul_kategoria": "II",
@@ -3261,7 +3252,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "363",
+      "id": "362",
       "id_pzszach": "135002",
       "nazwisko_imie": "STEFANOWSKI Oskar",
       "tytul_kategoria": "II",
@@ -3270,7 +3261,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "364",
+      "id": "363",
       "id_pzszach": "109515",
       "nazwisko_imie": "KARCZ Miłosz",
       "tytul_kategoria": "II",
@@ -3279,7 +3270,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "365",
+      "id": "364",
       "id_pzszach": "15097",
       "nazwisko_imie": "WRZOS Waldemar",
       "tytul_kategoria": "I",
@@ -3288,7 +3279,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "366",
+      "id": "365",
       "id_pzszach": "23504",
       "nazwisko_imie": "WICIKOWSKA Agata",
       "tytul_kategoria": "I",
@@ -3297,7 +3288,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "367",
+      "id": "366",
       "id_pzszach": "85677",
       "nazwisko_imie": "WOYTITZKI Sophie",
       "tytul_kategoria": "I",
@@ -3306,7 +3297,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "368",
+      "id": "367",
       "id_pzszach": "92715",
       "nazwisko_imie": "KASZNIA Ireneusz",
       "tytul_kategoria": "II",
@@ -3315,7 +3306,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "369",
+      "id": "368",
       "id_pzszach": "99701",
       "nazwisko_imie": "KLEBBA Zenon",
       "tytul_kategoria": "II",
@@ -3324,7 +3315,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "370",
+      "id": "369",
       "id_pzszach": "59978",
       "nazwisko_imie": "HAGEL Małgorzata",
       "tytul_kategoria": "I",
@@ -3333,7 +3324,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "371",
+      "id": "370",
       "id_pzszach": "4679",
       "nazwisko_imie": "HUSZCZA Katarzyna",
       "tytul_kategoria": "II",
@@ -3342,7 +3333,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "372",
+      "id": "371",
       "id_pzszach": "7863",
       "nazwisko_imie": "MILEWCZYK Rafał",
       "tytul_kategoria": "II+",
@@ -3351,7 +3342,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "373",
+      "id": "372",
       "id_pzszach": "21749",
       "nazwisko_imie": "NIEWIAROWSKI Mieszko",
       "tytul_kategoria": "II+",
@@ -3360,7 +3351,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "374",
+      "id": "373",
       "id_pzszach": "75048",
       "nazwisko_imie": "NARWOJSZ Franciszek",
       "tytul_kategoria": "I",
@@ -3369,7 +3360,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "375",
+      "id": "374",
       "id_pzszach": "95031",
       "nazwisko_imie": "FIJOŁEK Hubert",
       "tytul_kategoria": "I+",
@@ -3378,7 +3369,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "376",
+      "id": "375",
       "id_pzszach": "55080",
       "nazwisko_imie": "KUKUŁA Daniel",
       "tytul_kategoria": "II",
@@ -3387,7 +3378,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "377",
+      "id": "376",
       "id_pzszach": "24214",
       "nazwisko_imie": "HANDKE Włodzimierz",
       "tytul_kategoria": "IV",
@@ -3396,7 +3387,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "378",
+      "id": "377",
       "id_pzszach": "24153",
       "nazwisko_imie": "ZAPAŚNIK Henryk",
       "tytul_kategoria": "II",
@@ -3405,7 +3396,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "379",
+      "id": "378",
       "id_pzszach": "26639",
       "nazwisko_imie": "TETERA Bogusław",
       "tytul_kategoria": "II+",
@@ -3414,7 +3405,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "380",
+      "id": "379",
       "id_pzszach": "40300",
       "nazwisko_imie": "DACKIEWICZ Marek",
       "tytul_kategoria": "I",
@@ -3423,7 +3414,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "381",
+      "id": "380",
       "id_pzszach": "89472",
       "nazwisko_imie": "BOROWIEC Paweł",
       "tytul_kategoria": "II",
@@ -3432,7 +3423,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "382",
+      "id": "381",
       "id_pzszach": "72483",
       "nazwisko_imie": "PASZEK Jan",
       "tytul_kategoria": "I+",
@@ -3441,7 +3432,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "383",
+      "id": "382",
       "id_pzszach": "84428",
       "nazwisko_imie": "MĘNDAK Łukasz",
       "tytul_kategoria": "II+",
@@ -3450,7 +3441,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "384",
+      "id": "383",
       "id_pzszach": "98923",
       "nazwisko_imie": "PUZYREWSKI Artur",
       "tytul_kategoria": "III",
@@ -3459,7 +3450,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "385",
+      "id": "384",
       "id_pzszach": "111666",
       "nazwisko_imie": "KOWALCZYK Tomasz",
       "tytul_kategoria": "II+",
@@ -3468,7 +3459,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "386",
+      "id": "385",
       "id_pzszach": "7642",
       "nazwisko_imie": "BORCHARDT Marcin",
       "tytul_kategoria": "II",
@@ -3477,7 +3468,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "387",
+      "id": "386",
       "id_pzszach": "63223",
       "nazwisko_imie": "JARZEMBIŃSKI Mateusz",
       "tytul_kategoria": "II",
@@ -3486,7 +3477,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "388",
+      "id": "387",
       "id_pzszach": "4476",
       "nazwisko_imie": "SZARMACH Andrzej",
       "tytul_kategoria": "II",
@@ -3495,7 +3486,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "389",
+      "id": "388",
       "id_pzszach": "22849",
       "nazwisko_imie": "ZIÓŁKOWSKI Marcin",
       "tytul_kategoria": "I",
@@ -3504,7 +3495,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "390",
+      "id": "389",
       "id_pzszach": "27884",
       "nazwisko_imie": "PAWLIK Tomasz",
       "tytul_kategoria": "I",
@@ -3513,7 +3504,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "391",
+      "id": "390",
       "id_pzszach": "40304",
       "nazwisko_imie": "GIĘTKOWSKI Grzegorz",
       "tytul_kategoria": "II",
@@ -3522,7 +3513,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "392",
+      "id": "391",
       "id_pzszach": "106066",
       "nazwisko_imie": "WIERZBOWSKI Jan",
       "tytul_kategoria": "II",
@@ -3531,7 +3522,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "393",
+      "id": "392",
       "id_pzszach": "119369",
       "nazwisko_imie": "KRAKUS Filip",
       "tytul_kategoria": "II",
@@ -3540,7 +3531,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "394",
+      "id": "393",
       "id_pzszach": "4786",
       "nazwisko_imie": "PANEK Tadeusz",
       "tytul_kategoria": "K",
@@ -3549,7 +3540,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "395",
+      "id": "394",
       "id_pzszach": "21882",
       "nazwisko_imie": "ZIENOWICZ Józef",
       "tytul_kategoria": "II",
@@ -3558,7 +3549,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "396",
+      "id": "395",
       "id_pzszach": "76963",
       "nazwisko_imie": "MASZKOWSKI Łukasz",
       "tytul_kategoria": "II",
@@ -3567,7 +3558,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "397",
+      "id": "396",
       "id_pzszach": "37817",
       "nazwisko_imie": "GDANIEC Tomasz",
       "tytul_kategoria": "II",
@@ -3576,7 +3567,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "398",
+      "id": "397",
       "id_pzszach": "82528",
       "nazwisko_imie": "GREGORCZYK Michał",
       "tytul_kategoria": "I",
@@ -3585,7 +3576,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "399",
+      "id": "398",
       "id_pzszach": "23255",
       "nazwisko_imie": "WORONOWICZ Zbigniew",
       "tytul_kategoria": "II",
@@ -3594,7 +3585,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "400",
+      "id": "399",
       "id_pzszach": "138000",
       "nazwisko_imie": "WĄWOREK Tomasz",
       "tytul_kategoria": "II",
@@ -3603,7 +3594,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "401",
+      "id": "400",
       "id_pzszach": "60629",
       "nazwisko_imie": "SZONERT Olga",
       "tytul_kategoria": "",
@@ -3612,7 +3603,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "402",
+      "id": "401",
       "id_pzszach": "116450",
       "nazwisko_imie": "RADOMSKI Oskar",
       "tytul_kategoria": "II",
@@ -3621,7 +3612,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "403",
+      "id": "402",
       "id_pzszach": "79795",
       "nazwisko_imie": "WITKIEWICZ Mateusz",
       "tytul_kategoria": "II+",
@@ -3630,7 +3621,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "404",
+      "id": "403",
       "id_pzszach": "45794",
       "nazwisko_imie": "BEKIER Piotr",
       "tytul_kategoria": "II+",
@@ -3639,7 +3630,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "405",
+      "id": "404",
       "id_pzszach": "24175",
       "nazwisko_imie": "HEROLD Henryk",
       "tytul_kategoria": "II",
@@ -3648,7 +3639,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "406",
+      "id": "405",
       "id_pzszach": "75540",
       "nazwisko_imie": "ZIELEŃ Stanisław",
       "tytul_kategoria": "I",
@@ -3657,7 +3648,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "407",
+      "id": "406",
       "id_pzszach": "116634",
       "nazwisko_imie": "SKOWOROTKO Jan",
       "tytul_kategoria": "II",
@@ -3666,7 +3657,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "408",
+      "id": "407",
       "id_pzszach": "7782",
       "nazwisko_imie": "KNAP Narcyz",
       "tytul_kategoria": "II",
@@ -3675,7 +3666,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "409",
+      "id": "408",
       "id_pzszach": "24219",
       "nazwisko_imie": "SLOWIK Zygmunt",
       "tytul_kategoria": "II",
@@ -3684,7 +3675,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "410",
+      "id": "409",
       "id_pzszach": "38330",
       "nazwisko_imie": "SZTANGIERSKI Kacper",
       "tytul_kategoria": "II",
@@ -3693,7 +3684,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "411",
+      "id": "410",
       "id_pzszach": "84049",
       "nazwisko_imie": "LIBERT Jarosław",
       "tytul_kategoria": "II",
@@ -3702,7 +3693,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "412",
+      "id": "411",
       "id_pzszach": "54734",
       "nazwisko_imie": "KROTOWSKI Rafał",
       "tytul_kategoria": "II",
@@ -3711,7 +3702,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "413",
+      "id": "412",
       "id_pzszach": "4597",
       "nazwisko_imie": "SOCHA Roksana",
       "tytul_kategoria": "II",
@@ -3720,7 +3711,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "414",
+      "id": "413",
       "id_pzszach": "67402",
       "nazwisko_imie": "PNIEWSKA Beata",
       "tytul_kategoria": "I+",
@@ -3729,7 +3720,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "415",
+      "id": "414",
       "id_pzszach": "98104",
       "nazwisko_imie": "SKRZYPSKI Jakub",
       "tytul_kategoria": "V",
@@ -3738,7 +3729,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "416",
+      "id": "415",
       "id_pzszach": "133416",
       "nazwisko_imie": "OSTOJSKI Nikodem",
       "tytul_kategoria": "II",
@@ -3747,7 +3738,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "417",
+      "id": "416",
       "id_pzszach": "52429",
       "nazwisko_imie": "KOWNACKI Jakub",
       "tytul_kategoria": "II",
@@ -3756,7 +3747,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "418",
+      "id": "417",
       "id_pzszach": "72971",
       "nazwisko_imie": "SĘKOWSKI Janusz",
       "tytul_kategoria": "II",
@@ -3765,7 +3756,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "419",
+      "id": "418",
       "id_pzszach": "44134",
       "nazwisko_imie": "WICKI Ryszard",
       "tytul_kategoria": "II",
@@ -3774,7 +3765,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "420",
+      "id": "419",
       "id_pzszach": "46775",
       "nazwisko_imie": "NOWAK Tomasz",
       "tytul_kategoria": "II",
@@ -3783,7 +3774,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "421",
+      "id": "420",
       "id_pzszach": "30100",
       "nazwisko_imie": "SZCZEPANIAK Piotr",
       "tytul_kategoria": "III",
@@ -3792,7 +3783,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "422",
+      "id": "421",
       "id_pzszach": "86014",
       "nazwisko_imie": "ZIELIŃSKI Krzysztof",
       "tytul_kategoria": "II+",
@@ -3801,7 +3792,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "423",
+      "id": "422",
       "id_pzszach": "40769",
       "nazwisko_imie": "FALC Paweł",
       "tytul_kategoria": "I",
@@ -3810,7 +3801,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "424",
+      "id": "423",
       "id_pzszach": "91150",
       "nazwisko_imie": "WŁODARCZYK Jakub",
       "tytul_kategoria": "III",
@@ -3819,7 +3810,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "425",
+      "id": "424",
       "id_pzszach": "129124",
       "nazwisko_imie": "OŻOGA Bartosz",
       "tytul_kategoria": "II",
@@ -3828,7 +3819,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "426",
+      "id": "425",
       "id_pzszach": "24496",
       "nazwisko_imie": "DWORAKOWSKI Arkadiusz",
       "tytul_kategoria": "",
@@ -3837,7 +3828,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "427",
+      "id": "426",
       "id_pzszach": "97907",
       "nazwisko_imie": "PODGÓRSKI Antoni",
       "tytul_kategoria": "II",
@@ -3846,7 +3837,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "428",
+      "id": "427",
       "id_pzszach": "103420",
       "nazwisko_imie": "PRZEDPEŁSKI Bartosz",
       "tytul_kategoria": "II",
@@ -3855,7 +3846,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "429",
+      "id": "428",
       "id_pzszach": "97796",
       "nazwisko_imie": "JAWOREK Wojciech",
       "tytul_kategoria": "II",
@@ -3864,7 +3855,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "430",
+      "id": "429",
       "id_pzszach": "29244",
       "nazwisko_imie": "BOTA Dawid",
       "tytul_kategoria": "II",
@@ -3873,7 +3864,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "431",
+      "id": "430",
       "id_pzszach": "125455",
       "nazwisko_imie": "RADZISZEWSKI Mateusz",
       "tytul_kategoria": "II",
@@ -3882,7 +3873,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "432",
+      "id": "431",
       "id_pzszach": "21767",
       "nazwisko_imie": "MOKWA Mikołaj",
       "tytul_kategoria": "II",
@@ -3891,7 +3882,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "433",
+      "id": "432",
       "id_pzszach": "24403",
       "nazwisko_imie": "KURCABA Łukasz",
       "tytul_kategoria": "I",
@@ -3900,7 +3891,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "434",
+      "id": "433",
       "id_pzszach": "29016",
       "nazwisko_imie": "LITWIŃSKI Wojciech",
       "tytul_kategoria": "I",
@@ -3909,7 +3900,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "435",
+      "id": "434",
       "id_pzszach": "880",
       "nazwisko_imie": "MEGGER Dawid",
       "tytul_kategoria": "II",
@@ -3918,7 +3909,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "436",
+      "id": "435",
       "id_pzszach": "38524",
       "nazwisko_imie": "DOMBROWSKI Marek",
       "tytul_kategoria": "II",
@@ -3927,7 +3918,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "437",
+      "id": "436",
       "id_pzszach": "60160",
       "nazwisko_imie": "JASZCZYKOWSKI Marcin",
       "tytul_kategoria": "II",
@@ -3936,7 +3927,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "438",
+      "id": "437",
       "id_pzszach": "15235",
       "nazwisko_imie": "KLAJNA Przemysław",
       "tytul_kategoria": "III",
@@ -3945,7 +3936,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "439",
+      "id": "438",
       "id_pzszach": "21739",
       "nazwisko_imie": "PASTERNAK Rafał",
       "tytul_kategoria": "II+",
@@ -3954,7 +3945,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "440",
+      "id": "439",
       "id_pzszach": "69533",
       "nazwisko_imie": "BADOWSKI Zbigniew",
       "tytul_kategoria": "II",
@@ -3963,7 +3954,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "441",
+      "id": "440",
       "id_pzszach": "41017",
       "nazwisko_imie": "WITKOWSKI Marcel",
       "tytul_kategoria": "II+",
@@ -3972,7 +3963,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "442",
+      "id": "441",
       "id_pzszach": "56925",
       "nazwisko_imie": "KNITTER Tomasz",
       "tytul_kategoria": "II",
@@ -3981,7 +3972,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "443",
+      "id": "442",
       "id_pzszach": "58378",
       "nazwisko_imie": "LEWANDOWSKI Szymon",
       "tytul_kategoria": "I",
@@ -3990,7 +3981,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "444",
+      "id": "443",
       "id_pzszach": "27615",
       "nazwisko_imie": "WIECZOREK Jan",
       "tytul_kategoria": "II",
@@ -3999,7 +3990,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "445",
+      "id": "444",
       "id_pzszach": "4660",
       "nazwisko_imie": "CZERWIŃSKA Luiza",
       "tytul_kategoria": "II",
@@ -4008,7 +3999,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "446",
+      "id": "445",
       "id_pzszach": "48954",
       "nazwisko_imie": "MAĆKOWIAK Filip",
       "tytul_kategoria": "II+",
@@ -4017,7 +4008,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "447",
+      "id": "446",
       "id_pzszach": "21643",
       "nazwisko_imie": "BORSUK Adam",
       "tytul_kategoria": "II",
@@ -4026,7 +4017,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "448",
+      "id": "447",
       "id_pzszach": "4689",
       "nazwisko_imie": "JURKIEWICZ Joanna",
       "tytul_kategoria": "I++",
@@ -4035,7 +4026,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "449",
+      "id": "448",
       "id_pzszach": "21572",
       "nazwisko_imie": "AFTANASIUK Jakub",
       "tytul_kategoria": "II",
@@ -4044,7 +4035,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "450",
+      "id": "449",
       "id_pzszach": "55683",
       "nazwisko_imie": "GURBOWICZ Józef",
       "tytul_kategoria": "II",
@@ -4053,7 +4044,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "451",
+      "id": "450",
       "id_pzszach": "65186",
       "nazwisko_imie": "BŁAŻEWICZ Andrzej",
       "tytul_kategoria": "II+",
@@ -4062,7 +4053,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "452",
+      "id": "451",
       "id_pzszach": "119647",
       "nazwisko_imie": "ROMAŃSKI Kacper",
       "tytul_kategoria": "II+",
@@ -4071,7 +4062,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "453",
+      "id": "452",
       "id_pzszach": "21733",
       "nazwisko_imie": "LASOTA Kacper",
       "tytul_kategoria": "II",
@@ -4080,7 +4071,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "454",
+      "id": "453",
       "id_pzszach": "76972",
       "nazwisko_imie": "GOŁĘBIOWSKI Piotr",
       "tytul_kategoria": "II",
@@ -4089,7 +4080,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "455",
+      "id": "454",
       "id_pzszach": "43358",
       "nazwisko_imie": "PARKA Miłosz",
       "tytul_kategoria": "II+",
@@ -4098,7 +4089,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "456",
+      "id": "455",
       "id_pzszach": "101871",
       "nazwisko_imie": "BIANGA Maksymilian",
       "tytul_kategoria": "II",
@@ -4107,7 +4098,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "457",
+      "id": "456",
       "id_pzszach": "4705",
       "nazwisko_imie": "KISZKIS Juliusz",
       "tytul_kategoria": "I",
@@ -4116,7 +4107,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "458",
+      "id": "457",
       "id_pzszach": "26426",
       "nazwisko_imie": "SAWICKI Paweł Andrzej",
       "tytul_kategoria": "II",
@@ -4125,7 +4116,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "459",
+      "id": "458",
       "id_pzszach": "79821",
       "nazwisko_imie": "SŁOWIK Adam",
       "tytul_kategoria": "II",
@@ -4134,7 +4125,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "460",
+      "id": "459",
       "id_pzszach": "108765",
       "nazwisko_imie": "DOMORADZKI Tomasz",
       "tytul_kategoria": "II",
@@ -4143,7 +4134,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "461",
+      "id": "460",
       "id_pzszach": "122033",
       "nazwisko_imie": "POBŁOCKI Jędrzej",
       "tytul_kategoria": "II",
@@ -4152,7 +4143,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "462",
+      "id": "461",
       "id_pzszach": "127020",
       "nazwisko_imie": "SZMIGIEL Maciej",
       "tytul_kategoria": "III",
@@ -4161,7 +4152,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "463",
+      "id": "462",
       "id_pzszach": "40391",
       "nazwisko_imie": "BEDKA Leopold",
       "tytul_kategoria": "II",
@@ -4170,7 +4161,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "464",
+      "id": "463",
       "id_pzszach": "65271",
       "nazwisko_imie": "BODAL Paweł",
       "tytul_kategoria": "II",
@@ -4179,7 +4170,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "465",
+      "id": "464",
       "id_pzszach": "107201",
       "nazwisko_imie": "PIESIK Feliks",
       "tytul_kategoria": "II",
@@ -4188,7 +4179,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "466",
+      "id": "465",
       "id_pzszach": "113671",
       "nazwisko_imie": "PRZYBYŁEK Kamil",
       "tytul_kategoria": "II",
@@ -4197,7 +4188,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "467",
+      "id": "466",
       "id_pzszach": "92489",
       "nazwisko_imie": "TOCZYŃSKA Natalia",
       "tytul_kategoria": "I",
@@ -4206,7 +4197,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "468",
+      "id": "467",
       "id_pzszach": "102380",
       "nazwisko_imie": "WANTOCH-REKOWSKI Waldemar",
       "tytul_kategoria": "II",
@@ -4215,7 +4206,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "469",
+      "id": "468",
       "id_pzszach": "107197",
       "nazwisko_imie": "STOLC Tomasz",
       "tytul_kategoria": "II",
@@ -4224,7 +4215,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "470",
+      "id": "469",
       "id_pzszach": "53187",
       "nazwisko_imie": "ROSOŁEK Adam",
       "tytul_kategoria": "II",
@@ -4233,7 +4224,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "471",
+      "id": "470",
       "id_pzszach": "103088",
       "nazwisko_imie": "SOBOLEWSKI Krzysztof",
       "tytul_kategoria": "II",
@@ -4242,7 +4233,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "472",
+      "id": "471",
       "id_pzszach": "126926",
       "nazwisko_imie": "STĘPNIEWSKI Artur",
       "tytul_kategoria": "",
@@ -4251,7 +4242,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "473",
+      "id": "472",
       "id_pzszach": "4694",
       "nazwisko_imie": "KARCZYŃSKI Lech",
       "tytul_kategoria": "I++",
@@ -4260,7 +4251,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "474",
+      "id": "473",
       "id_pzszach": "83640",
       "nazwisko_imie": "RICHTER Paweł",
       "tytul_kategoria": "II",
@@ -4269,7 +4260,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "475",
+      "id": "474",
       "id_pzszach": "102340",
       "nazwisko_imie": "DRĘŻEK Wiesław",
       "tytul_kategoria": "II",
@@ -4278,7 +4269,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "476",
+      "id": "475",
       "id_pzszach": "53300",
       "nazwisko_imie": "DORAU Zygmunt",
       "tytul_kategoria": "II+",
@@ -4287,7 +4278,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "477",
+      "id": "476",
       "id_pzszach": "100040",
       "nazwisko_imie": "KAMINSKI Cezary",
       "tytul_kategoria": "II+",
@@ -4296,7 +4287,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "478",
+      "id": "477",
       "id_pzszach": "4477",
       "nazwisko_imie": "SZYMANOWICZ Jozef",
       "tytul_kategoria": "",
@@ -4305,7 +4296,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "479",
+      "id": "478",
       "id_pzszach": "33889",
       "nazwisko_imie": "WITKO Dawid",
       "tytul_kategoria": "II",
@@ -4314,7 +4305,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "480",
+      "id": "479",
       "id_pzszach": "48630",
       "nazwisko_imie": "LOROCH Zygfryd",
       "tytul_kategoria": "II",
@@ -4323,7 +4314,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "481",
+      "id": "480",
       "id_pzszach": "98038",
       "nazwisko_imie": "KRASIŃSKI Maksymilian",
       "tytul_kategoria": "II",
@@ -4332,7 +4323,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "482",
+      "id": "481",
       "id_pzszach": "140067",
       "nazwisko_imie": "MELONI Natalia",
       "tytul_kategoria": "II",
@@ -4341,7 +4332,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "483",
+      "id": "482",
       "id_pzszach": "23466",
       "nazwisko_imie": "TYŃSKI Aleksander",
       "tytul_kategoria": "II",
@@ -4350,7 +4341,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "484",
+      "id": "483",
       "id_pzszach": "59008",
       "nazwisko_imie": "JANUSIEWICZ Michał",
       "tytul_kategoria": "I",
@@ -4359,7 +4350,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "485",
+      "id": "484",
       "id_pzszach": "4805",
       "nazwisko_imie": "PRZYBYLOWICZ Kazimierz",
       "tytul_kategoria": "I",
@@ -4368,7 +4359,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "486",
+      "id": "485",
       "id_pzszach": "103506",
       "nazwisko_imie": "KOSZAŁKA Kamil",
       "tytul_kategoria": "III",
@@ -4377,7 +4368,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "487",
+      "id": "486",
       "id_pzszach": "45415",
       "nazwisko_imie": "GĄSIOROWSKI Tomasz",
       "tytul_kategoria": "II",
@@ -4386,7 +4377,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "488",
+      "id": "487",
       "id_pzszach": "4772",
       "nazwisko_imie": "NISZTUK Michał",
       "tytul_kategoria": "I",
@@ -4395,7 +4386,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "489",
+      "id": "488",
       "id_pzszach": "49993",
       "nazwisko_imie": "PAWLAK Jakub",
       "tytul_kategoria": "II",
@@ -4404,7 +4395,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "490",
+      "id": "489",
       "id_pzszach": "122103",
       "nazwisko_imie": "ADRYCH Jan",
       "tytul_kategoria": "III",
@@ -4413,7 +4404,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "491",
+      "id": "490",
       "id_pzszach": "134895",
       "nazwisko_imie": "BRAMKO Wiktor",
       "tytul_kategoria": "II",
@@ -4422,7 +4413,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "492",
+      "id": "491",
       "id_pzszach": "7617",
       "nazwisko_imie": "ANDRZEJEWSKI Władysław",
       "tytul_kategoria": "II",
@@ -4431,7 +4422,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "493",
+      "id": "492",
       "id_pzszach": "24593",
       "nazwisko_imie": "TARKOWSKI Łukasz",
       "tytul_kategoria": "II",
@@ -4440,7 +4431,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "494",
+      "id": "493",
       "id_pzszach": "132687",
       "nazwisko_imie": "ORZECHOWSKI Tomasz",
       "tytul_kategoria": "III",
@@ -4449,7 +4440,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "495",
+      "id": "494",
       "id_pzszach": "120089",
       "nazwisko_imie": "RUŁA Natan",
       "tytul_kategoria": "II",
@@ -4458,7 +4449,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "496",
+      "id": "495",
       "id_pzszach": "26764",
       "nazwisko_imie": "GEBLER Szymon",
       "tytul_kategoria": "II",
@@ -4467,7 +4458,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "497",
+      "id": "496",
       "id_pzszach": "76743",
       "nazwisko_imie": "MIOTK Jerzy",
       "tytul_kategoria": "II",
@@ -4476,7 +4467,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "498",
+      "id": "497",
       "id_pzszach": "83651",
       "nazwisko_imie": "BONEMBERG Antoni",
       "tytul_kategoria": "II+",
@@ -4485,7 +4476,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "499",
+      "id": "498",
       "id_pzszach": "41226",
       "nazwisko_imie": "SIEWERT Piotr",
       "tytul_kategoria": "III",
@@ -4494,12 +4485,21 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "500",
+      "id": "499",
       "id_pzszach": "62027",
       "nazwisko_imie": "GRZELA Dariusz",
       "tytul_kategoria": "II",
       "rank_fide": "1633",
       "klub": "KLUB MARYNARKI WOJENNEJ",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "500",
+      "id_pzszach": "24540",
+      "nazwisko_imie": "KARDASZ Paweł",
+      "tytul_kategoria": "II",
+      "rank_fide": "1632",
+      "klub": "JANTAR Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     }
   ]
