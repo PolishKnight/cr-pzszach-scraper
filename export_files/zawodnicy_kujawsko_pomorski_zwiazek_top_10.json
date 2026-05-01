@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:26:54.439Z",
+  "createdAt": "2026-05-01T05:38:46.353Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,26 +7,26 @@
       "id_pzszach": "4888",
       "nazwisko_imie": "WOJTASZEK Radosław",
       "tytul_kategoria": "GM",
-      "rank_fide": "2662",
+      "rank_fide": "2650",
       "klub": "KS GWIAZDA Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
       "id": "2",
-      "id_pzszach": "4353",
-      "nazwisko_imie": "NASUTA Grzegorz",
+      "id_pzszach": "9807",
+      "nazwisko_imie": "HERA Imre",
       "tytul_kategoria": "GM",
-      "rank_fide": "2506",
-      "klub": "KS GWIAZDA Bydgoszcz",
+      "rank_fide": "2503",
+      "klub": "UKS ROTMISTRZ Grudziądz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
       "id": "3",
-      "id_pzszach": "9807",
-      "nazwisko_imie": "HERA Imre",
+      "id_pzszach": "4353",
+      "nazwisko_imie": "NASUTA Grzegorz",
       "tytul_kategoria": "GM",
-      "rank_fide": "2501",
-      "klub": "UKS ROTMISTRZ Grudziądz",
+      "rank_fide": "2498",
+      "klub": "KS GWIAZDA Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -34,26 +34,26 @@
       "id_pzszach": "100547",
       "nazwisko_imie": "KASHLINSKAYA Alina",
       "tytul_kategoria": "IM",
-      "rank_fide": "2480",
+      "rank_fide": "2474",
       "klub": "KS GWIAZDA Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
       "id": "5",
+      "id_pzszach": "1343",
+      "nazwisko_imie": "BRODOWSKI Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2464",
+      "klub": "BKS CHEMIK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "6",
       "id_pzszach": "925",
       "nazwisko_imie": "DROZDOWSKI Kacper",
       "tytul_kategoria": "IM",
       "rank_fide": "2461",
       "klub": "UKS ROTMISTRZ Grudziądz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "6",
-      "id_pzszach": "1343",
-      "nazwisko_imie": "BRODOWSKI Piotr",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2451",
-      "klub": "BKS CHEMIK Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {

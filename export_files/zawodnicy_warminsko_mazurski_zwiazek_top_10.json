@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:27:08.861Z",
+  "createdAt": "2026-05-01T05:39:00.078Z",
   "totalRecords": 10,
   "data": [
     {
@@ -22,6 +22,15 @@
     },
     {
       "id": "3",
+      "id_pzszach": "108055",
+      "nazwisko_imie": "RZĄP Filip",
+      "tytul_kategoria": "K",
+      "rank_fide": "2271",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "4",
       "id_pzszach": "6450",
       "nazwisko_imie": "LISTEWNIK Zbigniew",
       "tytul_kategoria": "K",
@@ -30,7 +39,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "4",
+      "id": "5",
       "id_pzszach": "6496",
       "nazwisko_imie": "PROBOLA Grzegorz",
       "tytul_kategoria": "K",
@@ -39,7 +48,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "5",
+      "id": "6",
       "id_pzszach": "6527",
       "nazwisko_imie": "SKRZYPCZAK Jerzy",
       "tytul_kategoria": "K",
@@ -48,7 +57,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "6",
+      "id": "7",
       "id_pzszach": "6380",
       "nazwisko_imie": "DĄBROWSKI Wojciech",
       "tytul_kategoria": "K",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "6455",
       "nazwisko_imie": "MAŁACHOWSKI Tomasz",
       "tytul_kategoria": "K",
@@ -66,21 +75,12 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "6520",
       "nazwisko_imie": "SINICA Jan",
       "tytul_kategoria": "K",
       "rank_fide": "2235",
       "klub": "",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "9",
-      "id_pzszach": "64477",
-      "nazwisko_imie": "KRAŚNIEWSKI Maciej",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2228",
-      "klub": "UKS UZDOWO",
       "wojewodztwo_zwiazek": "WM"
     },
     {

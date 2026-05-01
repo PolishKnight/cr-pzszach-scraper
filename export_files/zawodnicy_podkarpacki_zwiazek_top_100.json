@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:27:02.453Z",
+  "createdAt": "2026-05-01T05:38:54.059Z",
   "totalRecords": 100,
   "data": [
     {
@@ -34,39 +34,48 @@
       "id_pzszach": "59641",
       "nazwisko_imie": "FIRMAN Nazar",
       "tytul_kategoria": "",
-      "rank_fide": "2458",
+      "rank_fide": "2461",
       "klub": "",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "5",
-      "id_pzszach": "45824",
-      "nazwisko_imie": "TURSKI Bartłomiej",
+      "id_pzszach": "43029",
+      "nazwisko_imie": "CZERNEK Tymon",
       "tytul_kategoria": "FM",
-      "rank_fide": "2404",
-      "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "6",
-      "id_pzszach": "87285",
-      "nazwisko_imie": "RADZIMSKI Antoni",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2403",
+      "rank_fide": "2412",
       "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "7",
-      "id_pzszach": "43029",
-      "nazwisko_imie": "CZERNEK Tymon",
+      "id": "6",
+      "id_pzszach": "45824",
+      "nazwisko_imie": "TURSKI Bartłomiej",
       "tytul_kategoria": "FM",
-      "rank_fide": "2401",
+      "rank_fide": "2412",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "87285",
+      "nazwisko_imie": "RADZIMSKI Antoni",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2399",
       "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "8",
+      "id_pzszach": "68423",
+      "nazwisko_imie": "ZIELONKA Adam",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2381",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "9",
       "id_pzszach": "47163",
       "nazwisko_imie": "CHYŻY Jakub",
       "tytul_kategoria": "FM",
@@ -75,7 +84,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "2593",
       "nazwisko_imie": "BRZESKI Maciej",
       "tytul_kategoria": "M",
@@ -84,7 +93,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "10",
+      "id": "11",
       "id_pzszach": "59625",
       "nazwisko_imie": "SERGEEV Vladimir",
       "tytul_kategoria": "GM",
@@ -93,34 +102,16 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "11",
-      "id_pzszach": "68423",
-      "nazwisko_imie": "ZIELONKA Adam",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2350",
-      "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
       "id": "12",
-      "id_pzszach": "59795",
-      "nazwisko_imie": "RAZIN Vadim",
-      "tytul_kategoria": "II",
-      "rank_fide": "2342",
-      "klub": "",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "13",
       "id_pzszach": "86560",
       "nazwisko_imie": "GOLIS Wiktor",
       "tytul_kategoria": "FM",
-      "rank_fide": "2342",
+      "rank_fide": "2348",
       "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "14",
+      "id": "13",
       "id_pzszach": "5584",
       "nazwisko_imie": "BOBULA Mateusz",
       "tytul_kategoria": "IM",
@@ -129,7 +120,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "15",
+      "id": "14",
       "id_pzszach": "10558",
       "nazwisko_imie": "LEWICKI Mirosław",
       "tytul_kategoria": "IM",
@@ -138,12 +129,21 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
+      "id": "15",
+      "id_pzszach": "59795",
+      "nazwisko_imie": "RAZIN Vadim",
+      "tytul_kategoria": "II",
+      "rank_fide": "2329",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
       "id": "16",
-      "id_pzszach": "3824",
-      "nazwisko_imie": "LEWTAK Damian",
+      "id_pzszach": "2898",
+      "nazwisko_imie": "PIŃSKI Jan",
       "tytul_kategoria": "IM",
-      "rank_fide": "2331",
-      "klub": "MKSz GRYF Dębica",
+      "rank_fide": "2328",
+      "klub": "LKS PARNAS Stara Wieś",
       "wojewodztwo_zwiazek": "PK"
     },
     {
@@ -151,17 +151,17 @@
       "id_pzszach": "63351",
       "nazwisko_imie": "KRAWCZYK Flawian",
       "tytul_kategoria": "CM",
-      "rank_fide": "2329",
+      "rank_fide": "2325",
       "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "18",
-      "id_pzszach": "2898",
-      "nazwisko_imie": "PIŃSKI Jan",
+      "id_pzszach": "3824",
+      "nazwisko_imie": "LEWTAK Damian",
       "tytul_kategoria": "IM",
-      "rank_fide": "2328",
-      "klub": "LKS PARNAS Stara Wieś",
+      "rank_fide": "2319",
+      "klub": "MKSz GRYF Dębica",
       "wojewodztwo_zwiazek": "PK"
     },
     {
@@ -268,7 +268,7 @@
       "id_pzszach": "17106",
       "nazwisko_imie": "MROZOWSKI Patryk",
       "tytul_kategoria": "CM",
-      "rank_fide": "2239",
+      "rank_fide": "2237",
       "klub": "MKSz GRYF Dębica",
       "wojewodztwo_zwiazek": "PK"
     },
@@ -292,20 +292,20 @@
     },
     {
       "id": "33",
+      "id_pzszach": "26309",
+      "nazwisko_imie": "SYGULSKI Piotr",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2226",
+      "klub": "MKSz GRYF Dębica",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "34",
       "id_pzszach": "59939",
       "nazwisko_imie": "MIKHALETZ Lubomir",
       "tytul_kategoria": "",
       "rank_fide": "2220",
       "klub": "",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "34",
-      "id_pzszach": "26309",
-      "nazwisko_imie": "SYGULSKI Piotr",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2217",
-      "klub": "MKSz GRYF Dębica",
       "wojewodztwo_zwiazek": "PK"
     },
     {
@@ -337,15 +337,6 @@
     },
     {
       "id": "38",
-      "id_pzszach": "59491",
-      "nazwisko_imie": "KULIG Paweł",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2200",
-      "klub": "MKSz GRYF Dębica",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "39",
       "id_pzszach": "3990",
       "nazwisko_imie": "KOPACZ Jarosław",
       "tytul_kategoria": "K",
@@ -354,7 +345,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "40",
+      "id": "39",
       "id_pzszach": "4088",
       "nazwisko_imie": "SYCZ Dariusz",
       "tytul_kategoria": "K",
@@ -363,16 +354,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "41",
-      "id_pzszach": "49888",
-      "nazwisko_imie": "MEDVEDYK Volodymyr",
-      "tytul_kategoria": "II+",
-      "rank_fide": "2187",
-      "klub": "",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "42",
+      "id": "40",
       "id_pzszach": "4095",
       "nazwisko_imie": "SZAJNA Władysław",
       "tytul_kategoria": "K",
@@ -381,7 +363,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "43",
+      "id": "41",
       "id_pzszach": "4107",
       "nazwisko_imie": "TOCZEK Grzegorz",
       "tytul_kategoria": "FM",
@@ -390,7 +372,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "44",
+      "id": "42",
       "id_pzszach": "4134",
       "nazwisko_imie": "ZIELIŃSKI Grzegorz",
       "tytul_kategoria": "K",
@@ -399,7 +381,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "45",
+      "id": "43",
       "id_pzszach": "19741",
       "nazwisko_imie": "WIŚNIEWSKI Michał",
       "tytul_kategoria": "FM",
@@ -408,7 +390,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "46",
+      "id": "44",
       "id_pzszach": "3920",
       "nazwisko_imie": "BORCZ Jerzy",
       "tytul_kategoria": "K",
@@ -417,7 +399,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "47",
+      "id": "45",
       "id_pzszach": "4058",
       "nazwisko_imie": "PASZKIEWICZ Tomasz",
       "tytul_kategoria": "I++",
@@ -426,7 +408,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "48",
+      "id": "46",
       "id_pzszach": "10559",
       "nazwisko_imie": "LEWTAK Dominik",
       "tytul_kategoria": "K+",
@@ -435,11 +417,29 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "49",
+      "id": "47",
       "id_pzszach": "3977",
       "nazwisko_imie": "KASPEREK Ryszard",
       "tytul_kategoria": "FM",
-      "rank_fide": "2151",
+      "rank_fide": "2160",
+      "klub": "MKSz GRYF Dębica",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "49888",
+      "nazwisko_imie": "MEDVEDYK Volodymyr",
+      "tytul_kategoria": "II+",
+      "rank_fide": "2158",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "59491",
+      "nazwisko_imie": "KULIG Paweł",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2156",
       "klub": "MKSz GRYF Dębica",
       "wojewodztwo_zwiazek": "PK"
     },
@@ -508,6 +508,15 @@
     },
     {
       "id": "57",
+      "id_pzszach": "4186",
+      "nazwisko_imie": "PIETRUSZEWSKI Marcin",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2134",
+      "klub": "TSz SKOCZEK Sędziszów Małopolski",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "58",
       "id_pzszach": "4071",
       "nazwisko_imie": "SENDERA Jarosław",
       "tytul_kategoria": "FM",
@@ -516,7 +525,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "58",
+      "id": "59",
       "id_pzszach": "4014",
       "nazwisko_imie": "LIS Marek",
       "tytul_kategoria": "K",
@@ -525,7 +534,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "59",
+      "id": "60",
       "id_pzszach": "37131",
       "nazwisko_imie": "KYRYCHENKO Maryan",
       "tytul_kategoria": "",
@@ -534,7 +543,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "60",
+      "id": "61",
       "id_pzszach": "3807",
       "nazwisko_imie": "BRANOWSKI Mieczysław",
       "tytul_kategoria": "I",
@@ -543,16 +552,16 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "61",
-      "id_pzszach": "4186",
-      "nazwisko_imie": "PIETRUSZEWSKI Marcin",
-      "tytul_kategoria": "CM",
+      "id": "62",
+      "id_pzszach": "93157",
+      "nazwisko_imie": "EJSYMONT Blanka",
+      "tytul_kategoria": "WFM",
       "rank_fide": "2127",
-      "klub": "TSz SKOCZEK Sędziszów Małopolski",
+      "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "62",
+      "id": "63",
       "id_pzszach": "4074",
       "nazwisko_imie": "SMOŁA Michał",
       "tytul_kategoria": "K+",
@@ -561,7 +570,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "63",
+      "id": "64",
       "id_pzszach": "5909",
       "nazwisko_imie": "MARKIEWICZ Jerzy",
       "tytul_kategoria": "FM",
@@ -570,7 +579,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "64",
+      "id": "65",
       "id_pzszach": "28998",
       "nazwisko_imie": "DŹWIERZYŃSKI Bartosz",
       "tytul_kategoria": "K",
@@ -579,7 +588,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "65",
+      "id": "66",
       "id_pzszach": "6499",
       "nazwisko_imie": "PUCZYŁOWSKI Marcin",
       "tytul_kategoria": "K",
@@ -588,21 +597,12 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "66",
+      "id": "67",
       "id_pzszach": "4138",
       "nazwisko_imie": "ZYGO Władysław",
       "tytul_kategoria": "K",
       "rank_fide": "2115",
       "klub": "TSz SKOCZEK Sędziszów Małopolski",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "67",
-      "id_pzszach": "95912",
-      "nazwisko_imie": "MROZOWSKI Nikodem",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2113",
-      "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
     {
@@ -697,15 +697,6 @@
     },
     {
       "id": "78",
-      "id_pzszach": "93157",
-      "nazwisko_imie": "EJSYMONT Blanka",
-      "tytul_kategoria": "WFM",
-      "rank_fide": "2084",
-      "klub": "LKSz GCKiP Czarna",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "79",
       "id_pzszach": "4065",
       "nazwisko_imie": "PULIK Krzysztof",
       "tytul_kategoria": "K",
@@ -714,7 +705,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "80",
+      "id": "79",
       "id_pzszach": "58711",
       "nazwisko_imie": "TOKARZ Izabela",
       "tytul_kategoria": "WFM",
@@ -723,7 +714,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "81",
+      "id": "80",
       "id_pzszach": "3916",
       "nazwisko_imie": "BEŁZO Krzysztof",
       "tytul_kategoria": "CM",
@@ -732,7 +723,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "82",
+      "id": "81",
       "id_pzszach": "4063",
       "nazwisko_imie": "PRZYBYŁA Tomasz",
       "tytul_kategoria": "I",
@@ -741,7 +732,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "83",
+      "id": "82",
       "id_pzszach": "62852",
       "nazwisko_imie": "SOLOVYOV Oleksandr",
       "tytul_kategoria": "",
@@ -750,7 +741,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "84",
+      "id": "83",
       "id_pzszach": "23641",
       "nazwisko_imie": "MIĄSIK Adrian",
       "tytul_kategoria": "I++",
@@ -759,7 +750,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "85",
+      "id": "84",
       "id_pzszach": "48718",
       "nazwisko_imie": "KUSIAK Mateusz",
       "tytul_kategoria": "CM",
@@ -768,7 +759,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "86",
+      "id": "85",
       "id_pzszach": "68277",
       "nazwisko_imie": "FUTYMA Dawid",
       "tytul_kategoria": "I++",
@@ -777,12 +768,21 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "87",
+      "id": "86",
       "id_pzszach": "4019",
       "nazwisko_imie": "LORENC Marian",
       "tytul_kategoria": "K",
       "rank_fide": "2061",
       "klub": "KKSz URANIA Krosno",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "87",
+      "id_pzszach": "95912",
+      "nazwisko_imie": "MROZOWSKI Nikodem",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2061",
+      "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
     {
@@ -805,6 +805,24 @@
     },
     {
       "id": "90",
+      "id_pzszach": "4089",
+      "nazwisko_imie": "SYCZ Michał",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2054",
+      "klub": "UKS SP 1 Brzozów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "23496",
+      "nazwisko_imie": "MIKUŁA Michał",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2053",
+      "klub": "MKSz GRYF Dębica",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "92",
       "id_pzszach": "3943",
       "nazwisko_imie": "DUBAS Leszek",
       "tytul_kategoria": "K",
@@ -813,7 +831,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "91",
+      "id": "93",
       "id_pzszach": "3957",
       "nazwisko_imie": "GRZYWNA Seweryn",
       "tytul_kategoria": "I",
@@ -822,7 +840,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "92",
+      "id": "94",
       "id_pzszach": "5580",
       "nazwisko_imie": "BLOCH Paweł",
       "tytul_kategoria": "I+",
@@ -831,7 +849,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "93",
+      "id": "95",
       "id_pzszach": "3964",
       "nazwisko_imie": "JAMRÓZ Grzegorz",
       "tytul_kategoria": "I+",
@@ -840,16 +858,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "94",
-      "id_pzszach": "4089",
-      "nazwisko_imie": "SYCZ Michał",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2044",
-      "klub": "UKS SP 1 Brzozów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "3778",
       "nazwisko_imie": "BEŁZO Łukasz",
       "tytul_kategoria": "I",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "3820",
       "nazwisko_imie": "SZELC Adam",
       "tytul_kategoria": "I++",
@@ -867,7 +876,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "97",
+      "id": "98",
       "id_pzszach": "3985",
       "nazwisko_imie": "KOBAK Jakub",
       "tytul_kategoria": "I",
@@ -876,7 +885,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "98",
+      "id": "99",
       "id_pzszach": "4041",
       "nazwisko_imie": "NALEPA Czesław",
       "tytul_kategoria": "I++",
@@ -885,20 +894,11 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "99",
-      "id_pzszach": "50461",
-      "nazwisko_imie": "SHAKHOV Mykhailo",
-      "tytul_kategoria": "II+",
-      "rank_fide": "2033",
-      "klub": "",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
       "id": "100",
       "id_pzszach": "11090",
       "nazwisko_imie": "SMUSZ Kamil",
       "tytul_kategoria": "I++",
-      "rank_fide": "2024",
+      "rank_fide": "2033",
       "klub": "MKSz GRYF Dębica",
       "wojewodztwo_zwiazek": "PK"
     }

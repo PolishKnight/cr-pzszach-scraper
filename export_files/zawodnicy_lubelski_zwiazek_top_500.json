@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:26:57.477Z",
+  "createdAt": "2026-05-01T05:38:49.324Z",
   "totalRecords": 500,
   "data": [
     {
@@ -292,6 +292,15 @@
     },
     {
       "id": "33",
+      "id_pzszach": "85830",
+      "nazwisko_imie": "BARAN Franciszek",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2087",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "34",
       "id_pzszach": "1901",
       "nazwisko_imie": "KWIECIEŃ Joanna",
       "tytul_kategoria": "K+",
@@ -300,7 +309,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "34",
+      "id": "35",
       "id_pzszach": "1923",
       "nazwisko_imie": "DYMEK Łukasz",
       "tytul_kategoria": "K",
@@ -309,7 +318,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "35",
+      "id": "36",
       "id_pzszach": "47233",
       "nazwisko_imie": "IWAŃCZUK Krzysztof",
       "tytul_kategoria": "K",
@@ -318,7 +327,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "36",
+      "id": "37",
       "id_pzszach": "67368",
       "nazwisko_imie": "BOGDANOV Ignat",
       "tytul_kategoria": "I++",
@@ -327,7 +336,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "37",
+      "id": "38",
       "id_pzszach": "2097",
       "nazwisko_imie": "PADRAK Rafał",
       "tytul_kategoria": "I",
@@ -336,7 +345,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "38",
+      "id": "39",
       "id_pzszach": "2117",
       "nazwisko_imie": "PURC Sławomir",
       "tytul_kategoria": "K",
@@ -345,7 +354,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "39",
+      "id": "40",
       "id_pzszach": "2156",
       "nazwisko_imie": "ŻUK Andrzej",
       "tytul_kategoria": "I++",
@@ -354,7 +363,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "40",
+      "id": "41",
       "id_pzszach": "2041",
       "nazwisko_imie": "JOŃCZYK Krzysztof",
       "tytul_kategoria": "I",
@@ -363,7 +372,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "41",
+      "id": "42",
       "id_pzszach": "2028",
       "nazwisko_imie": "GORZKIEWICZ Łukasz",
       "tytul_kategoria": "K",
@@ -372,7 +381,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "42",
+      "id": "43",
       "id_pzszach": "1944",
       "nazwisko_imie": "JÓŹWICKA Urszula",
       "tytul_kategoria": "K",
@@ -381,7 +390,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "43",
+      "id": "44",
       "id_pzszach": "2077",
       "nazwisko_imie": "MĄKA Marcin",
       "tytul_kategoria": "K",
@@ -390,7 +399,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "44",
+      "id": "45",
+      "id_pzszach": "105261",
+      "nazwisko_imie": "MADEJSKI Miłosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2062",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "46",
       "id_pzszach": "2016",
       "nazwisko_imie": "DUDZIAK Adam",
       "tytul_kategoria": "I",
@@ -399,7 +417,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "45",
+      "id": "47",
       "id_pzszach": "2076",
       "nazwisko_imie": "MĄKA-POLKOWSKA Magdalena",
       "tytul_kategoria": "K",
@@ -408,7 +426,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "46",
+      "id": "48",
       "id_pzszach": "2003",
       "nazwisko_imie": "CIECHOCIŃSKA-MIEĆKO Zofia",
       "tytul_kategoria": "K",
@@ -417,7 +435,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "47",
+      "id": "49",
       "id_pzszach": "20270",
       "nazwisko_imie": "DZIDO Dawid",
       "tytul_kategoria": "I",
@@ -426,16 +444,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "48",
-      "id_pzszach": "105261",
-      "nazwisko_imie": "MADEJSKI Miłosz",
-      "tytul_kategoria": "I",
-      "rank_fide": "2048",
-      "klub": "SSz Cebularz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "49",
+      "id": "50",
       "id_pzszach": "2123",
       "nazwisko_imie": "MOTOR Marta",
       "tytul_kategoria": "K+",
@@ -444,7 +453,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "50",
+      "id": "51",
       "id_pzszach": "2146",
       "nazwisko_imie": "WIĄCEK Krzysztof",
       "tytul_kategoria": "I",
@@ -453,7 +462,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "51",
+      "id": "52",
       "id_pzszach": "2095",
       "nazwisko_imie": "OSTROWSKI Robert",
       "tytul_kategoria": "I",
@@ -462,7 +471,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "52",
+      "id": "53",
       "id_pzszach": "1972",
       "nazwisko_imie": "GOSEK Zenon",
       "tytul_kategoria": "I++",
@@ -471,7 +480,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "53",
+      "id": "54",
       "id_pzszach": "1955",
       "nazwisko_imie": "TUROWSKI Piotr",
       "tytul_kategoria": "I",
@@ -480,7 +489,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "54",
+      "id": "55",
       "id_pzszach": "2078",
       "nazwisko_imie": "MĄKA Michał",
       "tytul_kategoria": "I",
@@ -489,7 +498,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "55",
+      "id": "56",
       "id_pzszach": "2051",
       "nazwisko_imie": "KLIMECKI Jacek",
       "tytul_kategoria": "I",
@@ -498,7 +507,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "56",
+      "id": "57",
       "id_pzszach": "60330",
       "nazwisko_imie": "ROGACEWICZ Mikołaj",
       "tytul_kategoria": "I++",
@@ -507,7 +516,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "57",
+      "id": "58",
       "id_pzszach": "1924",
       "nazwisko_imie": "DZIUBIŃSKI Paweł",
       "tytul_kategoria": "I+",
@@ -516,7 +525,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "58",
+      "id": "59",
       "id_pzszach": "17403",
       "nazwisko_imie": "SIEDLANOWSKI Łukasz",
       "tytul_kategoria": "I+",
@@ -525,7 +534,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "59",
+      "id": "60",
+      "id_pzszach": "96629",
+      "nazwisko_imie": "OLESZCZUK Artur",
+      "tytul_kategoria": "I",
+      "rank_fide": "1981",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "61",
       "id_pzszach": "1918",
       "nazwisko_imie": "BARTCZAK Krzysztof",
       "tytul_kategoria": "I",
@@ -534,16 +552,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "60",
-      "id_pzszach": "85830",
-      "nazwisko_imie": "BARAN Franciszek",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1976",
-      "klub": "SSz Cebularz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "61",
+      "id": "62",
       "id_pzszach": "2115",
       "nazwisko_imie": "PRASZAK Michał",
       "tytul_kategoria": "M",
@@ -552,20 +561,11 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "62",
+      "id": "63",
       "id_pzszach": "1953",
       "nazwisko_imie": "SZURGOT Dominik",
       "tytul_kategoria": "I",
       "rank_fide": "1974",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "63",
-      "id_pzszach": "96629",
-      "nazwisko_imie": "OLESZCZUK Artur",
-      "tytul_kategoria": "I",
-      "rank_fide": "1958",
       "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
@@ -688,15 +688,6 @@
     },
     {
       "id": "77",
-      "id_pzszach": "2021",
-      "nazwisko_imie": "FRĄCZEK Dariusz",
-      "tytul_kategoria": "CM",
-      "rank_fide": "1910",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "78",
       "id_pzszach": "1985",
       "nazwisko_imie": "ŻĄDŁO Anna",
       "tytul_kategoria": "I",
@@ -705,7 +696,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "79",
+      "id": "78",
       "id_pzszach": "59213",
       "nazwisko_imie": "KUREK Andrzej",
       "tytul_kategoria": "I",
@@ -714,12 +705,21 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "80",
+      "id": "79",
       "id_pzszach": "33152",
       "nazwisko_imie": "SIWEK Mateusz",
       "tytul_kategoria": "II",
       "rank_fide": "1899",
       "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "80",
+      "id_pzszach": "2021",
+      "nazwisko_imie": "FRĄCZEK Dariusz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "1897",
+      "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -1021,15 +1021,6 @@
     },
     {
       "id": "114",
-      "id_pzszach": "40740",
-      "nazwisko_imie": "SEREDYN Dominik",
-      "tytul_kategoria": "I",
-      "rank_fide": "1832",
-      "klub": "LUKS TEMPO Ożarów",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "115",
       "id_pzszach": "55568",
       "nazwisko_imie": "CZAJKA Wojciech",
       "tytul_kategoria": "I",
@@ -1038,7 +1029,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "116",
+      "id": "115",
       "id_pzszach": "7464",
       "nazwisko_imie": "KAŁUSZYŃSKI Andrzej",
       "tytul_kategoria": "I",
@@ -1047,12 +1038,21 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "117",
+      "id": "116",
       "id_pzszach": "61537",
       "nazwisko_imie": "ŚWIĆ Bartosz",
       "tytul_kategoria": "I",
       "rank_fide": "1822",
       "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "117",
+      "id_pzszach": "40740",
+      "nazwisko_imie": "SEREDYN Dominik",
+      "tytul_kategoria": "I",
+      "rank_fide": "1821",
+      "klub": "LUKS TEMPO Ożarów",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -1174,17 +1174,17 @@
     },
     {
       "id": "131",
-      "id_pzszach": "2045",
-      "nazwisko_imie": "KANIA Tomasz",
+      "id_pzszach": "4912",
+      "nazwisko_imie": "WZIĄTEK Marek",
       "tytul_kategoria": "I+",
-      "rank_fide": "1800",
+      "rank_fide": "1801",
       "klub": "",
       "wojewodztwo_zwiazek": "LU"
     },
     {
       "id": "132",
-      "id_pzszach": "4912",
-      "nazwisko_imie": "WZIĄTEK Marek",
+      "id_pzszach": "2045",
+      "nazwisko_imie": "KANIA Tomasz",
       "tytul_kategoria": "I+",
       "rank_fide": "1800",
       "klub": "",
@@ -1237,6 +1237,15 @@
     },
     {
       "id": "138",
+      "id_pzszach": "50842",
+      "nazwisko_imie": "KURLAK Jakub",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1795",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "139",
       "id_pzszach": "112723",
       "nazwisko_imie": "SUPRUNOV Artem",
       "tytul_kategoria": "",
@@ -1245,7 +1254,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "139",
+      "id": "140",
       "id_pzszach": "58988",
       "nazwisko_imie": "SŁOMKA Przemysław",
       "tytul_kategoria": "II",
@@ -1254,7 +1263,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "140",
+      "id": "141",
       "id_pzszach": "84350",
       "nazwisko_imie": "GROMOWSKI Stanisław",
       "tytul_kategoria": "I",
@@ -1263,7 +1272,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "141",
+      "id": "142",
       "id_pzszach": "60332",
       "nazwisko_imie": "GÓRNIAK Mateusz",
       "tytul_kategoria": "I",
@@ -1272,7 +1281,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "142",
+      "id": "143",
       "id_pzszach": "22669",
       "nazwisko_imie": "ROKITA Mirosław",
       "tytul_kategoria": "I",
@@ -1281,7 +1290,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "143",
+      "id": "144",
       "id_pzszach": "26944",
       "nazwisko_imie": "POKAROWSKI Maciej",
       "tytul_kategoria": "II",
@@ -1290,16 +1299,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "144",
+      "id": "145",
       "id_pzszach": "139115",
       "nazwisko_imie": "KOŹMALA Michał",
       "tytul_kategoria": "I",
-      "rank_fide": "1783",
+      "rank_fide": "1781",
       "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "145",
+      "id": "146",
       "id_pzszach": "2002",
       "nazwisko_imie": "BOLESTA Wojciech",
       "tytul_kategoria": "I",
@@ -1308,7 +1317,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "146",
+      "id": "147",
       "id_pzszach": "24806",
       "nazwisko_imie": "WOLCZYK Karol",
       "tytul_kategoria": "I",
@@ -1317,7 +1326,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "147",
+      "id": "148",
       "id_pzszach": "60018",
       "nazwisko_imie": "SADLAK Rafał",
       "tytul_kategoria": "II+",
@@ -1326,7 +1335,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "148",
+      "id": "149",
       "id_pzszach": "97373",
       "nazwisko_imie": "ROWIŃSKI Marek",
       "tytul_kategoria": "II+",
@@ -1335,7 +1344,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "149",
+      "id": "150",
       "id_pzszach": "99683",
       "nazwisko_imie": "ZIELONKA Kamil",
       "tytul_kategoria": "II+",
@@ -1344,7 +1353,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "150",
+      "id": "151",
       "id_pzszach": "41780",
       "nazwisko_imie": "MICHALAK Dawid",
       "tytul_kategoria": "II",
@@ -1353,7 +1362,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "151",
+      "id": "152",
       "id_pzszach": "51098",
       "nazwisko_imie": "KOŻUCH Piotr",
       "tytul_kategoria": "I",
@@ -1362,7 +1371,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "152",
+      "id": "153",
       "id_pzszach": "1892",
       "nazwisko_imie": "PYCKA Joanna",
       "tytul_kategoria": "II",
@@ -1371,7 +1380,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "153",
+      "id": "154",
       "id_pzszach": "20143",
       "nazwisko_imie": "KURDZIAŁEK Stanisław",
       "tytul_kategoria": "II",
@@ -1380,7 +1389,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "154",
+      "id": "155",
       "id_pzszach": "26762",
       "nazwisko_imie": "WAGNER Jacek",
       "tytul_kategoria": "III",
@@ -1389,7 +1398,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "155",
+      "id": "156",
       "id_pzszach": "2081",
       "nazwisko_imie": "MAZUR Eugeniusz",
       "tytul_kategoria": "I",
@@ -1398,7 +1407,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "156",
+      "id": "157",
       "id_pzszach": "110033",
       "nazwisko_imie": "CHOLEWA Paweł",
       "tytul_kategoria": "III",
@@ -1407,7 +1416,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "157",
+      "id": "158",
       "id_pzszach": "28854",
       "nazwisko_imie": "WĘGRZYNIAK Paweł",
       "tytul_kategoria": "I",
@@ -1416,7 +1425,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "158",
+      "id": "159",
       "id_pzszach": "27106",
       "nazwisko_imie": "KLIMASZEWSKA Marta",
       "tytul_kategoria": "",
@@ -1425,7 +1434,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "159",
+      "id": "160",
       "id_pzszach": "1941",
       "nazwisko_imie": "NAROJEK Marcin",
       "tytul_kategoria": "II",
@@ -1434,7 +1443,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "160",
+      "id": "161",
       "id_pzszach": "70741",
       "nazwisko_imie": "MIELNICZEK Kacper",
       "tytul_kategoria": "II",
@@ -1443,7 +1452,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "161",
+      "id": "162",
       "id_pzszach": "3311",
       "nazwisko_imie": "CHWALEWSKI Marek",
       "tytul_kategoria": "I",
@@ -1452,7 +1461,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "162",
+      "id": "163",
       "id_pzszach": "38334",
       "nazwisko_imie": "STARCZEWSKI Dominik",
       "tytul_kategoria": "II",
@@ -1461,7 +1470,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "163",
+      "id": "164",
       "id_pzszach": "59237",
       "nazwisko_imie": "GRYGLICKI Mateusz",
       "tytul_kategoria": "II+",
@@ -1470,7 +1479,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "164",
+      "id": "165",
       "id_pzszach": "92315",
       "nazwisko_imie": "WOJTASIK Antoni",
       "tytul_kategoria": "II",
@@ -1479,21 +1488,12 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "165",
+      "id": "166",
       "id_pzszach": "22723",
       "nazwisko_imie": "ZAWADZKA Katarzyna",
       "tytul_kategoria": "",
       "rank_fide": "1752",
       "klub": "",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "166",
-      "id_pzszach": "119654",
-      "nazwisko_imie": "WĄGIEL Mikołaj",
-      "tytul_kategoria": "II+",
-      "rank_fide": "1748",
-      "klub": "SSz Cebularz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -1885,6 +1885,15 @@
     },
     {
       "id": "210",
+      "id_pzszach": "119654",
+      "nazwisko_imie": "WĄGIEL Mikołaj",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1701",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "211",
       "id_pzszach": "1909",
       "nazwisko_imie": "ŚLIWIŃSKA Dorota",
       "tytul_kategoria": "II",
@@ -1893,7 +1902,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "211",
+      "id": "212",
       "id_pzszach": "40735",
       "nazwisko_imie": "MAZUREK Jakub",
       "tytul_kategoria": "I",
@@ -1902,7 +1911,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "212",
+      "id": "213",
       "id_pzszach": "55660",
       "nazwisko_imie": "STRYCHARCZUK Marek",
       "tytul_kategoria": "",
@@ -1911,7 +1920,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "213",
+      "id": "214",
       "id_pzszach": "33630",
       "nazwisko_imie": "STRZAŁKA Jerzy",
       "tytul_kategoria": "II",
@@ -1920,7 +1929,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "214",
+      "id": "215",
       "id_pzszach": "50882",
       "nazwisko_imie": "KUKAWSKI Wiktor",
       "tytul_kategoria": "I",
@@ -1929,7 +1938,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "215",
+      "id": "216",
       "id_pzszach": "17397",
       "nazwisko_imie": "BEDNARCZYK Alicja",
       "tytul_kategoria": "II+",
@@ -1938,7 +1947,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "216",
+      "id": "217",
       "id_pzszach": "36527",
       "nazwisko_imie": "PAROL Maciej",
       "tytul_kategoria": "II",
@@ -1947,7 +1956,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "217",
+      "id": "218",
       "id_pzszach": "41139",
       "nazwisko_imie": "ZAWISTOWSKI Mirosław",
       "tytul_kategoria": "II",
@@ -1956,7 +1965,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "218",
+      "id": "219",
       "id_pzszach": "22004",
       "nazwisko_imie": "MOLENDA Agnieszka",
       "tytul_kategoria": "II",
@@ -1965,7 +1974,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "219",
+      "id": "220",
       "id_pzszach": "122668",
       "nazwisko_imie": "CHMIELEWSKI Szymon",
       "tytul_kategoria": "II",
@@ -1974,7 +1983,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "220",
+      "id": "221",
       "id_pzszach": "67810",
       "nazwisko_imie": "CZUCHRYTA Kacper",
       "tytul_kategoria": "II",
@@ -1983,7 +1992,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "221",
+      "id": "222",
       "id_pzszach": "22692",
       "nazwisko_imie": "WAWSZCZAK Marcin",
       "tytul_kategoria": "II",
@@ -1992,7 +2001,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "222",
+      "id": "223",
       "id_pzszach": "47892",
       "nazwisko_imie": "DĘBCZAK Hubert",
       "tytul_kategoria": "II+",
@@ -2001,7 +2010,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "223",
+      "id": "224",
       "id_pzszach": "51389",
       "nazwisko_imie": "MATYJASZCZYK Adrian",
       "tytul_kategoria": "II+",
@@ -2010,7 +2019,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "224",
+      "id": "225",
       "id_pzszach": "75310",
       "nazwisko_imie": "WALASZEK Bartosz",
       "tytul_kategoria": "II",
@@ -2019,7 +2028,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "225",
+      "id": "226",
       "id_pzszach": "22665",
       "nazwisko_imie": "CYTRYŃSKI Mateusz",
       "tytul_kategoria": "II",
@@ -2028,7 +2037,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "226",
+      "id": "227",
       "id_pzszach": "73920",
       "nazwisko_imie": "NAKAZIUK Aleksander",
       "tytul_kategoria": "II+",
@@ -2037,7 +2046,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "227",
+      "id": "228",
       "id_pzszach": "102437",
       "nazwisko_imie": "MAZUR Igor",
       "tytul_kategoria": "II",
@@ -2046,7 +2055,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "228",
+      "id": "229",
       "id_pzszach": "111336",
       "nazwisko_imie": "MORAWSKI Jakub",
       "tytul_kategoria": "II+",
@@ -2055,7 +2064,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "229",
+      "id": "230",
       "id_pzszach": "24342",
       "nazwisko_imie": "GRESZETA Robert",
       "tytul_kategoria": "II",
@@ -2064,7 +2073,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "230",
+      "id": "231",
       "id_pzszach": "58779",
       "nazwisko_imie": "PASZKIEWICZ Artur",
       "tytul_kategoria": "III",
@@ -2073,7 +2082,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "231",
+      "id": "232",
       "id_pzszach": "106459",
       "nazwisko_imie": "SKUPIEŃ Artur",
       "tytul_kategoria": "II",
@@ -2082,7 +2091,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "232",
+      "id": "233",
       "id_pzszach": "53745",
       "nazwisko_imie": "WAWER Mateusz",
       "tytul_kategoria": "IV",
@@ -2091,7 +2100,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "233",
+      "id": "234",
       "id_pzszach": "61539",
       "nazwisko_imie": "WAWER Jarosław",
       "tytul_kategoria": "IV",
@@ -2100,7 +2109,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "234",
+      "id": "235",
       "id_pzszach": "90599",
       "nazwisko_imie": "NAUMIUK Szymon",
       "tytul_kategoria": "III",
@@ -2109,7 +2118,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "235",
+      "id": "236",
       "id_pzszach": "41304",
       "nazwisko_imie": "SAMUJŁO Bronisław",
       "tytul_kategoria": "II+",
@@ -2118,7 +2127,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "236",
+      "id": "237",
       "id_pzszach": "44025",
       "nazwisko_imie": "BUKAŁA Norbert",
       "tytul_kategoria": "II",
@@ -2127,7 +2136,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "237",
+      "id": "238",
       "id_pzszach": "46479",
       "nazwisko_imie": "GÓRKA Andrzej",
       "tytul_kategoria": "III",
@@ -2136,7 +2145,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "238",
+      "id": "239",
       "id_pzszach": "17585",
       "nazwisko_imie": "TOPOLAN Paweł",
       "tytul_kategoria": "II",
@@ -2145,7 +2154,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "239",
+      "id": "240",
       "id_pzszach": "48359",
       "nazwisko_imie": "DYJOR Adam",
       "tytul_kategoria": "II",
@@ -2154,7 +2163,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "240",
+      "id": "241",
       "id_pzszach": "58565",
       "nazwisko_imie": "BURZMIŃSKI Janusz",
       "tytul_kategoria": "III",
@@ -2163,7 +2172,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "241",
+      "id": "242",
       "id_pzszach": "87945",
       "nazwisko_imie": "STYCZYŃSKI Aleksander",
       "tytul_kategoria": "II",
@@ -2172,7 +2181,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "242",
+      "id": "243",
       "id_pzszach": "38348",
       "nazwisko_imie": "MAIK Marcin",
       "tytul_kategoria": "II",
@@ -2181,7 +2190,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "243",
+      "id": "244",
       "id_pzszach": "39505",
       "nazwisko_imie": "DYBOWSKI Oscar",
       "tytul_kategoria": "III",
@@ -2190,7 +2199,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "244",
+      "id": "245",
       "id_pzszach": "42858",
       "nazwisko_imie": "DUDZIAK Jan",
       "tytul_kategoria": "II",
@@ -2199,21 +2208,12 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "245",
+      "id": "246",
       "id_pzszach": "1916",
       "nazwisko_imie": "PRZYGRODZKI Jakub",
       "tytul_kategoria": "II+",
       "rank_fide": "1666",
       "klub": "",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "246",
-      "id_pzszach": "138019",
-      "nazwisko_imie": "ZAJĄC Adam",
-      "tytul_kategoria": "II",
-      "rank_fide": "1663",
-      "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -2245,6 +2245,15 @@
     },
     {
       "id": "250",
+      "id_pzszach": "94445",
+      "nazwisko_imie": "KOZAK Krystian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1661",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "251",
       "id_pzszach": "129728",
       "nazwisko_imie": "PIĄTKOWSKI Szymon",
       "tytul_kategoria": "II",
@@ -2253,7 +2262,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "251",
+      "id": "252",
+      "id_pzszach": "57893",
+      "nazwisko_imie": "LESZEK Sławomir",
+      "tytul_kategoria": "II",
+      "rank_fide": "1657",
+      "klub": "Sz MOK DEBIUT Terespol",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "253",
       "id_pzszach": "63831",
       "nazwisko_imie": "CABAJ Dariusz",
       "tytul_kategoria": "III",
@@ -2262,7 +2280,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "252",
+      "id": "254",
       "id_pzszach": "72026",
       "nazwisko_imie": "OLSZOWY Paweł",
       "tytul_kategoria": "IV",
@@ -2271,7 +2289,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "253",
+      "id": "255",
+      "id_pzszach": "80069",
+      "nazwisko_imie": "KĘDZIORA Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1655",
+      "klub": "LUKS Lubartów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "256",
       "id_pzszach": "91027",
       "nazwisko_imie": "KULESZOW Mikołaj",
       "tytul_kategoria": "II",
@@ -2280,7 +2307,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "254",
+      "id": "257",
+      "id_pzszach": "138019",
+      "nazwisko_imie": "ZAJĄC Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1653",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "258",
       "id_pzszach": "28858",
       "nazwisko_imie": "SAMUJŁO Agnieszka",
       "tytul_kategoria": "I++",
@@ -2289,7 +2325,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "255",
+      "id": "259",
       "id_pzszach": "56174",
       "nazwisko_imie": "NIEWOLIK Tomasz",
       "tytul_kategoria": "II",
@@ -2298,7 +2334,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "256",
+      "id": "260",
       "id_pzszach": "94376",
       "nazwisko_imie": "CZAJKOWSKI Michał",
       "tytul_kategoria": "II",
@@ -2307,7 +2343,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "257",
+      "id": "261",
       "id_pzszach": "113041",
       "nazwisko_imie": "WIŚNIEWSKI Paweł",
       "tytul_kategoria": "II",
@@ -2316,7 +2352,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "258",
+      "id": "262",
       "id_pzszach": "47893",
       "nazwisko_imie": "DĘBCZAK Krystian",
       "tytul_kategoria": "I",
@@ -2325,7 +2361,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "259",
+      "id": "263",
       "id_pzszach": "87068",
       "nazwisko_imie": "NIEZBECKI Marek",
       "tytul_kategoria": "I",
@@ -2334,16 +2370,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "260",
-      "id_pzszach": "94445",
-      "nazwisko_imie": "KOZAK Krystian",
-      "tytul_kategoria": "II",
-      "rank_fide": "1648",
-      "klub": "LUKS Lubartów",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "261",
+      "id": "264",
       "id_pzszach": "39327",
       "nazwisko_imie": "DROB Julia",
       "tytul_kategoria": "I",
@@ -2352,7 +2379,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "262",
+      "id": "265",
       "id_pzszach": "95231",
       "nazwisko_imie": "CZERONKO Jan",
       "tytul_kategoria": "II",
@@ -2361,25 +2388,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "263",
-      "id_pzszach": "80069",
-      "nazwisko_imie": "KĘDZIORA Antoni",
-      "tytul_kategoria": "II",
-      "rank_fide": "1645",
-      "klub": "LUKS Lubartów",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "264",
-      "id_pzszach": "57893",
-      "nazwisko_imie": "LESZEK Sławomir",
-      "tytul_kategoria": "II",
-      "rank_fide": "1644",
-      "klub": "Sz MOK DEBIUT Terespol",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "265",
+      "id": "266",
       "id_pzszach": "49904",
       "nazwisko_imie": "KUNACH Tomasz",
       "tytul_kategoria": "III",
@@ -2388,7 +2397,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "266",
+      "id": "267",
       "id_pzszach": "74219",
       "nazwisko_imie": "KIJKO Krzysztof",
       "tytul_kategoria": "II",
@@ -2397,7 +2406,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "267",
+      "id": "268",
       "id_pzszach": "4490",
       "nazwisko_imie": "TRACZEWSKI Wojciech",
       "tytul_kategoria": "I",
@@ -2406,7 +2415,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "268",
+      "id": "269",
       "id_pzszach": "42109",
       "nazwisko_imie": "ŚLIWONIK Robert",
       "tytul_kategoria": "I+",
@@ -2415,7 +2424,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "269",
+      "id": "270",
       "id_pzszach": "22853",
       "nazwisko_imie": "WRÓBLEWSKI Mieczysław",
       "tytul_kategoria": "I",
@@ -2424,7 +2433,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "270",
+      "id": "271",
       "id_pzszach": "52023",
       "nazwisko_imie": "ARTYMIAK Borys",
       "tytul_kategoria": "II",
@@ -2433,7 +2442,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "271",
+      "id": "272",
       "id_pzszach": "39046",
       "nazwisko_imie": "NICZYPORUK Jakub",
       "tytul_kategoria": "II",
@@ -2442,7 +2451,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "272",
+      "id": "273",
       "id_pzszach": "118839",
       "nazwisko_imie": "CIENIUCH Krzysztof",
       "tytul_kategoria": "II",
@@ -2451,7 +2460,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "273",
+      "id": "274",
       "id_pzszach": "21782",
       "nazwisko_imie": "NIEDZIELA Mateusz",
       "tytul_kategoria": "II",
@@ -2460,7 +2469,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "274",
+      "id": "275",
       "id_pzszach": "91948",
       "nazwisko_imie": "NATONIEWSKI Sebastian",
       "tytul_kategoria": "II",
@@ -2469,7 +2478,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "275",
+      "id": "276",
       "id_pzszach": "116346",
       "nazwisko_imie": "BULSKI Jakub",
       "tytul_kategoria": "II",
@@ -2478,7 +2487,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "276",
+      "id": "277",
       "id_pzszach": "17415",
       "nazwisko_imie": "OMIELAŃCZYK Remigiusz",
       "tytul_kategoria": "III",
@@ -2487,7 +2496,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "277",
+      "id": "278",
       "id_pzszach": "52720",
       "nazwisko_imie": "WOJNAR Maciej",
       "tytul_kategoria": "II",
@@ -2496,7 +2505,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "278",
+      "id": "279",
       "id_pzszach": "63816",
       "nazwisko_imie": "GOŁAWSKI Jacek",
       "tytul_kategoria": "III",
@@ -2505,7 +2514,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "279",
+      "id": "280",
       "id_pzszach": "135235",
       "nazwisko_imie": "SZARAWARSKI Michał",
       "tytul_kategoria": "III",
@@ -2514,7 +2523,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "280",
+      "id": "281",
       "id_pzszach": "78340",
       "nazwisko_imie": "WÓJCICKI Marcin",
       "tytul_kategoria": "II",
@@ -2523,7 +2532,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "281",
+      "id": "282",
       "id_pzszach": "41303",
       "nazwisko_imie": "SAMUJŁO Małgorzata",
       "tytul_kategoria": "II",
@@ -2532,7 +2541,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "282",
+      "id": "283",
       "id_pzszach": "42387",
       "nazwisko_imie": "CIEPLAK Dariusz",
       "tytul_kategoria": "II+",
@@ -2541,7 +2550,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "283",
+      "id": "284",
       "id_pzszach": "120523",
       "nazwisko_imie": "ANIOŁEK Robert",
       "tytul_kategoria": "III",
@@ -2550,7 +2559,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "284",
+      "id": "285",
       "id_pzszach": "25657",
       "nazwisko_imie": "GRABEK Antoni",
       "tytul_kategoria": "III",
@@ -2559,7 +2568,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "285",
+      "id": "286",
       "id_pzszach": "49908",
       "nazwisko_imie": "WIERZBICKI Dariusz",
       "tytul_kategoria": "II",
@@ -2568,7 +2577,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "286",
+      "id": "287",
       "id_pzszach": "21491",
       "nazwisko_imie": "BEDNARCZYK Katarzyna",
       "tytul_kategoria": "II",
@@ -2577,7 +2586,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "287",
+      "id": "288",
       "id_pzszach": "90707",
       "nazwisko_imie": "BEREZA Jakub",
       "tytul_kategoria": "II",
@@ -2586,7 +2595,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "288",
+      "id": "289",
       "id_pzszach": "69106",
       "nazwisko_imie": "IDZIOR Izabela",
       "tytul_kategoria": "I",
@@ -2595,7 +2604,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "289",
+      "id": "290",
       "id_pzszach": "28452",
       "nazwisko_imie": "TARCZYŃSKI Dominik",
       "tytul_kategoria": "II",
@@ -2604,7 +2613,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "290",
+      "id": "291",
       "id_pzszach": "1978",
       "nazwisko_imie": "TOMILO Tomasz",
       "tytul_kategoria": "I",
@@ -2613,7 +2622,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "291",
+      "id": "292",
       "id_pzszach": "54027",
       "nazwisko_imie": "MICHALSKI Adrian",
       "tytul_kategoria": "II",
@@ -2622,7 +2631,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "292",
+      "id": "293",
       "id_pzszach": "123551",
       "nazwisko_imie": "GRESZTA Piotr",
       "tytul_kategoria": "II",
@@ -2631,7 +2640,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "293",
+      "id": "294",
       "id_pzszach": "139107",
       "nazwisko_imie": "KŁODA Bartłomiej",
       "tytul_kategoria": "",
@@ -2640,7 +2649,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "294",
+      "id": "295",
       "id_pzszach": "98813",
       "nazwisko_imie": "WIAK Michał",
       "tytul_kategoria": "II",
@@ -2649,7 +2658,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "295",
+      "id": "296",
       "id_pzszach": "119986",
       "nazwisko_imie": "BOGUSZ Marcin",
       "tytul_kategoria": "IV",
@@ -2658,16 +2667,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "296",
-      "id_pzszach": "132392",
-      "nazwisko_imie": "TURCZYNOWICZ Adam",
+      "id": "297",
+      "id_pzszach": "64639",
+      "nazwisko_imie": "AUGUSTYNIAK Rafał",
       "tytul_kategoria": "II",
       "rank_fide": "1610",
-      "klub": "SSz Cebularz Lublin",
+      "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "297",
+      "id": "298",
       "id_pzszach": "24344",
       "nazwisko_imie": "BELCZEWSKI Arkadiusz",
       "tytul_kategoria": "III",
@@ -2676,7 +2685,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "298",
+      "id": "299",
       "id_pzszach": "68514",
       "nazwisko_imie": "WOREK Rafał",
       "tytul_kategoria": "II",
@@ -2685,7 +2694,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "299",
+      "id": "300",
       "id_pzszach": "69800",
       "nazwisko_imie": "Bochenek Szymon",
       "tytul_kategoria": "IV",
@@ -2694,7 +2703,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "300",
+      "id": "301",
       "id_pzszach": "31922",
       "nazwisko_imie": "POLESZCZUK Mikołaj",
       "tytul_kategoria": "II",
@@ -2703,7 +2712,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "301",
+      "id": "302",
       "id_pzszach": "74258",
       "nazwisko_imie": "PIETKIEWICZ Andrzej",
       "tytul_kategoria": "II",
@@ -2712,7 +2721,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "302",
+      "id": "303",
       "id_pzszach": "79231",
       "nazwisko_imie": "GĄSKA Dominik",
       "tytul_kategoria": "II",
@@ -2721,7 +2730,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "303",
+      "id": "304",
       "id_pzszach": "58350",
       "nazwisko_imie": "OPALIŃSKA Wiktoria",
       "tytul_kategoria": "III",
@@ -2730,7 +2739,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "304",
+      "id": "305",
       "id_pzszach": "78574",
       "nazwisko_imie": "KOWALCZEWSKI Bartosz",
       "tytul_kategoria": "II",
@@ -2739,7 +2748,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "305",
+      "id": "306",
+      "id_pzszach": "132392",
+      "nazwisko_imie": "TURCZYNOWICZ Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1600",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "307",
       "id_pzszach": "49397",
       "nazwisko_imie": "BOREK Dominika",
       "tytul_kategoria": "I",
@@ -2748,7 +2766,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "306",
+      "id": "308",
       "id_pzszach": "106162",
       "nazwisko_imie": "KOWALIK Michał",
       "tytul_kategoria": "II",
@@ -2757,7 +2775,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "307",
+      "id": "309",
       "id_pzszach": "108901",
       "nazwisko_imie": "KNAST Paweł",
       "tytul_kategoria": "II",
@@ -2766,7 +2784,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "308",
+      "id": "310",
       "id_pzszach": "111310",
       "nazwisko_imie": "SZOKA Kamil",
       "tytul_kategoria": "III",
@@ -2775,7 +2793,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "309",
+      "id": "311",
       "id_pzszach": "135959",
       "nazwisko_imie": "PACHOŁ Michał",
       "tytul_kategoria": "III",
@@ -2784,7 +2802,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "310",
+      "id": "312",
       "id_pzszach": "28852",
       "nazwisko_imie": "ZGORZAŁEK Michał",
       "tytul_kategoria": "II",
@@ -2793,7 +2811,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "311",
+      "id": "313",
       "id_pzszach": "39043",
       "nazwisko_imie": "PROKOPIUK Mateusz",
       "tytul_kategoria": "II",
@@ -2802,7 +2820,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "312",
+      "id": "314",
       "id_pzszach": "77467",
       "nazwisko_imie": "JAKUBIAK Tadeusz",
       "tytul_kategoria": "III",
@@ -2811,7 +2829,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "313",
+      "id": "315",
       "id_pzszach": "20136",
       "nazwisko_imie": "KIEŁBASA Dominik",
       "tytul_kategoria": "II",
@@ -2820,7 +2838,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "314",
+      "id": "316",
       "id_pzszach": "47311",
       "nazwisko_imie": "ŁAGOWSKI Damian",
       "tytul_kategoria": "III",
@@ -2829,7 +2847,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "315",
+      "id": "317",
       "id_pzszach": "70210",
       "nazwisko_imie": "SADOWNIK Łukasz",
       "tytul_kategoria": "II",
@@ -2838,7 +2856,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "316",
+      "id": "318",
       "id_pzszach": "129760",
       "nazwisko_imie": "YERMEKOV Rauan",
       "tytul_kategoria": "III",
@@ -2847,7 +2865,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "317",
+      "id": "319",
       "id_pzszach": "105247",
       "nazwisko_imie": "WOŁKOWSKI Piotr",
       "tytul_kategoria": "III",
@@ -2856,7 +2874,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "318",
+      "id": "320",
       "id_pzszach": "93263",
       "nazwisko_imie": "CZERNIAK Maksymilian",
       "tytul_kategoria": "III",
@@ -2865,7 +2883,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "319",
+      "id": "321",
       "id_pzszach": "103580",
       "nazwisko_imie": "NIELIPIUK Karol",
       "tytul_kategoria": "II",
@@ -2874,7 +2892,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "320",
+      "id": "322",
       "id_pzszach": "126760",
       "nazwisko_imie": "CHOCHOWSKI Jakub",
       "tytul_kategoria": "II",
@@ -2883,7 +2901,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "321",
+      "id": "323",
       "id_pzszach": "61739",
       "nazwisko_imie": "SAWINIEC Jarosław",
       "tytul_kategoria": "II",
@@ -2892,7 +2910,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "322",
+      "id": "324",
       "id_pzszach": "62336",
       "nazwisko_imie": "GROMEK Paweł",
       "tytul_kategoria": "II",
@@ -2901,7 +2919,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "323",
+      "id": "325",
       "id_pzszach": "41154",
       "nazwisko_imie": "LIPKA Michał",
       "tytul_kategoria": "II",
@@ -2910,7 +2928,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "324",
+      "id": "326",
       "id_pzszach": "50500",
       "nazwisko_imie": "GOŁAWSKA Aleksandra",
       "tytul_kategoria": "II",
@@ -2919,7 +2937,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "325",
+      "id": "327",
       "id_pzszach": "1948",
       "nazwisko_imie": "PRZYGRODZKA Marzanna",
       "tytul_kategoria": "I",
@@ -2928,7 +2946,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "326",
+      "id": "328",
       "id_pzszach": "42684",
       "nazwisko_imie": "CHUDZIK Jakub",
       "tytul_kategoria": "II+",
@@ -2937,7 +2955,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "327",
+      "id": "329",
       "id_pzszach": "84384",
       "nazwisko_imie": "KRÓLIKOWSKI Tomasz",
       "tytul_kategoria": "",
@@ -2946,16 +2964,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "328",
-      "id_pzszach": "64639",
-      "nazwisko_imie": "AUGUSTYNIAK Rafał",
-      "tytul_kategoria": "II",
-      "rank_fide": "1586",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "329",
+      "id": "330",
       "id_pzszach": "97810",
       "nazwisko_imie": "GRONDKOWSKI Jan",
       "tytul_kategoria": "III",
@@ -2964,7 +2973,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "330",
+      "id": "331",
       "id_pzszach": "130110",
       "nazwisko_imie": "TOMALSKI Krzysztof",
       "tytul_kategoria": "II",
@@ -2973,7 +2982,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "331",
+      "id": "332",
       "id_pzszach": "42725",
       "nazwisko_imie": "MACIEJSKI Paweł",
       "tytul_kategoria": "II",
@@ -2982,7 +2991,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "332",
+      "id": "333",
       "id_pzszach": "48477",
       "nazwisko_imie": "ŁOBACZ Adam",
       "tytul_kategoria": "II",
@@ -2991,7 +3000,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "333",
+      "id": "334",
       "id_pzszach": "100502",
       "nazwisko_imie": "JABŁOŃSKI Adrian",
       "tytul_kategoria": "III",
@@ -3000,7 +3009,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "334",
+      "id": "335",
       "id_pzszach": "132528",
       "nazwisko_imie": "HAFTANIUK Grzegorz",
       "tytul_kategoria": "IV",
@@ -3009,7 +3018,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "335",
+      "id": "336",
       "id_pzszach": "139810",
       "nazwisko_imie": "WALCZYNA Karol",
       "tytul_kategoria": "III",
@@ -3018,7 +3027,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "336",
+      "id": "337",
       "id_pzszach": "53450",
       "nazwisko_imie": "BIEŃ Oliwier",
       "tytul_kategoria": "III",
@@ -3027,21 +3036,12 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "337",
+      "id": "338",
       "id_pzszach": "97924",
       "nazwisko_imie": "NOSOWICZ Jakub",
       "tytul_kategoria": "II",
       "rank_fide": "1580",
       "klub": "TSz HUSARIA Puławy",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "338",
-      "id_pzszach": "17145",
-      "nazwisko_imie": "CHLEWIŃSKI Artur",
-      "tytul_kategoria": "II+",
-      "rank_fide": "1579",
-      "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -3406,6 +3406,15 @@
     },
     {
       "id": "379",
+      "id_pzszach": "17145",
+      "nazwisko_imie": "CHLEWIŃSKI Artur",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1543",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "380",
       "id_pzszach": "95342",
       "nazwisko_imie": "STAŚKIEWICZ Rafał",
       "tytul_kategoria": "II",
@@ -3414,7 +3423,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "380",
+      "id": "381",
       "id_pzszach": "86823",
       "nazwisko_imie": "WOŚ Amelia",
       "tytul_kategoria": "II+",
@@ -3423,7 +3432,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "381",
+      "id": "382",
       "id_pzszach": "125480",
       "nazwisko_imie": "GRESZTA Konrad",
       "tytul_kategoria": "III",
@@ -3432,7 +3441,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "382",
+      "id": "383",
       "id_pzszach": "129036",
       "nazwisko_imie": "SOKOŁOWSKI Michał",
       "tytul_kategoria": "III",
@@ -3441,7 +3450,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "383",
+      "id": "384",
       "id_pzszach": "50279",
       "nazwisko_imie": "PARTYCKI Przemysław",
       "tytul_kategoria": "III",
@@ -3450,7 +3459,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "384",
+      "id": "385",
       "id_pzszach": "50283",
       "nazwisko_imie": "BOJCZEWSKI Grzegorz",
       "tytul_kategoria": "III",
@@ -3459,7 +3468,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "385",
+      "id": "386",
       "id_pzszach": "110818",
       "nazwisko_imie": "CHAZARKIEWICZ Jakub",
       "tytul_kategoria": "II",
@@ -3468,7 +3477,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "386",
+      "id": "387",
       "id_pzszach": "113019",
       "nazwisko_imie": "MICHALSKI Kamil",
       "tytul_kategoria": "III",
@@ -3477,7 +3486,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "387",
+      "id": "388",
       "id_pzszach": "91029",
       "nazwisko_imie": "GARBACZ Dominik",
       "tytul_kategoria": "III",
@@ -3486,7 +3495,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "388",
+      "id": "389",
       "id_pzszach": "25660",
       "nazwisko_imie": "GRZYB Władysław",
       "tytul_kategoria": "II",
@@ -3495,7 +3504,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "389",
+      "id": "390",
       "id_pzszach": "92475",
       "nazwisko_imie": "MICOR Igor",
       "tytul_kategoria": "II",
@@ -3504,7 +3513,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "390",
+      "id": "391",
+      "id_pzszach": "115336",
+      "nazwisko_imie": "MAŁYSZEK Patryk",
+      "tytul_kategoria": "III",
+      "rank_fide": "1535",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "392",
       "id_pzszach": "65514",
       "nazwisko_imie": "KIEŁBIŃSKI Wiktor",
       "tytul_kategoria": "II",
@@ -3513,7 +3531,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "391",
+      "id": "393",
       "id_pzszach": "132221",
       "nazwisko_imie": "BEDNARZ Piotr",
       "tytul_kategoria": "II",
@@ -3522,30 +3540,12 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "392",
-      "id_pzszach": "133216",
-      "nazwisko_imie": "PARCHETA Kajetan",
-      "tytul_kategoria": "II",
-      "rank_fide": "1534",
-      "klub": "",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "393",
+      "id": "394",
       "id_pzszach": "132390",
       "nazwisko_imie": "PECYNA Krystian",
       "tytul_kategoria": "III",
       "rank_fide": "1532",
       "klub": "SSz Cebularz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "394",
-      "id_pzszach": "111660",
-      "nazwisko_imie": "RÓŻAŃSKI Ignacy",
-      "tytul_kategoria": "II",
-      "rank_fide": "1531",
-      "klub": "Zamojski Klub Szachowy",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -3649,6 +3649,15 @@
     },
     {
       "id": "406",
+      "id_pzszach": "111660",
+      "nazwisko_imie": "RÓŻAŃSKI Ignacy",
+      "tytul_kategoria": "II",
+      "rank_fide": "1523",
+      "klub": "Zamojski Klub Szachowy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "407",
       "id_pzszach": "135203",
       "nazwisko_imie": "UZAREK Marcin",
       "tytul_kategoria": "III",
@@ -3657,7 +3666,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "407",
+      "id": "408",
       "id_pzszach": "92127",
       "nazwisko_imie": "MISZCZAK Marcel",
       "tytul_kategoria": "III",
@@ -3666,7 +3675,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "408",
+      "id": "409",
       "id_pzszach": "129661",
       "nazwisko_imie": "TYLUS Piotr",
       "tytul_kategoria": "III",
@@ -3675,7 +3684,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "409",
+      "id": "410",
       "id_pzszach": "22010",
       "nazwisko_imie": "SOSZKA Jakub",
       "tytul_kategoria": "III",
@@ -3684,7 +3693,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "410",
+      "id": "411",
       "id_pzszach": "24400",
       "nazwisko_imie": "PALUCH Andrzej",
       "tytul_kategoria": "II",
@@ -3693,7 +3702,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "411",
+      "id": "412",
       "id_pzszach": "53538",
       "nazwisko_imie": "HAWEŁKO Jan",
       "tytul_kategoria": "II",
@@ -3702,7 +3711,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "412",
+      "id": "413",
       "id_pzszach": "106386",
       "nazwisko_imie": "KUCIO Mateusz",
       "tytul_kategoria": "II",
@@ -3711,7 +3720,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "413",
+      "id": "414",
       "id_pzszach": "112686",
       "nazwisko_imie": "SMOLIGA Julian",
       "tytul_kategoria": "III",
@@ -3720,7 +3729,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "414",
+      "id": "415",
       "id_pzszach": "128876",
       "nazwisko_imie": "MANIKOWSKI Michał",
       "tytul_kategoria": "III",
@@ -3729,7 +3738,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "415",
+      "id": "416",
       "id_pzszach": "28859",
       "nazwisko_imie": "BOCHNIARZ Katarzyna",
       "tytul_kategoria": "II",
@@ -3738,7 +3747,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "416",
+      "id": "417",
       "id_pzszach": "95720",
       "nazwisko_imie": "WYRWISZ Łukasz",
       "tytul_kategoria": "III",
@@ -3747,7 +3756,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "417",
+      "id": "418",
       "id_pzszach": "98679",
       "nazwisko_imie": "SKRZYPCZAK Jakub",
       "tytul_kategoria": "II",
@@ -3756,7 +3765,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "418",
+      "id": "419",
       "id_pzszach": "37066",
       "nazwisko_imie": "ŁUKASIEWICZ Justyna",
       "tytul_kategoria": "II",
@@ -3765,7 +3774,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "419",
+      "id": "420",
       "id_pzszach": "60271",
       "nazwisko_imie": "BOROWIK Grzegorz",
       "tytul_kategoria": "II",
@@ -3774,7 +3783,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "420",
+      "id": "421",
       "id_pzszach": "73206",
       "nazwisko_imie": "WALENTYN Zuzanna",
       "tytul_kategoria": "II",
@@ -3783,7 +3792,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "421",
+      "id": "422",
       "id_pzszach": "102490",
       "nazwisko_imie": "BUDZYŃSKI Norbert",
       "tytul_kategoria": "III",
@@ -3792,7 +3801,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "422",
+      "id": "423",
       "id_pzszach": "55130",
       "nazwisko_imie": "KRZYSZCZAK Łukasz",
       "tytul_kategoria": "III",
@@ -3801,7 +3810,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "423",
+      "id": "424",
       "id_pzszach": "111910",
       "nazwisko_imie": "KWIATKOWSKI Mikołaj",
       "tytul_kategoria": "II",
@@ -3810,7 +3819,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "424",
+      "id": "425",
       "id_pzszach": "125481",
       "nazwisko_imie": "KRÓL Piotr",
       "tytul_kategoria": "III",
@@ -3819,7 +3828,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "425",
+      "id": "426",
       "id_pzszach": "89901",
       "nazwisko_imie": "JASIŃSKI Michał",
       "tytul_kategoria": "III",
@@ -3828,7 +3837,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "426",
+      "id": "427",
       "id_pzszach": "105621",
       "nazwisko_imie": "DUDZIŃSKI Wojciech",
       "tytul_kategoria": "III",
@@ -3837,7 +3846,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "427",
+      "id": "428",
       "id_pzszach": "41143",
       "nazwisko_imie": "RZEŃCA Piotr",
       "tytul_kategoria": "III",
@@ -3846,7 +3855,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "428",
+      "id": "429",
       "id_pzszach": "46661",
       "nazwisko_imie": "TKACZYK Jakub",
       "tytul_kategoria": "III",
@@ -3855,21 +3864,12 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "429",
+      "id": "430",
       "id_pzszach": "51096",
       "nazwisko_imie": "KRUK Paweł",
       "tytul_kategoria": "III",
       "rank_fide": "1499",
       "klub": "TSz HUSARIA Puławy",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "430",
-      "id_pzszach": "122337",
-      "nazwisko_imie": "KWIATKOWSKI Mateusz",
-      "tytul_kategoria": "III",
-      "rank_fide": "1499",
-      "klub": "",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -3901,6 +3901,15 @@
     },
     {
       "id": "434",
+      "id_pzszach": "133216",
+      "nazwisko_imie": "PARCHETA Kajetan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1493",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "435",
       "id_pzszach": "102779",
       "nazwisko_imie": "TUTKA Maciej",
       "tytul_kategoria": "II",
@@ -3909,7 +3918,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "435",
+      "id": "436",
+      "id_pzszach": "122337",
+      "nazwisko_imie": "KWIATKOWSKI Mateusz",
+      "tytul_kategoria": "III",
+      "rank_fide": "1491",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "437",
       "id_pzszach": "74702",
       "nazwisko_imie": "WIESIOŁEK Daniel",
       "tytul_kategoria": "II",
@@ -3918,7 +3936,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "436",
+      "id": "438",
       "id_pzszach": "120971",
       "nazwisko_imie": "GÓRSKI Miłosz",
       "tytul_kategoria": "II",
@@ -3927,7 +3945,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "437",
+      "id": "439",
       "id_pzszach": "96088",
       "nazwisko_imie": "HALETA Serhii",
       "tytul_kategoria": "II",
@@ -3936,7 +3954,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "438",
+      "id": "440",
       "id_pzszach": "47113",
       "nazwisko_imie": "GOŁAWSKI Michał",
       "tytul_kategoria": "III",
@@ -3945,7 +3963,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "439",
+      "id": "441",
       "id_pzszach": "106442",
       "nazwisko_imie": "KRACZEK Witold",
       "tytul_kategoria": "II",
@@ -3954,7 +3972,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "440",
+      "id": "442",
       "id_pzszach": "102427",
       "nazwisko_imie": "WÓJCIK Witold",
       "tytul_kategoria": "II",
@@ -3963,7 +3981,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "441",
+      "id": "443",
       "id_pzszach": "134571",
       "nazwisko_imie": "KUPROWSKI Mikołaj",
       "tytul_kategoria": "III",
@@ -3972,7 +3990,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "442",
+      "id": "444",
       "id_pzszach": "45384",
       "nazwisko_imie": "CZUKIEWSKI Mieszko",
       "tytul_kategoria": "III",
@@ -3981,7 +3999,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "443",
+      "id": "445",
       "id_pzszach": "62323",
       "nazwisko_imie": "KOPERWAS Kamil",
       "tytul_kategoria": "II",
@@ -3990,7 +4008,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "444",
+      "id": "446",
       "id_pzszach": "80071",
       "nazwisko_imie": "RACZYŃSKI Dominik",
       "tytul_kategoria": "II",
@@ -3999,7 +4017,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "445",
+      "id": "447",
       "id_pzszach": "90266",
       "nazwisko_imie": "NOWAK Jakub",
       "tytul_kategoria": "III",
@@ -4008,7 +4026,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "446",
+      "id": "448",
       "id_pzszach": "105119",
       "nazwisko_imie": "MAZURKIEWICZ Krzysztof",
       "tytul_kategoria": "III",
@@ -4017,7 +4035,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "447",
+      "id": "449",
       "id_pzszach": "87236",
       "nazwisko_imie": "CZERNICHOWSKI Konrad",
       "tytul_kategoria": "III",
@@ -4026,7 +4044,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "448",
+      "id": "450",
       "id_pzszach": "53682",
       "nazwisko_imie": "BOREK Michał",
       "tytul_kategoria": "II",
@@ -4035,7 +4053,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "449",
+      "id": "451",
       "id_pzszach": "49398",
       "nazwisko_imie": "DOLANOWSKI Grzegorz",
       "tytul_kategoria": "II",
@@ -4044,7 +4062,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "450",
+      "id": "452",
       "id_pzszach": "111630",
       "nazwisko_imie": "STAWARSKI Adam",
       "tytul_kategoria": "II",
@@ -4053,7 +4071,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "451",
+      "id": "453",
       "id_pzszach": "89938",
       "nazwisko_imie": "CABAJ Andrzej",
       "tytul_kategoria": "II",
@@ -4062,7 +4080,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "452",
+      "id": "454",
       "id_pzszach": "51184",
       "nazwisko_imie": "SZYSZKO Aleksandra",
       "tytul_kategoria": "II",
@@ -4071,7 +4089,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "453",
+      "id": "455",
       "id_pzszach": "51174",
       "nazwisko_imie": "MAJCZYNA Patrycja",
       "tytul_kategoria": "I",
@@ -4080,7 +4098,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "454",
+      "id": "456",
       "id_pzszach": "62055",
       "nazwisko_imie": "MAJEK Waldemar",
       "tytul_kategoria": "II",
@@ -4089,7 +4107,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "455",
+      "id": "457",
       "id_pzszach": "74259",
       "nazwisko_imie": "OLEKSIUK Anna",
       "tytul_kategoria": "II",
@@ -4098,7 +4116,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "456",
+      "id": "458",
       "id_pzszach": "52014",
       "nazwisko_imie": "PUZIO Robert",
       "tytul_kategoria": "III",
@@ -4107,7 +4125,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "457",
+      "id": "459",
       "id_pzszach": "122969",
       "nazwisko_imie": "STOLTZ Filip",
       "tytul_kategoria": "III",
@@ -4116,7 +4134,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "458",
+      "id": "460",
       "id_pzszach": "41369",
       "nazwisko_imie": "GŁAZ Marek",
       "tytul_kategoria": "III",
@@ -4125,7 +4143,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "459",
+      "id": "461",
       "id_pzszach": "99687",
       "nazwisko_imie": "TOPÓR Maria",
       "tytul_kategoria": "II",
@@ -4134,7 +4152,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "460",
+      "id": "462",
       "id_pzszach": "58667",
       "nazwisko_imie": "WALENCIUK Dawid",
       "tytul_kategoria": "III",
@@ -4143,7 +4161,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "461",
+      "id": "463",
       "id_pzszach": "81480",
       "nazwisko_imie": "SMERACHANSKI Mihail",
       "tytul_kategoria": "II",
@@ -4152,7 +4170,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "462",
+      "id": "464",
       "id_pzszach": "114862",
       "nazwisko_imie": "PUTOWSKI Łukasz",
       "tytul_kategoria": "III",
@@ -4161,7 +4179,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "463",
+      "id": "465",
       "id_pzszach": "54300",
       "nazwisko_imie": "MAJÓWKA Aleksandra",
       "tytul_kategoria": "III",
@@ -4170,7 +4188,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "464",
+      "id": "466",
       "id_pzszach": "125528",
       "nazwisko_imie": "MARCINIAK Kacper",
       "tytul_kategoria": "II",
@@ -4179,7 +4197,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "465",
+      "id": "467",
       "id_pzszach": "64244",
       "nazwisko_imie": "BOROWIK Ryszard",
       "tytul_kategoria": "III",
@@ -4188,7 +4206,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "466",
+      "id": "468",
       "id_pzszach": "56479",
       "nazwisko_imie": "OPOLSKI Wiktor",
       "tytul_kategoria": "III",
@@ -4197,7 +4215,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "467",
+      "id": "469",
       "id_pzszach": "69799",
       "nazwisko_imie": "Janczura Jacek",
       "tytul_kategoria": "",
@@ -4206,7 +4224,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "468",
+      "id": "470",
       "id_pzszach": "151748",
       "nazwisko_imie": "GÓRSKI Krzysztof",
       "tytul_kategoria": "III",
@@ -4215,7 +4233,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "469",
+      "id": "471",
       "id_pzszach": "100608",
       "nazwisko_imie": "KOZYRA Hubert",
       "tytul_kategoria": "III",
@@ -4224,7 +4242,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "470",
+      "id": "472",
       "id_pzszach": "51219",
       "nazwisko_imie": "SIEDLISKI Daniel",
       "tytul_kategoria": "III",
@@ -4233,7 +4251,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "471",
+      "id": "473",
       "id_pzszach": "141365",
       "nazwisko_imie": "JABŁOŃSKI Mateusz",
       "tytul_kategoria": "III",
@@ -4242,7 +4260,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "472",
+      "id": "474",
       "id_pzszach": "41083",
       "nazwisko_imie": "GÓRA Aleksandra",
       "tytul_kategoria": "II",
@@ -4251,7 +4269,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "473",
+      "id": "475",
       "id_pzszach": "128931",
       "nazwisko_imie": "BAKUN Krzysztof",
       "tytul_kategoria": "III",
@@ -4260,7 +4278,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "474",
+      "id": "476",
       "id_pzszach": "97695",
       "nazwisko_imie": "MYŚLIŃSKI Paweł",
       "tytul_kategoria": "II",
@@ -4269,7 +4287,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "475",
+      "id": "477",
       "id_pzszach": "61538",
       "nazwisko_imie": "SIERADZ Łukasz",
       "tytul_kategoria": "III",
@@ -4278,7 +4296,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "476",
+      "id": "478",
       "id_pzszach": "108398",
       "nazwisko_imie": "KOWALCZYK Kacper",
       "tytul_kategoria": "III",
@@ -4287,7 +4305,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "477",
+      "id": "479",
       "id_pzszach": "68667",
       "nazwisko_imie": "KOPER Kacper",
       "tytul_kategoria": "III",
@@ -4296,7 +4314,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "478",
+      "id": "480",
       "id_pzszach": "136089",
       "nazwisko_imie": "ANTOSZ Radosław",
       "tytul_kategoria": "IV",
@@ -4305,7 +4323,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "479",
+      "id": "481",
       "id_pzszach": "50281",
       "nazwisko_imie": "BOJCZEWSKI Piotr",
       "tytul_kategoria": "III",
@@ -4314,7 +4332,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "480",
+      "id": "482",
       "id_pzszach": "87947",
       "nazwisko_imie": "KISZKA Krystian",
       "tytul_kategoria": "III",
@@ -4323,7 +4341,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "481",
+      "id": "483",
       "id_pzszach": "110049",
       "nazwisko_imie": "JÓŹWIK Adrian",
       "tytul_kategoria": "III",
@@ -4332,7 +4350,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "482",
+      "id": "484",
       "id_pzszach": "100643",
       "nazwisko_imie": "ŁUSZCZAK Martyna",
       "tytul_kategoria": "III",
@@ -4341,16 +4359,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "483",
-      "id_pzszach": "113744",
-      "nazwisko_imie": "GRZEJSZCZAK Gabriela",
-      "tytul_kategoria": "II+",
-      "rank_fide": "1427",
-      "klub": "SSz Cebularz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "484",
+      "id": "485",
       "id_pzszach": "56639",
       "nazwisko_imie": "PIECH Jacek",
       "tytul_kategoria": "III",
@@ -4359,7 +4368,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "485",
+      "id": "486",
+      "id_pzszach": "113744",
+      "nazwisko_imie": "GRZEJSZCZAK Gabriela",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1422",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "487",
       "id_pzszach": "56640",
       "nazwisko_imie": "PIECH Aniela",
       "tytul_kategoria": "III",
@@ -4368,7 +4386,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "486",
+      "id": "488",
       "id_pzszach": "102652",
       "nazwisko_imie": "LUDEF Łukasz",
       "tytul_kategoria": "III",
@@ -4377,7 +4395,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "487",
+      "id": "489",
       "id_pzszach": "134458",
       "nazwisko_imie": "PRZYBYŁ Łukasz",
       "tytul_kategoria": "III",
@@ -4386,7 +4404,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "488",
+      "id": "490",
       "id_pzszach": "46665",
       "nazwisko_imie": "GAWRON Wojciech",
       "tytul_kategoria": "III",
@@ -4395,7 +4413,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "489",
+      "id": "491",
       "id_pzszach": "131026",
       "nazwisko_imie": "WOJCIECHOWSKI Paweł",
       "tytul_kategoria": "IV",
@@ -4404,7 +4422,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "490",
+      "id": "492",
       "id_pzszach": "99675",
       "nazwisko_imie": "PAĆ Przemysław",
       "tytul_kategoria": "III",
@@ -4413,7 +4431,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "491",
+      "id": "493",
       "id_pzszach": "66551",
       "nazwisko_imie": "GROMEK Aleksandra",
       "tytul_kategoria": "II",
@@ -4422,7 +4440,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "492",
+      "id": "494",
       "id_pzszach": "54301",
       "nazwisko_imie": "JAROSZUK Ireneusz",
       "tytul_kategoria": "III",
@@ -4431,7 +4449,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "493",
+      "id": "495",
       "id_pzszach": "138334",
       "nazwisko_imie": "KACZAN Franciszek",
       "tytul_kategoria": "IV",
@@ -4440,7 +4458,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "494",
+      "id": "496",
       "id_pzszach": "82710",
       "nazwisko_imie": "KORPYSZ Hanna",
       "tytul_kategoria": "II",
@@ -4449,7 +4467,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "495",
+      "id": "497",
       "id_pzszach": "104571",
       "nazwisko_imie": "KANIA Piotr",
       "tytul_kategoria": "II",
@@ -4458,7 +4476,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "496",
+      "id": "498",
       "id_pzszach": "106",
       "nazwisko_imie": "KOCHANOWSKI Paweł",
       "tytul_kategoria": "II",
@@ -4467,7 +4485,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "497",
+      "id": "499",
       "id_pzszach": "1877",
       "nazwisko_imie": "BUCZEK Krzysztof",
       "tytul_kategoria": "I",
@@ -4476,27 +4494,9 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "498",
+      "id": "500",
       "id_pzszach": "1878",
       "nazwisko_imie": "BARTOSZCZE Tomasz",
-      "tytul_kategoria": "I",
-      "rank_fide": "0",
-      "klub": "",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "499",
-      "id_pzszach": "1879",
-      "nazwisko_imie": "GRAB Maksymilian",
-      "tytul_kategoria": "III",
-      "rank_fide": "0",
-      "klub": "",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "500",
-      "id_pzszach": "1881",
-      "nazwisko_imie": "KĘDZIERAWSKI Andrzej",
       "tytul_kategoria": "I",
       "rank_fide": "0",
       "klub": "",

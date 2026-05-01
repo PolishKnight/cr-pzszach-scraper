@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:27:09.766Z",
+  "createdAt": "2026-05-01T05:39:00.847Z",
   "totalRecords": 10,
   "data": [
     {
@@ -16,7 +16,7 @@
       "id_pzszach": "7192",
       "nazwisko_imie": "SIECIECHOWICZ Marcin",
       "tytul_kategoria": "IM",
-      "rank_fide": "2383",
+      "rank_fide": "2386",
       "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
@@ -43,7 +43,7 @@
       "id_pzszach": "26062",
       "nazwisko_imie": "NIEKRAŚ Dawid",
       "tytul_kategoria": "FM",
-      "rank_fide": "2371",
+      "rank_fide": "2373",
       "klub": "ASSz LIPNO Stęszew",
       "wojewodztwo_zwiazek": "WP"
     },
@@ -58,6 +58,15 @@
     },
     {
       "id": "7",
+      "id_pzszach": "49895",
+      "nazwisko_imie": "KACPRZAK Kacper",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2357",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "8",
       "id_pzszach": "6976",
       "nazwisko_imie": "GRABOWSKI Andrzej",
       "tytul_kategoria": "M",
@@ -66,30 +75,21 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "7160",
       "nazwisko_imie": "PRZYBYLSKI Wojciech",
       "tytul_kategoria": "FM",
-      "rank_fide": "2349",
+      "rank_fide": "2350",
       "klub": "KS KORONA Zakrzewo",
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "9",
-      "id_pzszach": "6885",
-      "nazwisko_imie": "BERNARD Ryszard",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2339",
-      "klub": "KSz LECH-WSUS Poznań",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
       "id": "10",
-      "id_pzszach": "39447",
-      "nazwisko_imie": "NOWAK Mikołaj",
-      "tytul_kategoria": "M",
-      "rank_fide": "2338",
-      "klub": "KSz LECH-WSUS Poznań",
+      "id_pzszach": "49896",
+      "nazwisko_imie": "KACPRZAK Karol",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2341",
+      "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     }
   ]

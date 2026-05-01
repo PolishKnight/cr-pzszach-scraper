@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:27:01.577Z",
+  "createdAt": "2026-05-01T05:38:53.224Z",
   "totalRecords": 10,
   "data": [
     {
@@ -31,15 +31,6 @@
     },
     {
       "id": "4",
-      "id_pzszach": "36952",
-      "nazwisko_imie": "MIŚ Mieszko",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2397",
-      "klub": "AZS KU Politechniki Opolskiej",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "5",
       "id_pzszach": "40872",
       "nazwisko_imie": "GODZWON Iwo",
       "tytul_kategoria": "FM",
@@ -48,11 +39,20 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
+      "id": "5",
+      "id_pzszach": "36952",
+      "nazwisko_imie": "MIŚ Mieszko",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2381",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
       "id": "6",
       "id_pzszach": "56031",
       "nazwisko_imie": "NIEDBAŁA Bartłomiej",
       "tytul_kategoria": "IM",
-      "rank_fide": "2382",
+      "rank_fide": "2378",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
@@ -70,26 +70,26 @@
       "id_pzszach": "3268",
       "nazwisko_imie": "BARSKI Radosław",
       "tytul_kategoria": "IM",
-      "rank_fide": "2335",
+      "rank_fide": "2350",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
     {
       "id": "9",
-      "id_pzszach": "49895",
-      "nazwisko_imie": "KACPRZAK Kacper",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2324",
-      "klub": "UKS RODŁO Opole",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "10",
       "id_pzszach": "19764",
       "nazwisko_imie": "ŁUKASIEWICZ Krzysztof",
       "tytul_kategoria": "FM",
       "rank_fide": "2322",
       "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "3539",
+      "nazwisko_imie": "JANKOWSKI Jozef",
+      "tytul_kategoria": "K",
+      "rank_fide": "2310",
+      "klub": "",
       "wojewodztwo_zwiazek": "OP"
     }
   ]

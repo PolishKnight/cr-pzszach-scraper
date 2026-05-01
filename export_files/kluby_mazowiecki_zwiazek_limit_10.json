@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:26:59.748Z",
+  "createdAt": "2026-05-01T05:38:51.494Z",
   "totalRecords": 10,
   "data": [
     {
@@ -50,7 +50,7 @@
       "licencja": "07100095",
       "wojewodztwo_zwiazek": "MA",
       "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": "250.00 PLN"
+      "oplata_roczna": "400.00 PLN"
     },
     {
       "id": "6",
@@ -70,7 +70,7 @@
       "licencja": "07100104",
       "wojewodztwo_zwiazek": "MA",
       "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": "150.00 PLN"
+      "oplata_roczna": "400.00 PLN"
     },
     {
       "id": "8",
@@ -100,7 +100,7 @@
       "licencja": "07100108",
       "wojewodztwo_zwiazek": "MA",
       "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": "250.00 PLN"
+      "oplata_roczna": "400.00 PLN"
     }
   ]
 }

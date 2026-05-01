@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:27:11.444Z",
+  "createdAt": "2026-05-01T05:39:02.440Z",
   "totalRecords": 10,
   "data": [
     {
@@ -13,15 +13,6 @@
     },
     {
       "id": "2",
-      "id_pzszach": "44526",
-      "nazwisko_imie": "ŁUCZAK Filip",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2362",
-      "klub": "KSz HETMAN Koszalin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "3",
       "id_pzszach": "7508",
       "nazwisko_imie": "PANOCKI Adrian",
       "tytul_kategoria": "M",
@@ -30,11 +21,20 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
+      "id": "3",
+      "id_pzszach": "44526",
+      "nazwisko_imie": "ŁUCZAK Filip",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2353",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
       "id": "4",
       "id_pzszach": "50017",
       "nazwisko_imie": "ALIAVDIN Nikolai",
       "tytul_kategoria": "IM",
-      "rank_fide": "2348",
+      "rank_fide": "2352",
       "klub": "UKSz SKOCZEK Choszczno",
       "wojewodztwo_zwiazek": "ZP"
     },
@@ -49,6 +49,15 @@
     },
     {
       "id": "6",
+      "id_pzszach": "17650",
+      "nazwisko_imie": "ANTOLAK Julia",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2296",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "7",
       "id_pzszach": "7480",
       "nazwisko_imie": "KULA Robert",
       "tytul_kategoria": "FM",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "7427",
       "nazwisko_imie": "CHOCHULSKI Artur",
       "tytul_kategoria": "K",
@@ -66,7 +75,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "7498",
       "nazwisko_imie": "MATUSIAK Janusz",
       "tytul_kategoria": "K",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "9",
-      "id_pzszach": "17650",
-      "nazwisko_imie": "ANTOLAK Julia",
-      "tytul_kategoria": "WGM",
-      "rank_fide": "2223",
-      "klub": "GKSz SOLNY Grzybowo",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
       "id": "10",
-      "id_pzszach": "7323",
-      "nazwisko_imie": "MASŁOWSKI Michał",
-      "tytul_kategoria": "K",
-      "rank_fide": "2205",
-      "klub": "KSz HETMAN Koszalin",
+      "id_pzszach": "82988",
+      "nazwisko_imie": "ZARĘBA Piotr",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2222",
+      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     }
   ]

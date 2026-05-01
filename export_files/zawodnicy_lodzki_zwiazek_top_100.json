@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:26:56.556Z",
+  "createdAt": "2026-05-01T05:38:48.485Z",
   "totalRecords": 100,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "38364",
       "nazwisko_imie": "PSYK Radosław",
       "tytul_kategoria": "K++",
-      "rank_fide": "2501",
+      "rank_fide": "2496",
       "klub": "KSz PIĄTKA Skierniewice",
       "wojewodztwo_zwiazek": "LD"
     },
@@ -76,6 +76,15 @@
     },
     {
       "id": "9",
+      "id_pzszach": "61673",
+      "nazwisko_imie": "ZALEGA Maciej",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2243",
+      "klub": "LKS Opocznianka Opoczno",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "10",
       "id_pzszach": "1740",
       "nazwisko_imie": "KWIECINSKI Ryszard",
       "tytul_kategoria": "K",
@@ -84,7 +93,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "10",
+      "id": "11",
       "id_pzszach": "70172",
       "nazwisko_imie": "ROSA Antoni",
       "tytul_kategoria": "K+",
@@ -93,21 +102,12 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "11",
+      "id": "12",
       "id_pzszach": "1529",
       "nazwisko_imie": "KLEPACZKA Tomasz",
       "tytul_kategoria": "K",
       "rank_fide": "2237",
       "klub": "KS LogIN Skierniewice",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "12",
-      "id_pzszach": "61673",
-      "nazwisko_imie": "ZALEGA Maciej",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2233",
-      "klub": "LKS Opocznianka Opoczno",
       "wojewodztwo_zwiazek": "LD"
     },
     {
@@ -157,15 +157,6 @@
     },
     {
       "id": "18",
-      "id_pzszach": "1839",
-      "nazwisko_imie": "ZAKONNIK Andrzej",
-      "tytul_kategoria": "K",
-      "rank_fide": "2166",
-      "klub": "KSz PIĄTKA Skierniewice",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "19",
       "id_pzszach": "1734",
       "nazwisko_imie": "KOKOCINSKI Wojciech",
       "tytul_kategoria": "I",
@@ -174,7 +165,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "20",
+      "id": "19",
       "id_pzszach": "1684",
       "nazwisko_imie": "KOWALCZYK Rafał",
       "tytul_kategoria": "K++",
@@ -183,12 +174,21 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "21",
+      "id": "20",
       "id_pzszach": "1764",
       "nazwisko_imie": "OCHONSKI Piotr",
       "tytul_kategoria": "K",
       "rank_fide": "2160",
       "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "1839",
+      "nazwisko_imie": "ZAKONNIK Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2157",
+      "klub": "KSz PIĄTKA Skierniewice",
       "wojewodztwo_zwiazek": "LD"
     },
     {
@@ -256,6 +256,15 @@
     },
     {
       "id": "29",
+      "id_pzszach": "80899",
+      "nazwisko_imie": "HAŁADAJ Adam",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2124",
+      "klub": "UKS JEDYNKA Bełchatów",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "30",
       "id_pzszach": "1765",
       "nazwisko_imie": "OJRZYŃSKI Błażej",
       "tytul_kategoria": "I",
@@ -264,7 +273,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "30",
+      "id": "31",
       "id_pzszach": "80903",
       "nazwisko_imie": "STĘPIŃSKI Piotr",
       "tytul_kategoria": "I++",
@@ -273,7 +282,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "31",
+      "id": "32",
       "id_pzszach": "1801",
       "nazwisko_imie": "ŚLUSAREK Wojciech",
       "tytul_kategoria": "I+",
@@ -282,7 +291,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "32",
+      "id": "33",
       "id_pzszach": "1802",
       "nazwisko_imie": "SOBOLEWSKI Mariusz",
       "tytul_kategoria": "I",
@@ -291,7 +300,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "33",
+      "id": "34",
       "id_pzszach": "58892",
       "nazwisko_imie": "MITUROVA Magdalena",
       "tytul_kategoria": "WIM",
@@ -300,21 +309,12 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "34",
+      "id": "35",
       "id_pzszach": "1751",
       "nazwisko_imie": "MACHAJ Bartosz",
       "tytul_kategoria": "I++",
       "rank_fide": "2102",
       "klub": "KSz PIĄTKA Skierniewice",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "35",
-      "id_pzszach": "80899",
-      "nazwisko_imie": "HAŁADAJ Adam",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2102",
-      "klub": "UKS JEDYNKA Bełchatów",
       "wojewodztwo_zwiazek": "LD"
     },
     {
@@ -385,7 +385,7 @@
       "id_pzszach": "1482",
       "nazwisko_imie": "CAP Piotr",
       "tytul_kategoria": "K+",
-      "rank_fide": "2082",
+      "rank_fide": "2078",
       "klub": "Łódzka Liga Szachowa",
       "wojewodztwo_zwiazek": "LD"
     },
@@ -616,20 +616,20 @@
     },
     {
       "id": "69",
+      "id_pzszach": "99528",
+      "nazwisko_imie": "BOCIEK Piotr",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1979",
+      "klub": "LKS Opocznianka Opoczno",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "70",
       "id_pzszach": "1674",
       "nazwisko_imie": "SIAKOWSKI Maciej",
       "tytul_kategoria": "I",
       "rank_fide": "1977",
       "klub": "",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "70",
-      "id_pzszach": "1747",
-      "nazwisko_imie": "LESZNER Liliana",
-      "tytul_kategoria": "WIM",
-      "rank_fide": "1975",
-      "klub": "Łódzka Liga Szachowa",
       "wojewodztwo_zwiazek": "LD"
     },
     {
@@ -670,15 +670,24 @@
     },
     {
       "id": "75",
-      "id_pzszach": "99528",
-      "nazwisko_imie": "BOCIEK Piotr",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1953",
-      "klub": "LKS Opocznianka Opoczno",
+      "id_pzszach": "1716",
+      "nazwisko_imie": "FLIS Paweł",
+      "tytul_kategoria": "CM",
+      "rank_fide": "1951",
+      "klub": "Łódzka Liga Szachowa",
       "wojewodztwo_zwiazek": "LD"
     },
     {
       "id": "76",
+      "id_pzszach": "1747",
+      "nazwisko_imie": "LESZNER Liliana",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "1949",
+      "klub": "Łódzka Liga Szachowa",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "77",
       "id_pzszach": "38363",
       "nazwisko_imie": "PRZYTULA Grzegorz",
       "tytul_kategoria": "I",
@@ -687,7 +696,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "77",
+      "id": "78",
       "id_pzszach": "82849",
       "nazwisko_imie": "BORYNA Szymon",
       "tytul_kategoria": "I",
@@ -696,7 +705,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "78",
+      "id": "79",
       "id_pzszach": "1531",
       "nazwisko_imie": "KOWALCZYK Adam",
       "tytul_kategoria": "I+",
@@ -705,7 +714,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "79",
+      "id": "80",
       "id_pzszach": "39508",
       "nazwisko_imie": "STRZELECKI Maciej",
       "tytul_kategoria": "K",
@@ -714,7 +723,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "80",
+      "id": "81",
       "id_pzszach": "99612",
       "nazwisko_imie": "KORALCZYK Aleksander",
       "tytul_kategoria": "I",
@@ -723,7 +732,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "81",
+      "id": "82",
       "id_pzszach": "1672",
       "nazwisko_imie": "CHUDZIK Tomasz",
       "tytul_kategoria": "I",
@@ -732,21 +741,12 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "82",
+      "id": "83",
       "id_pzszach": "1777",
       "nazwisko_imie": "PIETRZAK Tomasz",
       "tytul_kategoria": "I",
       "rank_fide": "1938",
       "klub": "",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "83",
-      "id_pzszach": "1716",
-      "nazwisko_imie": "FLIS Paweł",
-      "tytul_kategoria": "CM",
-      "rank_fide": "1933",
-      "klub": "Łódzka Liga Szachowa",
       "wojewodztwo_zwiazek": "LD"
     },
     {

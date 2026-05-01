@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:26:56.555Z",
+  "createdAt": "2026-05-01T05:38:48.485Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "38364",
       "nazwisko_imie": "PSYK Radosław",
       "tytul_kategoria": "K++",
-      "rank_fide": "2501",
+      "rank_fide": "2496",
       "klub": "KSz PIĄTKA Skierniewice",
       "wojewodztwo_zwiazek": "LD"
     },
@@ -76,20 +76,20 @@
     },
     {
       "id": "9",
+      "id_pzszach": "61673",
+      "nazwisko_imie": "ZALEGA Maciej",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2243",
+      "klub": "LKS Opocznianka Opoczno",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "10",
       "id_pzszach": "1740",
       "nazwisko_imie": "KWIECINSKI Ryszard",
       "tytul_kategoria": "K",
       "rank_fide": "2239",
       "klub": "",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "70172",
-      "nazwisko_imie": "ROSA Antoni",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2239",
-      "klub": "Hetman Żelechlinek",
       "wojewodztwo_zwiazek": "LD"
     }
   ]

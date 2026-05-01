@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:27:07.267Z",
+  "createdAt": "2026-05-01T05:38:58.435Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
-      "rank_fide": "2643",
+      "rank_fide": "2624",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -22,15 +22,6 @@
     },
     {
       "id": "3",
-      "id_pzszach": "2966",
-      "nazwisko_imie": "SOĆKO Bartosz",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2584",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "4",
       "id_pzszach": "2844",
       "nazwisko_imie": "MITOŃ Kamil",
       "tytul_kategoria": "GM",
@@ -39,16 +30,34 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "5",
+      "id": "4",
       "id_pzszach": "4396",
       "nazwisko_imie": "WARAKOMSKI Tomasz",
       "tytul_kategoria": "GM",
-      "rank_fide": "2557",
+      "rank_fide": "2558",
       "klub": "Akademia Szachowa Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
+      "id": "5",
+      "id_pzszach": "2966",
+      "nazwisko_imie": "SOĆKO Bartosz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2552",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
       "id": "6",
+      "id_pzszach": "65730",
+      "nazwisko_imie": "SEEMANN Jakub",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2548",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "7",
       "id_pzszach": "2022",
       "nazwisko_imie": "GAJEWSKI Grzegorz",
       "tytul_kategoria": "GM",
@@ -57,39 +66,30 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "7",
-      "id_pzszach": "65730",
-      "nazwisko_imie": "SEEMANN Jakub",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2545",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
       "id": "8",
-      "id_pzszach": "1778",
-      "nazwisko_imie": "PIORUN Kacper",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2536",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "9",
       "id_pzszach": "7250",
       "nazwisko_imie": "TOMCZAK Jacek",
       "tytul_kategoria": "GM",
-      "rank_fide": "2533",
+      "rank_fide": "2545",
       "klub": "Akademia Szachowa Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "22548",
       "nazwisko_imie": "GAZIK Viktor",
       "tytul_kategoria": "IM",
       "rank_fide": "2529",
       "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "27232",
+      "nazwisko_imie": "HRACEK Zbynek",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2525",
+      "klub": "",
       "wojewodztwo_zwiazek": "SL"
     }
   ]

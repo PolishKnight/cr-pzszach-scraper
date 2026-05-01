@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:27:05.177Z",
+  "createdAt": "2026-05-01T05:38:56.626Z",
   "totalRecords": 100,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "27071",
       "nazwisko_imie": "TECLAF Paweł",
       "tytul_kategoria": "GM",
-      "rank_fide": "2572",
+      "rank_fide": "2573",
       "klub": "KKS ORMUZD Kartuzy",
       "wojewodztwo_zwiazek": "PO"
     },
@@ -85,38 +85,38 @@
     },
     {
       "id": "10",
-      "id_pzszach": "4758",
-      "nazwisko_imie": "MIRSKI Stanisław",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2266",
+      "id_pzszach": "4690",
+      "nazwisko_imie": "JURKIEWICZ Krzysztof",
+      "tytul_kategoria": "M",
+      "rank_fide": "2256",
       "klub": "UKS GEDANENSIS Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     },
     {
       "id": "11",
-      "id_pzszach": "4690",
-      "nazwisko_imie": "JURKIEWICZ Krzysztof",
-      "tytul_kategoria": "M",
-      "rank_fide": "2253",
-      "klub": "UKS GEDANENSIS Gdańsk",
+      "id_pzszach": "949",
+      "nazwisko_imie": "GRABOWSKI Paweł",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2255",
+      "klub": "UKS KORONA Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     },
     {
       "id": "12",
+      "id_pzszach": "4758",
+      "nazwisko_imie": "MIRSKI Stanisław",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2249",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "13",
       "id_pzszach": "60550",
       "nazwisko_imie": "CHMURA Eryk",
       "tytul_kategoria": "K",
       "rank_fide": "2242",
       "klub": "UKS MDK GDYNIA",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "13",
-      "id_pzszach": "949",
-      "nazwisko_imie": "GRABOWSKI Paweł",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2241",
-      "klub": "UKS KORONA Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     },
     {
@@ -187,7 +187,7 @@
       "id_pzszach": "85693",
       "nazwisko_imie": "KORSZAŃSKI Stanisław",
       "tytul_kategoria": "CM",
-      "rank_fide": "2215",
+      "rank_fide": "2214",
       "klub": "UKS KORONA Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     },
@@ -427,20 +427,20 @@
     },
     {
       "id": "48",
-      "id_pzszach": "4615",
-      "nazwisko_imie": "ZIELIŃSKI Wojciech",
-      "tytul_kategoria": "K",
-      "rank_fide": "2127",
-      "klub": "UKS GEDANENSIS Gdańsk",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "49",
       "id_pzszach": "26918",
       "nazwisko_imie": "WYCZLING Bartosz",
       "tytul_kategoria": "K",
       "rank_fide": "2127",
       "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "4615",
+      "nazwisko_imie": "ZIELIŃSKI Wojciech",
+      "tytul_kategoria": "K",
+      "rank_fide": "2125",
+      "klub": "UKS GEDANENSIS Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     },
     {
@@ -475,7 +475,7 @@
       "id_pzszach": "65296",
       "nazwisko_imie": "ŚNIADECKI Oskar",
       "tytul_kategoria": "K",
-      "rank_fide": "2114",
+      "rank_fide": "2111",
       "klub": "MKS POGOŃ Prabuty",
       "wojewodztwo_zwiazek": "PO"
     },
@@ -625,6 +625,15 @@
     },
     {
       "id": "70",
+      "id_pzszach": "1101",
+      "nazwisko_imie": "PASZEK Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2072",
+      "klub": "UKS ALFIL Gniew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "71",
       "id_pzszach": "4841",
       "nazwisko_imie": "STUDZIŃSKI Brunon",
       "tytul_kategoria": "K",
@@ -633,7 +642,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "71",
+      "id": "72",
       "id_pzszach": "4899",
       "nazwisko_imie": "ZIELIŃSKA Danuta",
       "tytul_kategoria": "K",
@@ -642,21 +651,12 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "72",
+      "id": "73",
       "id_pzszach": "4648",
       "nazwisko_imie": "BYLICA Michał",
       "tytul_kategoria": "I++",
       "rank_fide": "2067",
       "klub": "",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "73",
-      "id_pzszach": "1101",
-      "nazwisko_imie": "PASZEK Krzysztof",
-      "tytul_kategoria": "K",
-      "rank_fide": "2058",
-      "klub": "UKS ALFIL Gniew",
       "wojewodztwo_zwiazek": "PO"
     },
     {
@@ -808,7 +808,7 @@
       "id_pzszach": "4516",
       "nazwisko_imie": "HISZCZYŃSKI Jakub",
       "tytul_kategoria": "I++",
-      "rank_fide": "2004",
+      "rank_fide": "2003",
       "klub": "SZACH MAT K.S. Kosakowo",
       "wojewodztwo_zwiazek": "PO"
     },
@@ -868,15 +868,6 @@
     },
     {
       "id": "97",
-      "id_pzszach": "100834",
-      "nazwisko_imie": "ZALEWSKI Witold",
-      "tytul_kategoria": "I",
-      "rank_fide": "1993",
-      "klub": "UKS MDK GDYNIA",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "98",
       "id_pzszach": "4658",
       "nazwisko_imie": "CZAPIEWSKA Izabela",
       "tytul_kategoria": "K",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "4890",
       "nazwisko_imie": "WRZESINSKI Bartosz",
       "tytul_kategoria": "I",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "4455",
       "nazwisko_imie": "KOTŁOWSKI Tomasz",
       "tytul_kategoria": "I++",
       "rank_fide": "1990",
       "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "4581",
+      "nazwisko_imie": "KARŁO Tymoteusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1986",
+      "klub": "",
       "wojewodztwo_zwiazek": "PO"
     }
   ]

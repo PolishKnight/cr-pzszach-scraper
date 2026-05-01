@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-04-30T05:27:08.861Z",
+  "createdAt": "2026-05-01T05:39:00.078Z",
   "totalRecords": 100,
   "data": [
     {
@@ -22,6 +22,15 @@
     },
     {
       "id": "3",
+      "id_pzszach": "108055",
+      "nazwisko_imie": "RZĄP Filip",
+      "tytul_kategoria": "K",
+      "rank_fide": "2271",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "4",
       "id_pzszach": "6450",
       "nazwisko_imie": "LISTEWNIK Zbigniew",
       "tytul_kategoria": "K",
@@ -30,7 +39,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "4",
+      "id": "5",
       "id_pzszach": "6496",
       "nazwisko_imie": "PROBOLA Grzegorz",
       "tytul_kategoria": "K",
@@ -39,7 +48,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "5",
+      "id": "6",
       "id_pzszach": "6527",
       "nazwisko_imie": "SKRZYPCZAK Jerzy",
       "tytul_kategoria": "K",
@@ -48,7 +57,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "6",
+      "id": "7",
       "id_pzszach": "6380",
       "nazwisko_imie": "DĄBROWSKI Wojciech",
       "tytul_kategoria": "K",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "6455",
       "nazwisko_imie": "MAŁACHOWSKI Tomasz",
       "tytul_kategoria": "K",
@@ -66,21 +75,12 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "6520",
       "nazwisko_imie": "SINICA Jan",
       "tytul_kategoria": "K",
       "rank_fide": "2235",
       "klub": "",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "9",
-      "id_pzszach": "64477",
-      "nazwisko_imie": "KRAŚNIEWSKI Maciej",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2228",
-      "klub": "UKS UZDOWO",
       "wojewodztwo_zwiazek": "WM"
     },
     {
@@ -121,6 +121,15 @@
     },
     {
       "id": "14",
+      "id_pzszach": "77433",
+      "nazwisko_imie": "MURAWSKI Jan",
+      "tytul_kategoria": "V",
+      "rank_fide": "2186",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "15",
       "id_pzszach": "6361",
       "nazwisko_imie": "BUDREWICZ Krzysztof",
       "tytul_kategoria": "M",
@@ -129,7 +138,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "15",
+      "id": "16",
       "id_pzszach": "21463",
       "nazwisko_imie": "KRESTIANOWA Tatiana",
       "tytul_kategoria": "",
@@ -138,7 +147,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "16",
+      "id": "17",
       "id_pzszach": "6406",
       "nazwisko_imie": "JADANOWSKI Łukasz",
       "tytul_kategoria": "K",
@@ -147,7 +156,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "17",
+      "id": "18",
+      "id_pzszach": "64477",
+      "nazwisko_imie": "KRAŚNIEWSKI Maciej",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2168",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "19",
       "id_pzszach": "6365",
       "nazwisko_imie": "CHARCHALIS Piotr",
       "tytul_kategoria": "K",
@@ -156,7 +174,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "18",
+      "id": "20",
       "id_pzszach": "6461",
       "nazwisko_imie": "MARKUNAS Grzegorz",
       "tytul_kategoria": "I++",
@@ -165,7 +183,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "19",
+      "id": "21",
       "id_pzszach": "6459",
       "nazwisko_imie": "MALCZYK Rafał",
       "tytul_kategoria": "K",
@@ -174,7 +192,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "20",
+      "id": "22",
       "id_pzszach": "6422",
       "nazwisko_imie": "KLIMASZEWSKI Dariusz",
       "tytul_kategoria": "I++",
@@ -183,16 +201,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "21",
-      "id_pzszach": "59075",
-      "nazwisko_imie": "KOZŁOWSKI Michał",
+      "id": "23",
+      "id_pzszach": "61993",
+      "nazwisko_imie": "TARANOWICZ Michał",
       "tytul_kategoria": "K+",
-      "rank_fide": "2150",
+      "rank_fide": "2145",
       "klub": "KSz CKTiS Biskupiec",
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "22",
+      "id": "24",
       "id_pzszach": "6349",
       "nazwisko_imie": "BARTOSZEWSKI Marcin",
       "tytul_kategoria": "K",
@@ -201,16 +219,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "23",
-      "id_pzszach": "61993",
-      "nazwisko_imie": "TARANOWICZ Michał",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2142",
-      "klub": "KSz CKTiS Biskupiec",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "24",
+      "id": "25",
       "id_pzszach": "6429",
       "nazwisko_imie": "KOZŁOWSKI Waldemar",
       "tytul_kategoria": "FM",
@@ -219,7 +228,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "25",
+      "id": "26",
       "id_pzszach": "38301",
       "nazwisko_imie": "HRYMOWICZ Artur",
       "tytul_kategoria": "I++",
@@ -228,21 +237,12 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "26",
-      "id_pzszach": "77433",
-      "nazwisko_imie": "MURAWSKI Jan",
-      "tytul_kategoria": "V",
-      "rank_fide": "2123",
-      "klub": "",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
       "id": "27",
-      "id_pzszach": "108055",
-      "nazwisko_imie": "RZĄP Filip",
-      "tytul_kategoria": "K",
-      "rank_fide": "2123",
-      "klub": "UKS UZDOWO",
+      "id_pzszach": "59075",
+      "nazwisko_imie": "KOZŁOWSKI Michał",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2128",
+      "klub": "KSz CKTiS Biskupiec",
       "wojewodztwo_zwiazek": "WM"
     },
     {
@@ -328,6 +328,24 @@
     },
     {
       "id": "37",
+      "id_pzszach": "6353",
+      "nazwisko_imie": "BIELUSZEWSKI Piotr",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2073",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "6489",
+      "nazwisko_imie": "PLESIUK Andrzej",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2073",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "39",
       "id_pzszach": "6492",
       "nazwisko_imie": "PLICHTA Andrzej",
       "tytul_kategoria": "I",
@@ -336,7 +354,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "38",
+      "id": "40",
       "id_pzszach": "6532",
       "nazwisko_imie": "SPISAK Marta",
       "tytul_kategoria": "K",
@@ -345,7 +363,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "39",
+      "id": "41",
       "id_pzszach": "6266",
       "nazwisko_imie": "JABŁOŃSKI Michał",
       "tytul_kategoria": "I",
@@ -354,7 +372,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "40",
+      "id": "42",
       "id_pzszach": "6500",
       "nazwisko_imie": "RABIJ Tomasz",
       "tytul_kategoria": "I",
@@ -363,7 +381,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "41",
+      "id": "43",
       "id_pzszach": "6448",
       "nazwisko_imie": "LISOWSKI Krzysztof",
       "tytul_kategoria": "K",
@@ -372,25 +390,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "42",
-      "id_pzszach": "6353",
-      "nazwisko_imie": "BIELUSZEWSKI Piotr",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2055",
-      "klub": "KSz CKTiS Biskupiec",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "43",
-      "id_pzszach": "6489",
-      "nazwisko_imie": "PLESIUK Andrzej",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2054",
-      "klub": "KSz CKTiS Biskupiec",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
       "id": "44",
+      "id_pzszach": "6528",
+      "nazwisko_imie": "SŁAWIŃSKI Mirosław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2058",
+      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "45",
       "id_pzszach": "6350",
       "nazwisko_imie": "BATURO Tomasz",
       "tytul_kategoria": "I++",
@@ -399,7 +408,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "45",
+      "id": "46",
       "id_pzszach": "6458",
       "nazwisko_imie": "MALCZYK Radosław",
       "tytul_kategoria": "K",
@@ -408,7 +417,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "46",
+      "id": "47",
       "id_pzszach": "6377",
       "nazwisko_imie": "CZAUS Piotr",
       "tytul_kategoria": "I+",
@@ -417,7 +426,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "47",
+      "id": "48",
       "id_pzszach": "970",
       "nazwisko_imie": "HORODYSKI Roman",
       "tytul_kategoria": "K",
@@ -426,7 +435,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "48",
+      "id": "49",
       "id_pzszach": "6435",
       "nazwisko_imie": "KRZYWINA Michał",
       "tytul_kategoria": "I++",
@@ -435,7 +444,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "49",
+      "id": "50",
       "id_pzszach": "41615",
       "nazwisko_imie": "CZARNECKA Lidia",
       "tytul_kategoria": "WCM",
@@ -444,7 +453,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "50",
+      "id": "51",
       "id_pzszach": "6453",
       "nazwisko_imie": "SADOWSKA Angelika",
       "tytul_kategoria": "K",
@@ -453,7 +462,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "51",
+      "id": "52",
       "id_pzszach": "23459",
       "nazwisko_imie": "KOTARSKI Bartosz",
       "tytul_kategoria": "I++",
@@ -462,7 +471,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "52",
+      "id": "53",
       "id_pzszach": "6416",
       "nazwisko_imie": "KAŹMIERCZAK Marcin",
       "tytul_kategoria": "I",
@@ -471,7 +480,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "53",
+      "id": "54",
       "id_pzszach": "6356",
       "nazwisko_imie": "BORKOWSKI Marek",
       "tytul_kategoria": "I",
@@ -480,7 +489,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "54",
+      "id": "55",
+      "id_pzszach": "61930",
+      "nazwisko_imie": "WARCABA Jakub",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2018",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "56",
       "id_pzszach": "6403",
       "nazwisko_imie": "IWANCIO Łukasz",
       "tytul_kategoria": "I",
@@ -489,7 +507,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "55",
+      "id": "57",
       "id_pzszach": "106516",
       "nazwisko_imie": "TOPCHII Gennadii",
       "tytul_kategoria": "K+",
@@ -498,16 +516,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "56",
-      "id_pzszach": "6433",
-      "nazwisko_imie": "KRZEWSKI Dariusz",
-      "tytul_kategoria": "K",
-      "rank_fide": "2011",
-      "klub": "UKS Debiut Dziesiątka Olsztyn",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "57",
+      "id": "58",
       "id_pzszach": "6378",
       "nazwisko_imie": "CZERWIŃSKI Marek",
       "tytul_kategoria": "I+",
@@ -516,7 +525,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "58",
+      "id": "59",
       "id_pzszach": "6411",
       "nazwisko_imie": "JALIŃSKI Robert",
       "tytul_kategoria": "I",
@@ -525,7 +534,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "59",
+      "id": "60",
       "id_pzszach": "6370",
       "nazwisko_imie": "CIEŚLUKOWSKA Katarzyna",
       "tytul_kategoria": "K",
@@ -534,7 +543,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "60",
+      "id": "61",
       "id_pzszach": "6399",
       "nazwisko_imie": "HARKOWSKI Krzysztof",
       "tytul_kategoria": "I",
@@ -543,7 +552,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "61",
+      "id": "62",
       "id_pzszach": "38457",
       "nazwisko_imie": "JORDAN Adam",
       "tytul_kategoria": "I+",
@@ -552,16 +561,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "62",
-      "id_pzszach": "6528",
-      "nazwisko_imie": "SŁAWIŃSKI Mirosław",
+      "id": "63",
+      "id_pzszach": "6433",
+      "nazwisko_imie": "KRZEWSKI Dariusz",
       "tytul_kategoria": "K",
-      "rank_fide": "1987",
-      "klub": "UKS TRZYDZIESTKA Olsztyn",
+      "rank_fide": "1989",
+      "klub": "UKS Debiut Dziesiątka Olsztyn",
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "63",
+      "id": "64",
       "id_pzszach": "6546",
       "nazwisko_imie": "KAŹMIERCZAK Lena",
       "tytul_kategoria": "K",
@@ -570,21 +579,12 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "64",
+      "id": "65",
       "id_pzszach": "6436",
       "nazwisko_imie": "KRZYWINA Tomasz",
       "tytul_kategoria": "I",
       "rank_fide": "1978",
       "klub": "MKS MRĄGOVIA Mrągowo",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "65",
-      "id_pzszach": "64482",
-      "nazwisko_imie": "KRAŚNIEWSKI Szymon",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1978",
-      "klub": "UKS UZDOWO",
       "wojewodztwo_zwiazek": "WM"
     },
     {
@@ -607,6 +607,15 @@
     },
     {
       "id": "68",
+      "id_pzszach": "64482",
+      "nazwisko_imie": "KRAŚNIEWSKI Szymon",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1972",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "69",
       "id_pzszach": "87461",
       "nazwisko_imie": "Krasowski Tomasz",
       "tytul_kategoria": "I+",
@@ -615,30 +624,21 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "69",
-      "id_pzszach": "61930",
-      "nazwisko_imie": "WARCABA Jakub",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1965",
-      "klub": "",
+      "id": "70",
+      "id_pzszach": "4738",
+      "nazwisko_imie": "PALIKOWSKA Katarzyna",
+      "tytul_kategoria": "K+",
+      "rank_fide": "1966",
+      "klub": "KSz CKTiS Biskupiec",
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "70",
+      "id": "71",
       "id_pzszach": "62004",
       "nazwisko_imie": "KITEWSKI Bartosz",
       "tytul_kategoria": "I++",
       "rank_fide": "1962",
       "klub": "UKS TRZYDZIESTKA Olsztyn",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "71",
-      "id_pzszach": "4738",
-      "nazwisko_imie": "PALIKOWSKA Katarzyna",
-      "tytul_kategoria": "K+",
-      "rank_fide": "1961",
-      "klub": "KSz CKTiS Biskupiec",
       "wojewodztwo_zwiazek": "WM"
     },
     {
@@ -697,6 +697,15 @@
     },
     {
       "id": "78",
+      "id_pzszach": "48928",
+      "nazwisko_imie": "LENDZION Kamil",
+      "tytul_kategoria": "I",
+      "rank_fide": "1939",
+      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "79",
       "id_pzszach": "6413",
       "nazwisko_imie": "JÓŹWIK Rafał",
       "tytul_kategoria": "K",
@@ -705,7 +714,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "79",
+      "id": "80",
+      "id_pzszach": "1114",
+      "nazwisko_imie": "RAK Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "1935",
+      "klub": "UKS KOPERNIK Olsztyn",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "81",
       "id_pzszach": "26244",
       "nazwisko_imie": "ZAKRZEWSKI Robert",
       "tytul_kategoria": "II+",
@@ -714,7 +732,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "80",
+      "id": "82",
+      "id_pzszach": "6441",
+      "nazwisko_imie": "KUPRYJANIUK Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1932",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "83",
       "id_pzszach": "6447",
       "nazwisko_imie": "LIPIEJKO Artur",
       "tytul_kategoria": "II+",
@@ -723,7 +750,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "81",
+      "id": "84",
       "id_pzszach": "15902",
       "nazwisko_imie": "BUDAKOW Adrian",
       "tytul_kategoria": "I",
@@ -732,7 +759,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "82",
+      "id": "85",
       "id_pzszach": "39646",
       "nazwisko_imie": "SZULC Kamil",
       "tytul_kategoria": "III",
@@ -741,7 +768,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "83",
+      "id": "86",
       "id_pzszach": "573",
       "nazwisko_imie": "SANDOR Aleksandra",
       "tytul_kategoria": "K",
@@ -750,7 +777,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "84",
+      "id": "87",
       "id_pzszach": "4799",
       "nazwisko_imie": "PLEWA Piotr",
       "tytul_kategoria": "I++",
@@ -759,7 +786,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "85",
+      "id": "88",
+      "id_pzszach": "84716",
+      "nazwisko_imie": "KOPACKI Aleksander",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1926",
+      "klub": "KSz CKTiS Biskupiec",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "89",
       "id_pzszach": "6568",
       "nazwisko_imie": "ZARĘBSKI Cezary",
       "tytul_kategoria": "I+",
@@ -768,7 +804,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "86",
+      "id": "90",
       "id_pzszach": "6298",
       "nazwisko_imie": "GÓRALSKI Łukasz",
       "tytul_kategoria": "II",
@@ -777,7 +813,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "87",
+      "id": "91",
       "id_pzszach": "6565",
       "nazwisko_imie": "ZAJĄCZKOWSKI Jan",
       "tytul_kategoria": "I",
@@ -786,7 +822,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "88",
+      "id": "92",
       "id_pzszach": "6343",
       "nazwisko_imie": "ANDREARCZYK Paweł",
       "tytul_kategoria": "I",
@@ -795,7 +831,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "89",
+      "id": "93",
       "id_pzszach": "6491",
       "nazwisko_imie": "PLICHTA Adam",
       "tytul_kategoria": "I",
@@ -804,7 +840,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "90",
+      "id": "94",
       "id_pzszach": "6445",
       "nazwisko_imie": "LESIŃSKI Zdzisław",
       "tytul_kategoria": "I",
@@ -813,16 +849,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "91",
+      "id": "95",
       "id_pzszach": "85340",
       "nazwisko_imie": "MIGALA Andrzej",
       "tytul_kategoria": "K",
-      "rank_fide": "1917",
+      "rank_fide": "1918",
       "klub": "MLKS OSTRÓDZIANKA Ostróda",
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "92",
+      "id": "96",
       "id_pzszach": "38998",
       "nazwisko_imie": "STREPIKOWSKI Paweł",
       "tytul_kategoria": "I+",
@@ -831,25 +867,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "93",
-      "id_pzszach": "6441",
-      "nazwisko_imie": "KUPRYJANIUK Tomasz",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1910",
-      "klub": "KSz CKTiS Biskupiec",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "94",
-      "id_pzszach": "48928",
-      "nazwisko_imie": "LENDZION Kamil",
-      "tytul_kategoria": "I",
-      "rank_fide": "1910",
-      "klub": "KS Czarny Koń Nowe Miasto Lubawskie",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "95",
+      "id": "97",
       "id_pzszach": "6677",
       "nazwisko_imie": "PAWLICKA Alicja",
       "tytul_kategoria": "I",
@@ -858,7 +876,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "96",
+      "id": "98",
       "id_pzszach": "6405",
       "nazwisko_imie": "JADANOWSKA Beata",
       "tytul_kategoria": "I",
@@ -867,7 +885,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "97",
+      "id": "99",
       "id_pzszach": "6481",
       "nazwisko_imie": "OPALIŃSKI Sebastian",
       "tytul_kategoria": "I",
@@ -876,30 +894,12 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "98",
+      "id": "100",
       "id_pzszach": "6460",
       "nazwisko_imie": "MALEC Radosław",
       "tytul_kategoria": "I",
       "rank_fide": "1892",
       "klub": "",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "99",
-      "id_pzszach": "6263",
-      "nazwisko_imie": "BORAWSKI Ryszard",
-      "tytul_kategoria": "I",
-      "rank_fide": "1890",
-      "klub": "",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "28996",
-      "nazwisko_imie": "TRENDOWSKI Michał",
-      "tytul_kategoria": "I",
-      "rank_fide": "1888",
-      "klub": "UKS Debiut Dziesiątka Olsztyn",
       "wojewodztwo_zwiazek": "WM"
     }
   ]
