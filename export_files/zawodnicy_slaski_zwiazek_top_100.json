@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-01T05:38:58.435Z",
+  "createdAt": "2026-05-02T04:56:08.305Z",
   "totalRecords": 100,
   "data": [
     {
@@ -850,6 +850,15 @@
     },
     {
       "id": "95",
+      "id_pzszach": "2007",
+      "nazwisko_imie": "CISZEK Mieczysław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2246",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "96",
       "id_pzszach": "5255",
       "nazwisko_imie": "OBRUŚNIK Michał",
       "tytul_kategoria": "FM",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "5598",
       "nazwisko_imie": "BUBNOWSKI Arkadiusz",
       "tytul_kategoria": "K",
@@ -867,7 +876,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "97",
+      "id": "98",
       "id_pzszach": "6133",
       "nazwisko_imie": "SZKATUŁA Leszek",
       "tytul_kategoria": "K",
@@ -876,7 +885,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "98",
+      "id": "99",
       "id_pzszach": "5416",
       "nazwisko_imie": "WIEWIÓRA Eneasz",
       "tytul_kategoria": "FM",
@@ -885,20 +894,11 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "99",
+      "id": "100",
       "id_pzszach": "5717",
       "nazwisko_imie": "GROBORZ Michał",
       "tytul_kategoria": "K",
       "rank_fide": "2240",
-      "klub": "MKSz Rybnik",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "5990",
-      "nazwisko_imie": "PASZEK Adam",
-      "tytul_kategoria": "K",
-      "rank_fide": "2237",
       "klub": "MKSz Rybnik",
       "wojewodztwo_zwiazek": "SL"
     }
