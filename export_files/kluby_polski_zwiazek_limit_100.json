@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-07T05:28:09.325Z",
+  "createdAt": "2026-05-08T04:51:01.732Z",
   "totalRecords": 100,
   "data": [
     {
@@ -734,16 +734,6 @@
     },
     {
       "id": "74",
-      "nr_pzszach": "1111/ZP",
-      "nazwa": "KLub 64 Stargard",
-      "miasto": "Stargard",
-      "licencja": "16100028",
-      "wojewodztwo_zwiazek": "ZP",
-      "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": ""
-    },
-    {
-      "id": "75",
       "nr_pzszach": "706/PK",
       "nazwa": "KGL SZAROTKA Wadowice Górne",
       "miasto": "Wadowice Górne",
@@ -753,7 +743,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "76",
+      "id": "75",
       "nr_pzszach": "1091/KP",
       "nazwa": "Czerwona Królowa Bydgoszcz",
       "miasto": "Bydgoszcz",
@@ -763,7 +753,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "77",
+      "id": "76",
       "nr_pzszach": "831/PO",
       "nazwa": "KLUB MARYNARKI WOJENNEJ",
       "miasto": "Gdynia",
@@ -773,7 +763,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "78",
+      "id": "77",
       "nr_pzszach": "036/WP",
       "nazwa": "Raszyn Poznań",
       "miasto": "Poznań",
@@ -783,7 +773,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "79",
+      "id": "78",
       "nr_pzszach": "796/SL",
       "nazwa": "TKKF BORONOVIA Boronów",
       "miasto": "Boronów",
@@ -793,7 +783,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "80",
+      "id": "79",
       "nr_pzszach": "608/MP",
       "nazwa": "KS Cracovia 1906 Kraków",
       "miasto": "Kraków",
@@ -803,7 +793,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "81",
+      "id": "80",
       "nr_pzszach": "982/MA",
       "nazwa": "KS Sokół Serock",
       "miasto": "Serock",
@@ -813,7 +803,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "82",
+      "id": "81",
       "nr_pzszach": "940/MP",
       "nazwa": "Szachownica Kłaj",
       "miasto": "Kłaj",
@@ -823,7 +813,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "83",
+      "id": "82",
       "nr_pzszach": "991/MP",
       "nazwa": "KS 100 Bajek w Chrzanowie",
       "miasto": "Chrzanów",
@@ -833,7 +823,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "84",
+      "id": "83",
       "nr_pzszach": "958/WP",
       "nazwa": "KS 1920 Mosina",
       "miasto": "Mosina",
@@ -843,7 +833,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "85",
+      "id": "84",
       "nr_pzszach": "125/DS",
       "nazwa": "KS AZS Wratislavia",
       "miasto": "Wrocław",
@@ -853,7 +843,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "86",
+      "id": "85",
       "nr_pzszach": "903/MP",
       "nazwa": "KS Chess in Chrzanow",
       "miasto": "Chrzanów",
@@ -863,7 +853,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "87",
+      "id": "86",
       "nr_pzszach": "1017/MA",
       "nazwa": "KS Child-Kingdom",
       "miasto": "Warszawa",
@@ -873,7 +863,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "88",
+      "id": "87",
       "nr_pzszach": "1051/WM",
       "nazwa": "KS Czarny Koń Nowe Miasto Lubawskie",
       "miasto": "Nowe Miasto Lubawskie",
@@ -883,7 +873,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "89",
+      "id": "88",
       "nr_pzszach": "708/SL",
       "nazwa": "KS DORS Ruda Śląska",
       "miasto": "Ruda Śląska",
@@ -893,7 +883,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "90",
+      "id": "89",
       "nr_pzszach": "1052/WP",
       "nazwa": "KS Dzikie Wierzyce",
       "miasto": "Łubowo",
@@ -903,7 +893,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "91",
+      "id": "90",
       "nr_pzszach": "802/PK",
       "nazwa": "KS DZIKOWIEC",
       "miasto": "Dzikowiec",
@@ -913,7 +903,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "92",
+      "id": "91",
       "nr_pzszach": "967/PK",
       "nazwa": "KS Efektowni.pl",
       "miasto": "Stalowa Wola",
@@ -923,7 +913,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "93",
+      "id": "92",
       "nr_pzszach": "1092/PO",
       "nazwa": "KS FOX CHESS",
       "miasto": "Kwidzyn",
@@ -933,7 +923,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "94",
+      "id": "93",
       "nr_pzszach": "917/DS",
       "nazwa": "KS GÓRNIK Polkowice",
       "miasto": "Polkowice",
@@ -943,7 +933,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "95",
+      "id": "94",
       "nr_pzszach": "953/KP",
       "nazwa": "KS GWIAZDA Bydgoszcz",
       "miasto": "Bydgoszcz",
@@ -953,7 +943,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "96",
+      "id": "95",
       "nr_pzszach": "1000/MP",
       "nazwa": "KS KINGSOFCHESS Kraków",
       "miasto": "Kraków",
@@ -963,7 +953,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "97",
+      "id": "96",
       "nr_pzszach": "715/PK",
       "nazwa": "KS KOMUNALNI Sanok",
       "miasto": "Sanok",
@@ -973,7 +963,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "98",
+      "id": "97",
       "nr_pzszach": "977/MP",
       "nazwa": "Korona 1919 Kraków",
       "miasto": "Kraków",
@@ -983,7 +973,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "99",
+      "id": "98",
       "nr_pzszach": "1015/SL",
       "nazwa": "KS Kuźnia Ustroń",
       "miasto": "Ustroń",
@@ -993,7 +983,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "100",
+      "id": "99",
       "nr_pzszach": "804/MA",
       "nazwa": "KS LAURA Chylice",
       "miasto": "Chylice",
@@ -1001,6 +991,16 @@
       "wojewodztwo_zwiazek": "MA",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": ""
+    },
+    {
+      "id": "100",
+      "nr_pzszach": "787/MA",
+      "nazwa": "KS LEGION Legionowo",
+      "miasto": "Legionowo",
+      "licencja": "07100050",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
     }
   ]
 }

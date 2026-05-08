@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-07T05:28:28.795Z",
+  "createdAt": "2026-05-08T04:51:20.722Z",
   "totalRecords": 21,
   "data": [
     {
@@ -34,16 +34,6 @@
     },
     {
       "id": "4",
-      "nr_pzszach": "1111/ZP",
-      "nazwa": "KLub 64 Stargard",
-      "miasto": "Stargard",
-      "licencja": "16100028",
-      "wojewodztwo_zwiazek": "ZP",
-      "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": ""
-    },
-    {
-      "id": "5",
       "nr_pzszach": "500/ZP",
       "nazwa": "KSz Gryf Szczecin",
       "miasto": "Szczecin",
@@ -53,11 +43,21 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "6",
+      "id": "5",
       "nr_pzszach": "296/ZP",
       "nazwa": "KSz HETMAN Koszalin",
       "miasto": "Koszalin",
       "licencja": "16100002",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "6",
+      "nr_pzszach": "1111/ZP",
+      "nazwa": "Klub64 Stargard",
+      "miasto": "Stargard",
+      "licencja": "16100028",
       "wojewodztwo_zwiazek": "ZP",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": ""
