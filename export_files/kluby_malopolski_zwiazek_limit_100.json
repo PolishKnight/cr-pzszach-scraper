@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-05-11T05:54:57.736Z",
-  "totalRecords": 50,
+  "createdAt": "2026-05-12T05:34:49.970Z",
+  "totalRecords": 51,
   "data": [
     {
       "id": "1",
@@ -124,6 +124,16 @@
     },
     {
       "id": "13",
+      "nr_pzszach": "1118/MP",
+      "nazwa": "Herz Dragons Wieliczka",
+      "miasto": "Wieliczka",
+      "licencja": "06100061",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "14",
       "nr_pzszach": "1000/MP",
       "nazwa": "KS KINGSOFCHESS Kraków",
       "miasto": "Kraków",
@@ -133,7 +143,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "14",
+      "id": "15",
       "nr_pzszach": "977/MP",
       "nazwa": "Korona 1919 Kraków",
       "miasto": "Kraków",
@@ -143,7 +153,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "15",
+      "id": "16",
       "nr_pzszach": "990/MP",
       "nazwa": "KS Małopolskie Chess Tour",
       "miasto": "Kraków",
@@ -153,27 +163,27 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "16",
+      "id": "17",
       "nr_pzszach": "1114/MP",
       "nazwa": "KS Nadwiślanka 1956 Okleśna",
       "miasto": "Alwernia",
-      "licencja": "",
+      "licencja": "06100060",
       "wojewodztwo_zwiazek": "MP",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": "100.00 PLN"
     },
     {
-      "id": "17",
+      "id": "18",
       "nr_pzszach": "1089/MP",
       "nazwa": "KSz GRYF Gorlice",
       "miasto": "Gorlice",
-      "licencja": "",
+      "licencja": "06100055",
       "wojewodztwo_zwiazek": "MP",
       "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": "400.00 PLN"
+      "oplata_roczna": "150.00 PLN"
     },
     {
-      "id": "18",
+      "id": "19",
       "nr_pzszach": "780/MP",
       "nazwa": "Klub Szachowy KANA Tarnów",
       "miasto": "Tarnów",
@@ -183,7 +193,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "19",
+      "id": "20",
       "nr_pzszach": "950/MP",
       "nazwa": "KS KRAK",
       "miasto": "Kraków",
@@ -193,7 +203,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "20",
+      "id": "21",
       "nr_pzszach": "1021/MP",
       "nazwa": "KSz Królewscy Tarnów",
       "miasto": "Tarnów",
@@ -203,7 +213,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "21",
+      "id": "22",
       "nr_pzszach": "978/MP",
       "nazwa": "KS SzachMat Stary Sącz",
       "miasto": "Stary Sącz",
@@ -213,7 +223,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "22",
+      "id": "23",
       "nr_pzszach": "298/MP",
       "nazwa": "KKSz Kraków",
       "miasto": "Kraków",
@@ -223,7 +233,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "23",
+      "id": "24",
       "nr_pzszach": "213/MP",
       "nazwa": "LKS Dziecanovia Dziekanowice",
       "miasto": "Dobczyce",
@@ -233,7 +243,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "24",
+      "id": "25",
       "nr_pzszach": "427/MP",
       "nazwa": "LKS PŁOMIEŃ Limanowa",
       "miasto": "Limanowa",
@@ -243,7 +253,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "25",
+      "id": "26",
       "nr_pzszach": "1065/MP",
       "nazwa": "LKS Wierzchosławice - Ostrów",
       "miasto": "Wierzchosławice",
@@ -253,7 +263,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "26",
+      "id": "27",
       "nr_pzszach": "",
       "nazwa": "MPZSzach Kraków",
       "miasto": "Kraków",
@@ -263,7 +273,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "27",
+      "id": "28",
       "nr_pzszach": "839/MP",
       "nazwa": "MAT Myślenice",
       "miasto": "Myślenice",
@@ -273,7 +283,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "28",
+      "id": "29",
       "nr_pzszach": "798/MP",
       "nazwa": "OLIMPIJCZYK Chrzanów",
       "miasto": "Chrzanów",
@@ -283,7 +293,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "29",
+      "id": "30",
       "nr_pzszach": "243/MP",
       "nazwa": "MKS CENTRUM Kraków",
       "miasto": "Kraków",
@@ -293,7 +303,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "30",
+      "id": "31",
       "nr_pzszach": "282/MP",
       "nazwa": "MKS MOS Wieliczka",
       "miasto": "Wieliczka",
@@ -303,7 +313,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "31",
+      "id": "32",
       "nr_pzszach": "211/MP",
       "nazwa": "TKKF DROGOWIEC Kraków",
       "miasto": "Kraków",
@@ -313,7 +323,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "32",
+      "id": "33",
       "nr_pzszach": "862/MP",
       "nazwa": "Ognisko TKKF w Dobczycach",
       "miasto": "Dobczyce",
@@ -323,7 +333,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "33",
+      "id": "34",
       "nr_pzszach": "508/MP",
       "nazwa": "PUKS KAROLINA Tarnów",
       "miasto": "Tarnów",
@@ -333,7 +343,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "34",
+      "id": "35",
       "nr_pzszach": "944/MP",
       "nazwa": "Stowarzyszenie NADZIEJA",
       "miasto": "Kraków",
@@ -343,7 +353,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "35",
+      "id": "36",
       "nr_pzszach": "964/MP",
       "nazwa": "AZS AGH Kraków",
       "miasto": "Kraków",
@@ -353,7 +363,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "36",
+      "id": "37",
       "nr_pzszach": "1037/MP",
       "nazwa": "Szach&Mat Brzesko",
       "miasto": "Brzesko",
@@ -363,7 +373,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "37",
+      "id": "38",
       "nr_pzszach": "730/MP",
       "nazwa": "TKKF Leskowiec -Wieża Wadowice",
       "miasto": "Wadowice",
@@ -373,7 +383,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "38",
+      "id": "39",
       "nr_pzszach": "911/MP",
       "nazwa": "UKS Bakcyl Bielany",
       "miasto": "Kraków",
@@ -383,7 +393,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "39",
+      "id": "40",
       "nr_pzszach": "1013/MP",
       "nazwa": "UKS Dragon Mokrzyska",
       "miasto": "Brzesko",
@@ -393,7 +403,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "40",
+      "id": "41",
       "nr_pzszach": "283/MP",
       "nazwa": "UKS GONIEC Staniątki",
       "miasto": "Staniątki (gm. Niepołomice)",
@@ -403,7 +413,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "41",
+      "id": "42",
       "nr_pzszach": "1097/MP",
       "nazwa": "UKS GRYF Pleśna",
       "miasto": "Pleśna",
@@ -413,7 +423,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "42",
+      "id": "43",
       "nr_pzszach": "1096/MP",
       "nazwa": "UKS HALNY Zakopane",
       "miasto": "Zakopane",
@@ -423,7 +433,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "43",
+      "id": "44",
       "nr_pzszach": "216/MP",
       "nazwa": "UKS HETMAN KORONNY Trzebinia",
       "miasto": "Trzebinia",
@@ -433,7 +443,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "44",
+      "id": "45",
       "nr_pzszach": "893/MP",
       "nazwa": "UKS LISEK Lisia Góra",
       "miasto": "Lisia Góra",
@@ -443,7 +453,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "45",
+      "id": "46",
       "nr_pzszach": "561/MP",
       "nazwa": "UKS MAGNUS Rzezawa",
       "miasto": "Rzezawa",
@@ -453,7 +463,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "46",
+      "id": "47",
       "nr_pzszach": "921/MP",
       "nazwa": "UKS OMEGA w Rzuchowej",
       "miasto": "Rzuchowa",
@@ -463,7 +473,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "47",
+      "id": "48",
       "nr_pzszach": "876/MP",
       "nazwa": "ULKS LIPINKI",
       "miasto": "Lipinki",
@@ -473,7 +483,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "48",
+      "id": "49",
       "nr_pzszach": "1093/MP",
       "nazwa": "Akademia Szachowa OPP Andrychów",
       "miasto": "Andrychów",
@@ -483,7 +493,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "49",
+      "id": "50",
       "nr_pzszach": "301/MP",
       "nazwa": "UKS przy SP 8 Chrzanów",
       "miasto": "Chrzanów",
@@ -493,7 +503,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "50",
+      "id": "51",
       "nr_pzszach": "922/MP",
       "nazwa": "WKS Uran Łukowica",
       "miasto": "Łukowica",

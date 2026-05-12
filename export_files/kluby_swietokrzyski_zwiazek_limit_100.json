@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-05-11T05:55:03.841Z",
-  "totalRecords": 18,
+  "createdAt": "2026-05-12T05:34:55.032Z",
+  "totalRecords": 16,
   "data": [
     {
       "id": "1",
@@ -14,16 +14,6 @@
     },
     {
       "id": "2",
-      "nr_pzszach": "800/SK",
-      "nazwa": "IMUKSz DEBIUT Ostrowiec Świętokrzyski",
-      "miasto": "Ostrowiec Świętokrzyski",
-      "licencja": "13100012",
-      "wojewodztwo_zwiazek": "SK",
-      "typ_czlonka": "UKS - członek zwyczajny",
-      "oplata_roczna": "400.00 PLN"
-    },
-    {
-      "id": "3",
       "nr_pzszach": "703/SK",
       "nazwa": "KLIM UKSz Gambit Starachowice",
       "miasto": "Starachowice",
@@ -33,7 +23,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "4",
+      "id": "3",
       "nr_pzszach": "598/SK",
       "nazwa": "KMKSzach VICTORIA KOMPLEXBUD",
       "miasto": "Kielce",
@@ -43,7 +33,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "5",
+      "id": "4",
       "nr_pzszach": "865/SK",
       "nazwa": "KSz HETMAN Kielce",
       "miasto": "Kielce",
@@ -53,7 +43,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "6",
+      "id": "5",
       "nr_pzszach": "1109/SK",
       "nazwa": "LKS ROSZADA Kunów",
       "miasto": "Kunów",
@@ -63,7 +53,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "7",
+      "id": "6",
       "nr_pzszach": "943/SK",
       "nazwa": "LKS Skała Tumlin",
       "miasto": "Zagnańsk",
@@ -73,7 +63,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "8",
+      "id": "7",
       "nr_pzszach": "736/SK",
       "nazwa": "LUKKS OLIMPIA Kielce",
       "miasto": "Kielce",
@@ -83,7 +73,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "9",
+      "id": "8",
       "nr_pzszach": "089/SK",
       "nazwa": "LZS KORDIAN Bliżyn",
       "miasto": "Bliżyn",
@@ -93,17 +83,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "10",
-      "nr_pzszach": "907/SK",
-      "nazwa": "MKS WIERNA Małogoszcz",
-      "miasto": "Małogoszcz",
-      "licencja": "13100016",
-      "wojewodztwo_zwiazek": "SK",
-      "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": "400.00 PLN"
-    },
-    {
-      "id": "11",
+      "id": "9",
       "nr_pzszach": "906/SK",
       "nazwa": "MGDK Końskie",
       "miasto": "Końskie",
@@ -113,7 +93,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "12",
+      "id": "10",
       "nr_pzszach": "1028/SK",
       "nazwa": "MGOK Wieża Łagów",
       "miasto": "Łagów",
@@ -123,7 +103,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "13",
+      "id": "11",
       "nr_pzszach": "955/SK",
       "nazwa": "Salve Regina",
       "miasto": "Sandomierz",
@@ -133,7 +113,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "14",
+      "id": "12",
       "nr_pzszach": "815/SK",
       "nazwa": "LUKKS Miedziana Góra",
       "miasto": "Miedziana Góra",
@@ -143,7 +123,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "15",
+      "id": "13",
       "nr_pzszach": "1104/SK",
       "nazwa": "SSz ROSZADA Końskie",
       "miasto": "Końskie",
@@ -153,7 +133,7 @@
       "oplata_roczna": "100.00 PLN"
     },
     {
-      "id": "16",
+      "id": "14",
       "nr_pzszach": "280/SK",
       "nazwa": "HETMAN Ostrowiec Świętokrzyski",
       "miasto": "Ostrowiec Świętokrzyski",
@@ -163,7 +143,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "17",
+      "id": "15",
       "nr_pzszach": "",
       "nazwa": "SKZSzach",
       "miasto": "Kielce",
@@ -173,7 +153,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "18",
+      "id": "16",
       "nr_pzszach": "1108/SK",
       "nazwa": "UKS KADET Sandomierz",
       "miasto": "Sandomierz",

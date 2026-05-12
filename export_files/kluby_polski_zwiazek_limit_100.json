@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-11T05:54:49.204Z",
+  "createdAt": "2026-05-12T05:34:42.003Z",
   "totalRecords": 100,
   "data": [
     {
@@ -654,16 +654,6 @@
     },
     {
       "id": "66",
-      "nr_pzszach": "800/SK",
-      "nazwa": "IMUKSz DEBIUT Ostrowiec Świętokrzyski",
-      "miasto": "Ostrowiec Świętokrzyski",
-      "licencja": "13100012",
-      "wojewodztwo_zwiazek": "SK",
-      "typ_czlonka": "UKS - członek zwyczajny",
-      "oplata_roczna": "400.00 PLN"
-    },
-    {
-      "id": "67",
       "nr_pzszach": "1034/MP",
       "nazwa": "IT Chess Club Kraków",
       "miasto": "Kraków",
@@ -673,7 +663,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "68",
+      "id": "67",
       "nr_pzszach": "104/WP",
       "nazwa": "JKSz-W Jarocin",
       "miasto": "Jarocin",
@@ -683,7 +673,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "69",
+      "id": "68",
       "nr_pzszach": "032/WP",
       "nazwa": "KTS Kalisz",
       "miasto": "Kalisz",
@@ -693,7 +683,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "70",
+      "id": "69",
       "nr_pzszach": "210/PO",
       "nazwa": "KKS ORMUZD Kartuzy",
       "miasto": "Kartuzy",
@@ -703,7 +693,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "71",
+      "id": "70",
       "nr_pzszach": "932/PK",
       "nazwa": "KKL STAL Stalowa Wola",
       "miasto": "Stalowa Wola",
@@ -713,7 +703,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "72",
+      "id": "71",
       "nr_pzszach": "703/SK",
       "nazwa": "KLIM UKSz Gambit Starachowice",
       "miasto": "Starachowice",
@@ -723,7 +713,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "73",
+      "id": "72",
       "nr_pzszach": "598/SK",
       "nazwa": "KMKSzach VICTORIA KOMPLEXBUD",
       "miasto": "Kielce",
@@ -733,7 +723,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "74",
+      "id": "73",
       "nr_pzszach": "706/PK",
       "nazwa": "KGL SZAROTKA Wadowice Górne",
       "miasto": "Wadowice Górne",
@@ -743,7 +733,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "75",
+      "id": "74",
       "nr_pzszach": "1091/KP",
       "nazwa": "Czerwona Królowa Bydgoszcz",
       "miasto": "Bydgoszcz",
@@ -753,7 +743,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "76",
+      "id": "75",
       "nr_pzszach": "831/PO",
       "nazwa": "KLUB MARYNARKI WOJENNEJ",
       "miasto": "Gdynia",
@@ -763,7 +753,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "77",
+      "id": "76",
       "nr_pzszach": "036/WP",
       "nazwa": "Raszyn Poznań",
       "miasto": "Poznań",
@@ -773,7 +763,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "78",
+      "id": "77",
       "nr_pzszach": "796/SL",
       "nazwa": "TKKF BORONOVIA Boronów",
       "miasto": "Boronów",
@@ -783,7 +773,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "79",
+      "id": "78",
       "nr_pzszach": "608/MP",
       "nazwa": "KS Cracovia 1906 Kraków",
       "miasto": "Kraków",
@@ -793,7 +783,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "80",
+      "id": "79",
       "nr_pzszach": "982/MA",
       "nazwa": "KS Sokół Serock",
       "miasto": "Serock",
@@ -803,7 +793,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "81",
+      "id": "80",
       "nr_pzszach": "940/MP",
       "nazwa": "Szachownica Kłaj",
       "miasto": "Kłaj",
@@ -813,7 +803,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "82",
+      "id": "81",
       "nr_pzszach": "991/MP",
       "nazwa": "KS 100 Bajek w Chrzanowie",
       "miasto": "Chrzanów",
@@ -823,7 +813,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "83",
+      "id": "82",
       "nr_pzszach": "958/WP",
       "nazwa": "KS 1920 Mosina",
       "miasto": "Mosina",
@@ -833,7 +823,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "84",
+      "id": "83",
       "nr_pzszach": "125/DS",
       "nazwa": "KS AZS Wratislavia",
       "miasto": "Wrocław",
@@ -843,7 +833,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "85",
+      "id": "84",
       "nr_pzszach": "903/MP",
       "nazwa": "KS Chess in Chrzanow",
       "miasto": "Chrzanów",
@@ -853,7 +843,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "86",
+      "id": "85",
       "nr_pzszach": "1017/MA",
       "nazwa": "KS Child-Kingdom",
       "miasto": "Warszawa",
@@ -863,7 +853,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "87",
+      "id": "86",
       "nr_pzszach": "1051/WM",
       "nazwa": "KS Czarny Koń Nowe Miasto Lubawskie",
       "miasto": "Nowe Miasto Lubawskie",
@@ -873,7 +863,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "88",
+      "id": "87",
       "nr_pzszach": "708/SL",
       "nazwa": "KS DORS Ruda Śląska",
       "miasto": "Ruda Śląska",
@@ -883,7 +873,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "89",
+      "id": "88",
       "nr_pzszach": "1052/WP",
       "nazwa": "KS Dzikie Wierzyce",
       "miasto": "Łubowo",
@@ -893,7 +883,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "90",
+      "id": "89",
       "nr_pzszach": "802/PK",
       "nazwa": "KS DZIKOWIEC",
       "miasto": "Dzikowiec",
@@ -903,7 +893,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "91",
+      "id": "90",
       "nr_pzszach": "967/PK",
       "nazwa": "KS Efektowni.pl",
       "miasto": "Stalowa Wola",
@@ -913,7 +903,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "92",
+      "id": "91",
       "nr_pzszach": "1092/PO",
       "nazwa": "KS FOX CHESS",
       "miasto": "Kwidzyn",
@@ -923,7 +913,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "93",
+      "id": "92",
       "nr_pzszach": "917/DS",
       "nazwa": "KS GÓRNIK Polkowice",
       "miasto": "Polkowice",
@@ -933,7 +923,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "94",
+      "id": "93",
       "nr_pzszach": "953/KP",
       "nazwa": "KS GWIAZDA Bydgoszcz",
       "miasto": "Bydgoszcz",
@@ -941,6 +931,16 @@
       "wojewodztwo_zwiazek": "KP",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "94",
+      "nr_pzszach": "1118/MP",
+      "nazwa": "Herz Dragons Wieliczka",
+      "miasto": "Wieliczka",
+      "licencja": "06100061",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
     },
     {
       "id": "95",

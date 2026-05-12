@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-05-11T05:55:09.117Z",
-  "totalRecords": 21,
+  "createdAt": "2026-05-12T05:34:59.723Z",
+  "totalRecords": 22,
   "data": [
     {
       "id": "1",
@@ -137,7 +137,7 @@
       "nr_pzszach": "1115/ZP",
       "nazwa": "UKS CZARNI Szczecin",
       "miasto": "Szczecin",
-      "licencja": "",
+      "licencja": "16100029",
       "wojewodztwo_zwiazek": "ZP",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": ""
@@ -194,6 +194,16 @@
     },
     {
       "id": "20",
+      "nr_pzszach": "",
+      "nazwa": "UKSz Szachlandia Dobra",
+      "miasto": "Dobra",
+      "licencja": "16100030",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "21",
       "nr_pzszach": "575/ZP",
       "nazwa": "UKS Ognisko Pracy Pozaszkolnej Kołobrzeg",
       "miasto": "Kołobrzeg",
@@ -203,7 +213,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "21",
+      "id": "22",
       "nr_pzszach": "",
       "nazwa": "ZPZSzach",
       "miasto": "Koszalin",

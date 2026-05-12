@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-05-11T05:54:56.327Z",
-  "totalRecords": 71,
+  "createdAt": "2026-05-12T05:34:48.698Z",
+  "totalRecords": 72,
   "data": [
     {
       "id": "1",
@@ -464,6 +464,16 @@
     },
     {
       "id": "47",
+      "nr_pzszach": "1119/MA",
+      "nazwa": "ZUGZWANG Radom",
+      "miasto": "Radom",
+      "licencja": "07100107",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "48",
       "nr_pzszach": "1094/MA",
       "nazwa": "SZACH-MAT Puszcza Mariańska",
       "miasto": "Puszcza Mariańska",
@@ -473,7 +483,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "48",
+      "id": "49",
       "nr_pzszach": "599/MA",
       "nazwa": "SzUKS Gostmat 83 Gostynin",
       "miasto": "Gostynin",
@@ -483,7 +493,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "49",
+      "id": "50",
       "nr_pzszach": "931/MA",
       "nazwa": "UKS Rakovia",
       "miasto": "Warszawa",
@@ -493,7 +503,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "50",
+      "id": "51",
       "nr_pzszach": "733/MA",
       "nazwa": "UKS-STSz Sokołów Podlaski",
       "miasto": "Sokołów Podlaski",
@@ -503,7 +513,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "51",
+      "id": "52",
       "nr_pzszach": "572/MA",
       "nazwa": "UKS CAISSA Warszawa",
       "miasto": "Warszawa",
@@ -513,7 +523,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "52",
+      "id": "53",
       "nr_pzszach": "545/MA",
       "nazwa": "UKS CZTERNASTKA Warszawa",
       "miasto": "Warszawa",
@@ -523,7 +533,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "53",
+      "id": "54",
       "nr_pzszach": "789/MA",
       "nazwa": "UKS GAMBIT Wesoła",
       "miasto": "Warszawa",
@@ -533,7 +543,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "54",
+      "id": "55",
       "nr_pzszach": "615/MA",
       "nazwa": "UKS HETMAN Puszcza Mariańska",
       "miasto": "Puszcza Mariańska",
@@ -543,7 +553,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "55",
+      "id": "56",
       "nr_pzszach": "124/MA",
       "nazwa": "UKS ŁADY Raszyn",
       "miasto": "Raszyn",
@@ -553,7 +563,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "56",
+      "id": "57",
       "nr_pzszach": "849/MA",
       "nazwa": "UKS Montessori",
       "miasto": "Warszawa",
@@ -563,7 +573,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "57",
+      "id": "58",
       "nr_pzszach": "1032/MA",
       "nazwa": "UKS Najdorf Szczęsne",
       "miasto": "Grodzisk Mazowiecki",
@@ -573,7 +583,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "58",
+      "id": "59",
       "nr_pzszach": "728/MA",
       "nazwa": "UKS Roszada Radom",
       "miasto": "Radom",
@@ -583,7 +593,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "59",
+      "id": "60",
       "nr_pzszach": "750/MA",
       "nazwa": "UKS SP 321 Warszawa-Bemowo",
       "miasto": "Warszawa",
@@ -593,7 +603,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "60",
+      "id": "61",
       "nr_pzszach": "900/MA",
       "nazwa": "UKS SPARTA Białołęka",
       "miasto": "Warszawa",
@@ -603,7 +613,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "61",
+      "id": "62",
       "nr_pzszach": "996/MA",
       "nazwa": "UKS Sternik Pruszków",
       "miasto": "Pruszków",
@@ -613,7 +623,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "62",
+      "id": "63",
       "nr_pzszach": "847/MA",
       "nazwa": "UKS Szachowa Dwójka Grodzisk Maz.",
       "miasto": "Grodzisk Mazowiecki",
@@ -623,7 +633,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "63",
+      "id": "64",
       "nr_pzszach": "1082/MA",
       "nazwa": "UKS Szachowe Przygody Radom",
       "miasto": "Radom",
@@ -633,7 +643,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "64",
+      "id": "65",
       "nr_pzszach": "497/MA",
       "nazwa": "UKS TSz Zieloni Zielonka",
       "miasto": "Zielonka",
@@ -643,7 +653,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "65",
+      "id": "66",
       "nr_pzszach": "1113/MA",
       "nazwa": "UKS TWIERDZA Mokotów",
       "miasto": "Warszawa",
@@ -653,7 +663,7 @@
       "oplata_roczna": "100.00 PLN"
     },
     {
-      "id": "66",
+      "id": "67",
       "nr_pzszach": "1074/MA",
       "nazwa": "UKS Wąsewska Wieża",
       "miasto": "Wąsewo",
@@ -663,7 +673,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "67",
+      "id": "68",
       "nr_pzszach": "832/MA",
       "nazwa": "UKS ŻAGLE Warszawa",
       "miasto": "Warszawa",
@@ -673,7 +683,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "68",
+      "id": "69",
       "nr_pzszach": "192/MA",
       "nazwa": "UKSz Hetman Warszawa",
       "miasto": "Warszawa",
@@ -683,7 +693,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "69",
+      "id": "70",
       "nr_pzszach": "1116/MA",
       "nazwa": "UKS PITAGORAS Rusiec",
       "miasto": "Rusiec",
@@ -693,7 +703,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "70",
+      "id": "71",
       "nr_pzszach": "1039/MA",
       "nazwa": "UKS III Ogród Jordanowski",
       "miasto": "Warszawa",
@@ -703,7 +713,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "71",
+      "id": "72",
       "nr_pzszach": "450/MA",
       "nazwa": "ZMCh Polska YMCA Warszawa",
       "miasto": "Warszawa",
