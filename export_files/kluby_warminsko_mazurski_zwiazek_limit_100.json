@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-05-13T05:44:38.476Z",
-  "totalRecords": 18,
+  "createdAt": "2026-05-14T05:43:57.373Z",
+  "totalRecords": 17,
   "data": [
     {
       "id": "1",
@@ -144,16 +144,6 @@
     },
     {
       "id": "15",
-      "nr_pzszach": "168/WM",
-      "nazwa": "UKS TRZYDZIESTKA Olsztyn",
-      "miasto": "Olsztyn",
-      "licencja": "14100001",
-      "wojewodztwo_zwiazek": "WM",
-      "typ_czlonka": "UKS - członek zwyczajny",
-      "oplata_roczna": "400.00 PLN"
-    },
-    {
-      "id": "16",
       "nr_pzszach": "829/WM",
       "nazwa": "UKS Debiut Dziesiątka Olsztyn",
       "miasto": "Olsztyn",
@@ -163,7 +153,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "17",
+      "id": "16",
       "nr_pzszach": "867/WM",
       "nazwa": "UKS UZDOWO",
       "miasto": "Uzdowo",
@@ -173,7 +163,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "18",
+      "id": "17",
       "nr_pzszach": "",
       "nazwa": "WMZSzach",
       "miasto": "Olsztyn",
