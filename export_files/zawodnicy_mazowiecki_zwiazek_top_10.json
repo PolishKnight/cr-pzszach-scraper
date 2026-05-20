@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-19T06:03:09.457Z",
+  "createdAt": "2026-05-20T06:02:44.506Z",
   "totalRecords": 10,
   "data": [
     {
@@ -67,6 +67,15 @@
     },
     {
       "id": "8",
+      "id_pzszach": "68002",
+      "nazwisko_imie": "SOWIŃSKI Paweł",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2445",
+      "klub": "KS LAURA Chylice",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "9",
       "id_pzszach": "30627",
       "nazwisko_imie": "FUS Jakub",
       "tytul_kategoria": "IM",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "26053",
       "nazwisko_imie": "JARMUŁA Łukasz",
       "tytul_kategoria": "GM",
       "rank_fide": "2412",
       "klub": "KSz Hetman Płock",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "34071",
-      "nazwisko_imie": "PACAN-MILEJ Kosma",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2407",
-      "klub": "UKS SPARTA Białołęka",
       "wojewodztwo_zwiazek": "MA"
     }
   ]
