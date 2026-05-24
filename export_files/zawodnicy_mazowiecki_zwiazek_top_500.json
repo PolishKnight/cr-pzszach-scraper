@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-23T05:35:58.241Z",
+  "createdAt": "2026-05-24T05:57:31.583Z",
   "totalRecords": 500,
   "data": [
     {
@@ -796,6 +796,15 @@
     },
     {
       "id": "89",
+      "id_pzszach": "155807",
+      "nazwisko_imie": "SIAGODNIK Anton",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2222",
+      "klub": "",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "90",
       "id_pzszach": "4363",
       "nazwisko_imie": "BARTEL Marta",
       "tytul_kategoria": "WGM",
@@ -804,7 +813,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "90",
+      "id": "91",
       "id_pzszach": "64896",
       "nazwisko_imie": "ZDYBEL Przemysław",
       "tytul_kategoria": "FM",
@@ -813,19 +822,10 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "91",
+      "id": "92",
       "id_pzszach": "2657",
       "nazwisko_imie": "GAWLIŃSKI Michał",
       "tytul_kategoria": "K",
-      "rank_fide": "2219",
-      "klub": "",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "92",
-      "id_pzszach": "155807",
-      "nazwisko_imie": "SIAGODNIK Anton",
-      "tytul_kategoria": "FM",
       "rank_fide": "2219",
       "klub": "",
       "wojewodztwo_zwiazek": "MA"
