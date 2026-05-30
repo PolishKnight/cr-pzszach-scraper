@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-05-29T06:09:12.166Z",
-  "totalRecords": 17,
+  "createdAt": "2026-05-30T05:44:26.994Z",
+  "totalRecords": 16,
   "data": [
     {
       "id": "1",
@@ -84,16 +84,6 @@
     },
     {
       "id": "9",
-      "nr_pzszach": "180/WM",
-      "nazwa": "SSz DEBIUT Giżycko",
-      "miasto": "Giżycko",
-      "licencja": "14100017",
-      "wojewodztwo_zwiazek": "WM",
-      "typ_czlonka": "Członek wspierający",
-      "oplata_roczna": "400.00 PLN"
-    },
-    {
-      "id": "10",
       "nr_pzszach": "734/WM",
       "nazwa": "SL SALOS Ełk",
       "miasto": "Ełk",
@@ -103,7 +93,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "11",
+      "id": "10",
       "nr_pzszach": "895/WM",
       "nazwa": "Teraz Sucholaski",
       "miasto": "Wydminy",
@@ -113,7 +103,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "12",
+      "id": "11",
       "nr_pzszach": "966/WM",
       "nazwa": "UKS ELO Ełk",
       "miasto": "Ełk",
@@ -123,7 +113,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "13",
+      "id": "12",
       "nr_pzszach": "874/WM",
       "nazwa": "UKS KOPERNIK Olsztyn",
       "miasto": "Olsztyn",
@@ -133,7 +123,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "14",
+      "id": "13",
       "nr_pzszach": "834/WM",
       "nazwa": "UKS Skoczek Elbląg",
       "miasto": "Elbląg",
@@ -143,7 +133,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "15",
+      "id": "14",
       "nr_pzszach": "829/WM",
       "nazwa": "UKS Debiut Dziesiątka Olsztyn",
       "miasto": "Olsztyn",
@@ -153,7 +143,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "16",
+      "id": "15",
       "nr_pzszach": "867/WM",
       "nazwa": "UKS UZDOWO",
       "miasto": "Uzdowo",
@@ -163,7 +153,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "17",
+      "id": "16",
       "nr_pzszach": "",
       "nazwa": "WMZSzach",
       "miasto": "Olsztyn",

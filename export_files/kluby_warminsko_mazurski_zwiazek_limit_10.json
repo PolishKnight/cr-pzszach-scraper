@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-29T06:09:12.165Z",
+  "createdAt": "2026-05-30T05:44:26.993Z",
   "totalRecords": 10,
   "data": [
     {
@@ -84,16 +84,6 @@
     },
     {
       "id": "9",
-      "nr_pzszach": "180/WM",
-      "nazwa": "SSz DEBIUT Giżycko",
-      "miasto": "Giżycko",
-      "licencja": "14100017",
-      "wojewodztwo_zwiazek": "WM",
-      "typ_czlonka": "Członek wspierający",
-      "oplata_roczna": "400.00 PLN"
-    },
-    {
-      "id": "10",
       "nr_pzszach": "734/WM",
       "nazwa": "SL SALOS Ełk",
       "miasto": "Ełk",
@@ -101,6 +91,16 @@
       "wojewodztwo_zwiazek": "WM",
       "typ_czlonka": "UKS - członek zwyczajny",
       "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "10",
+      "nr_pzszach": "895/WM",
+      "nazwa": "Teraz Sucholaski",
+      "miasto": "Wydminy",
+      "licencja": "14100025",
+      "wojewodztwo_zwiazek": "WM",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
     }
   ]
 }
