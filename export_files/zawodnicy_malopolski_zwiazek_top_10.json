@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-30T05:44:18.966Z",
+  "createdAt": "2026-05-31T06:13:32.317Z",
   "totalRecords": 10,
   "data": [
     {
@@ -31,15 +31,6 @@
     },
     {
       "id": "4",
-      "id_pzszach": "2801",
-      "nazwisko_imie": "LENIART Arkadiusz",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2472",
-      "klub": "Gens Una Sumus Kraków",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "5",
       "id_pzszach": "90311",
       "nazwisko_imie": "Druska Juraj",
       "tytul_kategoria": "IM",
@@ -48,7 +39,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "6",
+      "id": "5",
       "id_pzszach": "4072",
       "nazwisko_imie": "SKALSKI Michał",
       "tytul_kategoria": "IM",
@@ -57,7 +48,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "7",
+      "id": "6",
       "id_pzszach": "2694",
       "nazwisko_imie": "JAKUBIEC Artur",
       "tytul_kategoria": "GM",
@@ -66,7 +57,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "2696",
       "nazwisko_imie": "JANCZARSKI Michał",
       "tytul_kategoria": "M",
@@ -75,7 +66,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "9",
+      "id": "8",
       "id_pzszach": "33591",
       "nazwisko_imie": "SUDER Jakub",
       "tytul_kategoria": "FM",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "90310",
       "nazwisko_imie": "Osmak Iulija",
       "tytul_kategoria": "WGM",
       "rank_fide": "2387",
       "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "683",
+      "nazwisko_imie": "STOPA Jacek",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2353",
+      "klub": "KS KINGSOFCHESS Kraków",
       "wojewodztwo_zwiazek": "MP"
     }
   ]

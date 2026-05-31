@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-30T05:44:15.048Z",
+  "createdAt": "2026-05-31T06:13:28.635Z",
   "totalRecords": 100,
   "data": [
     {
@@ -787,15 +787,6 @@
     },
     {
       "id": "88",
-      "id_pzszach": "73165",
-      "nazwisko_imie": "ZIOBROWSKA Maja",
-      "tytul_kategoria": "WFM",
-      "rank_fide": "1972",
-      "klub": "KSz Stilon Gorzów Wlkp.",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "89",
       "id_pzszach": "8323",
       "nazwisko_imie": "GĄSKA Stanisław",
       "tytul_kategoria": "II",
@@ -804,7 +795,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "90",
+      "id": "89",
       "id_pzszach": "8168",
       "nazwisko_imie": "SUDOLSKI Sylwester",
       "tytul_kategoria": "I",
@@ -813,7 +804,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "91",
+      "id": "90",
       "id_pzszach": "23454",
       "nazwisko_imie": "CZERNIAWSKI Krzysztof",
       "tytul_kategoria": "I",
@@ -822,7 +813,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "92",
+      "id": "91",
       "id_pzszach": "8116",
       "nazwisko_imie": "ZABAWSKI Grzegorz",
       "tytul_kategoria": "I+",
@@ -831,7 +822,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "93",
+      "id": "92",
       "id_pzszach": "5763",
       "nazwisko_imie": "JĘCEK Mirosław",
       "tytul_kategoria": "I",
@@ -840,7 +831,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "94",
+      "id": "93",
       "id_pzszach": "24193",
       "nazwisko_imie": "GAJDECKI Ryszard",
       "tytul_kategoria": "II+",
@@ -849,7 +840,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "95",
+      "id": "94",
       "id_pzszach": "25635",
       "nazwisko_imie": "SZYMAŃSKI Jarosław",
       "tytul_kategoria": "II",
@@ -858,7 +849,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "1280",
       "nazwisko_imie": "STAŃKOWSKI Aleksander",
       "tytul_kategoria": "I++",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "1422",
       "nazwisko_imie": "PIEKAŁKIEWICZ Leon",
       "tytul_kategoria": "I",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "1394",
       "nazwisko_imie": "MAŁECKI Eugeniusz",
       "tytul_kategoria": "I++",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "7867",
       "nazwisko_imie": "MISZTELA Michał",
       "tytul_kategoria": "II",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "6965",
       "nazwisko_imie": "GĄBKA Paweł",
       "tytul_kategoria": "I+",
       "rank_fide": "1941",
       "klub": "S.I.S.G. OBRA-WARTA",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "1281",
+      "nazwisko_imie": "STÓJ Dariusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1939",
+      "klub": "",
       "wojewodztwo_zwiazek": "LB"
     }
   ]
