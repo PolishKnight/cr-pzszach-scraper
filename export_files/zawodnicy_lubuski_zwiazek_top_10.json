@@ -1,22 +1,22 @@
 {
-  "createdAt": "2026-05-31T06:13:28.634Z",
+  "createdAt": "2026-06-01T06:50:17.247Z",
   "totalRecords": 10,
   "data": [
     {
       "id": "1",
-      "id_pzszach": "1247",
-      "nazwisko_imie": "DRAGUN Kamil",
+      "id_pzszach": "23258",
+      "nazwisko_imie": "JANIK Igor",
       "tytul_kategoria": "GM",
-      "rank_fide": "2512",
+      "rank_fide": "2523",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
     {
       "id": "2",
-      "id_pzszach": "23258",
-      "nazwisko_imie": "JANIK Igor",
+      "id_pzszach": "1247",
+      "nazwisko_imie": "DRAGUN Kamil",
       "tytul_kategoria": "GM",
-      "rank_fide": "2504",
+      "rank_fide": "2512",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -70,7 +70,7 @@
       "id_pzszach": "1252",
       "nazwisko_imie": "KLIM Kamil",
       "tytul_kategoria": "M",
-      "rank_fide": "2362",
+      "rank_fide": "2361",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },

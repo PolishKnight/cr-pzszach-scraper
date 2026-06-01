@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-31T06:13:39.547Z",
+  "createdAt": "2026-06-01T06:50:29.204Z",
   "totalRecords": 10,
   "data": [
     {
@@ -31,6 +31,15 @@
     },
     {
       "id": "4",
+      "id_pzszach": "77433",
+      "nazwisko_imie": "MURAWSKI Jan",
+      "tytul_kategoria": "V",
+      "rank_fide": "2251",
+      "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "5",
       "id_pzszach": "6450",
       "nazwisko_imie": "LISTEWNIK Zbigniew",
       "tytul_kategoria": "K",
@@ -39,7 +48,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "5",
+      "id": "6",
       "id_pzszach": "6496",
       "nazwisko_imie": "PROBOLA Grzegorz",
       "tytul_kategoria": "K",
@@ -48,7 +57,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "6",
+      "id": "7",
       "id_pzszach": "6527",
       "nazwisko_imie": "SKRZYPCZAK Jerzy",
       "tytul_kategoria": "K",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "6380",
       "nazwisko_imie": "DĄBROWSKI Wojciech",
       "tytul_kategoria": "K",
@@ -66,7 +75,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "6455",
       "nazwisko_imie": "MAŁACHOWSKI Tomasz",
       "tytul_kategoria": "K",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "6520",
       "nazwisko_imie": "SINICA Jan",
       "tytul_kategoria": "K",
       "rank_fide": "2235",
       "klub": "",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "6417",
-      "nazwisko_imie": "KAŹMIERCZAK Rafał",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2202",
-      "klub": "UKS KOPERNIK Olsztyn",
       "wojewodztwo_zwiazek": "WM"
     }
   ]

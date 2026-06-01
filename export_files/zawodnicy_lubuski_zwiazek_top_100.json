@@ -1,22 +1,22 @@
 {
-  "createdAt": "2026-05-31T06:13:28.635Z",
+  "createdAt": "2026-06-01T06:50:17.247Z",
   "totalRecords": 100,
   "data": [
     {
       "id": "1",
-      "id_pzszach": "1247",
-      "nazwisko_imie": "DRAGUN Kamil",
+      "id_pzszach": "23258",
+      "nazwisko_imie": "JANIK Igor",
       "tytul_kategoria": "GM",
-      "rank_fide": "2512",
+      "rank_fide": "2523",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
     {
       "id": "2",
-      "id_pzszach": "23258",
-      "nazwisko_imie": "JANIK Igor",
+      "id_pzszach": "1247",
+      "nazwisko_imie": "DRAGUN Kamil",
       "tytul_kategoria": "GM",
-      "rank_fide": "2504",
+      "rank_fide": "2512",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -70,7 +70,7 @@
       "id_pzszach": "1252",
       "nazwisko_imie": "KLIM Kamil",
       "tytul_kategoria": "M",
-      "rank_fide": "2362",
+      "rank_fide": "2361",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -133,7 +133,7 @@
       "id_pzszach": "42480",
       "nazwisko_imie": "REDZISZ Michał",
       "tytul_kategoria": "FM",
-      "rank_fide": "2265",
+      "rank_fide": "2272",
       "klub": "KSz ODRODZENIE Kożuchów",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -319,15 +319,6 @@
     },
     {
       "id": "36",
-      "id_pzszach": "1354",
-      "nazwisko_imie": "DĄBROWSKI Grzegorz",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2149",
-      "klub": "LKSz CAISSA Lubsko",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "37",
       "id_pzszach": "1424",
       "nazwisko_imie": "POLAŃSKI Edward",
       "tytul_kategoria": "K",
@@ -336,7 +327,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "38",
+      "id": "37",
       "id_pzszach": "1278",
       "nazwisko_imie": "ZEMBATY Marek",
       "tytul_kategoria": "I",
@@ -345,7 +336,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "39",
+      "id": "38",
       "id_pzszach": "9795",
       "nazwisko_imie": "KOITKA Jakub",
       "tytul_kategoria": "I++",
@@ -354,7 +345,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "40",
+      "id": "39",
       "id_pzszach": "1453",
       "nazwisko_imie": "TRUSEWICZ Janusz",
       "tytul_kategoria": "K",
@@ -363,12 +354,21 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "41",
+      "id": "40",
       "id_pzszach": "1369",
       "nazwisko_imie": "GROBELNY Alojzy",
       "tytul_kategoria": "K",
       "rank_fide": "2134",
       "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "1354",
+      "nazwisko_imie": "DĄBROWSKI Grzegorz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2129",
+      "klub": "LKSz CAISSA Lubsko",
       "wojewodztwo_zwiazek": "LB"
     },
     {
@@ -418,15 +418,6 @@
     },
     {
       "id": "47",
-      "id_pzszach": "4456",
-      "nazwisko_imie": "KUMALA Aleksander",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2113",
-      "klub": "KSz ODRODZENIE Kożuchów",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "48",
       "id_pzszach": "1335",
       "nazwisko_imie": "BIELIŃSKI Dariusz",
       "tytul_kategoria": "CM",
@@ -435,7 +426,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "49",
+      "id": "48",
       "id_pzszach": "8109",
       "nazwisko_imie": "ŚWIDERSKI Radosław",
       "tytul_kategoria": "K",
@@ -444,12 +435,21 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "50",
+      "id": "49",
       "id_pzszach": "1435",
       "nazwisko_imie": "SIEKAŃSKA Izabela",
       "tytul_kategoria": "WFM",
       "rank_fide": "2110",
       "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "4456",
+      "nazwisko_imie": "KUMALA Aleksander",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2105",
+      "klub": "KSz ODRODZENIE Kożuchów",
       "wojewodztwo_zwiazek": "LB"
     },
     {
@@ -481,20 +481,20 @@
     },
     {
       "id": "54",
+      "id_pzszach": "74104",
+      "nazwisko_imie": "JABŁOŃSKI Wojciech",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2092",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "55",
       "id_pzszach": "1351",
       "nazwisko_imie": "CZERNIAWSKI Marek",
       "tytul_kategoria": "I",
       "rank_fide": "2088",
       "klub": "",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "55",
-      "id_pzszach": "76625",
-      "nazwisko_imie": "RÓŻAŃSKI Mateusz",
-      "tytul_kategoria": "K",
-      "rank_fide": "2086",
-      "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
     {
@@ -553,6 +553,15 @@
     },
     {
       "id": "62",
+      "id_pzszach": "76625",
+      "nazwisko_imie": "RÓŻAŃSKI Mateusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2070",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "63",
       "id_pzszach": "27229",
       "nazwisko_imie": "JANKOWIAK Tomasz",
       "tytul_kategoria": "CM",
@@ -561,7 +570,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "63",
+      "id": "64",
       "id_pzszach": "21712",
       "nazwisko_imie": "JANKOWIAK Piotr",
       "tytul_kategoria": "K",
@@ -570,7 +579,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "64",
+      "id": "65",
       "id_pzszach": "1292",
       "nazwisko_imie": "NOWACKI Adrian",
       "tytul_kategoria": "I",
@@ -579,7 +588,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "65",
+      "id": "66",
       "id_pzszach": "1376",
       "nazwisko_imie": "KARANOWSKI Robert",
       "tytul_kategoria": "I+",
@@ -588,7 +597,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "66",
+      "id": "67",
       "id_pzszach": "1411",
       "nazwisko_imie": "OGRABEK Grzegorz",
       "tytul_kategoria": "CM",
@@ -597,7 +606,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "67",
+      "id": "68",
       "id_pzszach": "1233",
       "nazwisko_imie": "MAĆKÓW Paweł",
       "tytul_kategoria": "I+",
@@ -606,21 +615,12 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "68",
+      "id": "69",
       "id_pzszach": "1370",
       "nazwisko_imie": "JABŁOŃSKI Waldemar",
       "tytul_kategoria": "I",
       "rank_fide": "2034",
       "klub": "KSz ODRODZENIE Kożuchów",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "69",
-      "id_pzszach": "1449",
-      "nazwisko_imie": "SZYLKO Waldemar",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2024",
-      "klub": "LKSz CAISSA Lubsko",
       "wojewodztwo_zwiazek": "LB"
     },
     {
@@ -634,15 +634,6 @@
     },
     {
       "id": "71",
-      "id_pzszach": "74104",
-      "nazwisko_imie": "JABŁOŃSKI Wojciech",
-      "tytul_kategoria": "I+",
-      "rank_fide": "2020",
-      "klub": "KSz Stilon Gorzów Wlkp.",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "72",
       "id_pzszach": "39053",
       "nazwisko_imie": "CZARNIECKA Aleksandra",
       "tytul_kategoria": "M",
@@ -651,7 +642,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "73",
+      "id": "72",
       "id_pzszach": "1457",
       "nazwisko_imie": "WILMIŃSKI Łukasz",
       "tytul_kategoria": "I",
@@ -660,7 +651,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "74",
+      "id": "73",
       "id_pzszach": "118452",
       "nazwisko_imie": "KRASENKOWA Elena",
       "tytul_kategoria": "WIM",
@@ -669,7 +660,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "75",
+      "id": "74",
       "id_pzszach": "50146",
       "nazwisko_imie": "CZECHOWSKI Jakub",
       "tytul_kategoria": "I++",
@@ -678,7 +669,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "76",
+      "id": "75",
       "id_pzszach": "97",
       "nazwisko_imie": "ADAMKOWICZ Zdzisław",
       "tytul_kategoria": "I",
@@ -687,7 +678,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "77",
+      "id": "76",
       "id_pzszach": "7859",
       "nazwisko_imie": "MIELCZARKOWSKI Adam",
       "tytul_kategoria": "I",
@@ -696,7 +687,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "78",
+      "id": "77",
       "id_pzszach": "74103",
       "nazwisko_imie": "JABŁOŃSKI Antoni",
       "tytul_kategoria": "I+",
@@ -705,7 +696,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "79",
+      "id": "78",
       "id_pzszach": "7843",
       "nazwisko_imie": "MAJKOWSKI Andrzej",
       "tytul_kategoria": "I",
@@ -714,7 +705,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "80",
+      "id": "79",
       "id_pzszach": "6741",
       "nazwisko_imie": "IWIŃSKI Grzegorz",
       "tytul_kategoria": "I",
@@ -723,7 +714,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "81",
+      "id": "80",
       "id_pzszach": "8236",
       "nazwisko_imie": "SZYLKO Remigiusz",
       "tytul_kategoria": "II",
@@ -732,7 +723,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "82",
+      "id": "81",
       "id_pzszach": "1405",
       "nazwisko_imie": "MIŁASZEWSKI Henryk",
       "tytul_kategoria": "I",
@@ -741,7 +732,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "83",
+      "id": "82",
       "id_pzszach": "8099",
       "nazwisko_imie": "GRABOWSKI Jan",
       "tytul_kategoria": "II",
@@ -750,7 +741,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "84",
+      "id": "83",
       "id_pzszach": "1269",
       "nazwisko_imie": "WODNICZAK Arkadiusz",
       "tytul_kategoria": "I",
@@ -759,7 +750,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "85",
+      "id": "84",
       "id_pzszach": "1251",
       "nazwisko_imie": "KLIM Artur",
       "tytul_kategoria": "I",
@@ -768,21 +759,30 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
+      "id": "85",
+      "id_pzszach": "94620",
+      "nazwisko_imie": "MATACZYNA Aleksandra",
+      "tytul_kategoria": "K",
+      "rank_fide": "1980",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
       "id": "86",
+      "id_pzszach": "1449",
+      "nazwisko_imie": "SZYLKO Waldemar",
+      "tytul_kategoria": "K+",
+      "rank_fide": "1978",
+      "klub": "LKSz CAISSA Lubsko",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "87",
       "id_pzszach": "7984",
       "nazwisko_imie": "SZEWCZYK Janusz",
       "tytul_kategoria": "I",
       "rank_fide": "1978",
       "klub": "",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "87",
-      "id_pzszach": "94620",
-      "nazwisko_imie": "MATACZYNA Aleksandra",
-      "tytul_kategoria": "K",
-      "rank_fide": "1973",
-      "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
     {

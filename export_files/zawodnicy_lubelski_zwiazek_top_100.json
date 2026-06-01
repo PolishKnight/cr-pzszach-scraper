@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-31T06:13:30.103Z",
+  "createdAt": "2026-06-01T06:50:18.899Z",
   "totalRecords": 100,
   "data": [
     {
@@ -34,7 +34,7 @@
       "id_pzszach": "2013",
       "nazwisko_imie": "DOBOSZ Henryk",
       "tytul_kategoria": "IM",
-      "rank_fide": "2310",
+      "rank_fide": "2309",
       "klub": "SSz Cebularz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
@@ -238,6 +238,15 @@
     },
     {
       "id": "27",
+      "id_pzszach": "47233",
+      "nazwisko_imie": "IWAŃCZUK Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2109",
+      "klub": "MKS AGROS Chełm",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "28",
       "id_pzszach": "1999",
       "nazwisko_imie": "BIELAK Paweł",
       "tytul_kategoria": "I",
@@ -246,7 +255,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "28",
+      "id": "29",
       "id_pzszach": "2056",
       "nazwisko_imie": "KOMORZYCKI Jakub",
       "tytul_kategoria": "K",
@@ -255,7 +264,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "29",
+      "id": "30",
       "id_pzszach": "2116",
       "nazwisko_imie": "PROBOLA Ryszard",
       "tytul_kategoria": "K",
@@ -264,7 +273,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "30",
+      "id": "31",
       "id_pzszach": "1982",
       "nazwisko_imie": "PROBOLA Bartosz",
       "tytul_kategoria": "K",
@@ -273,7 +282,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "31",
+      "id": "32",
       "id_pzszach": "2111",
       "nazwisko_imie": "POLKOWSKI Piotr",
       "tytul_kategoria": "K",
@@ -282,7 +291,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "32",
+      "id": "33",
       "id_pzszach": "1986",
       "nazwisko_imie": "ŻĄDŁO Tomasz",
       "tytul_kategoria": "I++",
@@ -291,7 +300,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "33",
+      "id": "34",
       "id_pzszach": "6467",
       "nazwisko_imie": "MICHAŁEK Bartosz",
       "tytul_kategoria": "I",
@@ -300,7 +309,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "34",
+      "id": "35",
       "id_pzszach": "85830",
       "nazwisko_imie": "BARAN Franciszek",
       "tytul_kategoria": "I++",
@@ -309,7 +318,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "35",
+      "id": "36",
       "id_pzszach": "1901",
       "nazwisko_imie": "KWIECIEŃ Joanna",
       "tytul_kategoria": "K+",
@@ -318,21 +327,12 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "36",
+      "id": "37",
       "id_pzszach": "1923",
       "nazwisko_imie": "DYMEK Łukasz",
       "tytul_kategoria": "K",
       "rank_fide": "2082",
       "klub": "SSz Cebularz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "37",
-      "id_pzszach": "47233",
-      "nazwisko_imie": "IWAŃCZUK Krzysztof",
-      "tytul_kategoria": "K",
-      "rank_fide": "2082",
-      "klub": "MKS AGROS Chełm",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -616,15 +616,6 @@
     },
     {
       "id": "69",
-      "id_pzszach": "1973",
-      "nazwisko_imie": "KOWALCZYK Marian",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1941",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "70",
       "id_pzszach": "24298",
       "nazwisko_imie": "CYMBAŁA Ireneusz",
       "tytul_kategoria": "I",
@@ -633,7 +624,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "71",
+      "id": "70",
       "id_pzszach": "24315",
       "nazwisko_imie": "DERUŚ Jerzy",
       "tytul_kategoria": "II+",
@@ -642,7 +633,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "72",
+      "id": "71",
       "id_pzszach": "1894",
       "nazwisko_imie": "SZPAKIEWICZ Andrzej",
       "tytul_kategoria": "II+",
@@ -651,12 +642,21 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "73",
+      "id": "72",
       "id_pzszach": "10566",
       "nazwisko_imie": "ŻĄDŁO Maciej",
       "tytul_kategoria": "I",
       "rank_fide": "1927",
       "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "73",
+      "id_pzszach": "1973",
+      "nazwisko_imie": "KOWALCZYK Marian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1918",
+      "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {

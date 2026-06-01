@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-31T06:13:27.402Z",
+  "createdAt": "2026-06-01T06:50:15.906Z",
   "totalRecords": 100,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "9807",
       "nazwisko_imie": "HERA Imre",
       "tytul_kategoria": "GM",
-      "rank_fide": "2503",
+      "rank_fide": "2505",
       "klub": "UKS ROTMISTRZ Grudziądz",
       "wojewodztwo_zwiazek": "KP"
     },
@@ -16,7 +16,7 @@
       "id_pzszach": "4353",
       "nazwisko_imie": "NASUTA Grzegorz",
       "tytul_kategoria": "GM",
-      "rank_fide": "2498",
+      "rank_fide": "2495",
       "klub": "KS GWIAZDA Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
@@ -31,20 +31,20 @@
     },
     {
       "id": "4",
-      "id_pzszach": "1343",
-      "nazwisko_imie": "BRODOWSKI Piotr",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2464",
-      "klub": "BKS CHEMIK Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "5",
       "id_pzszach": "925",
       "nazwisko_imie": "DROZDOWSKI Kacper",
       "tytul_kategoria": "IM",
       "rank_fide": "2461",
       "klub": "UKS ROTMISTRZ Grudziądz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "1343",
+      "nazwisko_imie": "BRODOWSKI Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2456",
+      "klub": "BKS CHEMIK Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -409,6 +409,15 @@
     },
     {
       "id": "46",
+      "id_pzszach": "871",
+      "nazwisko_imie": "ŚLIWICKI Damian",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2150",
+      "klub": "UKS OPP Toruń",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "47",
       "id_pzszach": "1023",
       "nazwisko_imie": "KRUŻYŃSKI Wiesław",
       "tytul_kategoria": "I+",
@@ -417,7 +426,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "47",
+      "id": "48",
       "id_pzszach": "1033",
       "nazwisko_imie": "KUKUŁA Paweł",
       "tytul_kategoria": "M",
@@ -426,7 +435,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "48",
+      "id": "49",
       "id_pzszach": "11458",
       "nazwisko_imie": "ZIÓŁKOWSKI Dawid",
       "tytul_kategoria": "K",
@@ -435,21 +444,12 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "49",
+      "id": "50",
       "id_pzszach": "11823",
       "nazwisko_imie": "DROZDOWSKI Konrad",
       "tytul_kategoria": "K",
       "rank_fide": "2142",
       "klub": "AZS UMK Toruń",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "50",
-      "id_pzszach": "871",
-      "nazwisko_imie": "ŚLIWICKI Damian",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2141",
-      "klub": "UKS OPP Toruń",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -562,20 +562,20 @@
     },
     {
       "id": "63",
+      "id_pzszach": "1100",
+      "nazwisko_imie": "PAPROCKI Jarosław",
+      "tytul_kategoria": "K++",
+      "rank_fide": "2096",
+      "klub": "PKS WIATRAK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "64",
       "id_pzszach": "908",
       "nazwisko_imie": "BUGALSKI Łukasz",
       "tytul_kategoria": "I++",
       "rank_fide": "2094",
       "klub": "ŻTMS BASZTA Żnin",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "64",
-      "id_pzszach": "1100",
-      "nazwisko_imie": "PAPROCKI Jarosław",
-      "tytul_kategoria": "K++",
-      "rank_fide": "2093",
-      "klub": "PKS WIATRAK Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -652,15 +652,6 @@
     },
     {
       "id": "73",
-      "id_pzszach": "68309",
-      "nazwisko_imie": "ZAJĄC Szymon",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2076",
-      "klub": "BKS CHEMIK Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "74",
       "id_pzszach": "706",
       "nazwisko_imie": "KURLENDA Alicja",
       "tytul_kategoria": "M",
@@ -669,7 +660,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "75",
+      "id": "74",
       "id_pzszach": "780",
       "nazwisko_imie": "BAUMANN Dariusz",
       "tytul_kategoria": "K",
@@ -678,10 +669,19 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "76",
+      "id": "75",
       "id_pzszach": "980",
       "nazwisko_imie": "JAKUBOWSKI Jarosław",
       "tytul_kategoria": "K",
+      "rank_fide": "2072",
+      "klub": "BKS CHEMIK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "68309",
+      "nazwisko_imie": "ZAJĄC Szymon",
+      "tytul_kategoria": "I++",
       "rank_fide": "2072",
       "klub": "BKS CHEMIK Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"

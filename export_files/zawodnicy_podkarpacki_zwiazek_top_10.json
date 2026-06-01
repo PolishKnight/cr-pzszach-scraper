@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-31T06:13:34.193Z",
+  "createdAt": "2026-06-01T06:50:23.441Z",
   "totalRecords": 10,
   "data": [
     {
@@ -40,6 +40,15 @@
     },
     {
       "id": "5",
+      "id_pzszach": "68423",
+      "nazwisko_imie": "ZIELONKA Adam",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2420",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "6",
       "id_pzszach": "43029",
       "nazwisko_imie": "CZERNEK Tymon",
       "tytul_kategoria": "FM",
@@ -48,48 +57,39 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "6",
+      "id": "7",
       "id_pzszach": "45824",
       "nazwisko_imie": "TURSKI Bartłomiej",
       "tytul_kategoria": "FM",
-      "rank_fide": "2412",
+      "rank_fide": "2406",
       "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "7",
-      "id_pzszach": "87285",
-      "nazwisko_imie": "RADZIMSKI Antoni",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2399",
-      "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "8",
-      "id_pzszach": "68423",
-      "nazwisko_imie": "ZIELONKA Adam",
+      "id_pzszach": "87285",
+      "nazwisko_imie": "RADZIMSKI Antoni",
       "tytul_kategoria": "FM",
-      "rank_fide": "2381",
-      "klub": "KSz OZ Rzeszów",
+      "rank_fide": "2394",
+      "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "9",
-      "id_pzszach": "47163",
-      "nazwisko_imie": "CHYŻY Jakub",
+      "id_pzszach": "86560",
+      "nazwisko_imie": "GOLIS Wiktor",
       "tytul_kategoria": "FM",
-      "rank_fide": "2361",
+      "rank_fide": "2367",
       "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "10",
-      "id_pzszach": "2593",
-      "nazwisko_imie": "BRZESKI Maciej",
-      "tytul_kategoria": "M",
-      "rank_fide": "2357",
-      "klub": "LKS PARNAS Stara Wieś",
+      "id_pzszach": "47163",
+      "nazwisko_imie": "CHYŻY Jakub",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2361",
+      "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     }
   ]

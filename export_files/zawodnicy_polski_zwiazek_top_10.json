@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-31T06:13:17.421Z",
+  "createdAt": "2026-06-01T06:50:05.268Z",
   "totalRecords": 10,
   "data": [
     {
@@ -25,7 +25,7 @@
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
-      "rank_fide": "2624",
+      "rank_fide": "2639",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -43,7 +43,7 @@
       "id_pzszach": "21423",
       "nazwisko_imie": "FEDORCHUK Sergey A",
       "tytul_kategoria": "GM",
-      "rank_fide": "2585",
+      "rank_fide": "2593",
       "klub": "MCKiS Jaworzno",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -58,21 +58,21 @@
     },
     {
       "id": "7",
-      "id_pzszach": "27071",
-      "nazwisko_imie": "TECLAF Paweł",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2573",
-      "klub": "KKS ORMUZD Kartuzy",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "8",
       "id_pzszach": "33553",
       "nazwisko_imie": "ZHIGALKO Sergei",
       "tytul_kategoria": "",
       "rank_fide": "2572",
       "klub": "",
       "wojewodztwo_zwiazek": ""
+    },
+    {
+      "id": "8",
+      "id_pzszach": "27071",
+      "nazwisko_imie": "TECLAF Paweł",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2571",
+      "klub": "KKS ORMUZD Kartuzy",
+      "wojewodztwo_zwiazek": "PO"
     },
     {
       "id": "9",

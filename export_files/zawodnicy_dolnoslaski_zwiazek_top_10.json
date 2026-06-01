@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-31T06:13:26.120Z",
+  "createdAt": "2026-06-01T06:50:14.597Z",
   "totalRecords": 10,
   "data": [
     {
@@ -34,7 +34,7 @@
       "id_pzszach": "27934",
       "nazwisko_imie": "KOSAKOWSKI Jakub",
       "tytul_kategoria": "GM",
-      "rank_fide": "2550",
+      "rank_fide": "2549",
       "klub": "KSz. WIEŻA Pęgów",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -58,15 +58,6 @@
     },
     {
       "id": "7",
-      "id_pzszach": "49998",
-      "nazwisko_imie": "MASTROVASILIS Dimitrios",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2527",
-      "klub": "KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "8",
       "id_pzszach": "5028",
       "nazwisko_imie": "MORANDA Wojciech",
       "tytul_kategoria": "GM",
@@ -75,21 +66,30 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "9",
-      "id_pzszach": "50004",
-      "nazwisko_imie": "SIVUK Vitaly",
-      "tytul_kategoria": "",
-      "rank_fide": "2517",
-      "klub": "KSz. WIEŻA Pęgów",
+      "id": "8",
+      "id_pzszach": "49998",
+      "nazwisko_imie": "MASTROVASILIS Dimitrios",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2525",
+      "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "2736",
       "nazwisko_imie": "KEMPIŃSKI Robert",
       "tytul_kategoria": "GM",
       "rank_fide": "2516",
       "klub": "KSz MIEDŹ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "50004",
+      "nazwisko_imie": "SIVUK Vitaly",
+      "tytul_kategoria": "",
+      "rank_fide": "2511",
+      "klub": "KSz. WIEŻA Pęgów",
       "wojewodztwo_zwiazek": "DS"
     }
   ]
