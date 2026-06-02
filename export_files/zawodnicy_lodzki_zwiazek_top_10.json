@@ -1,18 +1,9 @@
 {
-  "createdAt": "2026-06-01T06:50:18.070Z",
+  "createdAt": "2026-06-02T06:38:01.552Z",
   "totalRecords": 10,
   "data": [
     {
       "id": "1",
-      "id_pzszach": "38364",
-      "nazwisko_imie": "PSYK Radosław",
-      "tytul_kategoria": "K++",
-      "rank_fide": "2496",
-      "klub": "KSz PIĄTKA Skierniewice",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "2",
       "id_pzszach": "1803",
       "nazwisko_imie": "SOPUR Lech",
       "tytul_kategoria": "M",
@@ -21,7 +12,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "3",
+      "id": "2",
       "id_pzszach": "1750",
       "nazwisko_imie": "LUCZAK Andrzej",
       "tytul_kategoria": "IM",
@@ -30,7 +21,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "4",
+      "id": "3",
       "id_pzszach": "1834",
       "nazwisko_imie": "WOLNY Ryszard",
       "tytul_kategoria": "FM",
@@ -39,7 +30,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "5",
+      "id": "4",
       "id_pzszach": "1814",
       "nazwisko_imie": "ŚWIĆ Waldemar",
       "tytul_kategoria": "FM",
@@ -48,7 +39,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "6",
+      "id": "5",
       "id_pzszach": "1538",
       "nazwisko_imie": "MACHAJ Andrzej",
       "tytul_kategoria": "K",
@@ -57,7 +48,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "7",
+      "id": "6",
       "id_pzszach": "1844",
       "nazwisko_imie": "ZIELIŃSKI Marek",
       "tytul_kategoria": "M",
@@ -66,7 +57,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "1800",
       "nazwisko_imie": "SKÓRA Waldemar",
       "tytul_kategoria": "K",
@@ -75,7 +66,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "9",
+      "id": "8",
       "id_pzszach": "61673",
       "nazwisko_imie": "ZALEGA Maciej",
       "tytul_kategoria": "K+",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "1740",
       "nazwisko_imie": "KWIECIŃSKI Ryszard",
       "tytul_kategoria": "K",
       "rank_fide": "2239",
       "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "70172",
+      "nazwisko_imie": "ROSA Antoni",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2239",
+      "klub": "Hetman Żelechlinek",
       "wojewodztwo_zwiazek": "LD"
     }
   ]
