@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-06-04T06:38:50.691Z",
-  "totalRecords": 51,
+  "createdAt": "2026-06-05T06:17:38.493Z",
+  "totalRecords": 52,
   "data": [
     {
       "id": "1",
@@ -474,6 +474,16 @@
     },
     {
       "id": "48",
+      "nr_pzszach": "1121/MP",
+      "nazwa": "UKS PLON Krzywaczka",
+      "miasto": "Krzywaczka",
+      "licencja": "",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "49",
       "nr_pzszach": "876/MP",
       "nazwa": "ULKS LIPINKI",
       "miasto": "Lipinki",
@@ -483,7 +493,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "49",
+      "id": "50",
       "nr_pzszach": "1093/MP",
       "nazwa": "Akademia Szachowa OPP Andrychów",
       "miasto": "Andrychów",
@@ -493,7 +503,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "50",
+      "id": "51",
       "nr_pzszach": "301/MP",
       "nazwa": "UKS przy SP 8 Chrzanów",
       "miasto": "Chrzanów",
@@ -503,7 +513,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "51",
+      "id": "52",
       "nr_pzszach": "922/MP",
       "nazwa": "WKS Uran Łukowica",
       "miasto": "Łukowica",
