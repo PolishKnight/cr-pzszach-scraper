@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-05T06:17:43.220Z",
+  "createdAt": "2026-06-06T05:50:49.325Z",
   "totalRecords": 500,
   "data": [
     {
@@ -3100,6 +3100,15 @@
     },
     {
       "id": "345",
+      "id_pzszach": "62046",
+      "nazwisko_imie": "SŁONIEWSKI Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1450",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "346",
       "id_pzszach": "95200",
       "nazwisko_imie": "CADERA Ignacy",
       "tytul_kategoria": "III",
@@ -3108,7 +3117,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "346",
+      "id": "347",
       "id_pzszach": "67769",
       "nazwisko_imie": "GRUDZIEŃ Mariusz",
       "tytul_kategoria": "III",
@@ -3117,7 +3126,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "347",
+      "id": "348",
       "id_pzszach": "112517",
       "nazwisko_imie": "BILSKI Mateusz",
       "tytul_kategoria": "II",
@@ -3126,7 +3135,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "348",
+      "id": "349",
       "id_pzszach": "145084",
       "nazwisko_imie": "TUŹNIK Nikodem",
       "tytul_kategoria": "III",
@@ -3135,7 +3144,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "349",
+      "id": "350",
       "id_pzszach": "114245",
       "nazwisko_imie": "KOSIARZ Jan",
       "tytul_kategoria": "III",
@@ -3144,7 +3153,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "350",
+      "id": "351",
       "id_pzszach": "103033",
       "nazwisko_imie": "SZCZUKIEWICZ Alicja",
       "tytul_kategoria": "II",
@@ -3153,7 +3162,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "351",
+      "id": "352",
       "id_pzszach": "91897",
       "nazwisko_imie": "DUDEK Michał",
       "tytul_kategoria": "III",
@@ -3162,7 +3171,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "352",
+      "id": "353",
       "id_pzszach": "87151",
       "nazwisko_imie": "Kot Aleksander",
       "tytul_kategoria": "III",
@@ -3171,7 +3180,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "353",
+      "id": "354",
       "id_pzszach": "108670",
       "nazwisko_imie": "STELMACH Tomasz",
       "tytul_kategoria": "II",
@@ -3180,7 +3189,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "354",
+      "id": "355",
       "id_pzszach": "136759",
       "nazwisko_imie": "PRUSKO Paweł",
       "tytul_kategoria": "III",
@@ -3189,7 +3198,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "355",
+      "id": "356",
       "id_pzszach": "65016",
       "nazwisko_imie": "WDOWIAK Mikołaj",
       "tytul_kategoria": "III",
@@ -3198,7 +3207,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "356",
+      "id": "357",
       "id_pzszach": "82263",
       "nazwisko_imie": "SZYMAŃSKI Jakub",
       "tytul_kategoria": "II",
@@ -3207,7 +3216,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "357",
+      "id": "358",
       "id_pzszach": "49408",
       "nazwisko_imie": "KARYŚ Katarzyna",
       "tytul_kategoria": "II",
@@ -3216,7 +3225,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "358",
+      "id": "359",
       "id_pzszach": "95233",
       "nazwisko_imie": "JANIK Marek",
       "tytul_kategoria": "II",
@@ -3225,7 +3234,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "359",
+      "id": "360",
       "id_pzszach": "97355",
       "nazwisko_imie": "RÓWNIAK Igor",
       "tytul_kategoria": "III",
@@ -3234,7 +3243,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "360",
+      "id": "361",
       "id_pzszach": "24827",
       "nazwisko_imie": "PASICKI Michał",
       "tytul_kategoria": "III",
@@ -3243,21 +3252,12 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "361",
+      "id": "362",
       "id_pzszach": "93346",
       "nazwisko_imie": "SZYMAŃSKI Adam",
       "tytul_kategoria": "III",
       "rank_fide": "1432",
       "klub": "MGDK Końskie",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "362",
-      "id_pzszach": "62046",
-      "nazwisko_imie": "SŁONIEWSKI Wojciech",
-      "tytul_kategoria": "II",
-      "rank_fide": "1425",
-      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
       "wojewodztwo_zwiazek": "SK"
     },
     {
