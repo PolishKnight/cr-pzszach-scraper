@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-12T06:29:32.310Z",
+  "createdAt": "2026-06-13T06:12:02.054Z",
   "totalRecords": 500,
   "data": [
     {
@@ -377,8 +377,8 @@
       "nazwisko_imie": "TAZBIR Marcin",
       "tytul_kategoria": "GM",
       "rank_fide": "2497",
-      "klub": "KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
+      "klub": "LKS WRZOS Międzyborów",
+      "wojewodztwo_zwiazek": "MA"
     },
     {
       "id": "43",
@@ -2879,8 +2879,8 @@
       "nazwisko_imie": "ANTOLAK Julia",
       "tytul_kategoria": "WGM",
       "rank_fide": "2296",
-      "klub": "GKSz SOLNY Grzybowo",
-      "wojewodztwo_zwiazek": "ZP"
+      "klub": "Akademia Szachowa Gliwice",
+      "wojewodztwo_zwiazek": "SL"
     },
     {
       "id": "321",
@@ -3930,7 +3930,7 @@
       "id": "437",
       "id_pzszach": "73484",
       "nazwisko_imie": "CHISZKO Oskar",
-      "tytul_kategoria": "K",
+      "tytul_kategoria": "FM",
       "rank_fide": "2253",
       "klub": "MUKS STOCZEK 45 Białystok",
       "wojewodztwo_zwiazek": "PL"
