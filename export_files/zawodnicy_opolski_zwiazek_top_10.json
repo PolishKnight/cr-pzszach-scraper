@@ -1,18 +1,9 @@
 {
-  "createdAt": "2026-06-25T06:01:40.006Z",
+  "createdAt": "2026-06-26T06:05:38.261Z",
   "totalRecords": 10,
   "data": [
     {
       "id": "1",
-      "id_pzszach": "38364",
-      "nazwisko_imie": "PSYK Radosław",
-      "tytul_kategoria": "K++",
-      "rank_fide": "2496",
-      "klub": "AZS KU Politechniki Opolskiej",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "2",
       "id_pzszach": "23608",
       "nazwisko_imie": "TOMCZAK Mikołaj",
       "tytul_kategoria": "IM",
@@ -21,7 +12,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "3",
+      "id": "2",
       "id_pzszach": "40265",
       "nazwisko_imie": "KOZAK Antoni",
       "tytul_kategoria": "M",
@@ -30,7 +21,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "4",
+      "id": "3",
       "id_pzszach": "9846",
       "nazwisko_imie": "KOVALEV Andrei",
       "tytul_kategoria": "GM",
@@ -39,7 +30,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "5",
+      "id": "4",
       "id_pzszach": "40872",
       "nazwisko_imie": "GODZWON Iwo",
       "tytul_kategoria": "FM",
@@ -48,7 +39,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "6",
+      "id": "5",
       "id_pzszach": "36952",
       "nazwisko_imie": "MIŚ Mieszko",
       "tytul_kategoria": "IM",
@@ -57,7 +48,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "7",
+      "id": "6",
       "id_pzszach": "56031",
       "nazwisko_imie": "NIEDBAŁA Bartłomiej",
       "tytul_kategoria": "IM",
@@ -66,7 +57,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "6209",
       "nazwisko_imie": "WIŚNIEWSKI Adrian",
       "tytul_kategoria": "FM",
@@ -75,7 +66,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "9",
+      "id": "8",
       "id_pzszach": "3268",
       "nazwisko_imie": "BARSKI Radosław",
       "tytul_kategoria": "IM",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "3539",
       "nazwisko_imie": "JANKOWSKI Jozef",
       "tytul_kategoria": "K",
       "rank_fide": "2310",
       "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "33657",
+      "nazwisko_imie": "OGŁAZA Oskar",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2310",
+      "klub": "UKS RODŁO Opole",
       "wojewodztwo_zwiazek": "OP"
     }
   ]

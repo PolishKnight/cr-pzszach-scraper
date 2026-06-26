@@ -1,18 +1,9 @@
 {
-  "createdAt": "2026-06-25T06:01:45.017Z",
+  "createdAt": "2026-06-26T06:05:43.125Z",
   "totalRecords": 10,
   "data": [
     {
       "id": "1",
-      "id_pzszach": "4888",
-      "nazwisko_imie": "WOJTASZEK Radosław",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2650",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "2",
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
@@ -21,7 +12,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "3",
+      "id": "2",
       "id_pzszach": "21423",
       "nazwisko_imie": "FEDORCHUK Sergey A",
       "tytul_kategoria": "GM",
@@ -30,7 +21,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "4",
+      "id": "3",
       "id_pzszach": "2844",
       "nazwisko_imie": "MITOŃ Kamil",
       "tytul_kategoria": "GM",
@@ -39,7 +30,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "5",
+      "id": "4",
       "id_pzszach": "4396",
       "nazwisko_imie": "WARAKOMSKI Tomasz",
       "tytul_kategoria": "GM",
@@ -48,7 +39,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "6",
+      "id": "5",
       "id_pzszach": "2966",
       "nazwisko_imie": "SOĆKO Bartosz",
       "tytul_kategoria": "GM",
@@ -57,7 +48,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "7",
+      "id": "6",
       "id_pzszach": "65730",
       "nazwisko_imie": "SEEMANN Jakub",
       "tytul_kategoria": "GM",
@@ -66,7 +57,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "2022",
       "nazwisko_imie": "GAJEWSKI Grzegorz",
       "tytul_kategoria": "GM",
@@ -75,7 +66,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "9",
+      "id": "8",
       "id_pzszach": "7250",
       "nazwisko_imie": "TOMCZAK Jacek",
       "tytul_kategoria": "GM",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "22548",
       "nazwisko_imie": "GAZIK Viktor",
       "tytul_kategoria": "IM",
       "rank_fide": "2529",
       "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "27232",
+      "nazwisko_imie": "HRACEK Zbynek",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2525",
+      "klub": "",
       "wojewodztwo_zwiazek": "SL"
     }
   ]

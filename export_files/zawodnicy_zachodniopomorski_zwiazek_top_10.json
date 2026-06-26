@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-25T06:01:48.642Z",
+  "createdAt": "2026-06-26T06:05:46.640Z",
   "totalRecords": 10,
   "data": [
     {
@@ -49,6 +49,15 @@
     },
     {
       "id": "6",
+      "id_pzszach": "17650",
+      "nazwisko_imie": "ANTOLAK Julia",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2296",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "7",
       "id_pzszach": "7480",
       "nazwisko_imie": "KULA Robert",
       "tytul_kategoria": "FM",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "7427",
       "nazwisko_imie": "CHOCHULSKI Artur",
       "tytul_kategoria": "K",
@@ -66,7 +75,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "82988",
       "nazwisko_imie": "ZARĘBA Piotr",
       "tytul_kategoria": "CM",
@@ -75,20 +84,11 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "7498",
       "nazwisko_imie": "MATUSIAK Janusz",
       "tytul_kategoria": "K",
       "rank_fide": "2235",
-      "klub": "KSz HETMAN Koszalin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "7323",
-      "nazwisko_imie": "MASŁOWSKI Michał",
-      "tytul_kategoria": "K",
-      "rank_fide": "2205",
       "klub": "KSz HETMAN Koszalin",
       "wojewodztwo_zwiazek": "ZP"
     }

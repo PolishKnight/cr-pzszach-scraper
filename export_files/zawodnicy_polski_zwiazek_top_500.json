@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-25T06:01:23.827Z",
+  "createdAt": "2026-06-26T06:05:22.207Z",
   "totalRecords": 500,
   "data": [
     {
@@ -17,8 +17,8 @@
       "nazwisko_imie": "WOJTASZEK Radosław",
       "tytul_kategoria": "GM",
       "rank_fide": "2650",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
+      "klub": "KS GWIAZDA Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
     },
     {
       "id": "3",
@@ -386,8 +386,8 @@
       "nazwisko_imie": "PSYK Radosław",
       "tytul_kategoria": "K++",
       "rank_fide": "2496",
-      "klub": "AZS KU Politechniki Opolskiej",
-      "wojewodztwo_zwiazek": "OP"
+      "klub": "KSz PIĄTKA Skierniewice",
+      "wojewodztwo_zwiazek": "LD"
     },
     {
       "id": "44",
@@ -449,7 +449,7 @@
       "nazwisko_imie": "RACZEK Krzysztof",
       "tytul_kategoria": "IM",
       "rank_fide": "2487",
-      "klub": "KSz Polonia Wrocław",
+      "klub": "Fundacja KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -1844,7 +1844,7 @@
       "nazwisko_imie": "TERKIEWICZ Bruno",
       "tytul_kategoria": "CM",
       "rank_fide": "2344",
-      "klub": "KS LAURA Chylice",
+      "klub": "",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -2879,8 +2879,8 @@
       "nazwisko_imie": "ANTOLAK Julia",
       "tytul_kategoria": "WGM",
       "rank_fide": "2296",
-      "klub": "Akademia Szachowa Gliwice",
-      "wojewodztwo_zwiazek": "SL"
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
     },
     {
       "id": "321",
