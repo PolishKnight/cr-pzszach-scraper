@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-06-27T05:49:56.366Z",
-  "totalRecords": 62,
+  "createdAt": "2026-06-28T06:12:56.197Z",
+  "totalRecords": 64,
   "data": [
     {
       "id": "1",
@@ -144,6 +144,16 @@
     },
     {
       "id": "15",
+      "nr_pzszach": "274/SL",
+      "nazwa": "KS UNIA Bieruń",
+      "miasto": "Bieruń",
+      "licencja": "12100015",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "600.00 PLN"
+    },
+    {
+      "id": "16",
       "nr_pzszach": "918/SL",
       "nazwa": "Klub Szachowy CAISSA Katowice",
       "miasto": "Katowice",
@@ -153,7 +163,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "16",
+      "id": "17",
       "nr_pzszach": "959/SL",
       "nazwa": "KSz GAMBIT Gorzyce",
       "miasto": "Gorzyce",
@@ -163,7 +173,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "17",
+      "id": "18",
       "nr_pzszach": "253/SL",
       "nazwa": "KSz GÓRNIK Lędziny",
       "miasto": "Lędziny",
@@ -173,7 +183,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "18",
+      "id": "19",
       "nr_pzszach": "247/SL",
       "nazwa": "KSz HETMAN Katowice",
       "miasto": "Katowice",
@@ -183,7 +193,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "19",
+      "id": "20",
       "nr_pzszach": "321/SL",
       "nazwa": "KSz SILESIA Racibórz",
       "miasto": "Racibórz",
@@ -193,7 +203,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "20",
+      "id": "21",
       "nr_pzszach": "691/SL",
       "nazwa": "KSz SKOCZEK Czerwionka-Leszczyny",
       "miasto": "Czerwionka-Leszczyny",
@@ -203,7 +213,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "21",
+      "id": "22",
       "nr_pzszach": "326/SL",
       "nazwa": "KSz ZEFIR Boguszowice",
       "miasto": "Rybnik-Boguszowice",
@@ -213,7 +223,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "22",
+      "id": "23",
       "nr_pzszach": "240/SL",
       "nazwa": "KŚ AZS Politechniki Śląskiej Gliwice",
       "miasto": "Gliwice",
@@ -223,7 +233,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "23",
+      "id": "24",
       "nr_pzszach": "860/SL",
       "nazwa": "LKS Orzeł Kozy",
       "miasto": "Kozy",
@@ -233,7 +243,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "24",
+      "id": "25",
       "nr_pzszach": "993/SL",
       "nazwa": "LKS GWIAZDA Skrzyszów",
       "miasto": "Skrzyszów",
@@ -243,7 +253,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "25",
+      "id": "26",
       "nr_pzszach": "803/SL",
       "nazwa": "LKS OLZA Pogwizdów",
       "miasto": "Pogwizdów",
@@ -253,7 +263,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "26",
+      "id": "27",
       "nr_pzszach": "635/SL",
       "nazwa": "LKS POLONIA Poraj",
       "miasto": "Poraj",
@@ -263,7 +273,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "27",
+      "id": "28",
       "nr_pzszach": "695/SL",
       "nazwa": "LKS SPARTA Lubliniec",
       "miasto": "Lubliniec",
@@ -273,7 +283,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "28",
+      "id": "29",
       "nr_pzszach": "745/SL",
       "nazwa": "LKS Strażak Zabrzeg",
       "miasto": "Zabrzeg",
@@ -283,7 +293,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "29",
+      "id": "30",
       "nr_pzszach": "823/SL",
       "nazwa": "LKS Tworków",
       "miasto": "Tworków",
@@ -293,7 +303,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "30",
+      "id": "31",
       "nr_pzszach": "245/SL",
       "nazwa": "LKS WISŁA Strumień",
       "miasto": "Strumień",
@@ -303,7 +313,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "31",
+      "id": "32",
       "nr_pzszach": "1076/SL",
       "nazwa": "Mały Mistrz Bielsko-Biała",
       "miasto": "Bielsko-Biała",
@@ -313,7 +323,17 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "32",
+      "id": "33",
+      "nr_pzszach": "994/SL",
+      "nazwa": "Miasto Sportu",
+      "miasto": "Częstochowa",
+      "licencja": "12100084",
+      "wojewodztwo_zwiazek": "SL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "400.00 PLN"
+    },
+    {
+      "id": "34",
       "nr_pzszach": "235/SL",
       "nazwa": "MKSz Rybnik",
       "miasto": "Rybnik",
@@ -323,7 +343,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "33",
+      "id": "35",
       "nr_pzszach": "516/SL",
       "nazwa": "MUKS SZS Cieszyn",
       "miasto": "Cieszyn",
@@ -333,7 +353,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "34",
+      "id": "36",
       "nr_pzszach": "306/SL",
       "nazwa": "MCKiS Jaworzno",
       "miasto": "Jaworzno",
@@ -343,7 +363,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "35",
+      "id": "37",
       "nr_pzszach": "712/SL",
       "nazwa": "MGOK Woźniki",
       "miasto": "Wożniki",
@@ -353,7 +373,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "36",
+      "id": "38",
       "nr_pzszach": "866/SL",
       "nazwa": "MDK nr 1 Bytom",
       "miasto": "Bytom",
@@ -363,7 +383,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "37",
+      "id": "39",
       "nr_pzszach": "837/SL",
       "nazwa": "MDK Chorzów",
       "miasto": "Chorzów",
@@ -373,7 +393,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "38",
+      "id": "40",
       "nr_pzszach": "473/SL",
       "nazwa": "MKSz DIAGONALIA Imielin",
       "miasto": "Imielin",
@@ -383,7 +403,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "39",
+      "id": "41",
       "nr_pzszach": "741/SL",
       "nazwa": "RKS MAT Ruda Śląska",
       "miasto": "Ruda Śląska",
@@ -393,7 +413,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "40",
+      "id": "42",
       "nr_pzszach": "713/SL",
       "nazwa": "Akademia Szachowa Gliwice",
       "miasto": "Gliwice",
@@ -403,7 +423,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "41",
+      "id": "43",
       "nr_pzszach": "1009/SL",
       "nazwa": "Stowarzyszenie Odkrywamy Talenty",
       "miasto": "Dąbrowa Górnicza",
@@ -413,7 +433,7 @@
       "oplata_roczna": "100.00 PLN"
     },
     {
-      "id": "42",
+      "id": "44",
       "nr_pzszach": "1030/SL",
       "nazwa": "Hetman Gliwice",
       "miasto": "Gliwice",
@@ -423,7 +443,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "43",
+      "id": "45",
       "nr_pzszach": "556/SL",
       "nazwa": "St Eurobeskidy Łodygowice",
       "miasto": "Łodygowice",
@@ -433,7 +453,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "44",
+      "id": "46",
       "nr_pzszach": "258/SL",
       "nazwa": "SSz GMINY PAWŁOWICE",
       "miasto": "Pawłowice",
@@ -443,7 +463,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "45",
+      "id": "47",
       "nr_pzszach": "1103/SL",
       "nazwa": "SSz LEŚNIK Istebna",
       "miasto": "Istebna",
@@ -453,7 +473,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "46",
+      "id": "48",
       "nr_pzszach": "836/SL",
       "nazwa": "SSz OLIMPIA Goleszów",
       "miasto": "Goleszów",
@@ -463,7 +483,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "47",
+      "id": "49",
       "nr_pzszach": "309/SL",
       "nazwa": "TG Mat",
       "miasto": "Tarnowskie Góry",
@@ -473,7 +493,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "48",
+      "id": "50",
       "nr_pzszach": "807/SL",
       "nazwa": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
       "miasto": "Dąbrowa Górnicza",
@@ -483,7 +503,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "49",
+      "id": "51",
       "nr_pzszach": "",
       "nazwa": "ŚLZSzach",
       "miasto": "Katowice",
@@ -493,7 +513,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "50",
+      "id": "52",
       "nr_pzszach": "320/SL",
       "nazwa": "TMS ROSZADA Gliwice",
       "miasto": "Gliwice",
@@ -503,7 +523,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "51",
+      "id": "53",
       "nr_pzszach": "812/SL",
       "nazwa": "UKS BASZTA Wodzisław Śląski",
       "miasto": "Wodzisław Śląski",
@@ -513,7 +533,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "52",
+      "id": "54",
       "nr_pzszach": "702/SL",
       "nazwa": "UKS 21 PODLESIE",
       "miasto": "Katowice",
@@ -523,7 +543,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "53",
+      "id": "55",
       "nr_pzszach": "898/SL",
       "nazwa": "UKS Dębowy Król Dąbrowa Górnicza",
       "miasto": "Dąbrowa Górnicza",
@@ -533,7 +553,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "54",
+      "id": "56",
       "nr_pzszach": "763/SL",
       "nazwa": "UKS G4 Tarnowskie Góry",
       "miasto": "Tarnowskie Góry",
@@ -543,7 +563,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "55",
+      "id": "57",
       "nr_pzszach": "231/SL",
       "nazwa": "UKS HETMAN Częstochowa",
       "miasto": "Częstochowa",
@@ -553,7 +573,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "56",
+      "id": "58",
       "nr_pzszach": "630/SL",
       "nazwa": "UKS OGNISKO Rydułtowy",
       "miasto": "Rydułtowy",
@@ -563,7 +583,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "57",
+      "id": "59",
       "nr_pzszach": "596/SL",
       "nazwa": "UKS Pałac Młodzieży Katowice",
       "miasto": "Katowice",
@@ -573,7 +593,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "58",
+      "id": "60",
       "nr_pzszach": "529/SL",
       "nazwa": "UKS PIONIER Jastrzębie-Zdrój",
       "miasto": "Jastrzębie-Zdrój",
@@ -583,7 +603,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "59",
+      "id": "61",
       "nr_pzszach": "956/SL",
       "nazwa": "UKS SOKÓŁ Zbrosławice",
       "miasto": "Zbrosławice",
@@ -593,7 +613,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "60",
+      "id": "62",
       "nr_pzszach": "423/SL",
       "nazwa": "UKS SP1 JEDYNKA Tychy",
       "miasto": "Tychy",
@@ -603,7 +623,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "61",
+      "id": "63",
       "nr_pzszach": "324/SL",
       "nazwa": "SZACH MAT Zabrze",
       "miasto": "Zabrze",
@@ -613,7 +633,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "62",
+      "id": "64",
       "nr_pzszach": "1085/SL",
       "nazwa": "UKS Szach-Mat Tarnowskie Góry",
       "miasto": "Tarnowskie Góry",
