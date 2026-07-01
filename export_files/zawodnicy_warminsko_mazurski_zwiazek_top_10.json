@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:56.513Z",
+  "createdAt": "2026-07-01T06:21:07.098Z",
   "totalRecords": 10,
   "data": [
     {
@@ -31,19 +31,19 @@
     },
     {
       "id": "4",
-      "id_pzszach": "77433",
-      "nazwisko_imie": "MURAWSKI Jan",
-      "tytul_kategoria": "V",
-      "rank_fide": "2251",
+      "id_pzszach": "6450",
+      "nazwisko_imie": "LISTEWNIK Zbigniew",
+      "tytul_kategoria": "K",
+      "rank_fide": "2250",
       "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },
     {
       "id": "5",
-      "id_pzszach": "6450",
-      "nazwisko_imie": "LISTEWNIK Zbigniew",
-      "tytul_kategoria": "K",
-      "rank_fide": "2250",
+      "id_pzszach": "77433",
+      "nazwisko_imie": "MURAWSKI Jan",
+      "tytul_kategoria": "V",
+      "rank_fide": "2246",
       "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },

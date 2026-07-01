@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:53.484Z",
+  "createdAt": "2026-07-01T06:21:03.882Z",
   "totalRecords": 10,
   "data": [
     {
@@ -76,20 +76,20 @@
     },
     {
       "id": "9",
-      "id_pzszach": "949",
-      "nazwisko_imie": "GRABOWSKI Paweł",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2272",
-      "klub": "UKS KORONA Gdańsk",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "10",
       "id_pzszach": "4731",
       "nazwisko_imie": "KWIATKOWSKI Łukasz",
       "tytul_kategoria": "K",
       "rank_fide": "2270",
       "klub": "",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "949",
+      "nazwisko_imie": "GRABOWSKI Paweł",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2265",
+      "klub": "UKS KORONA Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     }
   ]

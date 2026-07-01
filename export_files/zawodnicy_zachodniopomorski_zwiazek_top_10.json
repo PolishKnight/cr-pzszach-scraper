@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:58.889Z",
+  "createdAt": "2026-07-01T06:21:09.383Z",
   "totalRecords": 10,
   "data": [
     {
@@ -52,7 +52,7 @@
       "id_pzszach": "17650",
       "nazwisko_imie": "ANTOLAK Julia",
       "tytul_kategoria": "WGM",
-      "rank_fide": "2296",
+      "rank_fide": "2292",
       "klub": "GKSz SOLNY Grzybowo",
       "wojewodztwo_zwiazek": "ZP"
     },
@@ -76,20 +76,20 @@
     },
     {
       "id": "9",
-      "id_pzszach": "82988",
-      "nazwisko_imie": "ZARĘBA Piotr",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2237",
-      "klub": "KSz Gryf Szczecin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "10",
       "id_pzszach": "7498",
       "nazwisko_imie": "MATUSIAK Janusz",
       "tytul_kategoria": "K",
       "rank_fide": "2235",
       "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "82988",
+      "nazwisko_imie": "ZARĘBA Piotr",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2215",
+      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     }
   ]

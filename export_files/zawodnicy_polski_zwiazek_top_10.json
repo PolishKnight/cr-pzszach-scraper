@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-29T06:40:31.428Z",
+  "createdAt": "2026-07-01T06:20:44.596Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "3187",
       "nazwisko_imie": "DUDA Jan-Krzysztof",
       "tytul_kategoria": "GM",
-      "rank_fide": "2739",
+      "rank_fide": "2743",
       "klub": "MKS MOS Wieliczka",
       "wojewodztwo_zwiazek": "MP"
     },
@@ -16,7 +16,7 @@
       "id_pzszach": "4888",
       "nazwisko_imie": "WOJTASZEK Radosław",
       "tytul_kategoria": "GM",
-      "rank_fide": "2650",
+      "rank_fide": "2655",
       "klub": "KS GWIAZDA Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
@@ -25,7 +25,7 @@
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
-      "rank_fide": "2639",
+      "rank_fide": "2619",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -34,7 +34,7 @@
       "id_pzszach": "29659",
       "nazwisko_imie": "GUMULARZ Szymon",
       "tytul_kategoria": "GM",
-      "rank_fide": "2613",
+      "rank_fide": "2618",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -76,21 +76,21 @@
     },
     {
       "id": "9",
+      "id_pzszach": "61585",
+      "nazwisko_imie": "MALEK Jan",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2570",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "10",
       "id_pzszach": "2844",
       "nazwisko_imie": "MITOŃ Kamil",
       "tytul_kategoria": "GM",
       "rank_fide": "2568",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "61585",
-      "nazwisko_imie": "MALEK Jan",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2560",
-      "klub": "KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
     }
   ]
 }

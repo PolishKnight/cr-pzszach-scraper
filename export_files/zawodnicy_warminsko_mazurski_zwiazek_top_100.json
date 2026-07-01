@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:56.514Z",
+  "createdAt": "2026-07-01T06:21:07.098Z",
   "totalRecords": 100,
   "data": [
     {
@@ -31,19 +31,19 @@
     },
     {
       "id": "4",
-      "id_pzszach": "77433",
-      "nazwisko_imie": "MURAWSKI Jan",
-      "tytul_kategoria": "V",
-      "rank_fide": "2251",
+      "id_pzszach": "6450",
+      "nazwisko_imie": "LISTEWNIK Zbigniew",
+      "tytul_kategoria": "K",
+      "rank_fide": "2250",
       "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },
     {
       "id": "5",
-      "id_pzszach": "6450",
-      "nazwisko_imie": "LISTEWNIK Zbigniew",
-      "tytul_kategoria": "K",
-      "rank_fide": "2250",
+      "id_pzszach": "77433",
+      "nazwisko_imie": "MURAWSKI Jan",
+      "tytul_kategoria": "V",
+      "rank_fide": "2246",
       "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },
@@ -697,6 +697,15 @@
     },
     {
       "id": "78",
+      "id_pzszach": "85340",
+      "nazwisko_imie": "MIGALA Andrzej",
+      "tytul_kategoria": "K",
+      "rank_fide": "1943",
+      "klub": "MLKS OSTRÓDZIANKA Ostróda",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "79",
       "id_pzszach": "6373",
       "nazwisko_imie": "WINIARCZYK Natalia",
       "tytul_kategoria": "I",
@@ -705,7 +714,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "79",
+      "id": "80",
       "id_pzszach": "48928",
       "nazwisko_imie": "LENDZION Kamil",
       "tytul_kategoria": "I",
@@ -714,7 +723,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "80",
+      "id": "81",
       "id_pzszach": "6413",
       "nazwisko_imie": "JÓŹWIK Rafał",
       "tytul_kategoria": "K",
@@ -723,7 +732,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "81",
+      "id": "82",
       "id_pzszach": "1114",
       "nazwisko_imie": "RAK Tomasz",
       "tytul_kategoria": "K",
@@ -732,7 +741,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "82",
+      "id": "83",
       "id_pzszach": "26244",
       "nazwisko_imie": "ZAKRZEWSKI Robert",
       "tytul_kategoria": "II+",
@@ -741,7 +750,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "83",
+      "id": "84",
       "id_pzszach": "6441",
       "nazwisko_imie": "KUPRYJANIUK Tomasz",
       "tytul_kategoria": "I++",
@@ -750,7 +759,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "84",
+      "id": "85",
       "id_pzszach": "6447",
       "nazwisko_imie": "LIPIEJKO Artur",
       "tytul_kategoria": "II+",
@@ -759,7 +768,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "85",
+      "id": "86",
       "id_pzszach": "15902",
       "nazwisko_imie": "BUDAKOW Adrian",
       "tytul_kategoria": "I",
@@ -768,7 +777,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "86",
+      "id": "87",
       "id_pzszach": "39646",
       "nazwisko_imie": "SZULC Kamil",
       "tytul_kategoria": "III",
@@ -777,7 +786,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "87",
+      "id": "88",
       "id_pzszach": "573",
       "nazwisko_imie": "SANDOR Aleksandra",
       "tytul_kategoria": "K",
@@ -786,7 +795,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "88",
+      "id": "89",
       "id_pzszach": "4799",
       "nazwisko_imie": "PLEWA Piotr",
       "tytul_kategoria": "I++",
@@ -795,7 +804,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "89",
+      "id": "90",
       "id_pzszach": "6568",
       "nazwisko_imie": "ZARĘBSKI Cezary",
       "tytul_kategoria": "I+",
@@ -804,7 +813,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "90",
+      "id": "91",
       "id_pzszach": "6298",
       "nazwisko_imie": "GÓRALSKI Łukasz",
       "tytul_kategoria": "II",
@@ -813,7 +822,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "91",
+      "id": "92",
       "id_pzszach": "6565",
       "nazwisko_imie": "ZAJĄCZKOWSKI Jan",
       "tytul_kategoria": "I",
@@ -822,7 +831,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "92",
+      "id": "93",
       "id_pzszach": "6343",
       "nazwisko_imie": "ANDREARCZYK Paweł",
       "tytul_kategoria": "I",
@@ -831,7 +840,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "93",
+      "id": "94",
       "id_pzszach": "6491",
       "nazwisko_imie": "PLICHTA Adam",
       "tytul_kategoria": "I",
@@ -840,7 +849,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "94",
+      "id": "95",
       "id_pzszach": "6445",
       "nazwisko_imie": "LESIŃSKI Zdzisław",
       "tytul_kategoria": "I",
@@ -849,21 +858,12 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "38998",
       "nazwisko_imie": "STREPIKOWSKI Paweł",
       "tytul_kategoria": "I+",
       "rank_fide": "1914",
       "klub": "",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "96",
-      "id_pzszach": "85340",
-      "nazwisko_imie": "MIGALA Andrzej",
-      "tytul_kategoria": "K",
-      "rank_fide": "1913",
-      "klub": "MLKS OSTRÓDZIANKA Ostróda",
       "wojewodztwo_zwiazek": "WM"
     },
     {

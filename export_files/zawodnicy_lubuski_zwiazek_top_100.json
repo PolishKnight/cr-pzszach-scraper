@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:45.244Z",
+  "createdAt": "2026-07-01T06:20:55.664Z",
   "totalRecords": 100,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "23258",
       "nazwisko_imie": "JANIK Igor",
       "tytul_kategoria": "GM",
-      "rank_fide": "2523",
+      "rank_fide": "2531",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -25,7 +25,7 @@
       "id_pzszach": "2765",
       "nazwisko_imie": "KRASENKOW Michał",
       "tytul_kategoria": "GM",
-      "rank_fide": "2483",
+      "rank_fide": "2505",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -43,7 +43,7 @@
       "id_pzszach": "50147",
       "nazwisko_imie": "DZIDA Kamil",
       "tytul_kategoria": "IM",
-      "rank_fide": "2418",
+      "rank_fide": "2411",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -106,7 +106,7 @@
       "id_pzszach": "46732",
       "nazwisko_imie": "KOZIOROWICZ Michał",
       "tytul_kategoria": "FM",
-      "rank_fide": "2323",
+      "rank_fide": "2317",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -151,7 +151,7 @@
       "id_pzszach": "1352",
       "nazwisko_imie": "CZERWOŃSKI Aleksander",
       "tytul_kategoria": "IM",
-      "rank_fide": "2253",
+      "rank_fide": "2255",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -427,15 +427,6 @@
     },
     {
       "id": "48",
-      "id_pzszach": "8109",
-      "nazwisko_imie": "ŚWIDERSKI Radosław",
-      "tytul_kategoria": "K",
-      "rank_fide": "2111",
-      "klub": "KSz Stilon Gorzów Wlkp.",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "49",
       "id_pzszach": "1435",
       "nazwisko_imie": "SIEKAŃSKA Izabela",
       "tytul_kategoria": "WFM",
@@ -444,7 +435,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "50",
+      "id": "49",
       "id_pzszach": "4456",
       "nazwisko_imie": "KUMALA Aleksander",
       "tytul_kategoria": "CM",
@@ -453,7 +444,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "51",
+      "id": "50",
       "id_pzszach": "1246",
       "nazwisko_imie": "LEAN Maria",
       "tytul_kategoria": "WFM",
@@ -462,7 +453,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "52",
+      "id": "51",
       "id_pzszach": "5968",
       "nazwisko_imie": "NOWAKOWSKI Marcin",
       "tytul_kategoria": "I",
@@ -471,7 +462,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "53",
+      "id": "52",
       "id_pzszach": "24984",
       "nazwisko_imie": "PIOTROWSKI Paweł",
       "tytul_kategoria": "I++",
@@ -480,7 +471,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "54",
+      "id": "53",
       "id_pzszach": "74104",
       "nazwisko_imie": "JABŁOŃSKI Wojciech",
       "tytul_kategoria": "I+",
@@ -489,7 +480,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "55",
+      "id": "54",
       "id_pzszach": "1351",
       "nazwisko_imie": "CZERNIAWSKI Marek",
       "tytul_kategoria": "I",
@@ -498,7 +489,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "56",
+      "id": "55",
       "id_pzszach": "1468",
       "nazwisko_imie": "ZIĘTEK-CZERWOŃSKA Beata",
       "tytul_kategoria": "M",
@@ -507,7 +498,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "57",
+      "id": "56",
       "id_pzszach": "1338",
       "nazwisko_imie": "BLANDZI Daniel",
       "tytul_kategoria": "I+",
@@ -516,7 +507,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "58",
+      "id": "57",
       "id_pzszach": "7896",
       "nazwisko_imie": "OKUNIEWSKI Janusz",
       "tytul_kategoria": "I",
@@ -525,7 +516,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "59",
+      "id": "58",
       "id_pzszach": "1419",
       "nazwisko_imie": "PAŹDZIOR Jarosław",
       "tytul_kategoria": "I+",
@@ -534,7 +525,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "60",
+      "id": "59",
       "id_pzszach": "5843",
       "nazwisko_imie": "KRÓL Alan",
       "tytul_kategoria": "I",
@@ -543,11 +534,20 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "61",
+      "id": "60",
       "id_pzszach": "39517",
       "nazwisko_imie": "MAJDAŃSKI Maksymilian",
       "tytul_kategoria": "I++",
       "rank_fide": "2072",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "8109",
+      "nazwisko_imie": "ŚWIDERSKI Radosław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2070",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -589,6 +589,15 @@
     },
     {
       "id": "66",
+      "id_pzszach": "118452",
+      "nazwisko_imie": "KRASENKOWA Elena",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2048",
+      "klub": "KSz Stilon Gorzów Wlkp.",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "67",
       "id_pzszach": "1376",
       "nazwisko_imie": "KARANOWSKI Robert",
       "tytul_kategoria": "I+",
@@ -597,7 +606,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "67",
+      "id": "68",
       "id_pzszach": "1411",
       "nazwisko_imie": "OGRABEK Grzegorz",
       "tytul_kategoria": "CM",
@@ -606,7 +615,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "68",
+      "id": "69",
       "id_pzszach": "1233",
       "nazwisko_imie": "MAĆKÓW Paweł",
       "tytul_kategoria": "I+",
@@ -615,7 +624,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "69",
+      "id": "70",
       "id_pzszach": "1370",
       "nazwisko_imie": "JABŁOŃSKI Waldemar",
       "tytul_kategoria": "I",
@@ -624,7 +633,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "70",
+      "id": "71",
       "id_pzszach": "1401",
       "nazwisko_imie": "MICHALSKI Daniel",
       "tytul_kategoria": "K",
@@ -633,7 +642,7 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "71",
+      "id": "72",
       "id_pzszach": "39053",
       "nazwisko_imie": "CZARNIECKA Aleksandra",
       "tytul_kategoria": "M",
@@ -642,20 +651,11 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "72",
+      "id": "73",
       "id_pzszach": "1457",
       "nazwisko_imie": "WILMIŃSKI Łukasz",
       "tytul_kategoria": "I",
       "rank_fide": "2008",
-      "klub": "KSz Stilon Gorzów Wlkp.",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "73",
-      "id_pzszach": "118452",
-      "nazwisko_imie": "KRASENKOWA Elena",
-      "tytul_kategoria": "WIM",
-      "rank_fide": "2006",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },

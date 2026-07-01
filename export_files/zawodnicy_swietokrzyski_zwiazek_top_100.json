@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:54.424Z",
+  "createdAt": "2026-07-01T06:21:04.865Z",
   "totalRecords": 100,
   "data": [
     {
@@ -151,7 +151,7 @@
       "id_pzszach": "97042",
       "nazwisko_imie": "KAWKA Milena",
       "tytul_kategoria": "WFM",
-      "rank_fide": "2061",
+      "rank_fide": "2059",
       "klub": "KMKSzach VICTORIA KOMPLEXBUD",
       "wojewodztwo_zwiazek": "SK"
     },
@@ -274,15 +274,6 @@
     },
     {
       "id": "31",
-      "id_pzszach": "50651",
-      "nazwisko_imie": "KOZERA Dawid",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1985",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "32",
       "id_pzszach": "37107",
       "nazwisko_imie": "MATVIYCHUK Andrey",
       "tytul_kategoria": "II+",
@@ -291,12 +282,21 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "33",
+      "id": "32",
       "id_pzszach": "4934",
       "nazwisko_imie": "RUTKOWSKI Wojciech",
       "tytul_kategoria": "II",
       "rank_fide": "1980",
       "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "49296",
+      "nazwisko_imie": "SEREWA Antoni",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1979",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -310,15 +310,6 @@
     },
     {
       "id": "35",
-      "id_pzszach": "49296",
-      "nazwisko_imie": "SEREWA Antoni",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1977",
-      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "36",
       "id_pzszach": "4975",
       "nazwisko_imie": "KOZIEJ Maciej",
       "tytul_kategoria": "FM",
@@ -327,21 +318,30 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "37",
-      "id_pzszach": "65195",
-      "nazwisko_imie": "PARTYKA Wiktor",
-      "tytul_kategoria": "I",
-      "rank_fide": "1970",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "38",
+      "id": "36",
       "id_pzszach": "5036",
       "nazwisko_imie": "PLICNER Justyna",
       "tytul_kategoria": "I",
       "rank_fide": "1965",
       "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "65195",
+      "nazwisko_imie": "PARTYKA Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "1964",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "50651",
+      "nazwisko_imie": "KOZERA Dawid",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1958",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -481,20 +481,20 @@
     },
     {
       "id": "54",
-      "id_pzszach": "109427",
-      "nazwisko_imie": "DOROWSKI Nataniel",
-      "tytul_kategoria": "I",
-      "rank_fide": "1913",
-      "klub": "LUKKS OLIMPIA Kielce",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "55",
       "id_pzszach": "9908",
       "nazwisko_imie": "SZUMAŃSKI Karol",
       "tytul_kategoria": "II",
       "rank_fide": "1911",
       "klub": "LZS KORDIAN Bliżyn",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "109427",
+      "nazwisko_imie": "DOROWSKI Nataniel",
+      "tytul_kategoria": "I",
+      "rank_fide": "1911",
+      "klub": "LUKKS OLIMPIA Kielce",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -832,6 +832,15 @@
     },
     {
       "id": "93",
+      "id_pzszach": "87273",
+      "nazwisko_imie": "GOŁĄB Antoni",
+      "tytul_kategoria": "II",
+      "rank_fide": "1813",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "94",
       "id_pzszach": "49017",
       "nazwisko_imie": "SŁONIEWSKA Alicja",
       "tytul_kategoria": "I++",
@@ -840,7 +849,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "94",
+      "id": "95",
       "id_pzszach": "4929",
       "nazwisko_imie": "SZCZYPKOWSKI Piotr",
       "tytul_kategoria": "II",
@@ -849,7 +858,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "95",
+      "id": "96",
+      "id_pzszach": "84142",
+      "nazwisko_imie": "NOWAK Karol",
+      "tytul_kategoria": "I",
+      "rank_fide": "1810",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "97",
       "id_pzszach": "63074",
       "nazwisko_imie": "NOWAK Maciej",
       "tytul_kategoria": "II+",
@@ -858,7 +876,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "96",
+      "id": "98",
       "id_pzszach": "67809",
       "nazwisko_imie": "BARAŃSKI Zbigniew",
       "tytul_kategoria": "II",
@@ -867,7 +885,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "97",
+      "id": "99",
       "id_pzszach": "13505",
       "nazwisko_imie": "KAPUSTA Paweł",
       "tytul_kategoria": "II",
@@ -876,30 +894,12 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "98",
+      "id": "100",
       "id_pzszach": "28605",
       "nazwisko_imie": "BUREK Marcin",
       "tytul_kategoria": "I",
       "rank_fide": "1806",
       "klub": "UKS KADET Sandomierz",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "99",
-      "id_pzszach": "87273",
-      "nazwisko_imie": "GOŁĄB Antoni",
-      "tytul_kategoria": "II",
-      "rank_fide": "1803",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "20477",
-      "nazwisko_imie": "JASZEWSKA Oliwia",
-      "tytul_kategoria": "I",
-      "rank_fide": "1798",
-      "klub": "",
       "wojewodztwo_zwiazek": "SK"
     }
   ]

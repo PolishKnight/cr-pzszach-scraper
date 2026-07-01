@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:46.709Z",
+  "createdAt": "2026-07-01T06:20:57.073Z",
   "totalRecords": 100,
   "data": [
     {
@@ -652,15 +652,6 @@
     },
     {
       "id": "73",
-      "id_pzszach": "1973",
-      "nazwisko_imie": "KOWALCZYK Marian",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1918",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "74",
       "id_pzszach": "1876",
       "nazwisko_imie": "BIEŃ Janusz",
       "tytul_kategoria": "I++",
@@ -669,7 +660,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "75",
+      "id": "74",
       "id_pzszach": "17395",
       "nazwisko_imie": "BARTOSZEK Marcin",
       "tytul_kategoria": "I",
@@ -678,7 +669,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "76",
+      "id": "75",
       "id_pzszach": "1926",
       "nazwisko_imie": "GNATIUK Rafał",
       "tytul_kategoria": "II",
@@ -687,7 +678,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "77",
+      "id": "76",
       "id_pzszach": "115695",
       "nazwisko_imie": "KOZŁOWSKI Mateusz",
       "tytul_kategoria": "I",
@@ -696,12 +687,21 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "78",
+      "id": "77",
       "id_pzszach": "1985",
       "nazwisko_imie": "ŻĄDŁO Anna",
       "tytul_kategoria": "I",
       "rank_fide": "1909",
       "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "78",
+      "id_pzszach": "1973",
+      "nazwisko_imie": "KOWALCZYK Marian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1902",
+      "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {

@@ -1,18 +1,9 @@
 {
-  "createdAt": "2026-06-28T06:12:47.599Z",
+  "createdAt": "2026-07-01T06:20:57.947Z",
   "totalRecords": 10,
   "data": [
     {
       "id": "1",
-      "id_pzszach": "5739",
-      "nazwisko_imie": "HEBERLA Bartłomiej",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2521",
-      "klub": "KS LAURA Chylice",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "2",
       "id_pzszach": "2817",
       "nazwisko_imie": "MACIEJA Bartłomiej",
       "tytul_kategoria": "GM",
@@ -21,12 +12,21 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "3",
+      "id": "2",
       "id_pzszach": "2580",
       "nazwisko_imie": "BLEHM Paweł",
       "tytul_kategoria": "GM",
       "rank_fide": "2505",
       "klub": "",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "5739",
+      "nazwisko_imie": "HEBERLA Bartłomiej",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2499",
+      "klub": "KS LAURA Chylice",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -40,20 +40,20 @@
     },
     {
       "id": "5",
-      "id_pzszach": "4006",
-      "nazwisko_imie": "KUŹMICZ Krystian",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2462",
-      "klub": "Biały Król Wisznia Mała",
+      "id_pzszach": "2009",
+      "nazwisko_imie": "CYBOROWSKI Łukasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2455",
+      "klub": "LKS WRZOS Międzyborów",
       "wojewodztwo_zwiazek": "MA"
     },
     {
       "id": "6",
-      "id_pzszach": "2009",
-      "nazwisko_imie": "CYBOROWSKI Łukasz",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2456",
-      "klub": "LKS WRZOS Międzyborów",
+      "id_pzszach": "4006",
+      "nazwisko_imie": "KUŹMICZ Krystian",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2454",
+      "klub": "Biały Król Wisznia Mała",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -61,7 +61,7 @@
       "id_pzszach": "5551",
       "nazwisko_imie": "ANTONIEWSKI Rafał",
       "tytul_kategoria": "GM",
-      "rank_fide": "2446",
+      "rank_fide": "2454",
       "klub": "LKS WRZOS Międzyborów",
       "wojewodztwo_zwiazek": "MA"
     },
@@ -70,7 +70,7 @@
       "id_pzszach": "30627",
       "nazwisko_imie": "FUS Jakub",
       "tytul_kategoria": "IM",
-      "rank_fide": "2425",
+      "rank_fide": "2450",
       "klub": "UKS CZTERNASTKA Warszawa",
       "wojewodztwo_zwiazek": "MA"
     },

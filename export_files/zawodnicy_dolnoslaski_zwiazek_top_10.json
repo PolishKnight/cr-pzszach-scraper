@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-29T06:40:40.035Z",
+  "createdAt": "2026-07-01T06:20:53.151Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "29659",
       "nazwisko_imie": "GUMULARZ Szymon",
       "tytul_kategoria": "GM",
-      "rank_fide": "2613",
+      "rank_fide": "2618",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -25,30 +25,21 @@
       "id_pzszach": "61585",
       "nazwisko_imie": "MALEK Jan",
       "tytul_kategoria": "GM",
-      "rank_fide": "2560",
+      "rank_fide": "2570",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
       "id": "4",
-      "id_pzszach": "27934",
-      "nazwisko_imie": "KOSAKOWSKI Jakub",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2549",
-      "klub": "KSz. WIEŻA Pęgów",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "5",
       "id_pzszach": "2569",
       "nazwisko_imie": "BARTEL Mateusz",
       "tytul_kategoria": "GM",
-      "rank_fide": "2547",
+      "rank_fide": "2549",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "6",
+      "id": "5",
       "id_pzszach": "33551",
       "nazwisko_imie": "BALOGH Csaba",
       "tytul_kategoria": "",
@@ -57,16 +48,16 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "7",
-      "id_pzszach": "5028",
-      "nazwisko_imie": "MORANDA Wojciech",
+      "id": "6",
+      "id_pzszach": "27934",
+      "nazwisko_imie": "KOSAKOWSKI Jakub",
       "tytul_kategoria": "GM",
-      "rank_fide": "2525",
+      "rank_fide": "2543",
       "klub": "KSz. WIEŻA Pęgów",
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "49998",
       "nazwisko_imie": "MASTROVASILIS Dimitrios",
       "tytul_kategoria": "GM",
@@ -75,7 +66,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "9",
+      "id": "8",
       "id_pzszach": "2736",
       "nazwisko_imie": "KEMPIŃSKI Robert",
       "tytul_kategoria": "GM",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "10",
-      "id_pzszach": "50004",
-      "nazwisko_imie": "SIVUK Vitaly",
-      "tytul_kategoria": "",
+      "id": "9",
+      "id_pzszach": "1050",
+      "nazwisko_imie": "LICZNERSKI Łukasz",
+      "tytul_kategoria": "IM",
       "rank_fide": "2511",
-      "klub": "KSz. WIEŻA Pęgów",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "2870",
+      "nazwisko_imie": "OLSZEWSKI Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2509",
+      "klub": "KSz MIEDŹ Legnica",
       "wojewodztwo_zwiazek": "DS"
     }
   ]

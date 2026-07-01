@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:48.995Z",
+  "createdAt": "2026-07-01T06:20:59.350Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "3187",
       "nazwisko_imie": "DUDA Jan-Krzysztof",
       "tytul_kategoria": "GM",
-      "rank_fide": "2739",
+      "rank_fide": "2743",
       "klub": "MKS MOS Wieliczka",
       "wojewodztwo_zwiazek": "MP"
     },
@@ -67,15 +67,6 @@
     },
     {
       "id": "8",
-      "id_pzszach": "33591",
-      "nazwisko_imie": "SUDER Jakub",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2398",
-      "klub": "MAT Myślenice",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "9",
       "id_pzszach": "90310",
       "nazwisko_imie": "Osmak Iulija",
       "tytul_kategoria": "WGM",
@@ -84,11 +75,20 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
+      "id": "9",
+      "id_pzszach": "33591",
+      "nazwisko_imie": "SUDER Jakub",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2384",
+      "klub": "MAT Myślenice",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
       "id": "10",
       "id_pzszach": "683",
       "nazwisko_imie": "STOPA Jacek",
       "tytul_kategoria": "GM",
-      "rank_fide": "2371",
+      "rank_fide": "2360",
       "klub": "KS KINGSOFCHESS Kraków",
       "wojewodztwo_zwiazek": "MP"
     }

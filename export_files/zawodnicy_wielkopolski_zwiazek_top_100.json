@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:57.238Z",
+  "createdAt": "2026-07-01T06:21:07.754Z",
   "totalRecords": 100,
   "data": [
     {
@@ -16,7 +16,7 @@
       "id_pzszach": "7192",
       "nazwisko_imie": "SIECIECHOWICZ Marcin",
       "tytul_kategoria": "IM",
-      "rank_fide": "2386",
+      "rank_fide": "2391",
       "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
@@ -157,20 +157,20 @@
     },
     {
       "id": "18",
-      "id_pzszach": "39962",
-      "nazwisko_imie": "PIEKIELNY Paweł",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2307",
-      "klub": "OTSz Ostrów Wielkopolski",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "19",
       "id_pzszach": "1399",
       "nazwisko_imie": "MAZURKIEWICZ Michał",
       "tytul_kategoria": "CM",
       "rank_fide": "2304",
       "klub": "KS KORONA Zakrzewo",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "39962",
+      "nazwisko_imie": "PIEKIELNY Paweł",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2302",
+      "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -301,20 +301,20 @@
     },
     {
       "id": "34",
+      "id_pzszach": "52316",
+      "nazwisko_imie": "WOJDAK Jan",
+      "tytul_kategoria": "K++",
+      "rank_fide": "2241",
+      "klub": "KSz LECH-WSUS Poznań",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "35",
       "id_pzszach": "6840",
       "nazwisko_imie": "MUSIAŁKIEWICZ Jan",
       "tytul_kategoria": "K+",
       "rank_fide": "2236",
       "klub": "LKS CHROBRY Gniezno",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "35",
-      "id_pzszach": "52316",
-      "nazwisko_imie": "WOJDAK Jan",
-      "tytul_kategoria": "K++",
-      "rank_fide": "2235",
-      "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -850,15 +850,6 @@
     },
     {
       "id": "95",
-      "id_pzszach": "26388",
-      "nazwisko_imie": "LEŚKIEWICZ Ignacy",
-      "tytul_kategoria": "K",
-      "rank_fide": "2099",
-      "klub": "UKS SMECZ Konin",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "96",
       "id_pzszach": "6934",
       "nazwisko_imie": "DOBA Henryk",
       "tytul_kategoria": "I",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "7127",
       "nazwisko_imie": "NOWACKI Tomasz",
       "tytul_kategoria": "I+",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "7051",
       "nazwisko_imie": "KREPCZYNSKI Pawel",
       "tytul_kategoria": "I",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "7156",
       "nazwisko_imie": "PÓŁTORAK Michał",
       "tytul_kategoria": "I",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "7546",
       "nazwisko_imie": "POLAK Kinga",
       "tytul_kategoria": "WFM",
       "rank_fide": "2091",
       "klub": "TS-R HETMAN Konin",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "17355",
+      "nazwisko_imie": "MICHALSKI Filip",
+      "tytul_kategoria": "K",
+      "rank_fide": "2091",
+      "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     }
   ]

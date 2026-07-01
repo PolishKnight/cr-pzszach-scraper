@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-06-28T06:12:55.181Z",
+  "createdAt": "2026-07-01T06:21:05.721Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
-      "rank_fide": "2639",
+      "rank_fide": "2619",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -31,11 +31,11 @@
     },
     {
       "id": "4",
-      "id_pzszach": "4396",
-      "nazwisko_imie": "WARAKOMSKI Tomasz",
+      "id_pzszach": "65730",
+      "nazwisko_imie": "SEEMANN Jakub",
       "tytul_kategoria": "GM",
-      "rank_fide": "2558",
-      "klub": "Akademia Szachowa Gliwice",
+      "rank_fide": "2557",
+      "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -43,21 +43,12 @@
       "id_pzszach": "2966",
       "nazwisko_imie": "SOĆKO Bartosz",
       "tytul_kategoria": "GM",
-      "rank_fide": "2552",
+      "rank_fide": "2554",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
       "id": "6",
-      "id_pzszach": "65730",
-      "nazwisko_imie": "SEEMANN Jakub",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2548",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "7",
       "id_pzszach": "2022",
       "nazwisko_imie": "GAJEWSKI Grzegorz",
       "tytul_kategoria": "GM",
@@ -66,7 +57,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "7250",
       "nazwisko_imie": "TOMCZAK Jacek",
       "tytul_kategoria": "GM",
@@ -75,12 +66,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "9",
+      "id": "8",
       "id_pzszach": "22548",
       "nazwisko_imie": "GAZIK Viktor",
       "tytul_kategoria": "IM",
-      "rank_fide": "2529",
+      "rank_fide": "2544",
       "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "4396",
+      "nazwisko_imie": "WARAKOMSKI Tomasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2541",
+      "klub": "Akademia Szachowa Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
