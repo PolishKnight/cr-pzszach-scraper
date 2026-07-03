@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-07-02T05:54:06.546Z",
-  "totalRecords": 72,
+  "createdAt": "2026-07-03T05:48:20.129Z",
+  "totalRecords": 73,
   "data": [
     {
       "id": "1",
@@ -594,6 +594,16 @@
     },
     {
       "id": "60",
+      "nr_pzszach": "1124/MA",
+      "nazwa": "UKS SAMSON Warszawa",
+      "miasto": "Warszawa",
+      "licencja": "07100108",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "61",
       "nr_pzszach": "750/MA",
       "nazwa": "UKS SP 321 Warszawa-Bemowo",
       "miasto": "Warszawa",
@@ -603,7 +613,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "61",
+      "id": "62",
       "nr_pzszach": "900/MA",
       "nazwa": "UKS SPARTA Białołęka",
       "miasto": "Warszawa",
@@ -613,7 +623,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "62",
+      "id": "63",
       "nr_pzszach": "996/MA",
       "nazwa": "UKS Sternik Pruszków",
       "miasto": "Pruszków",
@@ -623,7 +633,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "63",
+      "id": "64",
       "nr_pzszach": "847/MA",
       "nazwa": "UKS Szachowa Dwójka Grodzisk Maz.",
       "miasto": "Grodzisk Mazowiecki",
@@ -633,7 +643,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "64",
+      "id": "65",
       "nr_pzszach": "1082/MA",
       "nazwa": "UKS Szachowe Przygody Radom",
       "miasto": "Radom",
@@ -643,7 +653,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "65",
+      "id": "66",
       "nr_pzszach": "497/MA",
       "nazwa": "UKS TSz Zieloni Zielonka",
       "miasto": "Zielonka",
@@ -653,7 +663,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "66",
+      "id": "67",
       "nr_pzszach": "1113/MA",
       "nazwa": "UKS TWIERDZA Mokotów",
       "miasto": "Warszawa",
@@ -663,7 +673,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "67",
+      "id": "68",
       "nr_pzszach": "1074/MA",
       "nazwa": "UKS Wąsewska Wieża",
       "miasto": "Wąsewo",
@@ -673,7 +683,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "68",
+      "id": "69",
       "nr_pzszach": "832/MA",
       "nazwa": "UKS ŻAGLE Warszawa",
       "miasto": "Warszawa",
@@ -683,7 +693,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "69",
+      "id": "70",
       "nr_pzszach": "192/MA",
       "nazwa": "UKSz Hetman Warszawa",
       "miasto": "Warszawa",
@@ -693,7 +703,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "70",
+      "id": "71",
       "nr_pzszach": "1116/MA",
       "nazwa": "UKS PITAGORAS Rusiec",
       "miasto": "Rusiec",
@@ -703,7 +713,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "71",
+      "id": "72",
       "nr_pzszach": "1039/MA",
       "nazwa": "UKS III Ogród Jordanowski",
       "miasto": "Warszawa",
@@ -713,7 +723,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "72",
+      "id": "73",
       "nr_pzszach": "450/MA",
       "nazwa": "ZMCh Polska YMCA Warszawa",
       "miasto": "Warszawa",
