@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-07-07T06:03:19.236Z",
+  "createdAt": "2026-07-08T05:17:01.980Z",
   "totalRecords": 10,
   "data": [
     {
@@ -54,6 +54,16 @@
     },
     {
       "id": "6",
+      "nr_pzszach": "1127/ZP",
+      "nazwa": "KSz RENOVATIO Świnoujście",
+      "miasto": "Świnoujście",
+      "licencja": "16100031",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
       "nr_pzszach": "1111/ZP",
       "nazwa": "Klub64 Stargard",
       "miasto": "Stargard",
@@ -63,7 +73,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "7",
+      "id": "8",
       "nr_pzszach": "915/ZP",
       "nazwa": "LUKS CAISSA Połczyn-Zdrój",
       "miasto": "Połczyn-Zdrój",
@@ -73,7 +83,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "8",
+      "id": "9",
       "nr_pzszach": "902/ZP",
       "nazwa": "Myśliborski Klub Szachowy",
       "miasto": "Myślibórz",
@@ -83,21 +93,11 @@
       "oplata_roczna": ""
     },
     {
-      "id": "9",
+      "id": "10",
       "nr_pzszach": "600/ZP",
       "nazwa": "Pałac Młodzieży Koszalin",
       "miasto": "Koszalin",
       "licencja": "16100013",
-      "wojewodztwo_zwiazek": "ZP",
-      "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": ""
-    },
-    {
-      "id": "10",
-      "nr_pzszach": "1075/ZP",
-      "nazwa": "Speak Up Świnoujście",
-      "miasto": "Świnoujście",
-      "licencja": "16100025",
       "wojewodztwo_zwiazek": "ZP",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": ""

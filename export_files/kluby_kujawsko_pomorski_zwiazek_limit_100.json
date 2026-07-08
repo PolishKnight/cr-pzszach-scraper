@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-07-07T06:03:05.078Z",
-  "totalRecords": 34,
+  "createdAt": "2026-07-08T05:16:47.912Z",
+  "totalRecords": 35,
   "data": [
     {
       "id": "1",
@@ -294,6 +294,16 @@
     },
     {
       "id": "30",
+      "nr_pzszach": "1126/KP",
+      "nazwa": "UKS SZACH Brodnica",
+      "miasto": "Brodnica",
+      "licencja": "02100064",
+      "wojewodztwo_zwiazek": "KP",
+      "typ_czlonka": "UKS - członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "31",
       "nr_pzszach": "792/KP",
       "nazwa": "UKS SZACHOWA DWÓJKA Szubin",
       "miasto": "Szubin",
@@ -303,7 +313,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "31",
+      "id": "32",
       "nr_pzszach": "1107/KP",
       "nazwa": "UKS SZACHOWE ORŁY Dobrcz",
       "miasto": "Dobrcz",
@@ -313,7 +323,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "32",
+      "id": "33",
       "nr_pzszach": "975/KP",
       "nazwa": "UKS SZACHY Osielsko",
       "miasto": "Osielsko",
@@ -323,7 +333,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "33",
+      "id": "34",
       "nr_pzszach": "743/KP",
       "nazwa": "WKSz 1938 Włocławek",
       "miasto": "Włocławek",
@@ -333,7 +343,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "34",
+      "id": "35",
       "nr_pzszach": "195/KP",
       "nazwa": "ŻTMS BASZTA Żnin",
       "miasto": "Żnin",

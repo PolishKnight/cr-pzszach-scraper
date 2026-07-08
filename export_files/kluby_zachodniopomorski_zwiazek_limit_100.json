@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-07-07T06:03:19.236Z",
-  "totalRecords": 22,
+  "createdAt": "2026-07-08T05:17:01.981Z",
+  "totalRecords": 23,
   "data": [
     {
       "id": "1",
@@ -54,6 +54,16 @@
     },
     {
       "id": "6",
+      "nr_pzszach": "1127/ZP",
+      "nazwa": "KSz RENOVATIO Świnoujście",
+      "miasto": "Świnoujście",
+      "licencja": "16100031",
+      "wojewodztwo_zwiazek": "ZP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
       "nr_pzszach": "1111/ZP",
       "nazwa": "Klub64 Stargard",
       "miasto": "Stargard",
@@ -63,7 +73,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "7",
+      "id": "8",
       "nr_pzszach": "915/ZP",
       "nazwa": "LUKS CAISSA Połczyn-Zdrój",
       "miasto": "Połczyn-Zdrój",
@@ -73,7 +83,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "8",
+      "id": "9",
       "nr_pzszach": "902/ZP",
       "nazwa": "Myśliborski Klub Szachowy",
       "miasto": "Myślibórz",
@@ -83,7 +93,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "9",
+      "id": "10",
       "nr_pzszach": "600/ZP",
       "nazwa": "Pałac Młodzieży Koszalin",
       "miasto": "Koszalin",
@@ -93,7 +103,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "10",
+      "id": "11",
       "nr_pzszach": "1075/ZP",
       "nazwa": "Speak Up Świnoujście",
       "miasto": "Świnoujście",
@@ -103,7 +113,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "11",
+      "id": "12",
       "nr_pzszach": "868/ZP",
       "nazwa": "HUSARIA",
       "miasto": "Biesiekierz",
@@ -113,7 +123,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "12",
+      "id": "13",
       "nr_pzszach": "880/ZP",
       "nazwa": "UKS GRAD Polanów",
       "miasto": "Polanów",
@@ -123,7 +133,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "13",
+      "id": "14",
       "nr_pzszach": "527/ZP",
       "nazwa": "UKS BIAŁY PION Gryfino",
       "miasto": "Gryfino",
@@ -133,7 +143,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "14",
+      "id": "15",
       "nr_pzszach": "1115/ZP",
       "nazwa": "UKS CZARNI Szczecin",
       "miasto": "Szczecin",
@@ -143,7 +153,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "15",
+      "id": "16",
       "nr_pzszach": "974/ZP",
       "nazwa": "UKS LOTNIK Rosnowo",
       "miasto": "Rosnowo",
@@ -153,7 +163,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "16",
+      "id": "17",
       "nr_pzszach": "740/ZP",
       "nazwa": "UKS REFLEKS Gościno",
       "miasto": "Gościno",
@@ -163,7 +173,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "17",
+      "id": "18",
       "nr_pzszach": "472/ZP",
       "nazwa": "UKS SZACH w Gryficach",
       "miasto": "Gryfice",
@@ -173,7 +183,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "18",
+      "id": "19",
       "nr_pzszach": "1112/ZP",
       "nazwa": "UKS 16 Szczecin",
       "miasto": "Szczecin",
@@ -183,7 +193,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "19",
+      "id": "20",
       "nr_pzszach": "714/ZP",
       "nazwa": "UKSz SKOCZEK Choszczno",
       "miasto": "Choszczno",
@@ -193,7 +203,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "20",
+      "id": "21",
       "nr_pzszach": "",
       "nazwa": "UKSz Szachlandia Dobra",
       "miasto": "Dobra",
@@ -203,7 +213,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "21",
+      "id": "22",
       "nr_pzszach": "575/ZP",
       "nazwa": "UKS Ognisko Pracy Pozaszkolnej Kołobrzeg",
       "miasto": "Kołobrzeg",
@@ -213,7 +223,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "22",
+      "id": "23",
       "nr_pzszach": "",
       "nazwa": "ZPZSzach",
       "miasto": "Koszalin",

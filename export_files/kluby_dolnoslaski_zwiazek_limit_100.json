@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-07-07T06:03:03.758Z",
-  "totalRecords": 47,
+  "createdAt": "2026-07-08T05:16:46.686Z",
+  "totalRecords": 48,
   "data": [
     {
       "id": "1",
@@ -194,6 +194,16 @@
     },
     {
       "id": "20",
+      "nr_pzszach": "1128/DS",
+      "nazwa": "LZS SPARTA Grębocice",
+      "miasto": "Grębocice",
+      "licencja": "01100065",
+      "wojewodztwo_zwiazek": "DS",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": "100.00 PLN"
+    },
+    {
+      "id": "21",
       "nr_pzszach": "118/DS",
       "nazwa": "MKS ROKITA Brzeg Dolny",
       "miasto": "Brzeg Dolny",
@@ -203,7 +213,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "21",
+      "id": "22",
       "nr_pzszach": "657/DS",
       "nazwa": "MGLKS PARNAS Oława",
       "miasto": "Oława",
@@ -213,7 +223,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "22",
+      "id": "23",
       "nr_pzszach": "136/DS",
       "nazwa": "MUKS MDK Śródmieście Wrocław",
       "miasto": "Wrocław",
@@ -223,7 +233,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "23",
+      "id": "24",
       "nr_pzszach": "576/DS",
       "nazwa": "SSz GONIEC Wąsosz",
       "miasto": "Wąsosz",
@@ -233,7 +243,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "24",
+      "id": "25",
       "nr_pzszach": "1046/DS",
       "nazwa": "Smocza Wieża Żmigród",
       "miasto": "Żmigród",
@@ -243,7 +253,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "25",
+      "id": "26",
       "nr_pzszach": "613/DS",
       "nazwa": "Biały Król Wisznia Mała",
       "miasto": "Wisznia Mała",
@@ -253,7 +263,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "26",
+      "id": "27",
       "nr_pzszach": "1122/DS",
       "nazwa": "SKSTHK",
       "miasto": "Polanica-Zdrój",
@@ -263,7 +273,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "27",
+      "id": "28",
       "nr_pzszach": "845/DS",
       "nazwa": "KUDOWIANKA Kudowa-Zdrój",
       "miasto": "Kudowa Zdrój",
@@ -273,7 +283,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "28",
+      "id": "29",
       "nr_pzszach": "1024/DS",
       "nazwa": "STRUŚ Dziadowa Kłoda",
       "miasto": "Dziadowa Kłoda",
@@ -283,7 +293,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "29",
+      "id": "30",
       "nr_pzszach": "927/DS",
       "nazwa": "SCSE Strzelin",
       "miasto": "Strzelin",
@@ -293,7 +303,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "30",
+      "id": "31",
       "nr_pzszach": "135/DS",
       "nazwa": "UKS DEBIUT Przedwojów",
       "miasto": "Kamienna Góra",
@@ -303,7 +313,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "31",
+      "id": "32",
       "nr_pzszach": "654/DS",
       "nazwa": "UKS GIECEK Radków",
       "miasto": "Radków",
@@ -313,7 +323,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "32",
+      "id": "33",
       "nr_pzszach": "947/DS",
       "nazwa": "UKS SPRINT Wrocław",
       "miasto": "Wrocław",
@@ -323,7 +333,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "33",
+      "id": "34",
       "nr_pzszach": "227/DS",
       "nazwa": "UKS POGOŃ Oleśnica",
       "miasto": "Oleśnica",
@@ -333,7 +343,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "34",
+      "id": "35",
       "nr_pzszach": "722/DS",
       "nazwa": "UKS Skoczek Milicz",
       "miasto": "Milicz",
@@ -343,7 +353,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "35",
+      "id": "36",
       "nr_pzszach": "380/DS",
       "nazwa": "UKS SP3 w Bogatyni",
       "miasto": "Bogatynia",
@@ -353,7 +363,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "36",
+      "id": "37",
       "nr_pzszach": "846/DS",
       "nazwa": "UKS SZACH-MAT Przemków",
       "miasto": "Przemków",
@@ -363,7 +373,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "37",
+      "id": "38",
       "nr_pzszach": "482/DS",
       "nazwa": "UKS SZACH-MAT Syców",
       "miasto": "Syców",
@@ -373,7 +383,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "38",
+      "id": "39",
       "nr_pzszach": "1020/DS",
       "nazwa": "UKS Twierdza Kłodzko",
       "miasto": "Kłodzko",
@@ -383,7 +393,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "39",
+      "id": "40",
       "nr_pzszach": "581/DS",
       "nazwa": "UKS ZADRNA Kamienna Góra",
       "miasto": "Kamienna Góra",
@@ -393,7 +403,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "40",
+      "id": "41",
       "nr_pzszach": "930/DS",
       "nazwa": "UKS Zorza Pęgów",
       "miasto": "Pęgów",
@@ -403,7 +413,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "41",
+      "id": "42",
       "nr_pzszach": "962/DS",
       "nazwa": "UKSz ZIELONY SKOCZEK Lubin",
       "miasto": "Lubin",
@@ -413,7 +423,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "42",
+      "id": "43",
       "nr_pzszach": "816/DS",
       "nazwa": "WKSz HETMAN Wałbrzych",
       "miasto": "Wałbrzych",
@@ -423,7 +433,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "43",
+      "id": "44",
       "nr_pzszach": "121/DS",
       "nazwa": "WOK Wałbrzych",
       "miasto": "Wałbrzych",
@@ -433,7 +443,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "44",
+      "id": "45",
       "nr_pzszach": "1102/DS",
       "nazwa": "WKSN ŚWIT Wrocław",
       "miasto": "Wrocław",
@@ -443,7 +453,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "45",
+      "id": "46",
       "nr_pzszach": "137/DS",
       "nazwa": "Wrocławski Klub Szachowy HETMAN",
       "miasto": "Wrocław",
@@ -453,7 +463,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "46",
+      "id": "47",
       "nr_pzszach": "954/DS",
       "nazwa": "WSPDN Wrocław",
       "miasto": "Wrocław",
@@ -463,7 +473,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "47",
+      "id": "48",
       "nr_pzszach": "1038/DS",
       "nazwa": "ZKS UNIA Złoty Stok",
       "miasto": "Złoty Stok",
