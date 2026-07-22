@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-07-21T05:16:13.390Z",
+  "createdAt": "2026-07-22T05:15:05.264Z",
   "totalRecords": 100,
   "data": [
     {
@@ -914,6 +914,16 @@
     },
     {
       "id": "92",
+      "nr_pzszach": "1030/WM",
+      "nazwa": "Ks. GAMBIT Miłomłyn",
+      "miasto": "Miłomłyn",
+      "licencja": "14100032",
+      "wojewodztwo_zwiazek": "WM",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "93",
       "nr_pzszach": "917/DS",
       "nazwa": "KS GÓRNIK Polkowice",
       "miasto": "Polkowice",
@@ -923,7 +933,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "93",
+      "id": "94",
       "nr_pzszach": "953/KP",
       "nazwa": "KS GWIAZDA Bydgoszcz",
       "miasto": "Bydgoszcz",
@@ -933,7 +943,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "94",
+      "id": "95",
       "nr_pzszach": "1118/MP",
       "nazwa": "Herz Dragons Wieliczka",
       "miasto": "Wieliczka",
@@ -943,7 +953,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "95",
+      "id": "96",
       "nr_pzszach": "1000/MP",
       "nazwa": "KS KINGSOFCHESS Kraków",
       "miasto": "Kraków",
@@ -953,7 +963,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "96",
+      "id": "97",
       "nr_pzszach": "715/PK",
       "nazwa": "KS KOMUNALNI Sanok",
       "miasto": "Sanok",
@@ -963,7 +973,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "97",
+      "id": "98",
       "nr_pzszach": "977/MP",
       "nazwa": "Korona 1919 Kraków",
       "miasto": "Kraków",
@@ -973,7 +983,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "98",
+      "id": "99",
       "nr_pzszach": "1015/SL",
       "nazwa": "KS Kuźnia Ustroń",
       "miasto": "Ustroń",
@@ -983,7 +993,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "99",
+      "id": "100",
       "nr_pzszach": "804/MA",
       "nazwa": "KS LAURA Chylice",
       "miasto": "Chylice",
@@ -991,16 +1001,6 @@
       "wojewodztwo_zwiazek": "MA",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": ""
-    },
-    {
-      "id": "100",
-      "nr_pzszach": "787/MA",
-      "nazwa": "KS LEGION Legionowo",
-      "miasto": "Legionowo",
-      "licencja": "07100050",
-      "wojewodztwo_zwiazek": "MA",
-      "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": "400.00 PLN"
     }
   ]
 }

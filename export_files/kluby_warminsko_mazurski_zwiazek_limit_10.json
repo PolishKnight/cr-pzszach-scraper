@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-07-21T05:16:29.364Z",
+  "createdAt": "2026-07-22T05:15:19.658Z",
   "totalRecords": 10,
   "data": [
     {
@@ -24,6 +24,16 @@
     },
     {
       "id": "3",
+      "nr_pzszach": "1030/WM",
+      "nazwa": "Ks. GAMBIT Miłomłyn",
+      "miasto": "Miłomłyn",
+      "licencja": "14100032",
+      "wojewodztwo_zwiazek": "WM",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "4",
       "nr_pzszach": "704/WM",
       "nazwa": "KSz CKTiS Biskupiec",
       "miasto": "Biskupiec",
@@ -33,7 +43,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "4",
+      "id": "5",
       "nr_pzszach": "171/WM",
       "nazwa": "KSz HETMAN Nowe Miasto Lubawskie",
       "miasto": "Nowe Miasto Lubaw.",
@@ -43,7 +53,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "5",
+      "id": "6",
       "nr_pzszach": "172/WM",
       "nazwa": "MKS MRĄGOVIA Mrągowo",
       "miasto": "Mrągowo",
@@ -53,7 +63,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "6",
+      "id": "7",
       "nr_pzszach": "178/WM",
       "nazwa": "MKSz HETMAN-PIONIER Kętrzyn",
       "miasto": "Kętrzyn",
@@ -63,7 +73,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "7",
+      "id": "8",
       "nr_pzszach": "179/WM",
       "nazwa": "MLKS OSTRÓDZIANKA Ostróda",
       "miasto": "Ostróda",
@@ -73,7 +83,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "8",
+      "id": "9",
       "nr_pzszach": "174/WM",
       "nazwa": "MLKS CZARNI Olecko",
       "miasto": "Olecko",
@@ -83,7 +93,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "9",
+      "id": "10",
       "nr_pzszach": "1125/WM",
       "nazwa": "SDT Orły Rumian",
       "miasto": "Rybno",
@@ -91,16 +101,6 @@
       "wojewodztwo_zwiazek": "WM",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": ""
-    },
-    {
-      "id": "10",
-      "nr_pzszach": "734/WM",
-      "nazwa": "SL SALOS Ełk",
-      "miasto": "Ełk",
-      "licencja": "14100019",
-      "wojewodztwo_zwiazek": "WM",
-      "typ_czlonka": "UKS - członek zwyczajny",
-      "oplata_roczna": "400.00 PLN"
     }
   ]
 }
