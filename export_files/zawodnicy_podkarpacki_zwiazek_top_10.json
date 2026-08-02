@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:23.623Z",
+  "createdAt": "2026-08-02T05:21:57.520Z",
   "totalRecords": 10,
   "data": [
     {
@@ -43,7 +43,7 @@
       "id_pzszach": "68423",
       "nazwisko_imie": "ZIELONKA Adam",
       "tytul_kategoria": "FM",
-      "rank_fide": "2421",
+      "rank_fide": "2431",
       "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
@@ -58,38 +58,38 @@
     },
     {
       "id": "7",
-      "id_pzszach": "45824",
-      "nazwisko_imie": "TURSKI Bartłomiej",
+      "id_pzszach": "87285",
+      "nazwisko_imie": "RADZIMSKI Antoni",
       "tytul_kategoria": "FM",
-      "rank_fide": "2404",
-      "klub": "KSz OZ Rzeszów",
+      "rank_fide": "2405",
+      "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "8",
-      "id_pzszach": "87285",
-      "nazwisko_imie": "RADZIMSKI Antoni",
+      "id_pzszach": "45824",
+      "nazwisko_imie": "TURSKI Bartłomiej",
       "tytul_kategoria": "FM",
-      "rank_fide": "2394",
-      "klub": "LKSz GCKiP Czarna",
+      "rank_fide": "2391",
+      "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "9",
-      "id_pzszach": "86560",
-      "nazwisko_imie": "GOLIS Wiktor",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2367",
-      "klub": "LKSz GCKiP Czarna",
+      "id_pzszach": "2593",
+      "nazwisko_imie": "BRZESKI Maciej",
+      "tytul_kategoria": "M",
+      "rank_fide": "2357",
+      "klub": "LKS PARNAS Stara Wieś",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "10",
-      "id_pzszach": "47163",
-      "nazwisko_imie": "CHYŻY Jakub",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2361",
-      "klub": "LKSz GCKiP Czarna",
+      "id_pzszach": "59625",
+      "nazwisko_imie": "SERGEEV Vladimir",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2357",
+      "klub": "",
       "wojewodztwo_zwiazek": "PK"
     }
   ]

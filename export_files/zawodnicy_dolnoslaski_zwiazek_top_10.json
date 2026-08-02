@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:14.704Z",
+  "createdAt": "2026-08-02T05:21:48.540Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "29659",
       "nazwisko_imie": "GUMULARZ Szymon",
       "tytul_kategoria": "GM",
-      "rank_fide": "2618",
+      "rank_fide": "2625",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -25,7 +25,7 @@
       "id_pzszach": "61585",
       "nazwisko_imie": "MALEK Jan",
       "tytul_kategoria": "GM",
-      "rank_fide": "2570",
+      "rank_fide": "2573",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -52,7 +52,7 @@
       "id_pzszach": "27934",
       "nazwisko_imie": "KOSAKOWSKI Jakub",
       "tytul_kategoria": "GM",
-      "rank_fide": "2543",
+      "rank_fide": "2540",
       "klub": "KSz. WIEŻA Pęgów",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -70,26 +70,26 @@
       "id_pzszach": "2736",
       "nazwisko_imie": "KEMPIŃSKI Robert",
       "tytul_kategoria": "GM",
-      "rank_fide": "2516",
+      "rank_fide": "2513",
       "klub": "KSz MIEDŹ Legnica",
       "wojewodztwo_zwiazek": "DS"
     },
     {
       "id": "9",
-      "id_pzszach": "1050",
-      "nazwisko_imie": "LICZNERSKI Łukasz",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2511",
-      "klub": "Biały Król Wisznia Mała",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "10",
       "id_pzszach": "2870",
       "nazwisko_imie": "OLSZEWSKI Michał",
       "tytul_kategoria": "GM",
       "rank_fide": "2509",
       "klub": "KSz MIEDŹ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "5028",
+      "nazwisko_imie": "MORANDA Wojciech",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2507",
+      "klub": "KSz. WIEŻA Pęgów",
       "wojewodztwo_zwiazek": "DS"
     }
   ]

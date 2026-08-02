@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:30.407Z",
+  "createdAt": "2026-08-02T05:22:04.647Z",
   "totalRecords": 10,
   "data": [
     {
@@ -13,15 +13,6 @@
     },
     {
       "id": "2",
-      "id_pzszach": "7192",
-      "nazwisko_imie": "SIECIECHOWICZ Marcin",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2391",
-      "klub": "KSz LECH-WSUS Poznań",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "3",
       "id_pzszach": "7283",
       "nazwisko_imie": "WODA Jacek",
       "tytul_kategoria": "FM",
@@ -30,16 +21,16 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "4",
-      "id_pzszach": "2890",
-      "nazwisko_imie": "PĘDZICH Dominik",
+      "id": "3",
+      "id_pzszach": "7192",
+      "nazwisko_imie": "SIECIECHOWICZ Marcin",
       "tytul_kategoria": "IM",
-      "rank_fide": "2373",
+      "rank_fide": "2377",
       "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "5",
+      "id": "4",
       "id_pzszach": "26062",
       "nazwisko_imie": "NIEKRAŚ Dawid",
       "tytul_kategoria": "FM",
@@ -48,12 +39,21 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "6",
+      "id": "5",
       "id_pzszach": "7081",
       "nazwisko_imie": "MACIEJCZAK Jakub",
       "tytul_kategoria": "FM",
       "rank_fide": "2366",
       "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "2890",
+      "nazwisko_imie": "PĘDZICH Dominik",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2363",
+      "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:17.482Z",
+  "createdAt": "2026-08-02T05:21:51.261Z",
   "totalRecords": 100,
   "data": [
     {
@@ -115,7 +115,7 @@
       "id_pzszach": "66199",
       "nazwisko_imie": "RÓG Bartłomiej",
       "tytul_kategoria": "FM",
-      "rank_fide": "2303",
+      "rank_fide": "2314",
       "klub": "KSz Stilon Gorzów Wlkp.",
       "wojewodztwo_zwiazek": "LB"
     },
@@ -133,12 +133,21 @@
       "id_pzszach": "42480",
       "nazwisko_imie": "REDZISZ Michał",
       "tytul_kategoria": "FM",
-      "rank_fide": "2272",
+      "rank_fide": "2286",
       "klub": "KSz ODRODZENIE Kożuchów",
       "wojewodztwo_zwiazek": "LB"
     },
     {
       "id": "16",
+      "id_pzszach": "112",
+      "nazwisko_imie": "GOLUCH Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2272",
+      "klub": "KSz ODRODZENIE Kożuchów",
+      "wojewodztwo_zwiazek": "LB"
+    },
+    {
+      "id": "17",
       "id_pzszach": "1402",
       "nazwisko_imie": "MICHALSKI Olaf",
       "tytul_kategoria": "FM",
@@ -147,21 +156,12 @@
       "wojewodztwo_zwiazek": "LB"
     },
     {
-      "id": "17",
+      "id": "18",
       "id_pzszach": "1352",
       "nazwisko_imie": "CZERWOŃSKI Aleksander",
       "tytul_kategoria": "IM",
       "rank_fide": "2255",
       "klub": "KSz Stilon Gorzów Wlkp.",
-      "wojewodztwo_zwiazek": "LB"
-    },
-    {
-      "id": "18",
-      "id_pzszach": "112",
-      "nazwisko_imie": "GOLUCH Piotr",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2249",
-      "klub": "KSz ODRODZENIE Kożuchów",
       "wojewodztwo_zwiazek": "LB"
     },
     {
@@ -571,19 +571,19 @@
     },
     {
       "id": "64",
-      "id_pzszach": "27229",
-      "nazwisko_imie": "JANKOWIAK Tomasz",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2069",
+      "id_pzszach": "21712",
+      "nazwisko_imie": "JANKOWIAK Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "2067",
       "klub": "KSz ODRODZENIE Kożuchów",
       "wojewodztwo_zwiazek": "LB"
     },
     {
       "id": "65",
-      "id_pzszach": "21712",
-      "nazwisko_imie": "JANKOWIAK Piotr",
-      "tytul_kategoria": "K",
-      "rank_fide": "2068",
+      "id_pzszach": "27229",
+      "nazwisko_imie": "JANKOWIAK Tomasz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2056",
       "klub": "KSz ODRODZENIE Kożuchów",
       "wojewodztwo_zwiazek": "LB"
     },

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:29.596Z",
+  "createdAt": "2026-08-02T05:22:03.847Z",
   "totalRecords": 10,
   "data": [
     {
@@ -25,25 +25,25 @@
       "id_pzszach": "108055",
       "nazwisko_imie": "RZĄP Filip",
       "tytul_kategoria": "CM",
-      "rank_fide": "2271",
+      "rank_fide": "2297",
       "klub": "UKS UZDOWO",
       "wojewodztwo_zwiazek": "WM"
     },
     {
       "id": "4",
-      "id_pzszach": "6450",
-      "nazwisko_imie": "LISTEWNIK Zbigniew",
-      "tytul_kategoria": "K",
-      "rank_fide": "2250",
+      "id_pzszach": "77433",
+      "nazwisko_imie": "MURAWSKI Jan",
+      "tytul_kategoria": "V",
+      "rank_fide": "2270",
       "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },
     {
       "id": "5",
-      "id_pzszach": "77433",
-      "nazwisko_imie": "MURAWSKI Jan",
-      "tytul_kategoria": "V",
-      "rank_fide": "2246",
+      "id_pzszach": "6450",
+      "nazwisko_imie": "LISTEWNIK Zbigniew",
+      "tytul_kategoria": "K",
+      "rank_fide": "2250",
       "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },

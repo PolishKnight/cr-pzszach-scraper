@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:28.148Z",
+  "createdAt": "2026-08-02T05:22:02.352Z",
   "totalRecords": 10,
   "data": [
     {
@@ -16,7 +16,7 @@
       "id_pzszach": "21423",
       "nazwisko_imie": "FEDORCHUK Sergey A",
       "tytul_kategoria": "GM",
-      "rank_fide": "2593",
+      "rank_fide": "2599",
       "klub": "MCKiS Jaworzno",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -31,19 +31,19 @@
     },
     {
       "id": "4",
-      "id_pzszach": "65730",
-      "nazwisko_imie": "SEEMANN Jakub",
+      "id_pzszach": "2966",
+      "nazwisko_imie": "SOĆKO Bartosz",
       "tytul_kategoria": "GM",
-      "rank_fide": "2557",
+      "rank_fide": "2554",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
       "id": "5",
-      "id_pzszach": "2966",
-      "nazwisko_imie": "SOĆKO Bartosz",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2554",
+      "id_pzszach": "22548",
+      "nazwisko_imie": "GAZIK Viktor",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2549",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -67,10 +67,10 @@
     },
     {
       "id": "8",
-      "id_pzszach": "22548",
-      "nazwisko_imie": "GAZIK Viktor",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2544",
+      "id_pzszach": "65730",
+      "nazwisko_imie": "SEEMANN Jakub",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2543",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },

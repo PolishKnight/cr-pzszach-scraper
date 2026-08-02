@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:30.408Z",
+  "createdAt": "2026-08-02T05:22:04.648Z",
   "totalRecords": 100,
   "data": [
     {
@@ -13,15 +13,6 @@
     },
     {
       "id": "2",
-      "id_pzszach": "7192",
-      "nazwisko_imie": "SIECIECHOWICZ Marcin",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2391",
-      "klub": "KSz LECH-WSUS Poznań",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "3",
       "id_pzszach": "7283",
       "nazwisko_imie": "WODA Jacek",
       "tytul_kategoria": "FM",
@@ -30,16 +21,16 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "4",
-      "id_pzszach": "2890",
-      "nazwisko_imie": "PĘDZICH Dominik",
+      "id": "3",
+      "id_pzszach": "7192",
+      "nazwisko_imie": "SIECIECHOWICZ Marcin",
       "tytul_kategoria": "IM",
-      "rank_fide": "2373",
+      "rank_fide": "2377",
       "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "5",
+      "id": "4",
       "id_pzszach": "26062",
       "nazwisko_imie": "NIEKRAŚ Dawid",
       "tytul_kategoria": "FM",
@@ -48,12 +39,21 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "6",
+      "id": "5",
       "id_pzszach": "7081",
       "nazwisko_imie": "MACIEJCZAK Jakub",
       "tytul_kategoria": "FM",
       "rank_fide": "2366",
       "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "2890",
+      "nazwisko_imie": "PĘDZICH Dominik",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2363",
+      "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -103,15 +103,6 @@
     },
     {
       "id": "12",
-      "id_pzszach": "39447",
-      "nazwisko_imie": "NOWAK Mikołaj",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2338",
-      "klub": "KSz LECH-WSUS Poznań",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "13",
       "id_pzszach": "21991",
       "nazwisko_imie": "KUCZA Karol",
       "tytul_kategoria": "FM",
@@ -120,7 +111,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "14",
+      "id": "13",
       "id_pzszach": "7020",
       "nazwisko_imie": "KASZOWSKI Dariusz",
       "tytul_kategoria": "M",
@@ -129,7 +120,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "15",
+      "id": "14",
       "id_pzszach": "7253",
       "nazwisko_imie": "TOMCZAK Rafał",
       "tytul_kategoria": "FM",
@@ -138,21 +129,30 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "16",
-      "id_pzszach": "7221",
-      "nazwisko_imie": "STECZEK Marcin",
+      "id": "15",
+      "id_pzszach": "39447",
+      "nazwisko_imie": "NOWAK Mikołaj",
       "tytul_kategoria": "FM",
-      "rank_fide": "2311",
-      "klub": "TS-R HETMAN Konin",
+      "rank_fide": "2313",
+      "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "17",
+      "id": "16",
       "id_pzszach": "7002",
       "nazwisko_imie": "JEZIERSKI Piotr",
       "tytul_kategoria": "K",
       "rank_fide": "2310",
       "klub": "",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "7221",
+      "nazwisko_imie": "STECZEK Marcin",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2308",
+      "klub": "TS-R HETMAN Konin",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -184,10 +184,10 @@
     },
     {
       "id": "21",
-      "id_pzszach": "69025",
-      "nazwisko_imie": "PRZYBYLSKI Bartosz",
+      "id_pzszach": "109918",
+      "nazwisko_imie": "DIACHEK Andrii",
       "tytul_kategoria": "FM",
-      "rank_fide": "2289",
+      "rank_fide": "2294",
       "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
@@ -202,15 +202,6 @@
     },
     {
       "id": "23",
-      "id_pzszach": "109918",
-      "nazwisko_imie": "DIACHEK Andrii",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2282",
-      "klub": "KSz LECH-WSUS Poznań",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "24",
       "id_pzszach": "17994",
       "nazwisko_imie": "ŚNIHUR Piotr",
       "tytul_kategoria": "K+",
@@ -219,7 +210,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "25",
+      "id": "24",
       "id_pzszach": "6996",
       "nazwisko_imie": "JANASZAK Dawid",
       "tytul_kategoria": "FM",
@@ -228,16 +219,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "26",
-      "id_pzszach": "6915",
-      "nazwisko_imie": "CHOJNACKI Krzysztof",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2272",
-      "klub": "LKS CHROBRY Gniezno",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "27",
+      "id": "25",
       "id_pzszach": "7210",
       "nazwisko_imie": "SOŁTYS Bogdan",
       "tytul_kategoria": "I",
@@ -246,7 +228,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "28",
+      "id": "26",
       "id_pzszach": "7264",
       "nazwisko_imie": "WALENDOWSKI Tadeusz",
       "tytul_kategoria": "K",
@@ -255,7 +237,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "29",
+      "id": "27",
       "id_pzszach": "103446",
       "nazwisko_imie": "MOSS Robin",
       "tytul_kategoria": "FM",
@@ -264,7 +246,16 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "30",
+      "id": "28",
+      "id_pzszach": "6915",
+      "nazwisko_imie": "CHOJNACKI Krzysztof",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2264",
+      "klub": "LKS CHROBRY Gniezno",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "29",
       "id_pzszach": "5860",
       "nazwisko_imie": "KULESZA Mateusz",
       "tytul_kategoria": "K+",
@@ -273,7 +264,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "31",
+      "id": "30",
       "id_pzszach": "17057",
       "nazwisko_imie": "NOWICKI Bartosz",
       "tytul_kategoria": "K++",
@@ -282,7 +273,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "32",
+      "id": "31",
       "id_pzszach": "7175",
       "nazwisko_imie": "ROZWARSKI Jacek",
       "tytul_kategoria": "K",
@@ -291,7 +282,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "33",
+      "id": "32",
       "id_pzszach": "6952",
       "nazwisko_imie": "EREŃSKA-BARLO Hanna",
       "tytul_kategoria": "WGM",
@@ -300,16 +291,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "34",
-      "id_pzszach": "52316",
-      "nazwisko_imie": "WOJDAK Jan",
-      "tytul_kategoria": "K++",
-      "rank_fide": "2241",
-      "klub": "KSz LECH-WSUS Poznań",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "35",
+      "id": "33",
       "id_pzszach": "6840",
       "nazwisko_imie": "MUSIAŁKIEWICZ Jan",
       "tytul_kategoria": "K+",
@@ -318,7 +300,16 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "36",
+      "id": "34",
+      "id_pzszach": "69025",
+      "nazwisko_imie": "PRZYBYLSKI Bartosz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2232",
+      "klub": "KSz LECH-WSUS Poznań",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "35",
       "id_pzszach": "1699",
       "nazwisko_imie": "BEDNAREK Sylwester",
       "tytul_kategoria": "FM",
@@ -327,7 +318,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "37",
+      "id": "36",
       "id_pzszach": "6841",
       "nazwisko_imie": "MUSIAŁKIEWICZ Paweł",
       "tytul_kategoria": "FM",
@@ -336,12 +327,21 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "38",
+      "id": "37",
       "id_pzszach": "7189",
       "nazwisko_imie": "ŚCIBIOR Adam",
       "tytul_kategoria": "K",
       "rank_fide": "2229",
       "klub": "",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "52316",
+      "nazwisko_imie": "WOJDAK Jan",
+      "tytul_kategoria": "K++",
+      "rank_fide": "2228",
+      "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -400,20 +400,20 @@
     },
     {
       "id": "45",
+      "id_pzszach": "49917",
+      "nazwisko_imie": "GÓRKIEWICZ Mateusz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2212",
+      "klub": "MMKS WIENIAWA Leszno",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "46",
       "id_pzszach": "7270",
       "nazwisko_imie": "WEGLARZ Leszek",
       "tytul_kategoria": "IM",
       "rank_fide": "2211",
       "klub": "",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "46",
-      "id_pzszach": "49917",
-      "nazwisko_imie": "GÓRKIEWICZ Mateusz",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2211",
-      "klub": "MMKS WIENIAWA Leszno",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -427,6 +427,15 @@
     },
     {
       "id": "48",
+      "id_pzszach": "75807",
+      "nazwisko_imie": "MAJCHER Igor",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2208",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "49",
       "id_pzszach": "1323",
       "nazwisko_imie": "JAGODZIŃSKI Piotr",
       "tytul_kategoria": "CM",
@@ -435,7 +444,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "49",
+      "id": "50",
       "id_pzszach": "7040",
       "nazwisko_imie": "KOWZAN Piotr",
       "tytul_kategoria": "K",
@@ -444,7 +453,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "50",
+      "id": "51",
       "id_pzszach": "7024",
       "nazwisko_imie": "KOLENDO Filip",
       "tytul_kategoria": "K",
@@ -453,7 +462,16 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "51",
+      "id": "52",
+      "id_pzszach": "51933",
+      "nazwisko_imie": "DEMSKI Michał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2191",
+      "klub": "MMKS WIENIAWA Leszno",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "53",
       "id_pzszach": "7230",
       "nazwisko_imie": "STYPKA Mieczysław",
       "tytul_kategoria": "FM",
@@ -462,7 +480,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "52",
+      "id": "54",
       "id_pzszach": "7273",
       "nazwisko_imie": "WIĘCŁAW Michał",
       "tytul_kategoria": "K",
@@ -471,16 +489,16 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "53",
-      "id_pzszach": "51933",
-      "nazwisko_imie": "DEMSKI Michał",
-      "tytul_kategoria": "K",
+      "id": "55",
+      "id_pzszach": "58064",
+      "nazwisko_imie": "LUBERAŃSKI Jakub",
+      "tytul_kategoria": "FM",
       "rank_fide": "2183",
       "klub": "MMKS WIENIAWA Leszno",
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "54",
+      "id": "56",
       "id_pzszach": "22286",
       "nazwisko_imie": "RACZYŃSKI Krzysztof",
       "tytul_kategoria": "K+",
@@ -489,7 +507,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "55",
+      "id": "57",
       "id_pzszach": "7150",
       "nazwisko_imie": "PŁOŃCZAK Dominik",
       "tytul_kategoria": "K",
@@ -498,7 +516,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "56",
+      "id": "58",
       "id_pzszach": "7309",
       "nazwisko_imie": "ZOK Szymon",
       "tytul_kategoria": "I",
@@ -507,7 +525,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "57",
+      "id": "59",
       "id_pzszach": "7025",
       "nazwisko_imie": "KOLENDO Mateusz",
       "tytul_kategoria": "K",
@@ -516,7 +534,25 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "58",
+      "id": "60",
+      "id_pzszach": "4700",
+      "nazwisko_imie": "KEMPIŃSKI Tomasz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2173",
+      "klub": "KS KORONA Zakrzewo",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "61",
+      "id_pzszach": "7537",
+      "nazwisko_imie": "SZYSZYŁO Rafał",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2172",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "62",
       "id_pzszach": "6941",
       "nazwisko_imie": "DUDZIŃSKI Paweł",
       "tytul_kategoria": "FM",
@@ -525,7 +561,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "59",
+      "id": "63",
       "id_pzszach": "46620",
       "nazwisko_imie": "CHACZYŃSKI Kamil",
       "tytul_kategoria": "K+",
@@ -534,16 +570,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "60",
-      "id_pzszach": "58064",
-      "nazwisko_imie": "LUBERAŃSKI Jakub",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2168",
-      "klub": "MMKS WIENIAWA Leszno",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "61",
+      "id": "64",
       "id_pzszach": "6868",
       "nazwisko_imie": "ADAMSKI Michał",
       "tytul_kategoria": "K++",
@@ -552,7 +579,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "62",
+      "id": "65",
       "id_pzszach": "7077",
       "nazwisko_imie": "LITWIN Jozef",
       "tytul_kategoria": "K+",
@@ -561,7 +588,16 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "63",
+      "id": "66",
+      "id_pzszach": "71670",
+      "nazwisko_imie": "UGOREK Kacper",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2162",
+      "klub": "KTS Kalisz",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "67",
       "id_pzszach": "7295",
       "nazwisko_imie": "WYSOCKI Michal",
       "tytul_kategoria": "I",
@@ -570,7 +606,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "64",
+      "id": "68",
       "id_pzszach": "7223",
       "nazwisko_imie": "STEMPIN Paweł",
       "tytul_kategoria": "IM",
@@ -579,25 +615,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "65",
-      "id_pzszach": "64638",
-      "nazwisko_imie": "SKRZYPIŃSKI Jan",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2158",
-      "klub": "KSz LECH-WSUS Poznań",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "66",
-      "id_pzszach": "71670",
-      "nazwisko_imie": "UGOREK Kacper",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2158",
-      "klub": "KTS Kalisz",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "67",
+      "id": "69",
       "id_pzszach": "6607",
       "nazwisko_imie": "WYSOCKI Aleksander",
       "tytul_kategoria": "I++",
@@ -606,7 +624,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "68",
+      "id": "70",
       "id_pzszach": "7152",
       "nazwisko_imie": "PODLAS Krzysztof",
       "tytul_kategoria": "I++",
@@ -615,39 +633,21 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "69",
-      "id_pzszach": "7537",
-      "nazwisko_imie": "SZYSZYŁO Rafał",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2156",
-      "klub": "OTSz Ostrów Wielkopolski",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "70",
-      "id_pzszach": "6990",
-      "nazwisko_imie": "HOMSKI Paweł",
-      "tytul_kategoria": "K",
-      "rank_fide": "2154",
-      "klub": "UKS KSM TĘCZA Kościan",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
       "id": "71",
       "id_pzszach": "71536",
       "nazwisko_imie": "STACHOWIAK Bruno",
       "tytul_kategoria": "K",
-      "rank_fide": "2154",
+      "rank_fide": "2155",
       "klub": "AZS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
     {
       "id": "72",
-      "id_pzszach": "4700",
-      "nazwisko_imie": "KEMPIŃSKI Tomasz",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2151",
-      "klub": "KS KORONA Zakrzewo",
+      "id_pzszach": "6990",
+      "nazwisko_imie": "HOMSKI Paweł",
+      "tytul_kategoria": "K",
+      "rank_fide": "2154",
+      "klub": "UKS KSM TĘCZA Kościan",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -679,20 +679,20 @@
     },
     {
       "id": "76",
+      "id_pzszach": "64638",
+      "nazwisko_imie": "SKRZYPIŃSKI Jan",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2147",
+      "klub": "KSz LECH-WSUS Poznań",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "77",
       "id_pzszach": "6928",
       "nazwisko_imie": "DĘBOWIAK Marcin",
       "tytul_kategoria": "I++",
       "rank_fide": "2141",
       "klub": "MMKS WIENIAWA Leszno",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "77",
-      "id_pzszach": "75807",
-      "nazwisko_imie": "MAJCHER Igor",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2141",
-      "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -751,6 +751,15 @@
     },
     {
       "id": "84",
+      "id_pzszach": "93904",
+      "nazwisko_imie": "WERBLIŃSKI Wojciech",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2127",
+      "klub": "LKS PIAST Śrem",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "85",
       "id_pzszach": "7313",
       "nazwisko_imie": "ADAMOWICZ Maciej",
       "tytul_kategoria": "I++",
@@ -759,7 +768,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "85",
+      "id": "86",
       "id_pzszach": "6962",
       "nazwisko_imie": "FOJUDZKI Tomasz",
       "tytul_kategoria": "I+",
@@ -768,7 +777,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "86",
+      "id": "87",
       "id_pzszach": "7080",
       "nazwisko_imie": "ŁYSIAK-PÓŁTORAK Magdalena",
       "tytul_kategoria": "WFM",
@@ -777,7 +786,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "87",
+      "id": "88",
       "id_pzszach": "22613",
       "nazwisko_imie": "MĄDRAWSKI Krzysztof",
       "tytul_kategoria": "K++",
@@ -786,7 +795,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "88",
+      "id": "89",
       "id_pzszach": "7086",
       "nazwisko_imie": "MADALINSKI Mariusz",
       "tytul_kategoria": "I",
@@ -795,7 +804,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "89",
+      "id": "90",
       "id_pzszach": "56043",
       "nazwisko_imie": "BARWIŃSKA Ewa",
       "tytul_kategoria": "WFM",
@@ -804,7 +813,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "90",
+      "id": "91",
       "id_pzszach": "54840",
       "nazwisko_imie": "JĘDRASZEK Paweł",
       "tytul_kategoria": "K",
@@ -813,7 +822,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "91",
+      "id": "92",
       "id_pzszach": "7306",
       "nazwisko_imie": "ZIELIŃSKA Małgorzata",
       "tytul_kategoria": "M",
@@ -822,7 +831,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "92",
+      "id": "93",
       "id_pzszach": "6890",
       "nazwisko_imie": "BIENIEK Przemysław",
       "tytul_kategoria": "K",
@@ -831,7 +840,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "93",
+      "id": "94",
       "id_pzszach": "6898",
       "nazwisko_imie": "BRUS Tomasz",
       "tytul_kategoria": "K",
@@ -840,7 +849,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "94",
+      "id": "95",
       "id_pzszach": "6925",
       "nazwisko_imie": "CZEKALSKI Adam",
       "tytul_kategoria": "K",
@@ -849,7 +858,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "7262",
       "nazwisko_imie": "WALCZAK Dawid",
       "tytul_kategoria": "K",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "7048",
       "nazwisko_imie": "KRAWCZYK Stanislaw",
       "tytul_kategoria": "I+",
@@ -867,7 +876,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "97",
+      "id": "98",
       "id_pzszach": "6934",
       "nazwisko_imie": "DOBA Henryk",
       "tytul_kategoria": "I",
@@ -876,7 +885,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "98",
+      "id": "99",
       "id_pzszach": "7127",
       "nazwisko_imie": "NOWACKI Tomasz",
       "tytul_kategoria": "I+",
@@ -885,21 +894,12 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "99",
+      "id": "100",
       "id_pzszach": "7051",
       "nazwisko_imie": "KREPCZYNSKI Pawel",
       "tytul_kategoria": "I",
       "rank_fide": "2095",
       "klub": "M-G UKS POGOŃ Nowe Skalmierzyce",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "7156",
-      "nazwisko_imie": "PÓŁTORAK Michał",
-      "tytul_kategoria": "I",
-      "rank_fide": "2095",
-      "klub": "",
       "wojewodztwo_zwiazek": "WP"
     }
   ]

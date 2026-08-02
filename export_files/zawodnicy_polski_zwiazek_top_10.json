@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:06.272Z",
+  "createdAt": "2026-08-02T05:21:40.286Z",
   "totalRecords": 10,
   "data": [
     {
@@ -22,6 +22,15 @@
     },
     {
       "id": "3",
+      "id_pzszach": "29659",
+      "nazwisko_imie": "GUMULARZ Szymon",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2625",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "4",
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
@@ -30,20 +39,11 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "4",
-      "id_pzszach": "29659",
-      "nazwisko_imie": "GUMULARZ Szymon",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2618",
-      "klub": "KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
       "id": "5",
       "id_pzszach": "21423",
       "nazwisko_imie": "FEDORCHUK Sergey A",
       "tytul_kategoria": "GM",
-      "rank_fide": "2593",
+      "rank_fide": "2599",
       "klub": "MCKiS Jaworzno",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -58,6 +58,15 @@
     },
     {
       "id": "7",
+      "id_pzszach": "61585",
+      "nazwisko_imie": "MALEK Jan",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2573",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "8",
       "id_pzszach": "33553",
       "nazwisko_imie": "ZHIGALKO Sergei",
       "tytul_kategoria": "",
@@ -66,22 +75,13 @@
       "wojewodztwo_zwiazek": ""
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "27071",
       "nazwisko_imie": "TECLAF Paweł",
       "tytul_kategoria": "GM",
       "rank_fide": "2571",
       "klub": "KKS ORMUZD Kartuzy",
       "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "9",
-      "id_pzszach": "61585",
-      "nazwisko_imie": "MALEK Jan",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2570",
-      "klub": "KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
     },
     {
       "id": "10",

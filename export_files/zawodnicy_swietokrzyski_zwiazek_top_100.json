@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:27.272Z",
+  "createdAt": "2026-08-02T05:22:01.471Z",
   "totalRecords": 100,
   "data": [
     {
@@ -151,7 +151,7 @@
       "id_pzszach": "97042",
       "nazwisko_imie": "KAWKA Milena",
       "tytul_kategoria": "WFM",
-      "rank_fide": "2059",
+      "rank_fide": "2047",
       "klub": "KMKSzach VICTORIA KOMPLEXBUD",
       "wojewodztwo_zwiazek": "SK"
     },
@@ -409,15 +409,6 @@
     },
     {
       "id": "46",
-      "id_pzszach": "17277",
-      "nazwisko_imie": "FILIPOW Mateusz",
-      "tytul_kategoria": "I",
-      "rank_fide": "1935",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "47",
       "id_pzszach": "25968",
       "nazwisko_imie": "KAPUT Roman",
       "tytul_kategoria": "II+",
@@ -426,7 +417,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "48",
+      "id": "47",
       "id_pzszach": "23237",
       "nazwisko_imie": "CHOINA Michał",
       "tytul_kategoria": "I++",
@@ -435,7 +426,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "49",
+      "id": "48",
       "id_pzszach": "40427",
       "nazwisko_imie": "MŁYNARSKI Kamil",
       "tytul_kategoria": "I++",
@@ -444,7 +435,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "50",
+      "id": "49",
       "id_pzszach": "5005",
       "nazwisko_imie": "GIEMZA Joanna",
       "tytul_kategoria": "K",
@@ -453,7 +444,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "51",
+      "id": "50",
       "id_pzszach": "23235",
       "nazwisko_imie": "CHOINA Adam",
       "tytul_kategoria": "I+",
@@ -462,12 +453,21 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "52",
+      "id": "51",
       "id_pzszach": "5016",
       "nazwisko_imie": "KOPER Ireneusz",
       "tytul_kategoria": "I+",
       "rank_fide": "1923",
       "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "17277",
+      "nazwisko_imie": "FILIPOW Mateusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1923",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -544,15 +544,6 @@
     },
     {
       "id": "61",
-      "id_pzszach": "120610",
-      "nazwisko_imie": "KOWALCZYK Piotr",
-      "tytul_kategoria": "I",
-      "rank_fide": "1903",
-      "klub": "Fundacja DOBRY RUCH",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "62",
       "id_pzszach": "4986",
       "nazwisko_imie": "BAKALARZ Leszek",
       "tytul_kategoria": "FM",
@@ -561,7 +552,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "63",
+      "id": "62",
       "id_pzszach": "5048",
       "nazwisko_imie": "SAJTYNA Krzysztof",
       "tytul_kategoria": "I",
@@ -570,7 +561,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "64",
+      "id": "63",
       "id_pzszach": "46399",
       "nazwisko_imie": "CHOINA Jan",
       "tytul_kategoria": "I",
@@ -579,12 +570,21 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "65",
+      "id": "64",
       "id_pzszach": "5065",
       "nazwisko_imie": "URBAN Wojciech",
       "tytul_kategoria": "I",
       "rank_fide": "1899",
       "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "120610",
+      "nazwisko_imie": "KOWALCZYK Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1899",
+      "klub": "Fundacja DOBRY RUCH",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -841,6 +841,15 @@
     },
     {
       "id": "94",
+      "id_pzszach": "84142",
+      "nazwisko_imie": "NOWAK Karol",
+      "tytul_kategoria": "I",
+      "rank_fide": "1812",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "95",
       "id_pzszach": "49017",
       "nazwisko_imie": "SŁONIEWSKA Alicja",
       "tytul_kategoria": "I++",
@@ -849,21 +858,12 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "4929",
       "nazwisko_imie": "SZCZYPKOWSKI Piotr",
       "tytul_kategoria": "II",
       "rank_fide": "1810",
       "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "96",
-      "id_pzszach": "84142",
-      "nazwisko_imie": "NOWAK Karol",
-      "tytul_kategoria": "I",
-      "rank_fide": "1810",
-      "klub": "",
       "wojewodztwo_zwiazek": "SK"
     },
     {

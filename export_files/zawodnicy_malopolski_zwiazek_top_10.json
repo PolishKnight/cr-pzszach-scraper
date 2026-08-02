@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-01T05:22:21.577Z",
+  "createdAt": "2026-08-02T05:21:55.409Z",
   "totalRecords": 10,
   "data": [
     {
@@ -16,7 +16,7 @@
       "id_pzszach": "2880",
       "nazwisko_imie": "PAKLEZA Zbigniew",
       "tytul_kategoria": "GM",
-      "rank_fide": "2499",
+      "rank_fide": "2492",
       "klub": "KS KINGSOFCHESS Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
@@ -67,6 +67,15 @@
     },
     {
       "id": "8",
+      "id_pzszach": "33591",
+      "nazwisko_imie": "SUDER Jakub",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2395",
+      "klub": "MAT Myślenice",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "9",
       "id_pzszach": "90310",
       "nazwisko_imie": "Osmak Iulija",
       "tytul_kategoria": "WGM",
@@ -75,20 +84,11 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "9",
-      "id_pzszach": "33591",
-      "nazwisko_imie": "SUDER Jakub",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2384",
-      "klub": "MAT Myślenice",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
       "id": "10",
       "id_pzszach": "683",
       "nazwisko_imie": "STOPA Jacek",
       "tytul_kategoria": "GM",
-      "rank_fide": "2360",
+      "rank_fide": "2359",
       "klub": "KS KINGSOFCHESS Kraków",
       "wojewodztwo_zwiazek": "MP"
     }
