@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-03T05:36:46.452Z",
+  "createdAt": "2026-08-04T04:59:19.752Z",
   "totalRecords": 100,
   "data": [
     {
@@ -778,15 +778,6 @@
     },
     {
       "id": "87",
-      "id_pzszach": "30620",
-      "nazwisko_imie": "MICHALSKA Aleksandra",
-      "tytul_kategoria": "K",
-      "rank_fide": "1920",
-      "klub": "UKS Jedynka Łowicz",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "88",
       "id_pzszach": "22234",
       "nazwisko_imie": "ZWARYCZ Miłosz",
       "tytul_kategoria": "I++",
@@ -795,7 +786,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "89",
+      "id": "88",
       "id_pzszach": "74141",
       "nazwisko_imie": "GAWLIK Olivier",
       "tytul_kategoria": "I",
@@ -804,7 +795,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "90",
+      "id": "89",
       "id_pzszach": "1668",
       "nazwisko_imie": "SOBANIEC Dominik",
       "tytul_kategoria": "I",
@@ -813,7 +804,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "91",
+      "id": "90",
       "id_pzszach": "1691",
       "nazwisko_imie": "HAŁUBIEC Piotr",
       "tytul_kategoria": "II+",
@@ -822,7 +813,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "92",
+      "id": "91",
       "id_pzszach": "116953",
       "nazwisko_imie": "KOWALSKI Michał II",
       "tytul_kategoria": "",
@@ -831,7 +822,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "93",
+      "id": "92",
       "id_pzszach": "1797",
       "nazwisko_imie": "SIENCZEWSKI Zbigniew",
       "tytul_kategoria": "K",
@@ -840,7 +831,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "94",
+      "id": "93",
       "id_pzszach": "1499",
       "nazwisko_imie": "JAKUĆ Paweł",
       "tytul_kategoria": "I",
@@ -849,7 +840,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "95",
+      "id": "94",
       "id_pzszach": "70274",
       "nazwisko_imie": "WOLSKI Ernest",
       "tytul_kategoria": "I",
@@ -858,7 +849,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "17549",
       "nazwisko_imie": "POSUNIAK Weronika",
       "tytul_kategoria": "K+",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "19859",
       "nazwisko_imie": "BŁASZKIEWICZ Mateusz",
       "tytul_kategoria": "I+",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "21593",
       "nazwisko_imie": "OCHMAN Sebastian",
       "tytul_kategoria": "I",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "33965",
       "nazwisko_imie": "FUDAŁA Dominik",
       "tytul_kategoria": "I",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "4068",
       "nazwisko_imie": "WYŻGA-RYBICKI Witold",
       "tytul_kategoria": "I++",
       "rank_fide": "1889",
       "klub": "HETMAN Łódź",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "130472",
+      "nazwisko_imie": "MALKA Dawid",
+      "tytul_kategoria": "II",
+      "rank_fide": "1889",
+      "klub": "Hetman Żelechlinek",
       "wojewodztwo_zwiazek": "LD"
     }
   ]
