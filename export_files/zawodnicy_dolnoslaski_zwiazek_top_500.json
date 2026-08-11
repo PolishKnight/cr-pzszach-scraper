@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-10T03:47:30.943Z",
+  "createdAt": "2026-08-11T03:38:00.468Z",
   "totalRecords": 500,
   "data": [
     {
@@ -1993,6 +1993,15 @@
     },
     {
       "id": "222",
+      "id_pzszach": "2253",
+      "nazwisko_imie": "ŻURKOWSKI Andrzej",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2058",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "223",
       "id_pzszach": "449",
       "nazwisko_imie": "ZARĘBA Radosław",
       "tytul_kategoria": "K",
@@ -2001,7 +2010,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "223",
+      "id": "224",
       "id_pzszach": "221",
       "nazwisko_imie": "JABLOŃSKI Łukasz",
       "tytul_kategoria": "I",
@@ -2010,7 +2019,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "224",
+      "id": "225",
       "id_pzszach": "657",
       "nazwisko_imie": "NAJDUK Jacek",
       "tytul_kategoria": "I",
@@ -2019,7 +2028,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "225",
+      "id": "226",
       "id_pzszach": "132",
       "nazwisko_imie": "SADOWSKI Jan",
       "tytul_kategoria": "I",
@@ -2028,7 +2037,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "226",
+      "id": "227",
       "id_pzszach": "452",
       "nazwisko_imie": "ZAWADZKA Magdalena",
       "tytul_kategoria": "WFM",
@@ -2037,7 +2046,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "227",
+      "id": "228",
       "id_pzszach": "29018",
       "nazwisko_imie": "MAJOCHA Piotr",
       "tytul_kategoria": "I++",
@@ -2046,7 +2055,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "228",
+      "id": "229",
       "id_pzszach": "99187",
       "nazwisko_imie": "GRECH Kacper",
       "tytul_kategoria": "I",
@@ -2055,7 +2064,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "229",
+      "id": "230",
       "id_pzszach": "46556",
       "nazwisko_imie": "NOWAK Filip",
       "tytul_kategoria": "I",
@@ -2064,7 +2073,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "230",
+      "id": "231",
       "id_pzszach": "447",
       "nazwisko_imie": "ŻAK Kamil",
       "tytul_kategoria": "I",
@@ -2073,7 +2082,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "231",
+      "id": "232",
       "id_pzszach": "107",
       "nazwisko_imie": "KOSZKUL Wojciech",
       "tytul_kategoria": "I++",
@@ -2082,7 +2091,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "232",
+      "id": "233",
       "id_pzszach": "228",
       "nazwisko_imie": "JARZĘBOWICZ Mateusz",
       "tytul_kategoria": "I",
@@ -2091,7 +2100,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "233",
+      "id": "234",
       "id_pzszach": "10",
       "nazwisko_imie": "RACHWALSKI Andrzej",
       "tytul_kategoria": "II+",
@@ -2100,7 +2109,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "234",
+      "id": "235",
       "id_pzszach": "427",
       "nazwisko_imie": "TYSZECKI Paweł",
       "tytul_kategoria": "K",
@@ -2109,7 +2118,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "235",
+      "id": "236",
       "id_pzszach": "528",
       "nazwisko_imie": "MACIEJEWSKI Waldemar",
       "tytul_kategoria": "K",
@@ -2118,7 +2127,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "236",
+      "id": "237",
       "id_pzszach": "304",
       "nazwisko_imie": "KULON Bogusław",
       "tytul_kategoria": "K",
@@ -2127,7 +2136,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "237",
+      "id": "238",
       "id_pzszach": "319",
       "nazwisko_imie": "LIPIEŃ Wiesław",
       "tytul_kategoria": "K",
@@ -2136,7 +2145,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "238",
+      "id": "239",
       "id_pzszach": "143",
       "nazwisko_imie": "DRZYMAŁA Grzegorz",
       "tytul_kategoria": "I+",
@@ -2145,7 +2154,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "239",
+      "id": "240",
       "id_pzszach": "182",
       "nazwisko_imie": "DOBRZAŃSKI Paweł",
       "tytul_kategoria": "I",
@@ -2154,7 +2163,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "240",
+      "id": "241",
       "id_pzszach": "202",
       "nazwisko_imie": "GRODZISKI Leszek",
       "tytul_kategoria": "I",
@@ -2163,7 +2172,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "241",
+      "id": "242",
       "id_pzszach": "347",
       "nazwisko_imie": "MUCHA Marcin",
       "tytul_kategoria": "I+",
@@ -2172,7 +2181,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "242",
+      "id": "243",
       "id_pzszach": "6175",
       "nazwisko_imie": "WALENTUKIEWICZ Michał",
       "tytul_kategoria": "CM",
@@ -2181,7 +2190,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "243",
+      "id": "244",
       "id_pzszach": "9023",
       "nazwisko_imie": "BĘŚ Michał",
       "tytul_kategoria": "K",
@@ -2190,7 +2199,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "244",
+      "id": "245",
       "id_pzszach": "346",
       "nazwisko_imie": "MOTYL Tomasz",
       "tytul_kategoria": "I++",
@@ -2199,7 +2208,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "245",
+      "id": "246",
       "id_pzszach": "263",
       "nazwisko_imie": "JURKOWSKI Marcin",
       "tytul_kategoria": "I",
@@ -2208,7 +2217,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "246",
+      "id": "247",
       "id_pzszach": "205",
       "nazwisko_imie": "GROMEK Wojciech",
       "tytul_kategoria": "I",
@@ -2217,7 +2226,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "247",
+      "id": "248",
       "id_pzszach": "286",
       "nazwisko_imie": "KOWALCZUK Wojciech",
       "tytul_kategoria": "K",
@@ -2226,7 +2235,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "248",
+      "id": "249",
       "id_pzszach": "1273",
       "nazwisko_imie": "BRYŃSKI Dawid",
       "tytul_kategoria": "I+",
@@ -2235,7 +2244,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "249",
+      "id": "250",
       "id_pzszach": "301",
       "nazwisko_imie": "KUCYPERA Małgorzata",
       "tytul_kategoria": "WFM",
@@ -2244,7 +2253,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "250",
+      "id": "251",
       "id_pzszach": "94397",
       "nazwisko_imie": "OWCZAREK Hanna",
       "tytul_kategoria": "WFM",
@@ -2253,7 +2262,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "251",
+      "id": "252",
       "id_pzszach": "1122",
       "nazwisko_imie": "RYMASZEWSKI Dariusz",
       "tytul_kategoria": "K",
@@ -2262,7 +2271,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "252",
+      "id": "253",
       "id_pzszach": "242",
       "nazwisko_imie": "SZEWCZYK Jacek",
       "tytul_kategoria": "K",
@@ -2271,7 +2280,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "253",
+      "id": "254",
       "id_pzszach": "49134",
       "nazwisko_imie": "WIECZOREK Mikołaj",
       "tytul_kategoria": "I++",
@@ -2280,7 +2289,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "254",
+      "id": "255",
       "id_pzszach": "126",
       "nazwisko_imie": "ZDUNOWSKI Mariusz",
       "tytul_kategoria": "I",
@@ -2289,7 +2298,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "255",
+      "id": "256",
       "id_pzszach": "46563",
       "nazwisko_imie": "TOPOŁA Rafał",
       "tytul_kategoria": "I+",
@@ -2298,7 +2307,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "256",
+      "id": "257",
       "id_pzszach": "100956",
       "nazwisko_imie": "BIELA Mikołaj",
       "tytul_kategoria": "I",
@@ -2307,7 +2316,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "257",
+      "id": "258",
       "id_pzszach": "402",
       "nazwisko_imie": "SKOROBOGATY Krzysztof",
       "tytul_kategoria": "I",
@@ -2316,7 +2325,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "258",
+      "id": "259",
       "id_pzszach": "681",
       "nazwisko_imie": "STANKIEWICZ Paweł",
       "tytul_kategoria": "K",
@@ -2325,7 +2334,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "259",
+      "id": "260",
       "id_pzszach": "77523",
       "nazwisko_imie": "KAWULSKI-CHODKIEWICZ Alexander",
       "tytul_kategoria": "K",
@@ -2334,7 +2343,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "260",
+      "id": "261",
       "id_pzszach": "636",
       "nazwisko_imie": "JANKIEWICZ Robert",
       "tytul_kategoria": "I",
@@ -2343,7 +2352,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "261",
+      "id": "262",
       "id_pzszach": "185",
       "nazwisko_imie": "DOMARADZKA-ŻYŁA Anna",
       "tytul_kategoria": "K",
@@ -2352,7 +2361,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "262",
+      "id": "263",
       "id_pzszach": "7037",
       "nazwisko_imie": "KOWALCZUK Mikołaj",
       "tytul_kategoria": "I++",
@@ -2361,7 +2370,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "263",
+      "id": "264",
       "id_pzszach": "309",
       "nazwisko_imie": "ŁASUT Łukasz",
       "tytul_kategoria": "I",
@@ -2370,7 +2379,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "264",
+      "id": "265",
       "id_pzszach": "277",
       "nazwisko_imie": "KOPEĆ Mariusz",
       "tytul_kategoria": "K",
@@ -2379,7 +2388,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "265",
+      "id": "266",
       "id_pzszach": "285",
       "nazwisko_imie": "KOWALAK Piotr",
       "tytul_kategoria": "K",
@@ -2388,7 +2397,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "266",
+      "id": "267",
       "id_pzszach": "2770",
       "nazwisko_imie": "KROKAY Urszula",
       "tytul_kategoria": "K",
@@ -2397,7 +2406,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "267",
+      "id": "268",
       "id_pzszach": "84273",
       "nazwisko_imie": "RZĄDKOWSKA Kaja",
       "tytul_kategoria": "WFM",
@@ -2406,7 +2415,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "268",
+      "id": "269",
       "id_pzszach": "147",
       "nazwisko_imie": "WIELOSZ Jarosław",
       "tytul_kategoria": "I++",
@@ -2415,7 +2424,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "269",
+      "id": "270",
       "id_pzszach": "364",
       "nazwisko_imie": "PERŁAKOWSKA Iwona",
       "tytul_kategoria": "K",
@@ -2424,7 +2433,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "270",
+      "id": "271",
       "id_pzszach": "430",
       "nazwisko_imie": "WALASIAK Dariusz",
       "tytul_kategoria": "I+",
@@ -2433,7 +2442,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "271",
+      "id": "272",
       "id_pzszach": "197",
       "nazwisko_imie": "GAŁUSZKA Kamil",
       "tytul_kategoria": "K",
@@ -2442,7 +2451,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "272",
+      "id": "273",
       "id_pzszach": "90953",
       "nazwisko_imie": "KASPRZAK Łukasz",
       "tytul_kategoria": "I",
@@ -2451,7 +2460,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "273",
+      "id": "274",
       "id_pzszach": "67172",
       "nazwisko_imie": "MAREK Grzegorz",
       "tytul_kategoria": "I",
@@ -2460,7 +2469,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "274",
+      "id": "275",
       "id_pzszach": "328",
       "nazwisko_imie": "MACHLOWSKI Sławomir",
       "tytul_kategoria": "I+",
@@ -2469,7 +2478,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "275",
+      "id": "276",
       "id_pzszach": "571",
       "nazwisko_imie": "ZAWADKA Andrzej",
       "tytul_kategoria": "I",
@@ -2478,7 +2487,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "276",
+      "id": "277",
       "id_pzszach": "406",
       "nazwisko_imie": "SPENDOWSKI Tomasz",
       "tytul_kategoria": "I",
@@ -2487,7 +2496,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "277",
+      "id": "278",
       "id_pzszach": "292",
       "nazwisko_imie": "KROSNY Mirosław",
       "tytul_kategoria": "I",
@@ -2496,7 +2505,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "278",
+      "id": "279",
       "id_pzszach": "235",
       "nazwisko_imie": "NOWAK Ryszard",
       "tytul_kategoria": "K",
@@ -2505,7 +2514,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "279",
+      "id": "280",
       "id_pzszach": "17467",
       "nazwisko_imie": "BUCHAŁA Tomasz",
       "tytul_kategoria": "I",
@@ -2514,7 +2523,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "280",
+      "id": "281",
       "id_pzszach": "118",
       "nazwisko_imie": "STARCZEWSKA Dominika",
       "tytul_kategoria": "K",
@@ -2523,7 +2532,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "281",
+      "id": "282",
       "id_pzszach": "666",
       "nazwisko_imie": "PRUSINOWSKI Maciej",
       "tytul_kategoria": "I",
@@ -2532,7 +2541,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "282",
+      "id": "283",
       "id_pzszach": "16",
       "nazwisko_imie": "STAWARZ Paweł",
       "tytul_kategoria": "I",
@@ -2541,7 +2550,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "283",
+      "id": "284",
       "id_pzszach": "515",
       "nazwisko_imie": "PYRZYŃSKI Michał",
       "tytul_kategoria": "I",
@@ -2550,7 +2559,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "284",
+      "id": "285",
       "id_pzszach": "1310",
       "nazwisko_imie": "HAJNRYCH Jakub",
       "tytul_kategoria": "I",
@@ -2559,7 +2568,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "285",
+      "id": "286",
       "id_pzszach": "27121",
       "nazwisko_imie": "BIENIAS Piotr",
       "tytul_kategoria": "I++",
@@ -2568,7 +2577,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "286",
+      "id": "287",
       "id_pzszach": "284",
       "nazwisko_imie": "KOTWICKA Maja",
       "tytul_kategoria": "K",
@@ -2577,7 +2586,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "287",
+      "id": "288",
       "id_pzszach": "369",
       "nazwisko_imie": "PODGAJNY Tadeusz",
       "tytul_kategoria": "I",
@@ -2586,7 +2595,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "288",
+      "id": "289",
       "id_pzszach": "3562",
       "nazwisko_imie": "DĄBROWSKI Jarosław",
       "tytul_kategoria": "I",
@@ -2595,7 +2604,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "289",
+      "id": "290",
       "id_pzszach": "1304",
       "nazwisko_imie": "STĘPIEŃ Marian",
       "tytul_kategoria": "I",
@@ -2604,7 +2613,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "290",
+      "id": "291",
       "id_pzszach": "23328",
       "nazwisko_imie": "KARYKOWSKA Anna",
       "tytul_kategoria": "K+",
@@ -2613,7 +2622,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "291",
+      "id": "292",
       "id_pzszach": "84967",
       "nazwisko_imie": "OLEJARCZYK Remigiusz",
       "tytul_kategoria": "I++",
@@ -2622,7 +2631,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "292",
+      "id": "293",
       "id_pzszach": "176",
       "nazwisko_imie": "CHRZANOWSKI Michał",
       "tytul_kategoria": "I",
@@ -2631,7 +2640,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "293",
+      "id": "294",
       "id_pzszach": "627",
       "nazwisko_imie": "FRĄTCZAK Piotr",
       "tytul_kategoria": "I",
@@ -2640,7 +2649,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "294",
+      "id": "295",
       "id_pzszach": "26370",
       "nazwisko_imie": "FREJ Zofia",
       "tytul_kategoria": "K+",
@@ -2649,7 +2658,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "295",
+      "id": "296",
       "id_pzszach": "3378",
       "nazwisko_imie": "KOMENDECKI Jacek",
       "tytul_kategoria": "K",
@@ -2658,7 +2667,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "296",
+      "id": "297",
       "id_pzszach": "388",
       "nazwisko_imie": "RYCHLIK Piotr",
       "tytul_kategoria": "I++",
@@ -2667,7 +2676,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "297",
+      "id": "298",
       "id_pzszach": "72",
       "nazwisko_imie": "KACZMAREK Maciej",
       "tytul_kategoria": "I",
@@ -2676,7 +2685,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "298",
+      "id": "299",
       "id_pzszach": "244",
       "nazwisko_imie": "BŁASZCZAK Maciej",
       "tytul_kategoria": "II",
@@ -2685,7 +2694,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "299",
+      "id": "300",
       "id_pzszach": "279",
       "nazwisko_imie": "KORPALSKI Ryszard",
       "tytul_kategoria": "K",
@@ -2694,7 +2703,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "300",
+      "id": "301",
       "id_pzszach": "18910",
       "nazwisko_imie": "WHITE John",
       "tytul_kategoria": "II+",
@@ -2703,7 +2712,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "301",
+      "id": "302",
       "id_pzszach": "14559",
       "nazwisko_imie": "LASCAR Radosława",
       "tytul_kategoria": "I+",
@@ -2712,7 +2721,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "302",
+      "id": "303",
       "id_pzszach": "9946",
       "nazwisko_imie": "SZAREK Roger",
       "tytul_kategoria": "II",
@@ -2721,7 +2730,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "303",
+      "id": "304",
       "id_pzszach": "10552",
       "nazwisko_imie": "DADEŁŁO Aleksandra",
       "tytul_kategoria": "I++",
@@ -2730,7 +2739,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "304",
+      "id": "305",
       "id_pzszach": "282",
       "nazwisko_imie": "KOSSOBUDZKI Robert",
       "tytul_kategoria": "I",
@@ -2739,7 +2748,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "305",
+      "id": "306",
       "id_pzszach": "609",
       "nazwisko_imie": "JARCZYŃSKI Robert",
       "tytul_kategoria": "II",
@@ -2748,7 +2757,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "306",
+      "id": "307",
       "id_pzszach": "597",
       "nazwisko_imie": "SOSINKA Dariusz",
       "tytul_kategoria": "II+",
@@ -2757,7 +2766,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "307",
+      "id": "308",
       "id_pzszach": "91301",
       "nazwisko_imie": "RZĄDKOWSKA Lila",
       "tytul_kategoria": "WCM",
@@ -2766,7 +2775,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "308",
+      "id": "309",
       "id_pzszach": "584",
       "nazwisko_imie": "ZMARZŁY Aleksandra",
       "tytul_kategoria": "K+",
@@ -2775,7 +2784,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "309",
+      "id": "310",
       "id_pzszach": "93",
       "nazwisko_imie": "SZYDEŁKO Marcin",
       "tytul_kategoria": "I++",
@@ -2784,7 +2793,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "310",
+      "id": "311",
       "id_pzszach": "3045",
       "nazwisko_imie": "ZYCH Marek",
       "tytul_kategoria": "K",
@@ -2793,7 +2802,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "311",
+      "id": "312",
       "id_pzszach": "55241",
       "nazwisko_imie": "SMUKOWSKI Bartosz",
       "tytul_kategoria": "I",
@@ -2802,7 +2811,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "312",
+      "id": "313",
       "id_pzszach": "646",
       "nazwisko_imie": "KOROŚCIEL-SOŁTYSIAK Aneta",
       "tytul_kategoria": "M",
@@ -2811,7 +2820,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "313",
+      "id": "314",
       "id_pzszach": "9906",
       "nazwisko_imie": "SOKÓLSKI Aleksander",
       "tytul_kategoria": "I+",
@@ -2820,7 +2829,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "314",
+      "id": "315",
       "id_pzszach": "101739",
       "nazwisko_imie": "OWAD Jakub",
       "tytul_kategoria": "I+",
@@ -2829,7 +2838,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "315",
+      "id": "316",
       "id_pzszach": "502",
       "nazwisko_imie": "BIERNAT Stanisław",
       "tytul_kategoria": "I",
@@ -2838,7 +2847,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "316",
+      "id": "317",
       "id_pzszach": "378",
       "nazwisko_imie": "PUSZCZEWICZ Krzysztof",
       "tytul_kategoria": "K",
@@ -2847,7 +2856,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "317",
+      "id": "318",
       "id_pzszach": "9228",
       "nazwisko_imie": "JARUS Grzegorz",
       "tytul_kategoria": "I+",
@@ -2856,7 +2865,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "318",
+      "id": "319",
       "id_pzszach": "238",
       "nazwisko_imie": "KRYSTIAN Tadeusz",
       "tytul_kategoria": "I",
@@ -2865,7 +2874,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "319",
+      "id": "320",
       "id_pzszach": "7905",
       "nazwisko_imie": "PAWLAK Dariusz",
       "tytul_kategoria": "I",
@@ -2874,7 +2883,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "320",
+      "id": "321",
       "id_pzszach": "13164",
       "nazwisko_imie": "BOESE Artur",
       "tytul_kategoria": "I",
@@ -2883,7 +2892,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "321",
+      "id": "322",
       "id_pzszach": "12825",
       "nazwisko_imie": "ANTONIEWICZ Jakub",
       "tytul_kategoria": "I",
@@ -2892,7 +2901,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "322",
+      "id": "323",
       "id_pzszach": "47",
       "nazwisko_imie": "BARBURZYŃSKA Magdalena",
       "tytul_kategoria": "K",
@@ -2901,7 +2910,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "323",
+      "id": "324",
       "id_pzszach": "102767",
       "nazwisko_imie": "SAKHARCHUK Aliaksandr",
       "tytul_kategoria": "I",
@@ -2910,7 +2919,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "324",
+      "id": "325",
       "id_pzszach": "413",
       "nazwisko_imie": "ŚWIERCZEWSKI Marek",
       "tytul_kategoria": "K",
@@ -2919,7 +2928,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "325",
+      "id": "326",
       "id_pzszach": "42274",
       "nazwisko_imie": "SKIBA Aleksandra",
       "tytul_kategoria": "K",
@@ -2928,7 +2937,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "326",
+      "id": "327",
       "id_pzszach": "271",
       "nazwisko_imie": "KLUKIEWICZ Piotr",
       "tytul_kategoria": "K",
@@ -2937,7 +2946,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "327",
+      "id": "328",
       "id_pzszach": "38736",
       "nazwisko_imie": "TUREK Michał",
       "tytul_kategoria": "I+",
@@ -2946,7 +2955,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "328",
+      "id": "329",
       "id_pzszach": "631",
       "nazwisko_imie": "GRZESIK Norbert",
       "tytul_kategoria": "I++",
@@ -2955,7 +2964,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "329",
+      "id": "330",
       "id_pzszach": "635",
       "nazwisko_imie": "JANICKI Jacek",
       "tytul_kategoria": "I",
@@ -2964,7 +2973,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "330",
+      "id": "331",
       "id_pzszach": "12626",
       "nazwisko_imie": "BURACZYŃSKI Radosław",
       "tytul_kategoria": "II+",
@@ -2973,7 +2982,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "331",
+      "id": "332",
       "id_pzszach": "14471",
       "nazwisko_imie": "TYMCIO Leszek",
       "tytul_kategoria": "II+",
@@ -2982,7 +2991,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "332",
+      "id": "333",
       "id_pzszach": "237",
       "nazwisko_imie": "OBORON Jerzy",
       "tytul_kategoria": "I",
@@ -2991,7 +3000,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "333",
+      "id": "334",
       "id_pzszach": "9899",
       "nazwisko_imie": "ZOMBIRT Filip",
       "tytul_kategoria": "I+",
@@ -3000,7 +3009,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "334",
+      "id": "335",
       "id_pzszach": "132455",
       "nazwisko_imie": "WRÓBEL Kacper",
       "tytul_kategoria": "",
@@ -3009,7 +3018,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "335",
+      "id": "336",
       "id_pzszach": "38339",
       "nazwisko_imie": "KOSSOWSKI Paweł",
       "tytul_kategoria": "I+",
@@ -3018,7 +3027,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "336",
+      "id": "337",
       "id_pzszach": "113",
       "nazwisko_imie": "GRZEŚKÓW Adrian",
       "tytul_kategoria": "I+",
@@ -3027,7 +3036,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "337",
+      "id": "338",
       "id_pzszach": "49131",
       "nazwisko_imie": "MAZUREK Bartosz",
       "tytul_kategoria": "I",
@@ -3036,7 +3045,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "338",
+      "id": "339",
       "id_pzszach": "2921",
       "nazwisko_imie": "JACKIEWICZ Katarzyna",
       "tytul_kategoria": "K",
@@ -3045,7 +3054,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "339",
+      "id": "340",
       "id_pzszach": "22507",
       "nazwisko_imie": "HOŁOWNIA Michał",
       "tytul_kategoria": "I+",
@@ -3054,7 +3063,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "340",
+      "id": "341",
       "id_pzszach": "119823",
       "nazwisko_imie": "EWIAK Filip",
       "tytul_kategoria": "I",
@@ -3063,7 +3072,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "341",
+      "id": "342",
       "id_pzszach": "183",
       "nazwisko_imie": "DOBRZAŃSKI Rafał",
       "tytul_kategoria": "I",
@@ -3072,7 +3081,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "342",
+      "id": "343",
       "id_pzszach": "311",
       "nazwisko_imie": "ŁASZEWICZ Paweł",
       "tytul_kategoria": "K",
@@ -3081,7 +3090,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "343",
+      "id": "344",
       "id_pzszach": "423",
       "nazwisko_imie": "TOWGIN Piotr",
       "tytul_kategoria": "II",
@@ -3090,7 +3099,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "344",
+      "id": "345",
       "id_pzszach": "295",
       "nazwisko_imie": "KRUPA Krzysztof",
       "tytul_kategoria": "CM",
@@ -3099,7 +3108,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "345",
+      "id": "346",
       "id_pzszach": "349",
       "nazwisko_imie": "POLITOWICZ Anna",
       "tytul_kategoria": "I++",
@@ -3108,7 +3117,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "346",
+      "id": "347",
       "id_pzszach": "387",
       "nazwisko_imie": "RYCHLIK Hanna",
       "tytul_kategoria": "K",
@@ -3117,7 +3126,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "347",
+      "id": "348",
       "id_pzszach": "9916",
       "nazwisko_imie": "KACPRZAK Robert",
       "tytul_kategoria": "II+",
@@ -3126,7 +3135,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "348",
+      "id": "349",
       "id_pzszach": "14418",
       "nazwisko_imie": "ŁABUDA Michał",
       "tytul_kategoria": "I",
@@ -3135,7 +3144,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "349",
+      "id": "350",
       "id_pzszach": "73165",
       "nazwisko_imie": "ZIOBROWSKA Maja",
       "tytul_kategoria": "WFM",
@@ -3144,7 +3153,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "350",
+      "id": "351",
       "id_pzszach": "8",
       "nazwisko_imie": "ŁOPUSIEWICZ Janusz",
       "tytul_kategoria": "I",
@@ -3153,7 +3162,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "351",
+      "id": "352",
       "id_pzszach": "356",
       "nazwisko_imie": "ORZECHOWSKI Grzegorz",
       "tytul_kategoria": "I",
@@ -3162,7 +3171,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "352",
+      "id": "353",
       "id_pzszach": "66",
       "nazwisko_imie": "BARABASZ Marian",
       "tytul_kategoria": "II+",
@@ -3171,7 +3180,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "353",
+      "id": "354",
       "id_pzszach": "12525",
       "nazwisko_imie": "ŻOCHOWSKI Janusz",
       "tytul_kategoria": "I++",
@@ -3180,7 +3189,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "354",
+      "id": "355",
       "id_pzszach": "13944",
       "nazwisko_imie": "PEZDA Piotr",
       "tytul_kategoria": "II+",
@@ -3189,7 +3198,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "355",
+      "id": "356",
       "id_pzszach": "370",
       "nazwisko_imie": "POJEDZINIEC Władysław",
       "tytul_kategoria": "FM",
@@ -3198,7 +3207,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "356",
+      "id": "357",
       "id_pzszach": "62512",
       "nazwisko_imie": "LATACZ Grzegorz",
       "tytul_kategoria": "I",
@@ -3207,7 +3216,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "357",
+      "id": "358",
       "id_pzszach": "395",
       "nazwisko_imie": "SIDŁO Andrzej",
       "tytul_kategoria": "I",
@@ -3216,7 +3225,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "358",
+      "id": "359",
       "id_pzszach": "23052",
       "nazwisko_imie": "ŁĘCZEK Weronika",
       "tytul_kategoria": "K",
@@ -3225,7 +3234,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "359",
+      "id": "360",
       "id_pzszach": "26081",
       "nazwisko_imie": "KAWAŁKO Adam",
       "tytul_kategoria": "I++",
@@ -3234,7 +3243,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "360",
+      "id": "361",
       "id_pzszach": "203",
       "nazwisko_imie": "GROMCZAK Dariusz",
       "tytul_kategoria": "I++",
@@ -3243,7 +3252,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "361",
+      "id": "362",
       "id_pzszach": "227",
       "nazwisko_imie": "JANUSZEWSKI Tomasz",
       "tytul_kategoria": "I+",
@@ -3252,7 +3261,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "362",
+      "id": "363",
       "id_pzszach": "4348",
       "nazwisko_imie": "ŁUKASIEWICZ Anna",
       "tytul_kategoria": "M",
@@ -3261,7 +3270,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "363",
+      "id": "364",
       "id_pzszach": "17121",
       "nazwisko_imie": "OSIŃSKI Kamil",
       "tytul_kategoria": "I",
@@ -3270,7 +3279,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "364",
+      "id": "365",
       "id_pzszach": "74176",
       "nazwisko_imie": "ZIMNY Jakub",
       "tytul_kategoria": "I",
@@ -3279,7 +3288,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "365",
+      "id": "366",
       "id_pzszach": "2873",
       "nazwisko_imie": "OSIECKI Stanisław",
       "tytul_kategoria": "FM",
@@ -3288,7 +3297,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "366",
+      "id": "367",
       "id_pzszach": "86",
       "nazwisko_imie": "RATAJCZYK Rafał",
       "tytul_kategoria": "I",
@@ -3297,7 +3306,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "367",
+      "id": "368",
       "id_pzszach": "340",
       "nazwisko_imie": "MIKOLAJCZYK Piotr",
       "tytul_kategoria": "II+",
@@ -3306,7 +3315,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "368",
+      "id": "369",
       "id_pzszach": "12541",
       "nazwisko_imie": "PIEPRZYK Dawid",
       "tytul_kategoria": "II+",
@@ -3315,7 +3324,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "369",
+      "id": "370",
       "id_pzszach": "206",
       "nazwisko_imie": "GROSSMANN Ryszard",
       "tytul_kategoria": "FM",
@@ -3324,7 +3333,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "370",
+      "id": "371",
       "id_pzszach": "69212",
       "nazwisko_imie": "UHRYN Łukasz",
       "tytul_kategoria": "I",
@@ -3333,7 +3342,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "371",
+      "id": "372",
       "id_pzszach": "95",
       "nazwisko_imie": "KMIECIK Wojciech",
       "tytul_kategoria": "I+",
@@ -3342,7 +3351,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "372",
+      "id": "373",
       "id_pzszach": "15954",
       "nazwisko_imie": "KOWALCZYK Wojciech",
       "tytul_kategoria": "I",
@@ -3351,7 +3360,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "373",
+      "id": "374",
       "id_pzszach": "40996",
       "nazwisko_imie": "STELMASZUK Maciej",
       "tytul_kategoria": "I+",
@@ -3360,7 +3369,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "374",
+      "id": "375",
       "id_pzszach": "443",
       "nazwisko_imie": "WOJCIK Roman",
       "tytul_kategoria": "I",
@@ -3369,7 +3378,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "375",
+      "id": "376",
       "id_pzszach": "342",
       "nazwisko_imie": "MLODZINSKA Irena",
       "tytul_kategoria": "I+",
@@ -3378,7 +3387,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "376",
+      "id": "377",
       "id_pzszach": "458",
       "nazwisko_imie": "ŻMINDA Bogdan",
       "tytul_kategoria": "K",
@@ -3387,7 +3396,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "377",
+      "id": "378",
       "id_pzszach": "43961",
       "nazwisko_imie": "RZEŃCA Jerzy",
       "tytul_kategoria": "I",
@@ -3396,7 +3405,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "378",
+      "id": "379",
       "id_pzszach": "180",
       "nazwisko_imie": "CZYŻ Artur",
       "tytul_kategoria": "K",
@@ -3405,7 +3414,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "379",
+      "id": "380",
       "id_pzszach": "56584",
       "nazwisko_imie": "PAWICKA Magdalena",
       "tytul_kategoria": "K++",
@@ -3414,7 +3423,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "380",
+      "id": "381",
       "id_pzszach": "14709",
       "nazwisko_imie": "GAJDAMOWICZ Patrick",
       "tytul_kategoria": "I",
@@ -3423,7 +3432,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "381",
+      "id": "382",
       "id_pzszach": "38",
       "nazwisko_imie": "KWIECIŃSKI Marian",
       "tytul_kategoria": "K",
@@ -3432,7 +3441,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "382",
+      "id": "383",
       "id_pzszach": "77651",
       "nazwisko_imie": "KLINCEWICZ Aleksandra",
       "tytul_kategoria": "K",
@@ -3441,7 +3450,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "383",
+      "id": "384",
       "id_pzszach": "50392",
       "nazwisko_imie": "KOPESTYŃSKI Michał",
       "tytul_kategoria": "I",
@@ -3450,7 +3459,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "384",
+      "id": "385",
       "id_pzszach": "214",
       "nazwisko_imie": "HELASZEK Edward",
       "tytul_kategoria": "K",
@@ -3459,7 +3468,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "385",
+      "id": "386",
       "id_pzszach": "12202",
       "nazwisko_imie": "ZAWADZKI Łukasz",
       "tytul_kategoria": "I",
@@ -3468,7 +3477,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "386",
+      "id": "387",
       "id_pzszach": "46241",
       "nazwisko_imie": "KRZYŻOSIAK Anna",
       "tytul_kategoria": "K+",
@@ -3477,7 +3486,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "387",
+      "id": "388",
       "id_pzszach": "362",
       "nazwisko_imie": "PELA Edward",
       "tytul_kategoria": "I",
@@ -3486,7 +3495,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "388",
+      "id": "389",
       "id_pzszach": "13818",
       "nazwisko_imie": "MELLER Piotr",
       "tytul_kategoria": "I",
@@ -3495,7 +3504,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "389",
+      "id": "390",
       "id_pzszach": "229",
       "nazwisko_imie": "JASIK Anna",
       "tytul_kategoria": "K",
@@ -3504,7 +3513,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "390",
+      "id": "391",
       "id_pzszach": "415",
       "nazwisko_imie": "SZMYD Marek",
       "tytul_kategoria": "K",
@@ -3513,7 +3522,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "391",
+      "id": "392",
       "id_pzszach": "504",
       "nazwisko_imie": "ŁAMBUCKI Łukasz",
       "tytul_kategoria": "I",
@@ -3522,7 +3531,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "392",
+      "id": "393",
       "id_pzszach": "629",
       "nazwisko_imie": "GROCHOCIŃSKA Urszula",
       "tytul_kategoria": "I++",
@@ -3531,7 +3540,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "393",
+      "id": "394",
       "id_pzszach": "3874",
       "nazwisko_imie": "REICHEL Łukasz",
       "tytul_kategoria": "I",
@@ -3540,7 +3549,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "394",
+      "id": "395",
       "id_pzszach": "22810",
       "nazwisko_imie": "SZYDEŁKO Michał",
       "tytul_kategoria": "I++",
@@ -3549,7 +3558,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "395",
+      "id": "396",
       "id_pzszach": "96592",
       "nazwisko_imie": "GRUSZECKA Alicja",
       "tytul_kategoria": "WCM",
@@ -3558,7 +3567,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "396",
+      "id": "397",
       "id_pzszach": "115",
       "nazwisko_imie": "LEWKO Paweł",
       "tytul_kategoria": "II+",
@@ -3567,7 +3576,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "397",
+      "id": "398",
       "id_pzszach": "7739",
       "nazwisko_imie": "HARACARIS Dimitrios",
       "tytul_kategoria": "II",
@@ -3576,7 +3585,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "398",
+      "id": "399",
       "id_pzszach": "58176",
       "nazwisko_imie": "KLIMEK Leonard",
       "tytul_kategoria": "II+",
@@ -3585,7 +3594,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "399",
+      "id": "400",
       "id_pzszach": "592",
       "nazwisko_imie": "STUPAK Piotr",
       "tytul_kategoria": "I",
@@ -3594,7 +3603,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "400",
+      "id": "401",
       "id_pzszach": "46561",
       "nazwisko_imie": "MATELA Krzysztof",
       "tytul_kategoria": "I",
@@ -3603,7 +3612,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "401",
+      "id": "402",
       "id_pzszach": "110086",
       "nazwisko_imie": "AKSIANEVICH Yury",
       "tytul_kategoria": "I",
@@ -3612,7 +3621,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "402",
+      "id": "403",
       "id_pzszach": "1559",
       "nazwisko_imie": "KWAPISIEWICZ Wojciech",
       "tytul_kategoria": "I",
@@ -3621,7 +3630,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "403",
+      "id": "404",
       "id_pzszach": "56600",
       "nazwisko_imie": "HALHOUL Adam",
       "tytul_kategoria": "I",
@@ -3630,7 +3639,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "404",
+      "id": "405",
       "id_pzszach": "22",
       "nazwisko_imie": "DZIECZKANIEC Piotr",
       "tytul_kategoria": "I++",
@@ -3639,7 +3648,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "405",
+      "id": "406",
       "id_pzszach": "66393",
       "nazwisko_imie": "KRYGIEL Konrad",
       "tytul_kategoria": "I",
@@ -3648,7 +3657,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "406",
+      "id": "407",
       "id_pzszach": "77482",
       "nazwisko_imie": "CZAK Dominik",
       "tytul_kategoria": "I",
@@ -3657,7 +3666,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "407",
+      "id": "408",
       "id_pzszach": "96779",
       "nazwisko_imie": "BEM Tymoteusz",
       "tytul_kategoria": "I",
@@ -3666,7 +3675,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "408",
+      "id": "409",
       "id_pzszach": "655",
       "nazwisko_imie": "MISZTELA Hubert",
       "tytul_kategoria": "I",
@@ -3675,7 +3684,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "409",
+      "id": "410",
       "id_pzszach": "1773",
       "nazwisko_imie": "PAWLAK Robert",
       "tytul_kategoria": "I++",
@@ -3684,7 +3693,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "410",
+      "id": "411",
       "id_pzszach": "13",
       "nazwisko_imie": "JANUSZEWSKI Adam",
       "tytul_kategoria": "II+",
@@ -3693,7 +3702,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "411",
+      "id": "412",
       "id_pzszach": "17331",
       "nazwisko_imie": "DADEŁŁO Andrzej",
       "tytul_kategoria": "II",
@@ -3702,7 +3711,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "412",
+      "id": "413",
       "id_pzszach": "18921",
       "nazwisko_imie": "DRYJA Szymon",
       "tytul_kategoria": "I++",
@@ -3711,7 +3720,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "413",
+      "id": "414",
       "id_pzszach": "529",
       "nazwisko_imie": "STECKO Artur",
       "tytul_kategoria": "I",
@@ -3720,7 +3729,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "414",
+      "id": "415",
       "id_pzszach": "51289",
       "nazwisko_imie": "BARTŁOMOWICZ Jakub",
       "tytul_kategoria": "I",
@@ -3729,7 +3738,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "415",
+      "id": "416",
       "id_pzszach": "63508",
       "nazwisko_imie": "CZARNIK Józef",
       "tytul_kategoria": "I",
@@ -3738,7 +3747,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "416",
+      "id": "417",
       "id_pzszach": "12",
       "nazwisko_imie": "CHYLIŃSKI Piotr",
       "tytul_kategoria": "I",
@@ -3747,7 +3756,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "417",
+      "id": "418",
       "id_pzszach": "442",
       "nazwisko_imie": "WÓJCIK Michał",
       "tytul_kategoria": "I",
@@ -3756,7 +3765,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "418",
+      "id": "419",
       "id_pzszach": "110411",
       "nazwisko_imie": "SONIBARE Antoni",
       "tytul_kategoria": "I",
@@ -3765,7 +3774,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "419",
+      "id": "420",
       "id_pzszach": "310",
       "nazwisko_imie": "ŁASUT Paulina",
       "tytul_kategoria": "I+",
@@ -3774,7 +3783,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "420",
+      "id": "421",
       "id_pzszach": "1262",
       "nazwisko_imie": "ROSIAK Agata",
       "tytul_kategoria": "I++",
@@ -3783,7 +3792,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "421",
+      "id": "422",
       "id_pzszach": "275",
       "nazwisko_imie": "KOŁODZIEJ Dariusz",
       "tytul_kategoria": "I+",
@@ -3792,7 +3801,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "422",
+      "id": "423",
       "id_pzszach": "7746",
       "nazwisko_imie": "IDCZAK Rafał",
       "tytul_kategoria": "II",
@@ -3801,7 +3810,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "423",
+      "id": "424",
       "id_pzszach": "12535",
       "nazwisko_imie": "KRUPACZ Maciej",
       "tytul_kategoria": "I",
@@ -3810,7 +3819,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "424",
+      "id": "425",
       "id_pzszach": "656",
       "nazwisko_imie": "MORZYWOŁEK Paweł",
       "tytul_kategoria": "I",
@@ -3819,7 +3828,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "425",
+      "id": "426",
       "id_pzszach": "26260",
       "nazwisko_imie": "KAWALER Adam",
       "tytul_kategoria": "I",
@@ -3828,7 +3837,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "426",
+      "id": "427",
       "id_pzszach": "153",
       "nazwisko_imie": "BABIJCZUK Paweł",
       "tytul_kategoria": "I",
@@ -3837,7 +3846,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "427",
+      "id": "428",
       "id_pzszach": "577",
       "nazwisko_imie": "JANISIO Adrian",
       "tytul_kategoria": "II",
@@ -3846,7 +3855,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "428",
+      "id": "429",
       "id_pzszach": "570",
       "nazwisko_imie": "ZAWADKA Agata",
       "tytul_kategoria": "I",
@@ -3855,7 +3864,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "429",
+      "id": "430",
       "id_pzszach": "12441",
       "nazwisko_imie": "POCIEJOWSKI Marek",
       "tytul_kategoria": "I++",
@@ -3864,7 +3873,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "430",
+      "id": "431",
       "id_pzszach": "350",
       "nazwisko_imie": "NAWROT Elżbieta",
       "tytul_kategoria": "I+",
@@ -3873,7 +3882,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "431",
+      "id": "432",
       "id_pzszach": "1563",
       "nazwisko_imie": "MIELCZAREK Daniel",
       "tytul_kategoria": "I",
@@ -3882,7 +3891,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "432",
+      "id": "433",
       "id_pzszach": "94414",
       "nazwisko_imie": "ZAJADLAK Miłosz",
       "tytul_kategoria": "I",
@@ -3891,7 +3900,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "433",
+      "id": "434",
       "id_pzszach": "129242",
       "nazwisko_imie": "KOWALCZYK Cyprian",
       "tytul_kategoria": "II",
@@ -3900,7 +3909,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "434",
+      "id": "435",
       "id_pzszach": "77423",
       "nazwisko_imie": "POPCZYŃSKA Maja",
       "tytul_kategoria": "I+",
@@ -3909,7 +3918,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "435",
+      "id": "436",
       "id_pzszach": "353",
       "nazwisko_imie": "OGONOWSKA Katarzyna",
       "tytul_kategoria": "I++",
@@ -3918,7 +3927,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "436",
+      "id": "437",
       "id_pzszach": "9919",
       "nazwisko_imie": "KWAPISIEWICZ Karol",
       "tytul_kategoria": "I++",
@@ -3927,7 +3936,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "437",
+      "id": "438",
       "id_pzszach": "42086",
       "nazwisko_imie": "MASALSKI Paweł",
       "tytul_kategoria": "II+",
@@ -3936,7 +3945,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "438",
+      "id": "439",
       "id_pzszach": "186",
       "nazwisko_imie": "DUSZA Elżbieta",
       "tytul_kategoria": "I+",
@@ -3945,7 +3954,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "439",
+      "id": "440",
       "id_pzszach": "67176",
       "nazwisko_imie": "WILGOSZ Jan",
       "tytul_kategoria": "I",
@@ -3954,7 +3963,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "440",
+      "id": "441",
       "id_pzszach": "73248",
       "nazwisko_imie": "TYSZECKI Aliaksandr",
       "tytul_kategoria": "I++",
@@ -3963,7 +3972,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "441",
+      "id": "442",
       "id_pzszach": "94",
       "nazwisko_imie": "WYDRA Tomasz",
       "tytul_kategoria": "III",
@@ -3972,7 +3981,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "442",
+      "id": "443",
       "id_pzszach": "5085",
       "nazwisko_imie": "PATERA Michał",
       "tytul_kategoria": "II",
@@ -3981,7 +3990,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "443",
+      "id": "444",
       "id_pzszach": "12637",
       "nazwisko_imie": "BRONOWICKI Krzysztof",
       "tytul_kategoria": "II+",
@@ -3990,7 +3999,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "444",
+      "id": "445",
       "id_pzszach": "12642",
       "nazwisko_imie": "DUSZENKO Michał",
       "tytul_kategoria": "I",
@@ -3999,7 +4008,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "445",
+      "id": "446",
       "id_pzszach": "13015",
       "nazwisko_imie": "CHMIELEWSKI Jakub",
       "tytul_kategoria": "I",
@@ -4008,7 +4017,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "446",
+      "id": "447",
       "id_pzszach": "194",
       "nazwisko_imie": "FURA Ireneusz",
       "tytul_kategoria": "I",
@@ -4017,7 +4026,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "447",
+      "id": "448",
       "id_pzszach": "5967",
       "nazwisko_imie": "NOWAKOWSKA Agnieszka",
       "tytul_kategoria": "I+",
@@ -4026,7 +4035,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "448",
+      "id": "449",
       "id_pzszach": "64",
       "nazwisko_imie": "ŻÓRAWIK Tomasz",
       "tytul_kategoria": "II+",
@@ -4035,7 +4044,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "449",
+      "id": "450",
       "id_pzszach": "14240",
       "nazwisko_imie": "TEROCHIN Piotr",
       "tytul_kategoria": "II",
@@ -4044,7 +4053,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "450",
+      "id": "451",
       "id_pzszach": "25508",
       "nazwisko_imie": "DYTMAN Radosław",
       "tytul_kategoria": "I+",
@@ -4053,7 +4062,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "451",
+      "id": "452",
       "id_pzszach": "13096",
       "nazwisko_imie": "BABIJ Robert",
       "tytul_kategoria": "II",
@@ -4062,7 +4071,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "452",
+      "id": "453",
       "id_pzszach": "14176",
       "nazwisko_imie": "SZABLEWSKI Krzysztof",
       "tytul_kategoria": "II",
@@ -4071,7 +4080,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "453",
+      "id": "454",
       "id_pzszach": "26368",
       "nazwisko_imie": "KOROLEWICZ Paweł",
       "tytul_kategoria": "II+",
@@ -4080,7 +4089,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "454",
+      "id": "455",
       "id_pzszach": "80",
       "nazwisko_imie": "LASOTA Wiktor",
       "tytul_kategoria": "II+",
@@ -4089,7 +4098,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "455",
+      "id": "456",
       "id_pzszach": "456",
       "nazwisko_imie": "ZIELIŃSKI Zbigniew",
       "tytul_kategoria": "I",
@@ -4098,7 +4107,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "456",
+      "id": "457",
       "id_pzszach": "11866",
       "nazwisko_imie": "WODAS Paweł",
       "tytul_kategoria": "I",
@@ -4107,7 +4116,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "457",
+      "id": "458",
       "id_pzszach": "22868",
       "nazwisko_imie": "MISZKIEŁO Bartosz",
       "tytul_kategoria": "I",
@@ -4116,7 +4125,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "458",
+      "id": "459",
       "id_pzszach": "53044",
       "nazwisko_imie": "KLISOWSKI Bartosz",
       "tytul_kategoria": "I+",
@@ -4125,7 +4134,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "459",
+      "id": "460",
       "id_pzszach": "548",
       "nazwisko_imie": "DUDEK Romuald",
       "tytul_kategoria": "II+",
@@ -4134,7 +4143,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "460",
+      "id": "461",
       "id_pzszach": "7797",
       "nazwisko_imie": "KORZEKWA Marcin",
       "tytul_kategoria": "I",
@@ -4143,7 +4152,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "461",
+      "id": "462",
       "id_pzszach": "465",
       "nazwisko_imie": "MALEC Robert",
       "tytul_kategoria": "I",
@@ -4152,7 +4161,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "462",
+      "id": "463",
       "id_pzszach": "69367",
       "nazwisko_imie": "KOMENDECKI Grzegorz",
       "tytul_kategoria": "I",
@@ -4161,7 +4170,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "463",
+      "id": "464",
       "id_pzszach": "330",
       "nazwisko_imie": "MADERA Mateusz",
       "tytul_kategoria": "I+",
@@ -4170,7 +4179,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "464",
+      "id": "465",
       "id_pzszach": "55135",
       "nazwisko_imie": "KANIA Krystian",
       "tytul_kategoria": "I+",
@@ -4179,7 +4188,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "465",
+      "id": "466",
       "id_pzszach": "12498",
       "nazwisko_imie": "OLSZEWSKI Paweł",
       "tytul_kategoria": "II+",
@@ -4188,7 +4197,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "466",
+      "id": "467",
       "id_pzszach": "15",
       "nazwisko_imie": "SŁABICKI Andrzej",
       "tytul_kategoria": "I",
@@ -4197,7 +4206,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "467",
+      "id": "468",
       "id_pzszach": "293",
       "nazwisko_imie": "KRUCZYŃSKI Marek",
       "tytul_kategoria": "I+",
@@ -4206,7 +4215,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "468",
+      "id": "469",
       "id_pzszach": "10898",
       "nazwisko_imie": "DUDEK Dawid",
       "tytul_kategoria": "I",
@@ -4215,7 +4224,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "469",
+      "id": "470",
       "id_pzszach": "13587",
       "nazwisko_imie": "KORPALSKI Maciej",
       "tytul_kategoria": "I+",
@@ -4224,7 +4233,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "470",
+      "id": "471",
       "id_pzszach": "46",
       "nazwisko_imie": "WOŹNIAK Bartosz",
       "tytul_kategoria": "I",
@@ -4233,7 +4242,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "471",
+      "id": "472",
       "id_pzszach": "63756",
       "nazwisko_imie": "WILK Aleksander",
       "tytul_kategoria": "I",
@@ -4242,7 +4251,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "472",
+      "id": "473",
       "id_pzszach": "317",
       "nazwisko_imie": "LEWICKA-MAŚLEJ Sylwia",
       "tytul_kategoria": "K",
@@ -4251,7 +4260,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "473",
+      "id": "474",
       "id_pzszach": "14281",
       "nazwisko_imie": "WANDOWICZ Kajetan",
       "tytul_kategoria": "II",
@@ -4260,7 +4269,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "474",
+      "id": "475",
       "id_pzszach": "294",
       "nazwisko_imie": "KRUPA Jerzy",
       "tytul_kategoria": "I++",
@@ -4269,7 +4278,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "475",
+      "id": "476",
       "id_pzszach": "9155",
       "nazwisko_imie": "GALANT Ireneusz",
       "tytul_kategoria": "I",
@@ -4278,7 +4287,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "476",
+      "id": "477",
       "id_pzszach": "89381",
       "nazwisko_imie": "KLINTSEVICH Andrei",
       "tytul_kategoria": "II",
@@ -4287,7 +4296,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "477",
+      "id": "478",
       "id_pzszach": "100772",
       "nazwisko_imie": "KUSTOSZ Marcin",
       "tytul_kategoria": "II",
@@ -4296,7 +4305,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "478",
+      "id": "479",
       "id_pzszach": "305",
       "nazwisko_imie": "KULPIŃSKI Piotr",
       "tytul_kategoria": "I++",
@@ -4305,7 +4314,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "479",
+      "id": "480",
       "id_pzszach": "84296",
       "nazwisko_imie": "LAIBI Shayar",
       "tytul_kategoria": "II",
@@ -4314,7 +4323,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "480",
+      "id": "481",
       "id_pzszach": "12801",
       "nazwisko_imie": "SOMYK Marcin",
       "tytul_kategoria": "I++",
@@ -4323,7 +4332,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "481",
+      "id": "482",
       "id_pzszach": "14579",
       "nazwisko_imie": "BOROWSKI Przemysław",
       "tytul_kategoria": "I",
@@ -4332,7 +4341,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "482",
+      "id": "483",
       "id_pzszach": "83715",
       "nazwisko_imie": "PELCZARSKI Wojciech",
       "tytul_kategoria": "I",
@@ -4341,7 +4350,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "483",
+      "id": "484",
       "id_pzszach": "71",
       "nazwisko_imie": "KANIEWSKI Patryk",
       "tytul_kategoria": "II",
@@ -4350,7 +4359,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "484",
+      "id": "485",
       "id_pzszach": "77525",
       "nazwisko_imie": "TRZECIAK Emilian",
       "tytul_kategoria": "I",
@@ -4359,7 +4368,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "485",
+      "id": "486",
       "id_pzszach": "665",
       "nazwisko_imie": "PIEKARSKA Anna",
       "tytul_kategoria": "I",
@@ -4368,7 +4377,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "486",
+      "id": "487",
       "id_pzszach": "7702",
       "nazwisko_imie": "GAŁKA Kazimierz",
       "tytul_kategoria": "II+",
@@ -4377,7 +4386,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "487",
+      "id": "488",
       "id_pzszach": "45935",
       "nazwisko_imie": "MADAJCZAK Jakub",
       "tytul_kategoria": "I",
@@ -4386,7 +4395,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "488",
+      "id": "489",
       "id_pzszach": "66395",
       "nazwisko_imie": "BŁASZKIEWICZ Jakub",
       "tytul_kategoria": "I",
@@ -4395,7 +4404,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "489",
+      "id": "490",
       "id_pzszach": "129085",
       "nazwisko_imie": "GRUNAS Kacper",
       "tytul_kategoria": "I",
@@ -4404,7 +4413,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "490",
+      "id": "491",
       "id_pzszach": "9905",
       "nazwisko_imie": "SZCZYGIEŁ Michał",
       "tytul_kategoria": "II+",
@@ -4413,7 +4422,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "491",
+      "id": "492",
       "id_pzszach": "13816",
       "nazwisko_imie": "MAZURKIEWICZ Antoni",
       "tytul_kategoria": "II",
@@ -4422,7 +4431,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "492",
+      "id": "493",
       "id_pzszach": "27233",
       "nazwisko_imie": "JAKUBOWSKI Wojciech",
       "tytul_kategoria": "I",
@@ -4431,7 +4440,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "493",
+      "id": "494",
       "id_pzszach": "46250",
       "nazwisko_imie": "KRZYŻOSIAK Marta",
       "tytul_kategoria": "I++",
@@ -4440,7 +4449,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "494",
+      "id": "495",
       "id_pzszach": "21493",
       "nazwisko_imie": "SZYLER Bartosz",
       "tytul_kategoria": "I",
@@ -4449,7 +4458,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "495",
+      "id": "496",
       "id_pzszach": "96107",
       "nazwisko_imie": "OWCZAREK Maciej",
       "tytul_kategoria": "I",
@@ -4458,7 +4467,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "496",
+      "id": "497",
       "id_pzszach": "266",
       "nazwisko_imie": "KANIA Przemysław",
       "tytul_kategoria": "I",
@@ -4467,7 +4476,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "497",
+      "id": "498",
       "id_pzszach": "380",
       "nazwisko_imie": "PYKA Roman",
       "tytul_kategoria": "K",
@@ -4476,7 +4485,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "498",
+      "id": "499",
       "id_pzszach": "8046",
       "nazwisko_imie": "ZIELIŃSKI Hubert",
       "tytul_kategoria": "I",
@@ -4485,21 +4494,12 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "499",
+      "id": "500",
       "id_pzszach": "52",
       "nazwisko_imie": "KARNAŚ Leszek",
       "tytul_kategoria": "I",
       "rank_fide": "1861",
       "klub": "Wrocławski Klub Szachowy HETMAN",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "500",
-      "id_pzszach": "650",
-      "nazwisko_imie": "KULCZYCKI Krzysztof",
-      "tytul_kategoria": "II",
-      "rank_fide": "1861",
-      "klub": "Biały Król Wisznia Mała",
       "wojewodztwo_zwiazek": "DS"
     }
   ]

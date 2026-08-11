@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-10T03:47:37.262Z",
+  "createdAt": "2026-08-11T03:38:06.871Z",
   "totalRecords": 100,
   "data": [
     {
@@ -598,15 +598,6 @@
     },
     {
       "id": "67",
-      "id_pzszach": "70523",
-      "nazwisko_imie": "KUTOWSKI Marcel",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2148",
-      "klub": "UKS przy SP 8 Chrzanów",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "68",
       "id_pzszach": "17845",
       "nazwisko_imie": "ŻARNOWSKI Krzysztof",
       "tytul_kategoria": "CM",
@@ -615,7 +606,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "69",
+      "id": "68",
       "id_pzszach": "3441",
       "nazwisko_imie": "POKOJSKA Daria",
       "tytul_kategoria": "M",
@@ -624,7 +615,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "70",
+      "id": "69",
       "id_pzszach": "3907",
       "nazwisko_imie": "SKOMIAŁ Mateusz",
       "tytul_kategoria": "K",
@@ -633,7 +624,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "71",
+      "id": "70",
       "id_pzszach": "53301",
       "nazwisko_imie": "WEISSBEIN Thomas",
       "tytul_kategoria": "K+",
@@ -642,7 +633,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "72",
+      "id": "71",
       "id_pzszach": "3315",
       "nazwisko_imie": "CZAPLAK Tomasz",
       "tytul_kategoria": "I+",
@@ -651,7 +642,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "73",
+      "id": "72",
       "id_pzszach": "3433",
       "nazwisko_imie": "PATLA Robert",
       "tytul_kategoria": "K",
@@ -660,7 +651,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "74",
+      "id": "73",
       "id_pzszach": "3142",
       "nazwisko_imie": "KUREK Jerzy",
       "tytul_kategoria": "I",
@@ -669,7 +660,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "75",
+      "id": "74",
       "id_pzszach": "3446",
       "nazwisko_imie": "POPIOŁEK Hubert",
       "tytul_kategoria": "CM",
@@ -678,7 +669,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "76",
+      "id": "75",
       "id_pzszach": "3512",
       "nazwisko_imie": "WÓJCIK Wacław",
       "tytul_kategoria": "I",
@@ -687,7 +678,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "77",
+      "id": "76",
       "id_pzszach": "52277",
       "nazwisko_imie": "CICHOŃ Bartłomiej",
       "tytul_kategoria": "K",
@@ -696,7 +687,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "78",
+      "id": "77",
       "id_pzszach": "3366",
       "nazwisko_imie": "KALECIŃSKI Mateusz",
       "tytul_kategoria": "I",
@@ -705,7 +696,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "79",
+      "id": "78",
       "id_pzszach": "3491",
       "nazwisko_imie": "SZCZECHOWICZ Bartosz",
       "tytul_kategoria": "FM",
@@ -714,7 +705,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "80",
+      "id": "79",
       "id_pzszach": "3516",
       "nazwisko_imie": "ZADORA Krzysztof",
       "tytul_kategoria": "I",
@@ -723,7 +714,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "81",
+      "id": "80",
       "id_pzszach": "43635",
       "nazwisko_imie": "DYLĄG Emilia",
       "tytul_kategoria": "WFM",
@@ -732,7 +723,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "82",
+      "id": "81",
       "id_pzszach": "3060",
       "nazwisko_imie": "KULESZA Kamil",
       "tytul_kategoria": "I",
@@ -741,7 +732,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "83",
+      "id": "82",
       "id_pzszach": "90314",
       "nazwisko_imie": "MAJ Samuel",
       "tytul_kategoria": "I++",
@@ -750,7 +741,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "84",
+      "id": "83",
       "id_pzszach": "19850",
       "nazwisko_imie": "MIRSKI Michał",
       "tytul_kategoria": "K",
@@ -759,7 +750,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "85",
+      "id": "84",
       "id_pzszach": "98167",
       "nazwisko_imie": "BEDNAREK Jan",
       "tytul_kategoria": "K",
@@ -768,7 +759,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "86",
+      "id": "85",
       "id_pzszach": "3429",
       "nazwisko_imie": "NOWAK Piotr",
       "tytul_kategoria": "I",
@@ -777,7 +768,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "87",
+      "id": "86",
       "id_pzszach": "3403",
       "nazwisko_imie": "LANGER Krzysztof",
       "tytul_kategoria": "I",
@@ -786,7 +777,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "88",
+      "id": "87",
       "id_pzszach": "7821",
       "nazwisko_imie": "KUDAS Damian",
       "tytul_kategoria": "K",
@@ -795,7 +786,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "89",
+      "id": "88",
       "id_pzszach": "5329",
       "nazwisko_imie": "LEKS Maria",
       "tytul_kategoria": "WFM",
@@ -804,7 +795,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "90",
+      "id": "89",
       "id_pzszach": "79916",
       "nazwisko_imie": "WOLAK Jan",
       "tytul_kategoria": "I++",
@@ -813,7 +804,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "91",
+      "id": "90",
       "id_pzszach": "34020",
       "nazwisko_imie": "DIXA Oskar",
       "tytul_kategoria": "K",
@@ -822,7 +813,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "92",
+      "id": "91",
       "id_pzszach": "3323",
       "nazwisko_imie": "DĄBEK Marek",
       "tytul_kategoria": "I",
@@ -831,7 +822,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "93",
+      "id": "92",
       "id_pzszach": "2718",
       "nazwisko_imie": "KAIM Piotr",
       "tytul_kategoria": "M",
@@ -840,7 +831,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "94",
+      "id": "93",
       "id_pzszach": "44156",
       "nazwisko_imie": "PIETRZAK Tomasz",
       "tytul_kategoria": "K",
@@ -849,7 +840,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "95",
+      "id": "94",
       "id_pzszach": "3483",
       "nazwisko_imie": "SUTOR Marek",
       "tytul_kategoria": "K",
@@ -858,7 +849,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "67076",
       "nazwisko_imie": "KOZŁOWSKI Franciszek",
       "tytul_kategoria": "K",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "3416",
       "nazwisko_imie": "MARCOWSKI Tomasz",
       "tytul_kategoria": "I",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "55895",
       "nazwisko_imie": "WOLAK Maciej",
       "tytul_kategoria": "I++",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "5605",
       "nazwisko_imie": "BZOWSKI Błażej",
       "tytul_kategoria": "K",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "3223",
       "nazwisko_imie": "HAMUDA Mieczysław",
       "tytul_kategoria": "I",
       "rank_fide": "2072",
       "klub": "Szachownica Kłaj",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "3506",
+      "nazwisko_imie": "WĘGLOWSKI Zbigniew",
+      "tytul_kategoria": "K",
+      "rank_fide": "2068",
+      "klub": "KKSz Kraków",
       "wojewodztwo_zwiazek": "MP"
     }
   ]
