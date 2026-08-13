@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-12T04:00:24.575Z",
+  "createdAt": "2026-08-13T04:05:15.741Z",
   "totalRecords": 500,
   "data": [
     {
@@ -888,7 +888,7 @@
       "id": "99",
       "id_pzszach": "136821",
       "nazwisko_imie": "BORISCHIK Sergey",
-      "tytul_kategoria": "CM",
+      "tytul_kategoria": "FM",
       "rank_fide": "2417",
       "klub": "Fundacja KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
@@ -2085,7 +2085,7 @@
       "id": "232",
       "id_pzszach": "48412",
       "nazwisko_imie": "FISZER Bartosz",
-      "tytul_kategoria": "CM",
+      "tytul_kategoria": "FM",
       "rank_fide": "2328",
       "klub": "KSz POLONIA Warszawa",
       "wojewodztwo_zwiazek": "MA"
@@ -2501,7 +2501,7 @@
       "nazwisko_imie": "DOBOSZ Henryk",
       "tytul_kategoria": "IM",
       "rank_fide": "2309",
-      "klub": "SSz Cebularz Lublin",
+      "klub": "",
       "wojewodztwo_zwiazek": "LU"
     },
     {

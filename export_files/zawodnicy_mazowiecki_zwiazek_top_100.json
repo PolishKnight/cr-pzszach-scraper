@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-11T03:38:05.447Z",
+  "createdAt": "2026-08-13T04:05:30.235Z",
   "totalRecords": 100,
   "data": [
     {
@@ -330,7 +330,7 @@
       "id": "37",
       "id_pzszach": "48412",
       "nazwisko_imie": "FISZER Bartosz",
-      "tytul_kategoria": "CM",
+      "tytul_kategoria": "FM",
       "rank_fide": "2328",
       "klub": "KSz POLONIA Warszawa",
       "wojewodztwo_zwiazek": "MA"
@@ -724,15 +724,6 @@
     },
     {
       "id": "81",
-      "id_pzszach": "31066",
-      "nazwisko_imie": "KOKOSZCZYŃSKI Jan",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2231",
-      "klub": "KS LAURA Chylice",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "82",
       "id_pzszach": "69273",
       "nazwisko_imie": "SUSKA Szymon",
       "tytul_kategoria": "FM",
@@ -741,7 +732,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "83",
+      "id": "82",
       "id_pzszach": "2322",
       "nazwisko_imie": "PAĆKO-MOLĘCKI Krzysztof",
       "tytul_kategoria": "K",
@@ -750,7 +741,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "84",
+      "id": "83",
       "id_pzszach": "2679",
       "nazwisko_imie": "GRZELAK Rafał",
       "tytul_kategoria": "K",
@@ -759,7 +750,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "85",
+      "id": "84",
       "id_pzszach": "23209",
       "nazwisko_imie": "SULIBORSKI Jakub",
       "tytul_kategoria": "K",
@@ -768,7 +759,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "86",
+      "id": "85",
       "id_pzszach": "2743",
       "nazwisko_imie": "KOPCZYŃSKI Michał",
       "tytul_kategoria": "CM",
@@ -777,7 +768,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "87",
+      "id": "86",
       "id_pzszach": "2805",
       "nazwisko_imie": "LIPIŃSKI Andrzej",
       "tytul_kategoria": "K",
@@ -786,7 +777,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "88",
+      "id": "87",
       "id_pzszach": "2561",
       "nazwisko_imie": "BABIK Tomasz",
       "tytul_kategoria": "K",
@@ -795,7 +786,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "89",
+      "id": "88",
       "id_pzszach": "155807",
       "nazwisko_imie": "SIAGODNIK Anton",
       "tytul_kategoria": "FM",
@@ -804,7 +795,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "90",
+      "id": "89",
       "id_pzszach": "67340",
       "nazwisko_imie": "JANECZKO Jakub",
       "tytul_kategoria": "M",
@@ -813,7 +804,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "91",
+      "id": "90",
       "id_pzszach": "4363",
       "nazwisko_imie": "BARTEL Marta",
       "tytul_kategoria": "WGM",
@@ -822,7 +813,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "92",
+      "id": "91",
       "id_pzszach": "64896",
       "nazwisko_imie": "ZDYBEL Przemysław",
       "tytul_kategoria": "FM",
@@ -831,7 +822,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "93",
+      "id": "92",
       "id_pzszach": "2657",
       "nazwisko_imie": "GAWLIŃSKI Michał",
       "tytul_kategoria": "K",
@@ -840,7 +831,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "94",
+      "id": "93",
       "id_pzszach": "2768",
       "nazwisko_imie": "KRAUZE Dariusz",
       "tytul_kategoria": "K",
@@ -849,7 +840,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "95",
+      "id": "94",
       "id_pzszach": "3030",
       "nazwisko_imie": "ZAKRZEWSKI Marcin",
       "tytul_kategoria": "I+",
@@ -858,7 +849,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "3191",
       "nazwisko_imie": "DUMAŃSKI Aleksander",
       "tytul_kategoria": "K",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "25375",
       "nazwisko_imie": "WINIARSKI Mikołaj",
       "tytul_kategoria": "FM",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "2995",
       "nazwisko_imie": "SZYMAŃSKI Andrzej",
       "tytul_kategoria": "CM",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "138199",
       "nazwisko_imie": "SILICH Yahor",
       "tytul_kategoria": "FM",
@@ -894,10 +885,19 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "2621",
       "nazwisko_imie": "DESZCZYŃSKI Adam",
       "tytul_kategoria": "M",
+      "rank_fide": "2210",
+      "klub": "",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "107458",
+      "nazwisko_imie": "FUKS Serhij",
+      "tytul_kategoria": "CM",
       "rank_fide": "2210",
       "klub": "",
       "wojewodztwo_zwiazek": "MA"
