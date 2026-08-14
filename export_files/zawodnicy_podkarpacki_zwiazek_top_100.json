@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-13T04:05:34.149Z",
+  "createdAt": "2026-08-14T04:01:56.816Z",
   "totalRecords": 100,
   "data": [
     {
@@ -278,7 +278,7 @@
       "nazwisko_imie": "MIKA Tomasz",
       "tytul_kategoria": "CM",
       "rank_fide": "2229",
-      "klub": "LKSz GCKiP Czarna",
+      "klub": "MKSz GRYF Dębica",
       "wojewodztwo_zwiazek": "PK"
     },
     {
@@ -832,6 +832,15 @@
     },
     {
       "id": "93",
+      "id_pzszach": "17847",
+      "nazwisko_imie": "ZIMA Teofil",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2045",
+      "klub": "RzKSz Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "94",
       "id_pzszach": "3778",
       "nazwisko_imie": "BEŁZO Łukasz",
       "tytul_kategoria": "I",
@@ -840,7 +849,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "94",
+      "id": "95",
       "id_pzszach": "3820",
       "nazwisko_imie": "SZELC Adam",
       "tytul_kategoria": "I++",
@@ -849,7 +858,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "4019",
       "nazwisko_imie": "LORENC Marian",
       "tytul_kategoria": "K",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "3985",
       "nazwisko_imie": "KOBAK Jakub",
       "tytul_kategoria": "I",
@@ -867,7 +876,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "97",
+      "id": "98",
       "id_pzszach": "4041",
       "nazwisko_imie": "NALEPA Czesław",
       "tytul_kategoria": "I++",
@@ -876,7 +885,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "98",
+      "id": "99",
       "id_pzszach": "24126",
       "nazwisko_imie": "GAJ Szymon",
       "tytul_kategoria": "I++",
@@ -885,21 +894,12 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "99",
+      "id": "100",
       "id_pzszach": "11090",
       "nazwisko_imie": "SMUSZ Kamil",
       "tytul_kategoria": "I++",
       "rank_fide": "2033",
       "klub": "MKSz GRYF Dębica",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "50461",
-      "nazwisko_imie": "SHAKHOV Mykhailo",
-      "tytul_kategoria": "II+",
-      "rank_fide": "2033",
-      "klub": "",
       "wojewodztwo_zwiazek": "PK"
     }
   ]

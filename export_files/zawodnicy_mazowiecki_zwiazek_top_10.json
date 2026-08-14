@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-13T04:05:30.234Z",
+  "createdAt": "2026-08-14T04:01:53.018Z",
   "totalRecords": 10,
   "data": [
     {
@@ -13,6 +13,15 @@
     },
     {
       "id": "2",
+      "id_pzszach": "2870",
+      "nazwisko_imie": "OLSZEWSKI Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2509",
+      "klub": "KSz SKOCZEK TROJAŃSKI",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "3",
       "id_pzszach": "2580",
       "nazwisko_imie": "BLEHM Paweł",
       "tytul_kategoria": "GM",
@@ -21,7 +30,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "3",
+      "id": "4",
       "id_pzszach": "5739",
       "nazwisko_imie": "HEBERLA Bartłomiej",
       "tytul_kategoria": "GM",
@@ -30,7 +39,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "4",
+      "id": "5",
       "id_pzszach": "7465",
       "nazwisko_imie": "KANAREK Marcel",
       "tytul_kategoria": "GM",
@@ -39,7 +48,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "5",
+      "id": "6",
       "id_pzszach": "2009",
       "nazwisko_imie": "CYBOROWSKI Łukasz",
       "tytul_kategoria": "GM",
@@ -48,7 +57,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "6",
+      "id": "7",
       "id_pzszach": "4006",
       "nazwisko_imie": "KUŹMICZ Krystian",
       "tytul_kategoria": "IM",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "5551",
       "nazwisko_imie": "ANTONIEWSKI Rafał",
       "tytul_kategoria": "GM",
@@ -66,7 +75,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "30627",
       "nazwisko_imie": "FUS Jakub",
       "tytul_kategoria": "IM",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "26053",
       "nazwisko_imie": "JARMUŁA Łukasz",
       "tytul_kategoria": "GM",
       "rank_fide": "2408",
       "klub": "KSz Hetman Płock",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "34071",
-      "nazwisko_imie": "PACAN-MILEJ Kosma",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2407",
-      "klub": "UKS SPARTA Białołęka",
       "wojewodztwo_zwiazek": "MA"
     }
   ]
