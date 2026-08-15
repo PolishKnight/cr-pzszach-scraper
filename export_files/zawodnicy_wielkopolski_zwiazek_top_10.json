@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-14T04:02:04.125Z",
+  "createdAt": "2026-08-15T02:46:16.894Z",
   "totalRecords": 10,
   "data": [
     {
@@ -31,6 +31,15 @@
     },
     {
       "id": "4",
+      "id_pzszach": "49896",
+      "nazwisko_imie": "KACPRZAK Karol",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2377",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "5",
       "id_pzszach": "26062",
       "nazwisko_imie": "NIEKRAŚ Dawid",
       "tytul_kategoria": "FM",
@@ -39,7 +48,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "5",
+      "id": "6",
       "id_pzszach": "7081",
       "nazwisko_imie": "MACIEJCZAK Jakub",
       "tytul_kategoria": "FM",
@@ -48,7 +57,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "6",
+      "id": "7",
       "id_pzszach": "2890",
       "nazwisko_imie": "PĘDZICH Dominik",
       "tytul_kategoria": "IM",
@@ -57,16 +66,16 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "49895",
       "nazwisko_imie": "KACPRZAK Kacper",
       "tytul_kategoria": "FM",
-      "rank_fide": "2361",
+      "rank_fide": "2353",
       "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "6976",
       "nazwisko_imie": "GRABOWSKI Andrzej",
       "tytul_kategoria": "M",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "7160",
       "nazwisko_imie": "PRZYBYLSKI Wojciech",
       "tytul_kategoria": "FM",
       "rank_fide": "2350",
       "klub": "KS KORONA Zakrzewo",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "49896",
-      "nazwisko_imie": "KACPRZAK Karol",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2345",
-      "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     }
   ]

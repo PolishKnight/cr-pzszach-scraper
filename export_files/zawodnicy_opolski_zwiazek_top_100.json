@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-14T04:01:55.886Z",
+  "createdAt": "2026-08-15T02:46:08.912Z",
   "totalRecords": 100,
   "data": [
     {
@@ -850,15 +850,6 @@
     },
     {
       "id": "95",
-      "id_pzszach": "30018",
-      "nazwisko_imie": "ORLIK Sandra",
-      "tytul_kategoria": "K",
-      "rank_fide": "1874",
-      "klub": "AZS KU Politechniki Opolskiej",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "96",
       "id_pzszach": "3556",
       "nazwisko_imie": "PILARSKI Dawid",
       "tytul_kategoria": "II",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "3707",
       "nazwisko_imie": "STRZĘP Marek",
       "tytul_kategoria": "I",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "3695",
       "nazwisko_imie": "PRANDZIOCH Dorota",
       "tytul_kategoria": "I",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "3712",
       "nazwisko_imie": "SZYMAŃSKI Zbigniew",
       "tytul_kategoria": "I",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "3700",
       "nazwisko_imie": "RAJDA Krystian",
       "tytul_kategoria": "II+",
       "rank_fide": "1868",
       "klub": "LZS VICTORIA Chróścice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "55698",
+      "nazwisko_imie": "KLUCZNIK Andre",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1868",
+      "klub": "",
       "wojewodztwo_zwiazek": "OP"
     }
   ]

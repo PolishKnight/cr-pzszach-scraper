@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-14T04:01:47.347Z",
+  "createdAt": "2026-08-15T02:46:00.371Z",
   "totalRecords": 10,
   "data": [
     {
@@ -67,15 +67,6 @@
     },
     {
       "id": "8",
-      "id_pzszach": "2736",
-      "nazwisko_imie": "KEMPIŃSKI Robert",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2513",
-      "klub": "KSz MIEDŹ Legnica",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "9",
       "id_pzszach": "5028",
       "nazwisko_imie": "MORANDA Wojciech",
       "tytul_kategoria": "GM",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "1050",
       "nazwisko_imie": "LICZNERSKI Łukasz",
       "tytul_kategoria": "IM",
       "rank_fide": "2500",
       "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "2998",
+      "nazwisko_imie": "TAZBIR Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2496",
+      "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     }
   ]
