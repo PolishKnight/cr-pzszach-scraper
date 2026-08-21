@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-20T02:51:52.608Z",
+  "createdAt": "2026-08-21T02:57:14.842Z",
   "totalRecords": 500,
   "data": [
     {
@@ -4396,15 +4396,6 @@
     },
     {
       "id": "489",
-      "id_pzszach": "65948",
-      "nazwisko_imie": "DANEK Wiktoria",
-      "tytul_kategoria": "I",
-      "rank_fide": "1652",
-      "klub": "GKS SZACH-MAT Wiśniowa",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "490",
       "id_pzszach": "10955",
       "nazwisko_imie": "KMIECIK Krzysztof",
       "tytul_kategoria": "II",
@@ -4413,7 +4404,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "491",
+      "id": "490",
       "id_pzszach": "26117",
       "nazwisko_imie": "STEFAŃSKI Adam",
       "tytul_kategoria": "II+",
@@ -4422,7 +4413,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "492",
+      "id": "491",
       "id_pzszach": "51488",
       "nazwisko_imie": "STARZEC Klaudia",
       "tytul_kategoria": "I",
@@ -4431,7 +4422,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "493",
+      "id": "492",
       "id_pzszach": "3876",
       "nazwisko_imie": "WĄSIK Roman",
       "tytul_kategoria": "I",
@@ -4440,7 +4431,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "494",
+      "id": "493",
       "id_pzszach": "23384",
       "nazwisko_imie": "KRAWIEC Mateusz",
       "tytul_kategoria": "II",
@@ -4449,7 +4440,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "495",
+      "id": "494",
       "id_pzszach": "41333",
       "nazwisko_imie": "STÓJ Karol",
       "tytul_kategoria": "II",
@@ -4458,7 +4449,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "496",
+      "id": "495",
       "id_pzszach": "46573",
       "nazwisko_imie": "DANIEL Zbigniew",
       "tytul_kategoria": "II",
@@ -4467,7 +4458,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "497",
+      "id": "496",
       "id_pzszach": "120954",
       "nazwisko_imie": "JODŁOWSKI Aleksander",
       "tytul_kategoria": "II",
@@ -4476,7 +4467,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "498",
+      "id": "497",
       "id_pzszach": "135072",
       "nazwisko_imie": "ZIARKO Karol",
       "tytul_kategoria": "II",
@@ -4485,7 +4476,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "499",
+      "id": "498",
       "id_pzszach": "28095",
       "nazwisko_imie": "DULAK Karol",
       "tytul_kategoria": "II",
@@ -4494,12 +4485,21 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "500",
+      "id": "499",
       "id_pzszach": "121450",
       "nazwisko_imie": "ŻACZEK Marcin",
       "tytul_kategoria": "II",
       "rank_fide": "1648",
       "klub": "RzKSz Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "500",
+      "id_pzszach": "121475",
+      "nazwisko_imie": "SHABOLDOV Oleksandr",
+      "tytul_kategoria": "II",
+      "rank_fide": "1648",
+      "klub": "",
       "wojewodztwo_zwiazek": "PK"
     }
   ]

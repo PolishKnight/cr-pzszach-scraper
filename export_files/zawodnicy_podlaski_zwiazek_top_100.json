@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-20T02:51:54.552Z",
+  "createdAt": "2026-08-21T02:57:16.826Z",
   "totalRecords": 100,
   "data": [
     {
@@ -571,15 +571,6 @@
     },
     {
       "id": "64",
-      "id_pzszach": "52244",
-      "nazwisko_imie": "CISZEWSKI Krzysztof",
-      "tytul_kategoria": "K",
-      "rank_fide": "2041",
-      "klub": "MUKS STOCZEK 45 Białystok",
-      "wojewodztwo_zwiazek": "PL"
-    },
-    {
-      "id": "65",
       "id_pzszach": "57038",
       "nazwisko_imie": "SZCZOTKA Klara",
       "tytul_kategoria": "WFM",
@@ -588,7 +579,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "66",
+      "id": "65",
       "id_pzszach": "4299",
       "nazwisko_imie": "CIOLEK Marcin",
       "tytul_kategoria": "I++",
@@ -597,7 +588,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "67",
+      "id": "66",
       "id_pzszach": "4201",
       "nazwisko_imie": "JANKOWSKI Zbigniew",
       "tytul_kategoria": "I",
@@ -606,7 +597,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "68",
+      "id": "67",
       "id_pzszach": "21271",
       "nazwisko_imie": "HASANOV Sahib",
       "tytul_kategoria": "II+",
@@ -615,7 +606,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "69",
+      "id": "68",
       "id_pzszach": "4301",
       "nazwisko_imie": "CYLUK Krzysztof",
       "tytul_kategoria": "I",
@@ -624,7 +615,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "70",
+      "id": "69",
       "id_pzszach": "4172",
       "nazwisko_imie": "DACIUK Sławomir",
       "tytul_kategoria": "I",
@@ -633,7 +624,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "71",
+      "id": "70",
       "id_pzszach": "4147",
       "nazwisko_imie": "MAZEK Marek",
       "tytul_kategoria": "I",
@@ -642,7 +633,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "72",
+      "id": "71",
       "id_pzszach": "75741",
       "nazwisko_imie": "WASILUK Mateusz",
       "tytul_kategoria": "I",
@@ -651,7 +642,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "73",
+      "id": "72",
       "id_pzszach": "4286",
       "nazwisko_imie": "BERNACKI Krzysztof",
       "tytul_kategoria": "I+",
@@ -660,7 +651,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "74",
+      "id": "73",
       "id_pzszach": "4150",
       "nazwisko_imie": "SZCZEPANSKI Piotr",
       "tytul_kategoria": "I",
@@ -669,7 +660,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "75",
+      "id": "74",
       "id_pzszach": "4292",
       "nazwisko_imie": "BRZOSTOWSKA Magdalena",
       "tytul_kategoria": "I",
@@ -678,7 +669,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "76",
+      "id": "75",
       "id_pzszach": "4176",
       "nazwisko_imie": "GRABOWSKI Adam",
       "tytul_kategoria": "K",
@@ -687,7 +678,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "77",
+      "id": "76",
       "id_pzszach": "4168",
       "nazwisko_imie": "ZDANCEWICZ Jarosław",
       "tytul_kategoria": "I",
@@ -696,7 +687,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "78",
+      "id": "77",
       "id_pzszach": "60468",
       "nazwisko_imie": "BARTNIK Michał",
       "tytul_kategoria": "I",
@@ -705,7 +696,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "79",
+      "id": "78",
       "id_pzszach": "4187",
       "nazwisko_imie": "POŚWIATOWSKI Michał",
       "tytul_kategoria": "I++",
@@ -714,7 +705,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "80",
+      "id": "79",
       "id_pzszach": "4159",
       "nazwisko_imie": "MURZA Adam",
       "tytul_kategoria": "I+",
@@ -723,7 +714,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "81",
+      "id": "80",
       "id_pzszach": "67228",
       "nazwisko_imie": "JASZCZUK Piotr",
       "tytul_kategoria": "I+",
@@ -732,7 +723,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "82",
+      "id": "81",
       "id_pzszach": "4145",
       "nazwisko_imie": "CZAJA Wojciech",
       "tytul_kategoria": "I",
@@ -741,7 +732,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "83",
+      "id": "82",
       "id_pzszach": "27318",
       "nazwisko_imie": "FILEWICZ Radosław",
       "tytul_kategoria": "I++",
@@ -750,7 +741,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "84",
+      "id": "83",
       "id_pzszach": "30078",
       "nazwisko_imie": "MARCIŃCZYK Monika",
       "tytul_kategoria": "WCM",
@@ -759,7 +750,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "85",
+      "id": "84",
       "id_pzszach": "90881",
       "nazwisko_imie": "WNOROWSKI Wiktor",
       "tytul_kategoria": "I+",
@@ -768,7 +759,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "86",
+      "id": "85",
       "id_pzszach": "9835",
       "nazwisko_imie": "MAKSIMIUK Jaroslaw",
       "tytul_kategoria": "I",
@@ -777,7 +768,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "87",
+      "id": "86",
       "id_pzszach": "4382",
       "nazwisko_imie": "SOKOŁOWSKI Krzysztof",
       "tytul_kategoria": "I",
@@ -786,7 +777,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "88",
+      "id": "87",
       "id_pzszach": "4357",
       "nazwisko_imie": "ORŁOWSKA Anna",
       "tytul_kategoria": "K",
@@ -795,7 +786,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "89",
+      "id": "88",
       "id_pzszach": "4398",
       "nazwisko_imie": "LESZCZYŃSKA Małgorzata",
       "tytul_kategoria": "K",
@@ -804,7 +795,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "90",
+      "id": "89",
       "id_pzszach": "22425",
       "nazwisko_imie": "PYTEL Maciej",
       "tytul_kategoria": "K",
@@ -813,7 +804,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "91",
+      "id": "90",
       "id_pzszach": "75149",
       "nazwisko_imie": "BUSIŃSKI Jan",
       "tytul_kategoria": "I",
@@ -822,7 +813,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "92",
+      "id": "91",
       "id_pzszach": "4204",
       "nazwisko_imie": "MAMMADOV Vafa",
       "tytul_kategoria": "K",
@@ -831,7 +822,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "93",
+      "id": "92",
       "id_pzszach": "4347",
       "nazwisko_imie": "LEWIARZ Piotr",
       "tytul_kategoria": "I++",
@@ -840,7 +831,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "94",
+      "id": "93",
       "id_pzszach": "4356",
       "nazwisko_imie": "OCYTKO Andrzej",
       "tytul_kategoria": "K",
@@ -849,7 +840,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "95",
+      "id": "94",
       "id_pzszach": "56923",
       "nazwisko_imie": "ZIANOWICZ Dominik",
       "tytul_kategoria": "I++",
@@ -858,7 +849,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "45076",
       "nazwisko_imie": "BANCAREWICZ Aleks",
       "tytul_kategoria": "I+",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "1417",
       "nazwisko_imie": "PACZKOWSKI Daniel",
       "tytul_kategoria": "I",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "4309",
       "nazwisko_imie": "DUDEL Anna",
       "tytul_kategoria": "K+",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "4325",
       "nazwisko_imie": "KAMINSKI Pawel",
       "tytul_kategoria": "II+",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "87668",
       "nazwisko_imie": "MARKOWSKI Adam",
       "tytul_kategoria": "I",
       "rank_fide": "1959",
       "klub": "MUKS STOCZEK 45 Białystok",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "4285",
+      "nazwisko_imie": "BERNACKI Gabriel",
+      "tytul_kategoria": "I",
+      "rank_fide": "1954",
+      "klub": "",
       "wojewodztwo_zwiazek": "PL"
     }
   ]
