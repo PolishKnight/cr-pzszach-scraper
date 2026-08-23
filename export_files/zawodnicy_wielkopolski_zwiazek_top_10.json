@@ -1,9 +1,18 @@
 {
-  "createdAt": "2026-08-22T02:49:10.466Z",
+  "createdAt": "2026-08-23T02:56:45.354Z",
   "totalRecords": 10,
   "data": [
     {
       "id": "1",
+      "id_pzszach": "1343",
+      "nazwisko_imie": "BRODOWSKI Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2462",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "2",
       "id_pzszach": "7218",
       "nazwisko_imie": "STANISZEWSKI Piotr",
       "tytul_kategoria": "IM",
@@ -12,7 +21,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "2",
+      "id": "3",
       "id_pzszach": "7283",
       "nazwisko_imie": "WODA Jacek",
       "tytul_kategoria": "FM",
@@ -21,7 +30,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "3",
+      "id": "4",
       "id_pzszach": "7192",
       "nazwisko_imie": "SIECIECHOWICZ Marcin",
       "tytul_kategoria": "IM",
@@ -30,7 +39,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "4",
+      "id": "5",
       "id_pzszach": "49896",
       "nazwisko_imie": "KACPRZAK Karol",
       "tytul_kategoria": "FM",
@@ -39,7 +48,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "5",
+      "id": "6",
       "id_pzszach": "26062",
       "nazwisko_imie": "NIEKRAŚ Dawid",
       "tytul_kategoria": "FM",
@@ -48,7 +57,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "6",
+      "id": "7",
       "id_pzszach": "7081",
       "nazwisko_imie": "MACIEJCZAK Jakub",
       "tytul_kategoria": "FM",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "2890",
       "nazwisko_imie": "PĘDZICH Dominik",
       "tytul_kategoria": "IM",
@@ -66,7 +75,7 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "49895",
       "nazwisko_imie": "KACPRZAK Kacper",
       "tytul_kategoria": "FM",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "6976",
       "nazwisko_imie": "GRABOWSKI Andrzej",
       "tytul_kategoria": "M",
       "rank_fide": "2350",
       "klub": "",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "7160",
-      "nazwisko_imie": "PRZYBYLSKI Wojciech",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2350",
-      "klub": "KS KORONA Zakrzewo",
       "wojewodztwo_zwiazek": "WP"
     }
   ]
