@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:47.405Z",
+  "createdAt": "2026-09-01T07:06:17.669Z",
   "totalRecords": 100,
   "data": [
     {
@@ -112,15 +112,6 @@
     },
     {
       "id": "13",
-      "id_pzszach": "82988",
-      "nazwisko_imie": "ZARĘBA Piotr",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2197",
-      "klub": "KSz Gryf Szczecin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "14",
       "id_pzszach": "7543",
       "nazwisko_imie": "WASILEWSKI Paweł",
       "tytul_kategoria": "I++",
@@ -129,7 +120,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "15",
+      "id": "14",
       "id_pzszach": "7347",
       "nazwisko_imie": "TOKARCZYK Tomasz",
       "tytul_kategoria": "K",
@@ -138,7 +129,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "16",
+      "id": "15",
       "id_pzszach": "7485",
       "nazwisko_imie": "MAJ Andrzej",
       "tytul_kategoria": "K",
@@ -147,7 +138,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "17",
+      "id": "16",
       "id_pzszach": "7539",
       "nazwisko_imie": "TOFIL Borys",
       "tytul_kategoria": "CM",
@@ -156,7 +147,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "18",
+      "id": "17",
       "id_pzszach": "60164",
       "nazwisko_imie": "HURY Tymoteusz",
       "tytul_kategoria": "CM",
@@ -165,7 +156,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "19",
+      "id": "18",
       "id_pzszach": "7401",
       "nazwisko_imie": "JACEK Krystian",
       "tytul_kategoria": "K",
@@ -174,7 +165,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "20",
+      "id": "19",
       "id_pzszach": "7505",
       "nazwisko_imie": "OKOŃ Dariusz",
       "tytul_kategoria": "K",
@@ -183,7 +174,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "21",
+      "id": "20",
       "id_pzszach": "7523",
       "nazwisko_imie": "RUDNICKI Miłosz",
       "tytul_kategoria": "CM",
@@ -192,7 +183,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "22",
+      "id": "21",
       "id_pzszach": "41046",
       "nazwisko_imie": "GRZESIK Gracjan",
       "tytul_kategoria": "CM",
@@ -201,7 +192,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "23",
+      "id": "22",
       "id_pzszach": "7322",
       "nazwisko_imie": "MASŁOWSKI Jakub",
       "tytul_kategoria": "CM",
@@ -210,12 +201,21 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "24",
+      "id": "23",
       "id_pzszach": "7472",
       "nazwisko_imie": "KOSTYRA Mariusz",
       "tytul_kategoria": "K",
       "rank_fide": "2158",
       "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "82988",
+      "nazwisko_imie": "ZARĘBA Piotr",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2147",
+      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
@@ -232,7 +232,7 @@
       "id_pzszach": "100097",
       "nazwisko_imie": "WITES Adam",
       "tytul_kategoria": "I+",
-      "rank_fide": "2137",
+      "rank_fide": "2136",
       "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     },
@@ -616,20 +616,20 @@
     },
     {
       "id": "69",
+      "id_pzszach": "1269",
+      "nazwisko_imie": "WODNICZAK Arkadiusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1992",
+      "klub": "Myśliborski Klub Szachowy",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "70",
       "id_pzszach": "7478",
       "nazwisko_imie": "KUBECZKO Grzegorz",
       "tytul_kategoria": "I+",
       "rank_fide": "1992",
       "klub": "",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "70",
-      "id_pzszach": "1269",
-      "nazwisko_imie": "WODNICZAK Arkadiusz",
-      "tytul_kategoria": "I",
-      "rank_fide": "1988",
-      "klub": "Myśliborski Klub Szachowy",
       "wojewodztwo_zwiazek": "ZP"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:21.544Z",
+  "createdAt": "2026-09-01T07:05:52.881Z",
   "totalRecords": 100,
   "data": [
     {
@@ -16,7 +16,7 @@
       "id_pzszach": "4888",
       "nazwisko_imie": "WOJTASZEK Radosław",
       "tytul_kategoria": "GM",
-      "rank_fide": "2655",
+      "rank_fide": "2658",
       "klub": "KS GWIAZDA Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
@@ -787,15 +787,6 @@
     },
     {
       "id": "88",
-      "id_pzszach": "68423",
-      "nazwisko_imie": "ZIELONKA Adam",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2431",
-      "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "89",
       "id_pzszach": "4567",
       "nazwisko_imie": "WEICHHOLD Paweł",
       "tytul_kategoria": "IM",
@@ -804,7 +795,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "90",
+      "id": "89",
       "id_pzszach": "5861",
       "nazwisko_imie": "KULIGOWSKI Adam",
       "tytul_kategoria": "GM",
@@ -813,7 +804,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "91",
+      "id": "90",
       "id_pzszach": "40265",
       "nazwisko_imie": "KOZAK Antoni",
       "tytul_kategoria": "M",
@@ -822,7 +813,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "92",
+      "id": "91",
       "id_pzszach": "453",
       "nazwisko_imie": "ZAWADZKI Stanisław",
       "tytul_kategoria": "IM",
@@ -831,7 +822,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "93",
+      "id": "92",
       "id_pzszach": "7258",
       "nazwisko_imie": "URBAN Klaudiusz",
       "tytul_kategoria": "IM",
@@ -840,7 +831,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "94",
+      "id": "93",
       "id_pzszach": "4321",
       "nazwisko_imie": "JAKUBOWSKI Krzysztof",
       "tytul_kategoria": "GM",
@@ -849,7 +840,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "95",
+      "id": "94",
       "id_pzszach": "15181",
       "nazwisko_imie": "GAJEK Radosław",
       "tytul_kategoria": "IM",
@@ -858,7 +849,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "2694",
       "nazwisko_imie": "JAKUBIEC Artur",
       "tytul_kategoria": "GM",
@@ -867,13 +858,22 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "5563",
       "nazwisko_imie": "BANY Jerzy",
       "tytul_kategoria": "IM",
       "rank_fide": "2420",
       "klub": "",
       "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "97",
+      "id_pzszach": "68423",
+      "nazwisko_imie": "ZIELONKA Adam",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2420",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "98",

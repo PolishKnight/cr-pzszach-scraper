@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:33.516Z",
+  "createdAt": "2026-09-01T07:06:04.980Z",
   "totalRecords": 500,
   "data": [
     {
@@ -103,20 +103,20 @@
     },
     {
       "id": "12",
-      "id_pzszach": "61673",
-      "nazwisko_imie": "ZALEGA Maciej",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2227",
-      "klub": "Łódzka Liga Szachowa",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "13",
       "id_pzszach": "1831",
       "nazwisko_imie": "WEIDER Dariusz",
       "tytul_kategoria": "K",
       "rank_fide": "2225",
       "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "61673",
+      "nazwisko_imie": "ZALEGA Maciej",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2213",
+      "klub": "Łódzka Liga Szachowa",
       "wojewodztwo_zwiazek": "LD"
     },
     {
@@ -2830,6 +2830,15 @@
     },
     {
       "id": "315",
+      "id_pzszach": "1584",
+      "nazwisko_imie": "WYDORNIK Robert",
+      "tytul_kategoria": "II",
+      "rank_fide": "1576",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "316",
       "id_pzszach": "139827",
       "nazwisko_imie": "STAWSKI Krystian",
       "tytul_kategoria": "III",
@@ -2838,7 +2847,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "316",
+      "id": "317",
       "id_pzszach": "105806",
       "nazwisko_imie": "ŚWIERCZYŃSKA Maria",
       "tytul_kategoria": "II+",
@@ -2847,21 +2856,12 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "317",
+      "id": "318",
       "id_pzszach": "104077",
       "nazwisko_imie": "SĘCZEK Cezary",
       "tytul_kategoria": "II",
       "rank_fide": "1568",
       "klub": "UKS PAŁAC Nieborów",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "318",
-      "id_pzszach": "1584",
-      "nazwisko_imie": "WYDORNIK Robert",
-      "tytul_kategoria": "II",
-      "rank_fide": "1567",
-      "klub": "",
       "wojewodztwo_zwiazek": "LD"
     },
     {
@@ -3687,7 +3687,7 @@
       "id": "410",
       "id_pzszach": "134161",
       "nazwisko_imie": "IVANCHENKO Bohdan",
-      "tytul_kategoria": "IV",
+      "tytul_kategoria": "III",
       "rank_fide": "1480",
       "klub": "UKS PIĄTKA Wieluń",
       "wojewodztwo_zwiazek": "LD"
@@ -3883,15 +3883,6 @@
     },
     {
       "id": "432",
-      "id_pzszach": "84068",
-      "nazwisko_imie": "WEWERSOWICZ Eugenia",
-      "tytul_kategoria": "II",
-      "rank_fide": "1463",
-      "klub": "ŁZSzach",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "433",
       "id_pzszach": "95832",
       "nazwisko_imie": "SKOWROŃSKI Krzysztof",
       "tytul_kategoria": "II",
@@ -3900,7 +3891,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "434",
+      "id": "433",
       "id_pzszach": "143228",
       "nazwisko_imie": "KACZOR Gabriel",
       "tytul_kategoria": "III",
@@ -3909,7 +3900,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "435",
+      "id": "434",
       "id_pzszach": "74214",
       "nazwisko_imie": "ŻUREK Wiktor",
       "tytul_kategoria": "II",
@@ -3918,7 +3909,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "436",
+      "id": "435",
       "id_pzszach": "125377",
       "nazwisko_imie": "LANGOWSKI Paweł",
       "tytul_kategoria": "III",
@@ -3927,7 +3918,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "437",
+      "id": "436",
       "id_pzszach": "88778",
       "nazwisko_imie": "SIEKIERA Szymon",
       "tytul_kategoria": "III",
@@ -3936,7 +3927,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "438",
+      "id": "437",
       "id_pzszach": "104387",
       "nazwisko_imie": "POLE Kacper",
       "tytul_kategoria": "III",
@@ -3945,7 +3936,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "439",
+      "id": "438",
       "id_pzszach": "111990",
       "nazwisko_imie": "KOWSKI Piotr",
       "tytul_kategoria": "IV",
@@ -3954,12 +3945,21 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "440",
+      "id": "439",
       "id_pzszach": "75410",
       "nazwisko_imie": "DĄBKOWSKI Karol",
       "tytul_kategoria": "III",
       "rank_fide": "1457",
       "klub": "UKS PAŁAC Nieborów",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "440",
+      "id_pzszach": "84068",
+      "nazwisko_imie": "WEWERSOWICZ Eugenia",
+      "tytul_kategoria": "II",
+      "rank_fide": "1457",
+      "klub": "ŁZSzach",
       "wojewodztwo_zwiazek": "LD"
     },
     {

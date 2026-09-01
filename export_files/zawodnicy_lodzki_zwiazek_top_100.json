@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:33.515Z",
+  "createdAt": "2026-09-01T07:06:04.979Z",
   "totalRecords": 100,
   "data": [
     {
@@ -103,20 +103,20 @@
     },
     {
       "id": "12",
-      "id_pzszach": "61673",
-      "nazwisko_imie": "ZALEGA Maciej",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2227",
-      "klub": "Łódzka Liga Szachowa",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "13",
       "id_pzszach": "1831",
       "nazwisko_imie": "WEIDER Dariusz",
       "tytul_kategoria": "K",
       "rank_fide": "2225",
       "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "61673",
+      "nazwisko_imie": "ZALEGA Maciej",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2213",
+      "klub": "Łódzka Liga Szachowa",
       "wojewodztwo_zwiazek": "LD"
     },
     {

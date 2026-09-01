@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:29.829Z",
+  "createdAt": "2026-09-01T07:06:01.565Z",
   "totalRecords": 100,
   "data": [
     {
@@ -598,6 +598,15 @@
     },
     {
       "id": "67",
+      "id_pzszach": "67585",
+      "nazwisko_imie": "WILGOSZ Szczepan",
+      "tytul_kategoria": "K",
+      "rank_fide": "2259",
+      "klub": "MGLKS PARNAS Oława",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "68",
       "id_pzszach": "220",
       "nazwisko_imie": "IZBIŃSKI Bartłomiej",
       "tytul_kategoria": "M",
@@ -606,7 +615,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "68",
+      "id": "69",
       "id_pzszach": "163",
       "nazwisko_imie": "BORKOWSKI Franciszek",
       "tytul_kategoria": "IM",
@@ -615,7 +624,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "69",
+      "id": "70",
       "id_pzszach": "124",
       "nazwisko_imie": "MAŚLEJ Mirosław",
       "tytul_kategoria": "K",
@@ -624,7 +633,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "70",
+      "id": "71",
       "id_pzszach": "432",
       "nazwisko_imie": "WARWASZYŃSKI Zbigniew",
       "tytul_kategoria": "K",
@@ -633,7 +642,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "71",
+      "id": "72",
       "id_pzszach": "565",
       "nazwisko_imie": "SOŚNIK Sebastian",
       "tytul_kategoria": "K",
@@ -642,7 +651,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "72",
+      "id": "73",
       "id_pzszach": "56949",
       "nazwisko_imie": "MADEJ Marek",
       "tytul_kategoria": "FM",
@@ -651,7 +660,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "73",
+      "id": "74",
       "id_pzszach": "411",
       "nazwisko_imie": "SULEJA Jarosław",
       "tytul_kategoria": "K",
@@ -660,7 +669,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "74",
+      "id": "75",
       "id_pzszach": "13968",
       "nazwisko_imie": "PIOTROWSKI Przemysław",
       "tytul_kategoria": "FM",
@@ -669,7 +678,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "75",
+      "id": "76",
       "id_pzszach": "441",
       "nazwisko_imie": "WŁODARCZYK Robert",
       "tytul_kategoria": "FM",
@@ -678,7 +687,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "76",
+      "id": "77",
       "id_pzszach": "618",
       "nazwisko_imie": "KACZYNSKI Adam",
       "tytul_kategoria": "K",
@@ -687,7 +696,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "77",
+      "id": "78",
       "id_pzszach": "392",
       "nazwisko_imie": "SASKOWSKI Jacek",
       "tytul_kategoria": "K",
@@ -696,21 +705,12 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "78",
+      "id": "79",
       "id_pzszach": "196",
       "nazwisko_imie": "GAŁAŻEWSKI Tomasz",
       "tytul_kategoria": "FM",
       "rank_fide": "2245",
       "klub": "UKS SP3 w Bogatyni",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "79",
-      "id_pzszach": "67585",
-      "nazwisko_imie": "WILGOSZ Szczepan",
-      "tytul_kategoria": "K",
-      "rank_fide": "2245",
-      "klub": "MGLKS PARNAS Oława",
       "wojewodztwo_zwiazek": "DS"
     },
     {

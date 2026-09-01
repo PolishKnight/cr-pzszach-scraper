@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:31.281Z",
+  "createdAt": "2026-09-01T07:06:02.941Z",
   "totalRecords": 500,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "4888",
       "nazwisko_imie": "WOJTASZEK Radosław",
       "tytul_kategoria": "GM",
-      "rank_fide": "2655",
+      "rank_fide": "2658",
       "klub": "KS GWIAZDA Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
@@ -1597,15 +1597,6 @@
     },
     {
       "id": "178",
-      "id_pzszach": "1225",
-      "nazwisko_imie": "ZIELIŃSKI Olgierd",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1919",
-      "klub": "AZS UMK Toruń",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "179",
       "id_pzszach": "1143",
       "nazwisko_imie": "SMYKOWSKI Mateusz",
       "tytul_kategoria": "I",
@@ -1614,7 +1605,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "180",
+      "id": "179",
       "id_pzszach": "1091",
       "nazwisko_imie": "ORCIUCH Leszek",
       "tytul_kategoria": "II",
@@ -1623,7 +1614,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "181",
+      "id": "180",
       "id_pzszach": "1231",
       "nazwisko_imie": "ŻURNER Jarosław",
       "tytul_kategoria": "II",
@@ -1632,7 +1623,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "182",
+      "id": "181",
       "id_pzszach": "1131",
       "nazwisko_imie": "ŚCIBOROWSKI Mirosław",
       "tytul_kategoria": "FM",
@@ -1641,7 +1632,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "183",
+      "id": "182",
       "id_pzszach": "15138",
       "nazwisko_imie": "CZARKOWSKI Tomasz",
       "tytul_kategoria": "I++",
@@ -1650,7 +1641,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "184",
+      "id": "183",
       "id_pzszach": "1157",
       "nazwisko_imie": "STRZEMKOWSKI Włodzimierz",
       "tytul_kategoria": "K",
@@ -1659,7 +1650,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "185",
+      "id": "184",
       "id_pzszach": "11546",
       "nazwisko_imie": "TREPKOWSKI Piotr",
       "tytul_kategoria": "I",
@@ -1668,7 +1659,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "186",
+      "id": "185",
       "id_pzszach": "890",
       "nazwisko_imie": "BARTOSIK Piotr",
       "tytul_kategoria": "I+",
@@ -1677,7 +1668,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "187",
+      "id": "186",
       "id_pzszach": "967",
       "nazwisko_imie": "HETMAŃSKI Waldemar",
       "tytul_kategoria": "I",
@@ -1686,7 +1677,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "188",
+      "id": "187",
       "id_pzszach": "17830",
       "nazwisko_imie": "TAMOŃ Radosław",
       "tytul_kategoria": "I",
@@ -1695,7 +1686,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "189",
+      "id": "188",
       "id_pzszach": "15155",
       "nazwisko_imie": "KRUSZYŃSKI Michał",
       "tytul_kategoria": "II+",
@@ -1704,7 +1695,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "190",
+      "id": "189",
       "id_pzszach": "853",
       "nazwisko_imie": "MAJDZIŃSKI Michał",
       "tytul_kategoria": "II",
@@ -1713,7 +1704,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "191",
+      "id": "190",
       "id_pzszach": "1013",
       "nazwisko_imie": "KOTULA Konrad",
       "tytul_kategoria": "I",
@@ -1722,7 +1713,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "192",
+      "id": "191",
       "id_pzszach": "1207",
       "nazwisko_imie": "WIŚNIEWSKI Adam",
       "tytul_kategoria": "I+",
@@ -1731,7 +1722,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "193",
+      "id": "192",
       "id_pzszach": "23489",
       "nazwisko_imie": "KROCZKA Gromosław",
       "tytul_kategoria": "I",
@@ -1740,7 +1731,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "194",
+      "id": "193",
       "id_pzszach": "1004",
       "nazwisko_imie": "KLUGIEWICZ Józef",
       "tytul_kategoria": "I",
@@ -1749,7 +1740,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "195",
+      "id": "194",
       "id_pzszach": "927",
       "nazwisko_imie": "DYBOWSKI Rafał",
       "tytul_kategoria": "I",
@@ -1758,16 +1749,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "196",
-      "id_pzszach": "100024",
-      "nazwisko_imie": "WEBER Wiktor",
-      "tytul_kategoria": "I",
-      "rank_fide": "1895",
-      "klub": "BKS CHEMIK Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "197",
+      "id": "195",
       "id_pzszach": "832",
       "nazwisko_imie": "ŻMIJEWSKI Bogumił",
       "tytul_kategoria": "II+",
@@ -1776,7 +1758,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "198",
+      "id": "196",
+      "id_pzszach": "100024",
+      "nazwisko_imie": "WEBER Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "1893",
+      "klub": "BKS CHEMIK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "197",
       "id_pzszach": "854",
       "nazwisko_imie": "MARKS Piotr",
       "tytul_kategoria": "II+",
@@ -1785,7 +1776,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "199",
+      "id": "198",
       "id_pzszach": "787",
       "nazwisko_imie": "WÓJCICKI Mateusz",
       "tytul_kategoria": "I",
@@ -1794,7 +1785,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "200",
+      "id": "199",
       "id_pzszach": "910",
       "nazwisko_imie": "PAPROCKA Renata",
       "tytul_kategoria": "WFM",
@@ -1803,7 +1794,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "201",
+      "id": "200",
       "id_pzszach": "6424",
       "nazwisko_imie": "KOBUS Maciej",
       "tytul_kategoria": "I",
@@ -1812,7 +1803,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "202",
+      "id": "201",
       "id_pzszach": "14868",
       "nazwisko_imie": "BŁAJET Radosław",
       "tytul_kategoria": "I+",
@@ -1821,7 +1812,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "203",
+      "id": "202",
       "id_pzszach": "1164",
       "nazwisko_imie": "SZARY Marcin",
       "tytul_kategoria": "II+",
@@ -1830,7 +1821,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "204",
+      "id": "203",
       "id_pzszach": "27114",
       "nazwisko_imie": "BŁOCIŃSKI Maciej",
       "tytul_kategoria": "I",
@@ -1839,7 +1830,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "205",
+      "id": "204",
       "id_pzszach": "59004",
       "nazwisko_imie": "MURAWSKI Miłosz",
       "tytul_kategoria": "I",
@@ -1848,7 +1839,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "206",
+      "id": "205",
       "id_pzszach": "11637",
       "nazwisko_imie": "JESSE Jacek",
       "tytul_kategoria": "I++",
@@ -1857,7 +1848,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "207",
+      "id": "206",
       "id_pzszach": "976",
       "nazwisko_imie": "JABŁOŃSKI Mirosław",
       "tytul_kategoria": "I++",
@@ -1866,12 +1857,21 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "208",
+      "id": "207",
       "id_pzszach": "1090",
       "nazwisko_imie": "OLSZEWSKI Marek",
       "tytul_kategoria": "K+",
       "rank_fide": "1884",
       "klub": "BKS CHEMIK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "208",
+      "id_pzszach": "1225",
+      "nazwisko_imie": "ZIELIŃSKI Olgierd",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1884",
+      "klub": "AZS UMK Toruń",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -2346,7 +2346,7 @@
       "id": "261",
       "id_pzszach": "103893",
       "nazwisko_imie": "MAKAREWICZ Jakub",
-      "tytul_kategoria": "II+",
+      "tytul_kategoria": "I",
       "rank_fide": "1836",
       "klub": "UKS SZACHOWA DWÓJKA Szubin",
       "wojewodztwo_zwiazek": "KP"
@@ -3444,7 +3444,7 @@
       "id": "383",
       "id_pzszach": "94672",
       "nazwisko_imie": "PENDER Mikołaj",
-      "tytul_kategoria": "II+",
+      "tytul_kategoria": "I",
       "rank_fide": "1735",
       "klub": "BKS CHEMIK Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"

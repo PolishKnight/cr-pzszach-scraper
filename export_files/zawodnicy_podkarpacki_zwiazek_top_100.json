@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:38.938Z",
+  "createdAt": "2026-09-01T07:06:09.762Z",
   "totalRecords": 100,
   "data": [
     {
@@ -61,7 +61,7 @@
       "id_pzszach": "68423",
       "nazwisko_imie": "ZIELONKA Adam",
       "tytul_kategoria": "FM",
-      "rank_fide": "2431",
+      "rank_fide": "2420",
       "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
@@ -157,15 +157,6 @@
     },
     {
       "id": "18",
-      "id_pzszach": "60995",
-      "nazwisko_imie": "ZIĘBA Hubert",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2328",
-      "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "19",
       "id_pzszach": "3824",
       "nazwisko_imie": "LEWTAK Damian",
       "tytul_kategoria": "IM",
@@ -174,7 +165,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "20",
+      "id": "19",
       "id_pzszach": "86560",
       "nazwisko_imie": "GOLIS Wiktor",
       "tytul_kategoria": "FM",
@@ -183,7 +174,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "21",
+      "id": "20",
       "id_pzszach": "6235",
       "nazwisko_imie": "MICHNA Marta",
       "tytul_kategoria": "WGM",
@@ -192,7 +183,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "22",
+      "id": "21",
       "id_pzszach": "63351",
       "nazwisko_imie": "KRAWCZYK Flawian",
       "tytul_kategoria": "CM",
@@ -201,7 +192,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "23",
+      "id": "22",
       "id_pzszach": "63170",
       "nazwisko_imie": "SMOLKOV Igor",
       "tytul_kategoria": "",
@@ -210,7 +201,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "24",
+      "id": "23",
       "id_pzszach": "2837",
       "nazwisko_imie": "MARSZAŁEK Maciej",
       "tytul_kategoria": "FM",
@@ -219,12 +210,21 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "25",
+      "id": "24",
       "id_pzszach": "3996",
       "nazwisko_imie": "KROGULSKI Grzegorz",
       "tytul_kategoria": "M",
       "rank_fide": "2294",
       "klub": "GKSz HETMAN Pilzno",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "60995",
+      "nazwisko_imie": "ZIĘBA Hubert",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2291",
+      "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
     {

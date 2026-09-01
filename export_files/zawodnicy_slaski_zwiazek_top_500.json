@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:43.386Z",
+  "createdAt": "2026-09-01T07:06:13.958Z",
   "totalRecords": 500,
   "data": [
     {
@@ -1651,15 +1651,6 @@
     },
     {
       "id": "184",
-      "id_pzszach": "6193",
-      "nazwisko_imie": "WIECZOREK Zbigniew",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2140",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "185",
       "id_pzszach": "16644",
       "nazwisko_imie": "BILCZEWSKI Kacper",
       "tytul_kategoria": "K+",
@@ -1668,7 +1659,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "186",
+      "id": "185",
       "id_pzszach": "5881",
       "nazwisko_imie": "LAMŻA Zenon",
       "tytul_kategoria": "K",
@@ -1677,7 +1668,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "187",
+      "id": "186",
       "id_pzszach": "6012",
       "nazwisko_imie": "PITER Sławomir",
       "tytul_kategoria": "I",
@@ -1686,7 +1677,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "188",
+      "id": "187",
       "id_pzszach": "63647",
       "nazwisko_imie": "GASZKA Zuzanna",
       "tytul_kategoria": "WFM",
@@ -1695,7 +1686,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "189",
+      "id": "188",
       "id_pzszach": "5946",
       "nazwisko_imie": "MUC Tomasz",
       "tytul_kategoria": "M",
@@ -1704,7 +1695,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "190",
+      "id": "189",
       "id_pzszach": "6164",
       "nazwisko_imie": "TWORUSZKA Sebastian",
       "tytul_kategoria": "K",
@@ -1713,7 +1704,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "191",
+      "id": "190",
       "id_pzszach": "5855",
       "nazwisko_imie": "KUBIT Tomasz",
       "tytul_kategoria": "K",
@@ -1722,7 +1713,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "192",
+      "id": "191",
       "id_pzszach": "5762",
       "nazwisko_imie": "JAWORSKI Mirosław",
       "tytul_kategoria": "IM",
@@ -1731,7 +1722,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "193",
+      "id": "192",
       "id_pzszach": "8028",
       "nazwisko_imie": "WOŁYŃSKI Krzysztof",
       "tytul_kategoria": "K",
@@ -1740,7 +1731,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "194",
+      "id": "193",
       "id_pzszach": "68198",
       "nazwisko_imie": "KONDYS Piotr",
       "tytul_kategoria": "CM",
@@ -1749,7 +1740,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "195",
+      "id": "194",
       "id_pzszach": "4711",
       "nazwisko_imie": "KOŁOSOWSKI Paweł",
       "tytul_kategoria": "M",
@@ -1758,7 +1749,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "196",
+      "id": "195",
       "id_pzszach": "16653",
       "nazwisko_imie": "CICHY Kamil",
       "tytul_kategoria": "K+",
@@ -1767,7 +1758,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "197",
+      "id": "196",
       "id_pzszach": "76019",
       "nazwisko_imie": "KUKLA Maciej",
       "tytul_kategoria": "I+",
@@ -1776,7 +1767,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "198",
+      "id": "197",
       "id_pzszach": "6138",
       "nazwisko_imie": "SZOLKOWSKI Ernest",
       "tytul_kategoria": "K",
@@ -1785,7 +1776,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "199",
+      "id": "198",
       "id_pzszach": "33470",
       "nazwisko_imie": "OLSAROVA Tereza",
       "tytul_kategoria": "",
@@ -1794,7 +1785,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "200",
+      "id": "199",
       "id_pzszach": "39560",
       "nazwisko_imie": "PANEK Bartosz",
       "tytul_kategoria": "CM",
@@ -1803,7 +1794,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "201",
+      "id": "200",
       "id_pzszach": "6009",
       "nazwisko_imie": "PIOTROWSKI Łukasz",
       "tytul_kategoria": "I",
@@ -1812,12 +1803,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "202",
+      "id": "201",
       "id_pzszach": "6079",
       "nazwisko_imie": "SŁADKOWSKI Stanisław",
       "tytul_kategoria": "I",
       "rank_fide": "2122",
       "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "202",
+      "id_pzszach": "6193",
+      "nazwisko_imie": "WIECZOREK Zbigniew",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2122",
+      "klub": "KSz SILESIA Racibórz",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -3964,6 +3964,15 @@
     },
     {
       "id": "441",
+      "id_pzszach": "75276",
+      "nazwisko_imie": "WESOŁOWSKI Jeremi",
+      "tytul_kategoria": "I",
+      "rank_fide": "1974",
+      "klub": "Wytworzymy (Forteca) Czeladź",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "442",
       "id_pzszach": "2448",
       "nazwisko_imie": "TOMASZEWSKA Luiza",
       "tytul_kategoria": "I++",
@@ -3972,7 +3981,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "442",
+      "id": "443",
       "id_pzszach": "16707",
       "nazwisko_imie": "SZCZECINA Kamil",
       "tytul_kategoria": "I++",
@@ -3981,7 +3990,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "443",
+      "id": "444",
       "id_pzszach": "6067",
       "nazwisko_imie": "SIEDLECKI Czesław",
       "tytul_kategoria": "I",
@@ -3990,7 +3999,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "444",
+      "id": "445",
       "id_pzszach": "21851",
       "nazwisko_imie": "KLEMENTOWSKI Dawid",
       "tytul_kategoria": "I",
@@ -3999,7 +4008,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "445",
+      "id": "446",
       "id_pzszach": "61458",
       "nazwisko_imie": "ŁYSAKOWSKI Kamil",
       "tytul_kategoria": "I",
@@ -4008,7 +4017,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "446",
+      "id": "447",
       "id_pzszach": "5356",
       "nazwisko_imie": "MUCHA Jozef",
       "tytul_kategoria": "I",
@@ -4017,7 +4026,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "447",
+      "id": "448",
       "id_pzszach": "16705",
       "nazwisko_imie": "STEBEL Agata",
       "tytul_kategoria": "K",
@@ -4026,7 +4035,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "448",
+      "id": "449",
       "id_pzszach": "19962",
       "nazwisko_imie": "NIEDBAŁA Rafał",
       "tytul_kategoria": "II+",
@@ -4035,7 +4044,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "449",
+      "id": "450",
       "id_pzszach": "5803",
       "nazwisko_imie": "KIEŚ Mariusz",
       "tytul_kategoria": "CM",
@@ -4044,7 +4053,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "450",
+      "id": "451",
       "id_pzszach": "5957",
       "nazwisko_imie": "NIGIEL Piotr",
       "tytul_kategoria": "I",
@@ -4053,7 +4062,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "451",
+      "id": "452",
       "id_pzszach": "9917",
       "nazwisko_imie": "LATOCHA Aleksander",
       "tytul_kategoria": "I",
@@ -4062,7 +4071,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "452",
+      "id": "453",
       "id_pzszach": "18986",
       "nazwisko_imie": "KOSMALA Mateusz",
       "tytul_kategoria": "I+",
@@ -4071,7 +4080,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "453",
+      "id": "454",
       "id_pzszach": "16218",
       "nazwisko_imie": "KARCZ Bartłomiej",
       "tytul_kategoria": "I",
@@ -4080,7 +4089,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "454",
+      "id": "455",
       "id_pzszach": "5755",
       "nazwisko_imie": "SĘKTAS Elżbieta",
       "tytul_kategoria": "K",
@@ -4089,7 +4098,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "455",
+      "id": "456",
       "id_pzszach": "5415",
       "nazwisko_imie": "WIĘCEK Paweł",
       "tytul_kategoria": "K",
@@ -4098,7 +4107,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "456",
+      "id": "457",
       "id_pzszach": "6075",
       "nazwisko_imie": "SKRZYCZEK Bartłomiej",
       "tytul_kategoria": "I",
@@ -4107,7 +4116,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "457",
+      "id": "458",
       "id_pzszach": "5826",
       "nazwisko_imie": "KORNASIEWICZ Stanisław",
       "tytul_kategoria": "FM",
@@ -4116,7 +4125,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "458",
+      "id": "459",
       "id_pzszach": "6103",
       "nazwisko_imie": "STASZCZYK Waldemar",
       "tytul_kategoria": "I",
@@ -4125,7 +4134,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "459",
+      "id": "460",
       "id_pzszach": "5121",
       "nazwisko_imie": "SKWARCZYŃSKI Marcin",
       "tytul_kategoria": "I",
@@ -4134,7 +4143,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "460",
+      "id": "461",
       "id_pzszach": "5159",
       "nazwisko_imie": "DUBIEL Łukasz",
       "tytul_kategoria": "I",
@@ -4143,7 +4152,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "461",
+      "id": "462",
       "id_pzszach": "5976",
       "nazwisko_imie": "OLCHOWY Tadeusz",
       "tytul_kategoria": "K",
@@ -4152,7 +4161,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "462",
+      "id": "463",
       "id_pzszach": "43117",
       "nazwisko_imie": "PISAREK Jan",
       "tytul_kategoria": "I++",
@@ -4161,7 +4170,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "463",
+      "id": "464",
       "id_pzszach": "46600",
       "nazwisko_imie": "KOŁOCZEK Maciej",
       "tytul_kategoria": "I++",
@@ -4170,7 +4179,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "464",
+      "id": "465",
       "id_pzszach": "5294",
       "nazwisko_imie": "HARAT Artur",
       "tytul_kategoria": "II+",
@@ -4179,7 +4188,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "465",
+      "id": "466",
       "id_pzszach": "5348",
       "nazwisko_imie": "FOLTYN Łukasz",
       "tytul_kategoria": "I++",
@@ -4188,7 +4197,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "466",
+      "id": "467",
       "id_pzszach": "5862",
       "nazwisko_imie": "STOMA Katarzyna",
       "tytul_kategoria": "K",
@@ -4197,7 +4206,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "467",
+      "id": "468",
       "id_pzszach": "8029",
       "nazwisko_imie": "WOŹNIAK Dawid",
       "tytul_kategoria": "I",
@@ -4206,7 +4215,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "468",
+      "id": "469",
       "id_pzszach": "57475",
       "nazwisko_imie": "KANIA Dominik",
       "tytul_kategoria": "I",
@@ -4215,7 +4224,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "469",
+      "id": "470",
       "id_pzszach": "5483",
       "nazwisko_imie": "KOŁODZIEJ Szymon",
       "tytul_kategoria": "I",
@@ -4224,7 +4233,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "470",
+      "id": "471",
       "id_pzszach": "5879",
       "nazwisko_imie": "LACH Krzysztof",
       "tytul_kategoria": "I+",
@@ -4233,7 +4242,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "471",
+      "id": "472",
       "id_pzszach": "95296",
       "nazwisko_imie": "CZEREMCHA Piotr",
       "tytul_kategoria": "I+",
@@ -4242,7 +4251,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "472",
+      "id": "473",
       "id_pzszach": "6975",
       "nazwisko_imie": "GRABARA Krzysztof",
       "tytul_kategoria": "I",
@@ -4251,7 +4260,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "473",
+      "id": "474",
       "id_pzszach": "22040",
       "nazwisko_imie": "ANDRAE Dirk",
       "tytul_kategoria": "I",
@@ -4260,7 +4269,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "474",
+      "id": "475",
       "id_pzszach": "59070",
       "nazwisko_imie": "HERWY Jakub",
       "tytul_kategoria": "I++",
@@ -4269,21 +4278,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "475",
+      "id": "476",
       "id_pzszach": "67858",
       "nazwisko_imie": "CHMIEL Paweł",
       "tytul_kategoria": "I",
       "rank_fide": "1954",
       "klub": "TG Mat",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "476",
-      "id_pzszach": "75276",
-      "nazwisko_imie": "WESOŁOWSKI Jeremi",
-      "tytul_kategoria": "I",
-      "rank_fide": "1954",
-      "klub": "Wytworzymy (Forteca) Czeladź",
       "wojewodztwo_zwiazek": "SL"
     },
     {

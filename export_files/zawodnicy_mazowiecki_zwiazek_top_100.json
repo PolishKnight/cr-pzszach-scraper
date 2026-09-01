@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:35.304Z",
+  "createdAt": "2026-09-01T07:06:06.583Z",
   "totalRecords": 100,
   "data": [
     {
@@ -814,15 +814,6 @@
     },
     {
       "id": "91",
-      "id_pzszach": "64896",
-      "nazwisko_imie": "ZDYBEL Przemysław",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2220",
-      "klub": "UKS CZTERNASTKA Warszawa",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "92",
       "id_pzszach": "2657",
       "nazwisko_imie": "GAWLIŃSKI Michał",
       "tytul_kategoria": "K",
@@ -831,7 +822,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "93",
+      "id": "92",
       "id_pzszach": "2768",
       "nazwisko_imie": "KRAUZE Dariusz",
       "tytul_kategoria": "K",
@@ -840,7 +831,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "94",
+      "id": "93",
       "id_pzszach": "3030",
       "nazwisko_imie": "ZAKRZEWSKI Marcin",
       "tytul_kategoria": "I+",
@@ -849,7 +840,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "95",
+      "id": "94",
       "id_pzszach": "3191",
       "nazwisko_imie": "DUMAŃSKI Aleksander",
       "tytul_kategoria": "K",
@@ -858,7 +849,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "25375",
       "nazwisko_imie": "WINIARSKI Mikołaj",
       "tytul_kategoria": "FM",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "2995",
       "nazwisko_imie": "SZYMAŃSKI Andrzej",
       "tytul_kategoria": "CM",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "138199",
       "nazwisko_imie": "SILICH Yahor",
       "tytul_kategoria": "FM",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "2621",
       "nazwisko_imie": "DESZCZYŃSKI Adam",
       "tytul_kategoria": "M",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "107458",
       "nazwisko_imie": "FUKS Serhij",
       "tytul_kategoria": "CM",
       "rank_fide": "2210",
       "klub": "",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "2889",
+      "nazwisko_imie": "PAZDERSKI Ziemowit",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2209",
+      "klub": "UKS TSz Zieloni Zielonka",
       "wojewodztwo_zwiazek": "MA"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-08-31T07:59:47.405Z",
+  "createdAt": "2026-09-01T07:06:17.669Z",
   "totalRecords": 500,
   "data": [
     {
@@ -112,15 +112,6 @@
     },
     {
       "id": "13",
-      "id_pzszach": "82988",
-      "nazwisko_imie": "ZARĘBA Piotr",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2197",
-      "klub": "KSz Gryf Szczecin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "14",
       "id_pzszach": "7543",
       "nazwisko_imie": "WASILEWSKI Paweł",
       "tytul_kategoria": "I++",
@@ -129,7 +120,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "15",
+      "id": "14",
       "id_pzszach": "7347",
       "nazwisko_imie": "TOKARCZYK Tomasz",
       "tytul_kategoria": "K",
@@ -138,7 +129,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "16",
+      "id": "15",
       "id_pzszach": "7485",
       "nazwisko_imie": "MAJ Andrzej",
       "tytul_kategoria": "K",
@@ -147,7 +138,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "17",
+      "id": "16",
       "id_pzszach": "7539",
       "nazwisko_imie": "TOFIL Borys",
       "tytul_kategoria": "CM",
@@ -156,7 +147,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "18",
+      "id": "17",
       "id_pzszach": "60164",
       "nazwisko_imie": "HURY Tymoteusz",
       "tytul_kategoria": "CM",
@@ -165,7 +156,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "19",
+      "id": "18",
       "id_pzszach": "7401",
       "nazwisko_imie": "JACEK Krystian",
       "tytul_kategoria": "K",
@@ -174,7 +165,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "20",
+      "id": "19",
       "id_pzszach": "7505",
       "nazwisko_imie": "OKOŃ Dariusz",
       "tytul_kategoria": "K",
@@ -183,7 +174,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "21",
+      "id": "20",
       "id_pzszach": "7523",
       "nazwisko_imie": "RUDNICKI Miłosz",
       "tytul_kategoria": "CM",
@@ -192,7 +183,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "22",
+      "id": "21",
       "id_pzszach": "41046",
       "nazwisko_imie": "GRZESIK Gracjan",
       "tytul_kategoria": "CM",
@@ -201,7 +192,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "23",
+      "id": "22",
       "id_pzszach": "7322",
       "nazwisko_imie": "MASŁOWSKI Jakub",
       "tytul_kategoria": "CM",
@@ -210,12 +201,21 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "24",
+      "id": "23",
       "id_pzszach": "7472",
       "nazwisko_imie": "KOSTYRA Mariusz",
       "tytul_kategoria": "K",
       "rank_fide": "2158",
       "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "82988",
+      "nazwisko_imie": "ZARĘBA Piotr",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2147",
+      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
@@ -232,7 +232,7 @@
       "id_pzszach": "100097",
       "nazwisko_imie": "WITES Adam",
       "tytul_kategoria": "I+",
-      "rank_fide": "2137",
+      "rank_fide": "2136",
       "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     },
@@ -616,20 +616,20 @@
     },
     {
       "id": "69",
+      "id_pzszach": "1269",
+      "nazwisko_imie": "WODNICZAK Arkadiusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1992",
+      "klub": "Myśliborski Klub Szachowy",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "70",
       "id_pzszach": "7478",
       "nazwisko_imie": "KUBECZKO Grzegorz",
       "tytul_kategoria": "I+",
       "rank_fide": "1992",
       "klub": "",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "70",
-      "id_pzszach": "1269",
-      "nazwisko_imie": "WODNICZAK Arkadiusz",
-      "tytul_kategoria": "I",
-      "rank_fide": "1988",
-      "klub": "Myśliborski Klub Szachowy",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
@@ -1228,15 +1228,6 @@
     },
     {
       "id": "137",
-      "id_pzszach": "52492",
-      "nazwisko_imie": "ZARZECKI Dymitr Stanisław",
-      "tytul_kategoria": "I",
-      "rank_fide": "1847",
-      "klub": "HUSARIA",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "138",
       "id_pzszach": "72029",
       "nazwisko_imie": "SOSZKA Szymon",
       "tytul_kategoria": "I",
@@ -1245,7 +1236,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "139",
+      "id": "138",
       "id_pzszach": "106393",
       "nazwisko_imie": "KRUK Marcin",
       "tytul_kategoria": "II",
@@ -1254,7 +1245,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "140",
+      "id": "139",
       "id_pzszach": "137046",
       "nazwisko_imie": "KOVAL Andrii",
       "tytul_kategoria": "I",
@@ -1263,7 +1254,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "141",
+      "id": "140",
       "id_pzszach": "114164",
       "nazwisko_imie": "BISKUP Jakub",
       "tytul_kategoria": "II+",
@@ -1272,7 +1263,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "142",
+      "id": "141",
       "id_pzszach": "54197",
       "nazwisko_imie": "SZYMAŃSKI Karol",
       "tytul_kategoria": "I",
@@ -1281,7 +1272,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "143",
+      "id": "142",
       "id_pzszach": "7328",
       "nazwisko_imie": "TUSZKIEWICZ Jakub",
       "tytul_kategoria": "II",
@@ -1290,7 +1281,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "144",
+      "id": "143",
       "id_pzszach": "56138",
       "nazwisko_imie": "AŁKOWSKI Paweł",
       "tytul_kategoria": "II",
@@ -1299,7 +1290,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "145",
+      "id": "144",
       "id_pzszach": "80757",
       "nazwisko_imie": "PAWLICZ Dariusz",
       "tytul_kategoria": "I+",
@@ -1308,7 +1299,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "146",
+      "id": "145",
       "id_pzszach": "47210",
       "nazwisko_imie": "GREGORZ Jan",
       "tytul_kategoria": "I",
@@ -1317,16 +1308,16 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "147",
-      "id_pzszach": "57928",
-      "nazwisko_imie": "ZAPOROWSKI Tomasz",
+      "id": "146",
+      "id_pzszach": "52492",
+      "nazwisko_imie": "ZARZECKI Dymitr Stanisław",
       "tytul_kategoria": "I",
-      "rank_fide": "1828",
-      "klub": "KSz Gryf Szczecin",
+      "rank_fide": "1830",
+      "klub": "HUSARIA",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "148",
+      "id": "147",
       "id_pzszach": "45506",
       "nazwisko_imie": "STAROSTA Michał",
       "tytul_kategoria": "II",
@@ -1335,7 +1326,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "149",
+      "id": "148",
       "id_pzszach": "7488",
       "nazwisko_imie": "MALISZEWSKI Jacek",
       "tytul_kategoria": "I",
@@ -1344,7 +1335,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "150",
+      "id": "149",
       "id_pzszach": "21524",
       "nazwisko_imie": "KWAŚNIAK Kacper",
       "tytul_kategoria": "II+",
@@ -1353,7 +1344,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "151",
+      "id": "150",
       "id_pzszach": "21522",
       "nazwisko_imie": "CZERSKI Jakub",
       "tytul_kategoria": "II",
@@ -1362,7 +1353,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "152",
+      "id": "151",
       "id_pzszach": "48285",
       "nazwisko_imie": "ŁUKJAN Eryk",
       "tytul_kategoria": "I",
@@ -1371,7 +1362,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "153",
+      "id": "152",
       "id_pzszach": "78587",
       "nazwisko_imie": "RENCZYŃSKI Marcel",
       "tytul_kategoria": "I",
@@ -1380,7 +1371,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "154",
+      "id": "153",
       "id_pzszach": "39539",
       "nazwisko_imie": "BIEŃKO Jagoda",
       "tytul_kategoria": "I+",
@@ -1389,12 +1380,21 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "155",
+      "id": "154",
       "id_pzszach": "7936",
       "nazwisko_imie": "ROGALSKI Piotr",
       "tytul_kategoria": "II",
       "rank_fide": "1818",
       "klub": "HUSARIA",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "155",
+      "id_pzszach": "57928",
+      "nazwisko_imie": "ZAPOROWSKI Tomasz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1811",
+      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
@@ -1984,15 +1984,6 @@
     },
     {
       "id": "221",
-      "id_pzszach": "123755",
-      "nazwisko_imie": "ZIELSKI Franciszek",
-      "tytul_kategoria": "II",
-      "rank_fide": "1706",
-      "klub": "KSz Gryf Szczecin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "222",
       "id_pzszach": "7432",
       "nazwisko_imie": "CZAPLEWSKI Bronisław",
       "tytul_kategoria": "II",
@@ -2001,7 +1992,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "223",
+      "id": "222",
       "id_pzszach": "7832",
       "nazwisko_imie": "ŁASZEWSKI Kazimierz",
       "tytul_kategoria": "II+",
@@ -2010,7 +2001,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "224",
+      "id": "223",
       "id_pzszach": "60163",
       "nazwisko_imie": "KALITA Kamil",
       "tytul_kategoria": "II",
@@ -2019,7 +2010,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "225",
+      "id": "224",
       "id_pzszach": "17181",
       "nazwisko_imie": "KANAREK Marian",
       "tytul_kategoria": "II",
@@ -2028,7 +2019,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "226",
+      "id": "225",
       "id_pzszach": "77576",
       "nazwisko_imie": "BURY Maksymilian",
       "tytul_kategoria": "II",
@@ -2037,7 +2028,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "227",
+      "id": "226",
       "id_pzszach": "97590",
       "nazwisko_imie": "BRAUCKHOFF Mateusz",
       "tytul_kategoria": "II",
@@ -2046,7 +2037,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "228",
+      "id": "227",
       "id_pzszach": "65475",
       "nazwisko_imie": "KUCHARSKI Tadeusz",
       "tytul_kategoria": "I",
@@ -2055,7 +2046,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "229",
+      "id": "228",
       "id_pzszach": "29948",
       "nazwisko_imie": "SZCZEPANIAK Łukasz",
       "tytul_kategoria": "II",
@@ -2064,7 +2055,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "230",
+      "id": "229",
       "id_pzszach": "57457",
       "nazwisko_imie": "GUZEK Cyprian",
       "tytul_kategoria": "II",
@@ -2073,7 +2064,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "231",
+      "id": "230",
       "id_pzszach": "29952",
       "nazwisko_imie": "KOWALCZYK Michał",
       "tytul_kategoria": "II",
@@ -2082,7 +2073,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "232",
+      "id": "231",
       "id_pzszach": "135440",
       "nazwisko_imie": "KLUBA Mateusz",
       "tytul_kategoria": "III",
@@ -2091,7 +2082,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "233",
+      "id": "232",
       "id_pzszach": "21338",
       "nazwisko_imie": "WŁODARCZYK Dawid",
       "tytul_kategoria": "II",
@@ -2100,7 +2091,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "234",
+      "id": "233",
       "id_pzszach": "103384",
       "nazwisko_imie": "DUDA Miłosz",
       "tytul_kategoria": "II",
@@ -2109,7 +2100,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "235",
+      "id": "234",
       "id_pzszach": "122536",
       "nazwisko_imie": "ZAPALSKI Franciszek",
       "tytul_kategoria": "II",
@@ -2118,7 +2109,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "236",
+      "id": "235",
       "id_pzszach": "17571",
       "nazwisko_imie": "BYLICA Radosław",
       "tytul_kategoria": "III",
@@ -2127,7 +2118,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "237",
+      "id": "236",
       "id_pzszach": "85876",
       "nazwisko_imie": "MOTYL Piotr",
       "tytul_kategoria": "II",
@@ -2136,7 +2127,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "238",
+      "id": "237",
       "id_pzszach": "102719",
       "nazwisko_imie": "PŁOMIŃSKI Konrad",
       "tytul_kategoria": "II",
@@ -2145,7 +2136,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "239",
+      "id": "238",
       "id_pzszach": "116184",
       "nazwisko_imie": "CZYŻ Andrzej",
       "tytul_kategoria": "II",
@@ -2154,7 +2145,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "240",
+      "id": "239",
       "id_pzszach": "7421",
       "nazwisko_imie": "BIERŁA Sławomir",
       "tytul_kategoria": "I",
@@ -2163,7 +2154,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "241",
+      "id": "240",
       "id_pzszach": "21302",
       "nazwisko_imie": "KWOCZ Wojciech",
       "tytul_kategoria": "II",
@@ -2172,7 +2163,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "242",
+      "id": "241",
       "id_pzszach": "8014",
       "nazwisko_imie": "WIRKUS Jaroslaw",
       "tytul_kategoria": "II",
@@ -2181,7 +2172,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "243",
+      "id": "242",
       "id_pzszach": "136397",
       "nazwisko_imie": "GAN Jakub",
       "tytul_kategoria": "II+",
@@ -2190,7 +2181,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "244",
+      "id": "243",
       "id_pzszach": "125314",
       "nazwisko_imie": "RÓŻYCKI Michał",
       "tytul_kategoria": "II",
@@ -2199,7 +2190,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "245",
+      "id": "244",
       "id_pzszach": "103104",
       "nazwisko_imie": "WOŁOSIAK Emil",
       "tytul_kategoria": "II",
@@ -2208,7 +2199,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "246",
+      "id": "245",
       "id_pzszach": "21527",
       "nazwisko_imie": "NIŻYŃSKI Andrzej",
       "tytul_kategoria": "II",
@@ -2217,7 +2208,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "247",
+      "id": "246",
       "id_pzszach": "48723",
       "nazwisko_imie": "ANDRZEJEWSKI Jakub",
       "tytul_kategoria": "III",
@@ -2226,7 +2217,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "248",
+      "id": "247",
       "id_pzszach": "27675",
       "nazwisko_imie": "JASKULSKI Przemysław",
       "tytul_kategoria": "III",
@@ -2235,7 +2226,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "249",
+      "id": "248",
       "id_pzszach": "39767",
       "nazwisko_imie": "SKARBOWSKI Dawid",
       "tytul_kategoria": "II",
@@ -2244,7 +2235,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "250",
+      "id": "249",
       "id_pzszach": "31356",
       "nazwisko_imie": "ĆWIRKO MATEUSZ",
       "tytul_kategoria": "II",
@@ -2253,7 +2244,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "251",
+      "id": "250",
       "id_pzszach": "100318",
       "nazwisko_imie": "PETRYK Pavlo",
       "tytul_kategoria": "II",
@@ -2262,7 +2253,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "252",
+      "id": "251",
       "id_pzszach": "135414",
       "nazwisko_imie": "OKHRIMENKO Hlib",
       "tytul_kategoria": "II",
@@ -2271,7 +2262,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "253",
+      "id": "252",
       "id_pzszach": "69282",
       "nazwisko_imie": "WIERNICKI Emil",
       "tytul_kategoria": "II",
@@ -2280,12 +2271,21 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "254",
+      "id": "253",
       "id_pzszach": "110691",
       "nazwisko_imie": "Wysocki Sebastian",
       "tytul_kategoria": "II",
       "rank_fide": "1660",
       "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "254",
+      "id_pzszach": "123755",
+      "nazwisko_imie": "ZIELSKI Franciszek",
+      "tytul_kategoria": "II",
+      "rank_fide": "1658",
+      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
@@ -3091,15 +3091,6 @@
     },
     {
       "id": "344",
-      "id_pzszach": "147385",
-      "nazwisko_imie": "ŻMIJEWSKI Wiktor",
-      "tytul_kategoria": "III",
-      "rank_fide": "1573",
-      "klub": "KSz Gryf Szczecin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "345",
       "id_pzszach": "104199",
       "nazwisko_imie": "PIETRUSZKA Michał",
       "tytul_kategoria": "III",
@@ -3108,7 +3099,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "346",
+      "id": "345",
       "id_pzszach": "135452",
       "nazwisko_imie": "ADRYCH Patryk",
       "tytul_kategoria": "III",
@@ -3117,7 +3108,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "347",
+      "id": "346",
       "id_pzszach": "7540",
       "nazwisko_imie": "TURCZYNSKI Marian",
       "tytul_kategoria": "I",
@@ -3126,7 +3117,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "348",
+      "id": "347",
       "id_pzszach": "60166",
       "nazwisko_imie": "HAMKAŁO Paweł",
       "tytul_kategoria": "II",
@@ -3135,12 +3126,21 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "349",
+      "id": "348",
       "id_pzszach": "53319",
       "nazwisko_imie": "KUCZYŃSKI Michał",
       "tytul_kategoria": "II",
       "rank_fide": "1569",
       "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "349",
+      "id_pzszach": "98957",
+      "nazwisko_imie": "WIERCIAK Szymon",
+      "tytul_kategoria": "III",
+      "rank_fide": "1568",
+      "klub": "UKS Ognisko Pracy Pozaszkolnej Kołobrzeg",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
@@ -3154,6 +3154,15 @@
     },
     {
       "id": "351",
+      "id_pzszach": "147385",
+      "nazwisko_imie": "ŻMIJEWSKI Wiktor",
+      "tytul_kategoria": "III",
+      "rank_fide": "1568",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "352",
       "id_pzszach": "53317",
       "nazwisko_imie": "DRZEWIECKI Miłosz",
       "tytul_kategoria": "II",
@@ -3162,7 +3171,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "352",
+      "id": "353",
       "id_pzszach": "149609",
       "nazwisko_imie": "PIETRZAK Waldemar",
       "tytul_kategoria": "III",
@@ -3171,7 +3180,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "353",
+      "id": "354",
       "id_pzszach": "28237",
       "nazwisko_imie": "ŻUKOWSKA Aleksandra",
       "tytul_kategoria": "II",
@@ -3180,7 +3189,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "354",
+      "id": "355",
       "id_pzszach": "115668",
       "nazwisko_imie": "NIECZYSTY Jakub",
       "tytul_kategoria": "II",
@@ -3189,7 +3198,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "355",
+      "id": "356",
       "id_pzszach": "108704",
       "nazwisko_imie": "JONIEC Jan",
       "tytul_kategoria": "III",
@@ -3198,7 +3207,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "356",
+      "id": "357",
       "id_pzszach": "51006",
       "nazwisko_imie": "MACIEJEWSKI Marek",
       "tytul_kategoria": "II",
@@ -3207,7 +3216,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "357",
+      "id": "358",
       "id_pzszach": "58568",
       "nazwisko_imie": "SĘKTAS Andrzej",
       "tytul_kategoria": "III",
@@ -3216,7 +3225,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "358",
+      "id": "359",
       "id_pzszach": "111176",
       "nazwisko_imie": "SZOMAŃSKA Karolina",
       "tytul_kategoria": "II",
@@ -3225,7 +3234,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "359",
+      "id": "360",
       "id_pzszach": "137970",
       "nazwisko_imie": "PAWEŁCZYK Krzysztof",
       "tytul_kategoria": "III",
@@ -3234,7 +3243,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "360",
+      "id": "361",
       "id_pzszach": "41029",
       "nazwisko_imie": "NOWICKA Julia",
       "tytul_kategoria": "I",
@@ -3243,7 +3252,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "361",
+      "id": "362",
       "id_pzszach": "104413",
       "nazwisko_imie": "KOZŁOWSKI Dariusz",
       "tytul_kategoria": "III",
@@ -3252,7 +3261,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "362",
+      "id": "363",
       "id_pzszach": "83609",
       "nazwisko_imie": "KĘDZIERSKI Krzysztof",
       "tytul_kategoria": "",
@@ -3261,7 +3270,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "363",
+      "id": "364",
       "id_pzszach": "122711",
       "nazwisko_imie": "KLYM Witold",
       "tytul_kategoria": "III",
@@ -3270,7 +3279,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "364",
+      "id": "365",
       "id_pzszach": "77941",
       "nazwisko_imie": "SZCZYGIELSKI Adam",
       "tytul_kategoria": "II",
@@ -3279,7 +3288,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "365",
+      "id": "366",
       "id_pzszach": "108888",
       "nazwisko_imie": "MIGACZ Tomasz",
       "tytul_kategoria": "IV",
@@ -3288,7 +3297,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "366",
+      "id": "367",
       "id_pzszach": "103256",
       "nazwisko_imie": "TYRAKOWSKI Paweł",
       "tytul_kategoria": "II",
@@ -3297,7 +3306,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "367",
+      "id": "368",
       "id_pzszach": "21336",
       "nazwisko_imie": "STOŁECKA Greta",
       "tytul_kategoria": "II",
@@ -3306,7 +3315,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "368",
+      "id": "369",
       "id_pzszach": "24263",
       "nazwisko_imie": "KIŁYK Bohdan",
       "tytul_kategoria": "II",
@@ -3315,21 +3324,12 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "369",
+      "id": "370",
       "id_pzszach": "59270",
       "nazwisko_imie": "SUMIŃSKI Maksymilian",
       "tytul_kategoria": "II",
       "rank_fide": "1540",
       "klub": "",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "370",
-      "id_pzszach": "98957",
-      "nazwisko_imie": "WIERCIAK Szymon",
-      "tytul_kategoria": "III",
-      "rank_fide": "1540",
-      "klub": "UKS Ognisko Pracy Pozaszkolnej Kołobrzeg",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
@@ -4216,6 +4216,15 @@
     },
     {
       "id": "469",
+      "id_pzszach": "56456",
+      "nazwisko_imie": "ZEISSEL Alicja",
+      "tytul_kategoria": "II",
+      "rank_fide": "1459",
+      "klub": "KSz Gryf Szczecin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "470",
       "id_pzszach": "83068",
       "nazwisko_imie": "ZARĘBA Michał",
       "tytul_kategoria": "III",
@@ -4224,7 +4233,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "470",
+      "id": "471",
       "id_pzszach": "89576",
       "nazwisko_imie": "RAGAN Zofia",
       "tytul_kategoria": "II",
@@ -4233,7 +4242,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "471",
+      "id": "472",
       "id_pzszach": "62777",
       "nazwisko_imie": "BAŁDYGA Jakub",
       "tytul_kategoria": "III",
@@ -4242,7 +4251,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "472",
+      "id": "473",
       "id_pzszach": "122413",
       "nazwisko_imie": "GRUSZKA Jan",
       "tytul_kategoria": "III",
@@ -4251,7 +4260,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "473",
+      "id": "474",
       "id_pzszach": "135099",
       "nazwisko_imie": "BICZYSKO Stanisław",
       "tytul_kategoria": "IV",
@@ -4260,7 +4269,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "474",
+      "id": "475",
       "id_pzszach": "103309",
       "nazwisko_imie": "SMOLUCHOWSKI Kamil",
       "tytul_kategoria": "III",
@@ -4269,7 +4278,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "475",
+      "id": "476",
       "id_pzszach": "48724",
       "nazwisko_imie": "TARANKIEWICZ Weronika",
       "tytul_kategoria": "II",
@@ -4278,7 +4287,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "476",
+      "id": "477",
       "id_pzszach": "132834",
       "nazwisko_imie": "JELEŃSKI Zbigniew",
       "tytul_kategoria": "II",
@@ -4287,7 +4296,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "477",
+      "id": "478",
       "id_pzszach": "64431",
       "nazwisko_imie": "KOWALIK Wojciech",
       "tytul_kategoria": "II",
@@ -4296,7 +4305,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "478",
+      "id": "479",
       "id_pzszach": "52449",
       "nazwisko_imie": "RADTKE Oliwier",
       "tytul_kategoria": "III",
@@ -4305,7 +4314,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "479",
+      "id": "480",
       "id_pzszach": "42816",
       "nazwisko_imie": "MODZELIK-KŁODA Michał",
       "tytul_kategoria": "III",
@@ -4314,7 +4323,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "480",
+      "id": "481",
       "id_pzszach": "101047",
       "nazwisko_imie": "FURS Tymon",
       "tytul_kategoria": "III",
@@ -4323,7 +4332,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "481",
+      "id": "482",
       "id_pzszach": "137407",
       "nazwisko_imie": "REDLAK Beniamin",
       "tytul_kategoria": "IV",
@@ -4332,7 +4341,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "482",
+      "id": "483",
       "id_pzszach": "95937",
       "nazwisko_imie": "SMAGAŁA Oliwia",
       "tytul_kategoria": "II",
@@ -4341,7 +4350,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "483",
+      "id": "484",
       "id_pzszach": "109662",
       "nazwisko_imie": "RÓŻAŃSKI Dominik",
       "tytul_kategoria": "III",
@@ -4350,7 +4359,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "484",
+      "id": "485",
       "id_pzszach": "95916",
       "nazwisko_imie": "ŚNIATAŁA Paweł",
       "tytul_kategoria": "III",
@@ -4359,7 +4368,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "485",
+      "id": "486",
       "id_pzszach": "7522",
       "nazwisko_imie": "ROSZAK Andrzej",
       "tytul_kategoria": "I",
@@ -4368,7 +4377,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "486",
+      "id": "487",
       "id_pzszach": "68506",
       "nazwisko_imie": "WITTYCH Julia",
       "tytul_kategoria": "I",
@@ -4377,7 +4386,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "487",
+      "id": "488",
       "id_pzszach": "153671",
       "nazwisko_imie": "POLENDER Marek",
       "tytul_kategoria": "III",
@@ -4386,7 +4395,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "488",
+      "id": "489",
       "id_pzszach": "89169",
       "nazwisko_imie": "OSTROWSKI Marcin",
       "tytul_kategoria": "III",
@@ -4395,7 +4404,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "489",
+      "id": "490",
       "id_pzszach": "120199",
       "nazwisko_imie": "ANDRZEJCZAK Kuba",
       "tytul_kategoria": "III",
@@ -4404,7 +4413,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "490",
+      "id": "491",
       "id_pzszach": "138547",
       "nazwisko_imie": "BRZOZOWSKI Igor",
       "tytul_kategoria": "IV",
@@ -4413,7 +4422,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "491",
+      "id": "492",
       "id_pzszach": "95935",
       "nazwisko_imie": "PIETRASZEWSKI Jakub",
       "tytul_kategoria": "III",
@@ -4422,7 +4431,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "492",
+      "id": "493",
       "id_pzszach": "82515",
       "nazwisko_imie": "PAWLICZ Zuzanna",
       "tytul_kategoria": "II",
@@ -4431,7 +4440,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "493",
+      "id": "494",
       "id_pzszach": "98672",
       "nazwisko_imie": "WOŁOSIUK Jerzy",
       "tytul_kategoria": "III",
@@ -4440,7 +4449,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "494",
+      "id": "495",
       "id_pzszach": "97685",
       "nazwisko_imie": "PIERZCHLIŃSKA Wiesława",
       "tytul_kategoria": "III",
@@ -4449,7 +4458,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "495",
+      "id": "496",
       "id_pzszach": "96376",
       "nazwisko_imie": "DOMAGALSKI Nikodem",
       "tytul_kategoria": "III",
@@ -4458,21 +4467,12 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "496",
+      "id": "497",
       "id_pzszach": "95289",
       "nazwisko_imie": "MICHALSKI Adrian",
       "tytul_kategoria": "III",
       "rank_fide": "1420",
       "klub": "Myśliborski Klub Szachowy",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "497",
-      "id_pzszach": "56456",
-      "nazwisko_imie": "ZEISSEL Alicja",
-      "tytul_kategoria": "II",
-      "rank_fide": "1419",
-      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
