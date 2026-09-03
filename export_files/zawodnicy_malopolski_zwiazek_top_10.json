@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:07.889Z",
+  "createdAt": "2026-09-03T06:45:47.172Z",
   "totalRecords": 10,
   "data": [
     {
@@ -67,15 +67,6 @@
     },
     {
       "id": "8",
-      "id_pzszach": "33591",
-      "nazwisko_imie": "SUDER Jakub",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2395",
-      "klub": "MAT Myślenice",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "9",
       "id_pzszach": "90310",
       "nazwisko_imie": "Osmak Iulija",
       "tytul_kategoria": "WGM",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
+      "id": "9",
+      "id_pzszach": "33591",
+      "nazwisko_imie": "SUDER Jakub",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2376",
+      "klub": "MAT Myślenice",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
       "id": "10",
-      "id_pzszach": "683",
-      "nazwisko_imie": "STOPA Jacek",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2359",
-      "klub": "KS KINGSOFCHESS Kraków",
+      "id_pzszach": "104677",
+      "nazwisko_imie": "SUSHCHOV Oleksandr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2339",
+      "klub": "Ognisko TKKF w Dobczycach",
       "wojewodztwo_zwiazek": "MP"
     }
   ]

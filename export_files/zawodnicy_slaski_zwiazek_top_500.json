@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:13.958Z",
+  "createdAt": "2026-09-03T06:45:53.670Z",
   "totalRecords": 500,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
-      "rank_fide": "2619",
+      "rank_fide": "2606",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -16,7 +16,7 @@
       "id_pzszach": "21423",
       "nazwisko_imie": "FEDORCHUK Sergey A",
       "tytul_kategoria": "GM",
-      "rank_fide": "2599",
+      "rank_fide": "2596",
       "klub": "MCKiS Jaworzno",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -67,20 +67,20 @@
     },
     {
       "id": "8",
-      "id_pzszach": "65730",
-      "nazwisko_imie": "SEEMANN Jakub",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2543",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "9",
       "id_pzszach": "4396",
       "nazwisko_imie": "WARAKOMSKI Tomasz",
       "tytul_kategoria": "GM",
       "rank_fide": "2541",
       "klub": "Akademia Szachowa Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "1778",
+      "nazwisko_imie": "PIORUN Kacper",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2532",
+      "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -94,24 +94,6 @@
     },
     {
       "id": "11",
-      "id_pzszach": "23650",
-      "nazwisko_imie": "SZPAR Miłosz",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2523",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "12",
-      "id_pzszach": "1778",
-      "nazwisko_imie": "PIORUN Kacper",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2519",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "13",
       "id_pzszach": "90395",
       "nazwisko_imie": "CVEK Robert",
       "tytul_kategoria": "GM",
@@ -120,20 +102,38 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
+      "id": "12",
+      "id_pzszach": "65730",
+      "nazwisko_imie": "SEEMANN Jakub",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2515",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "23650",
+      "nazwisko_imie": "SZPAR Miłosz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2507",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
       "id": "14",
-      "id_pzszach": "91671",
-      "nazwisko_imie": "CIEŚLAK Patryk",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2511",
+      "id_pzszach": "64249",
+      "nazwisko_imie": "KLIMKOWSKI Jan",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2501",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
       "id": "15",
-      "id_pzszach": "64249",
-      "nazwisko_imie": "KLIMKOWSKI Jan",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2500",
+      "id_pzszach": "91671",
+      "nazwisko_imie": "CIEŚLAK Patryk",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2498",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -193,15 +193,6 @@
     },
     {
       "id": "22",
-      "id_pzszach": "32002",
-      "nazwisko_imie": "BAUM Jonasz",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2470",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "23",
       "id_pzszach": "2608",
       "nazwisko_imie": "CZAKON Jakub",
       "tytul_kategoria": "IM",
@@ -210,7 +201,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "24",
+      "id": "23",
       "id_pzszach": "3317",
       "nazwisko_imie": "CZARNOTA Paweł",
       "tytul_kategoria": "GM",
@@ -219,11 +210,20 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
+      "id": "24",
+      "id_pzszach": "32002",
+      "nazwisko_imie": "BAUM Jonasz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2460",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
       "id": "25",
       "id_pzszach": "19849",
       "nazwisko_imie": "ROZENTALIS Eduardas",
       "tytul_kategoria": "GM",
-      "rank_fide": "2447",
+      "rank_fide": "2458",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -256,15 +256,6 @@
     },
     {
       "id": "29",
-      "id_pzszach": "4321",
-      "nazwisko_imie": "JAKUBOWSKI Krzysztof",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2424",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "30",
       "id_pzszach": "5563",
       "nazwisko_imie": "BANY Jerzy",
       "tytul_kategoria": "IM",
@@ -273,12 +264,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "31",
+      "id": "30",
       "id_pzszach": "5517",
       "nazwisko_imie": "PIESIK Piotr",
       "tytul_kategoria": "IM",
       "rank_fide": "2418",
       "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "4321",
+      "nazwisko_imie": "JAKUBOWSKI Krzysztof",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2417",
+      "klub": "KSz SILESIA Racibórz",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -310,6 +310,24 @@
     },
     {
       "id": "35",
+      "id_pzszach": "91335",
+      "nazwisko_imie": "BRZEZINA Piotr",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2403",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "46621",
+      "nazwisko_imie": "PÓŁTORAK Sebastian",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2402",
+      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "37",
       "id_pzszach": "8146",
       "nazwisko_imie": "ZEZULKIN Jurij",
       "tytul_kategoria": "GM",
@@ -318,16 +336,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "36",
-      "id_pzszach": "91335",
-      "nazwisko_imie": "BRZEZINA Piotr",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2398",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "37",
+      "id": "38",
       "id_pzszach": "7240",
       "nazwisko_imie": "SZELĄG Marcin",
       "tytul_kategoria": "IM",
@@ -336,21 +345,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "38",
+      "id": "39",
       "id_pzszach": "5091",
       "nazwisko_imie": "WANDZIK Wojciech",
       "tytul_kategoria": "M",
       "rank_fide": "2384",
       "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "39",
-      "id_pzszach": "46621",
-      "nazwisko_imie": "PÓŁTORAK Sebastian",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2383",
-      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -364,15 +364,6 @@
     },
     {
       "id": "41",
-      "id_pzszach": "26002",
-      "nazwisko_imie": "SANZ WAWER Daniel",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2377",
-      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "42",
       "id_pzszach": "2200",
       "nazwisko_imie": "PETRYK Henryk",
       "tytul_kategoria": "M",
@@ -381,16 +372,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "43",
-      "id_pzszach": "2967",
-      "nazwisko_imie": "SOĆKO Monika",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2365",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "44",
+      "id": "42",
       "id_pzszach": "17383",
       "nazwisko_imie": "CZERW Dawid",
       "tytul_kategoria": "IM",
@@ -399,7 +381,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "45",
+      "id": "43",
       "id_pzszach": "5943",
       "nazwisko_imie": "MOTYKA Michał",
       "tytul_kategoria": "FM",
@@ -408,7 +390,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "46",
+      "id": "44",
       "id_pzszach": "37359",
       "nazwisko_imie": "ŻYŁKA Stanisław",
       "tytul_kategoria": "IM",
@@ -417,7 +399,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "47",
+      "id": "45",
       "id_pzszach": "20274",
       "nazwisko_imie": "MOLENDA Marcin",
       "tytul_kategoria": "IM",
@@ -426,7 +408,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "48",
+      "id": "46",
+      "id_pzszach": "2967",
+      "nazwisko_imie": "SOĆKO Monika",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2350",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "47",
       "id_pzszach": "10564",
       "nazwisko_imie": "TOMASZEWSKI Kacper",
       "tytul_kategoria": "FM",
@@ -435,7 +426,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "49",
+      "id": "48",
       "id_pzszach": "6425",
       "nazwisko_imie": "KOLAGO Marcin",
       "tytul_kategoria": "M",
@@ -444,12 +435,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "50",
+      "id": "49",
       "id_pzszach": "5635",
       "nazwisko_imie": "DABEK Roman",
       "tytul_kategoria": "FM",
       "rank_fide": "2338",
       "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "26002",
+      "nazwisko_imie": "SANZ WAWER Daniel",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2335",
+      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -499,6 +499,15 @@
     },
     {
       "id": "56",
+      "id_pzszach": "6145",
+      "nazwisko_imie": "SZWED Jacek",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2319",
+      "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "57",
       "id_pzszach": "6127",
       "nazwisko_imie": "CYFKA Karina",
       "tytul_kategoria": "IM",
@@ -507,7 +516,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "57",
+      "id": "58",
       "id_pzszach": "5550",
       "nazwisko_imie": "ANTOŃCZYK Adam",
       "tytul_kategoria": "K",
@@ -516,7 +525,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "58",
+      "id": "59",
       "id_pzszach": "5908",
       "nazwisko_imie": "MARKIEWICZ Jacek",
       "tytul_kategoria": "FM",
@@ -525,7 +534,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "59",
+      "id": "60",
       "id_pzszach": "5793",
       "nazwisko_imie": "KAULA Roman",
       "tytul_kategoria": "FM",
@@ -534,7 +543,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "60",
+      "id": "61",
       "id_pzszach": "5195",
       "nazwisko_imie": "MROZIAK Maciej",
       "tytul_kategoria": "IM",
@@ -543,7 +552,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "61",
+      "id": "62",
       "id_pzszach": "5845",
       "nazwisko_imie": "KRUSZYŃSKI Włodzimierz",
       "tytul_kategoria": "IM",
@@ -552,7 +561,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "62",
+      "id": "63",
       "id_pzszach": "23596",
       "nazwisko_imie": "WALTER Szymon",
       "tytul_kategoria": "FM",
@@ -561,7 +570,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "63",
+      "id": "64",
       "id_pzszach": "5785",
       "nazwisko_imie": "KARPIK Tadeusz",
       "tytul_kategoria": "FM",
@@ -570,7 +579,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "64",
+      "id": "65",
       "id_pzszach": "6173",
       "nazwisko_imie": "WAŁACH Marcin",
       "tytul_kategoria": "FM",
@@ -579,25 +588,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "65",
-      "id_pzszach": "84117",
-      "nazwisko_imie": "ŁĘCKI Leonard",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2303",
-      "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
       "id": "66",
-      "id_pzszach": "6145",
-      "nazwisko_imie": "SZWED Jacek",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2301",
-      "klub": "MKSz Rybnik",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "67",
       "id_pzszach": "5840",
       "nazwisko_imie": "KRASOŃ Józef",
       "tytul_kategoria": "FM",
@@ -606,7 +597,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "68",
+      "id": "67",
       "id_pzszach": "2945",
       "nazwisko_imie": "SARWIŃSKI Mirosław",
       "tytul_kategoria": "IM",
@@ -615,7 +606,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "69",
+      "id": "68",
       "id_pzszach": "5918",
       "nazwisko_imie": "MATRAS-CLEMENT Agnieszka",
       "tytul_kategoria": "WIM",
@@ -624,16 +615,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "70",
-      "id_pzszach": "106808",
-      "nazwisko_imie": "ROSOL Philip",
+      "id": "69",
+      "id_pzszach": "63659",
+      "nazwisko_imie": "WARCHOŁ Kamil",
       "tytul_kategoria": "FM",
       "rank_fide": "2293",
       "klub": "UKS PIONIER Jastrzębie-Zdrój",
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "71",
+      "id": "70",
       "id_pzszach": "6032",
       "nazwisko_imie": "PUCHALA Jozef",
       "tytul_kategoria": "FM",
@@ -642,16 +633,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "72",
-      "id_pzszach": "68111",
-      "nazwisko_imie": "DOBOSIEWICZ Dawid",
+      "id": "71",
+      "id_pzszach": "84117",
+      "nazwisko_imie": "ŁĘCKI Leonard",
       "tytul_kategoria": "FM",
-      "rank_fide": "2289",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "rank_fide": "2290",
+      "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "73",
+      "id": "72",
       "id_pzszach": "5913",
       "nazwisko_imie": "MASTERNAK Grzegorz",
       "tytul_kategoria": "IM",
@@ -660,12 +651,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "74",
+      "id": "73",
       "id_pzszach": "18088",
       "nazwisko_imie": "KOZIOŁ Kamil",
       "tytul_kategoria": "FM",
       "rank_fide": "2286",
       "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "68111",
+      "nazwisko_imie": "DOBOSIEWICZ Dawid",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2285",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -679,6 +679,24 @@
     },
     {
       "id": "76",
+      "id_pzszach": "91336",
+      "nazwisko_imie": "BRZEZINA Paweł",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2280",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "106808",
+      "nazwisko_imie": "ROSOL Philip",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2279",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "78",
       "id_pzszach": "3026",
       "nazwisko_imie": "WOREK Joanna",
       "tytul_kategoria": "WGM",
@@ -687,16 +705,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "77",
-      "id_pzszach": "46071",
-      "nazwisko_imie": "JAROCKA Liwia",
-      "tytul_kategoria": "WIM",
-      "rank_fide": "2278",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "78",
+      "id": "79",
       "id_pzszach": "5802",
       "nazwisko_imie": "KEMPYS Marek",
       "tytul_kategoria": "FM",
@@ -705,7 +714,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "79",
+      "id": "80",
       "id_pzszach": "6091",
       "nazwisko_imie": "SOBURA Henryk",
       "tytul_kategoria": "M",
@@ -714,7 +723,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "80",
+      "id": "81",
       "id_pzszach": "6219",
       "nazwisko_imie": "WOLNY Jan",
       "tytul_kategoria": "K",
@@ -723,7 +732,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "81",
+      "id": "82",
       "id_pzszach": "984",
       "nazwisko_imie": "JAROCH Karol",
       "tytul_kategoria": "M",
@@ -732,25 +741,25 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "82",
-      "id_pzszach": "53092",
-      "nazwisko_imie": "DZIEWOŃSKI Dariusz",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2266",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
       "id": "83",
-      "id_pzszach": "64651",
-      "nazwisko_imie": "MUSIAŁ Igor",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2266",
-      "klub": "MCKiS Jaworzno",
+      "id_pzszach": "87931",
+      "nazwisko_imie": "PYCIŃSKI Władysław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2269",
+      "klub": "UKS Pałac Młodzieży Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
       "id": "84",
+      "id_pzszach": "109935",
+      "nazwisko_imie": "NIEZHENTSEV Kyrylo",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2267",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "85",
       "id_pzszach": "6163",
       "nazwisko_imie": "TWORUSZKA Michał",
       "tytul_kategoria": "FM",
@@ -759,7 +768,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "85",
+      "id": "86",
       "id_pzszach": "4395",
       "nazwisko_imie": "WARAKOMSKA Anna",
       "tytul_kategoria": "WGM",
@@ -768,7 +777,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "86",
+      "id": "87",
       "id_pzszach": "5624",
       "nazwisko_imie": "CIEŚLA Adam",
       "tytul_kategoria": "M",
@@ -777,7 +786,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "87",
+      "id": "88",
       "id_pzszach": "5756",
       "nazwisko_imie": "JANOTA Henryk",
       "tytul_kategoria": "K",
@@ -786,7 +795,34 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "88",
+      "id": "89",
+      "id_pzszach": "31108",
+      "nazwisko_imie": "SZCZUREK Krzysztof",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2258",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "31066",
+      "nazwisko_imie": "KOKOSZCZYŃSKI Jan",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2257",
+      "klub": "KS ROSZADA Żory",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "53092",
+      "nazwisko_imie": "DZIEWOŃSKI Dariusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2256",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "92",
       "id_pzszach": "5854",
       "nazwisko_imie": "KUBIK Jan",
       "tytul_kategoria": "K",
@@ -795,43 +831,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "89",
-      "id_pzszach": "87931",
-      "nazwisko_imie": "PYCIŃSKI Władysław",
-      "tytul_kategoria": "K",
-      "rank_fide": "2252",
-      "klub": "UKS Pałac Młodzieży Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "90",
-      "id_pzszach": "109935",
-      "nazwisko_imie": "NIEZHENTSEV Kyrylo",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2252",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "91",
-      "id_pzszach": "63659",
-      "nazwisko_imie": "WARCHOŁ Kamil",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2250",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "92",
-      "id_pzszach": "31108",
-      "nazwisko_imie": "SZCZUREK Krzysztof",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2247",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
       "id": "93",
+      "id_pzszach": "64651",
+      "nazwisko_imie": "MUSIAŁ Igor",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2252",
+      "klub": "MCKiS Jaworzno",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "94",
       "id_pzszach": "2007",
       "nazwisko_imie": "CISZEK Mieczysław",
       "tytul_kategoria": "K",
@@ -840,7 +849,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "94",
+      "id": "95",
       "id_pzszach": "5255",
       "nazwisko_imie": "OBRUŚNIK Michał",
       "tytul_kategoria": "FM",
@@ -849,7 +858,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "5598",
       "nazwisko_imie": "BUBNOWSKI Arkadiusz",
       "tytul_kategoria": "K",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "6133",
       "nazwisko_imie": "SZKATUŁA Leszek",
       "tytul_kategoria": "K",
@@ -867,7 +876,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "97",
+      "id": "98",
+      "id_pzszach": "46071",
+      "nazwisko_imie": "JAROCKA Liwia",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2242",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "99",
       "id_pzszach": "5416",
       "nazwisko_imie": "WIEWIÓRA Eneasz",
       "tytul_kategoria": "FM",
@@ -876,7 +894,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "98",
+      "id": "100",
       "id_pzszach": "5717",
       "nazwisko_imie": "GROBORZ Michał",
       "tytul_kategoria": "K",
@@ -885,7 +903,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "99",
+      "id": "101",
       "id_pzszach": "5990",
       "nazwisko_imie": "PASZEK Adam",
       "tytul_kategoria": "K",
@@ -894,16 +912,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "100",
-      "id_pzszach": "16683",
-      "nazwisko_imie": "KUBICKA Anna",
-      "tytul_kategoria": "WIM",
-      "rank_fide": "2236",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "101",
+      "id": "102",
       "id_pzszach": "6171",
       "nazwisko_imie": "URBAŃSKI Grzegorz",
       "tytul_kategoria": "K",
@@ -912,21 +921,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "102",
+      "id": "103",
       "id_pzszach": "5915",
       "nazwisko_imie": "MATLAK Jacek",
       "tytul_kategoria": "FM",
       "rank_fide": "2233",
       "klub": "",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "103",
-      "id_pzszach": "31066",
-      "nazwisko_imie": "KOKOSZCZYŃSKI Jan",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2231",
-      "klub": "KS ROSZADA Żory",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -1021,15 +1021,6 @@
     },
     {
       "id": "114",
-      "id_pzszach": "91336",
-      "nazwisko_imie": "BRZEZINA Paweł",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2210",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "115",
       "id_pzszach": "5579",
       "nazwisko_imie": "BLIMKE-DEREŃ Dalia",
       "tytul_kategoria": "WIM",
@@ -1038,7 +1029,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "116",
+      "id": "115",
       "id_pzszach": "5677",
       "nazwisko_imie": "FLIS Jacek",
       "tytul_kategoria": "FM",
@@ -1047,16 +1038,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "117",
-      "id_pzszach": "6157",
-      "nazwisko_imie": "TOMA Katarzyna",
-      "tytul_kategoria": "WGM",
-      "rank_fide": "2208",
-      "klub": "UKS HETMAN Częstochowa",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "118",
+      "id": "116",
       "id_pzszach": "6172",
       "nazwisko_imie": "WĄGLORZ Janusz",
       "tytul_kategoria": "K",
@@ -1065,7 +1047,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "119",
+      "id": "117",
+      "id_pzszach": "6157",
+      "nazwisko_imie": "TOMA Katarzyna",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2206",
+      "klub": "UKS HETMAN Częstochowa",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "118",
       "id_pzszach": "6117",
       "nazwisko_imie": "SURMAN Martin",
       "tytul_kategoria": "K",
@@ -1074,7 +1065,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "120",
+      "id": "119",
       "id_pzszach": "26164",
       "nazwisko_imie": "KYĆ Jerzy",
       "tytul_kategoria": "FM",
@@ -1083,7 +1074,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "121",
+      "id": "120",
       "id_pzszach": "1184",
       "nazwisko_imie": "TOKARSKI Łukasz",
       "tytul_kategoria": "FM",
@@ -1092,7 +1083,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "122",
+      "id": "121",
       "id_pzszach": "22747",
       "nazwisko_imie": "POLCZYK Mikołaj",
       "tytul_kategoria": "K",
@@ -1101,7 +1092,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "123",
+      "id": "122",
       "id_pzszach": "5714",
       "nazwisko_imie": "GRĄDALSKI Przemysław",
       "tytul_kategoria": "FM",
@@ -1110,7 +1101,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "124",
+      "id": "123",
       "id_pzszach": "5696",
       "nazwisko_imie": "GLEŃ Adrian",
       "tytul_kategoria": "I",
@@ -1119,7 +1110,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "125",
+      "id": "124",
       "id_pzszach": "52323",
       "nazwisko_imie": "GROCHOL Kamil",
       "tytul_kategoria": "CM",
@@ -1128,7 +1119,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "126",
+      "id": "125",
       "id_pzszach": "6215",
       "nazwisko_imie": "WOJCIECHOWSKI Piotr",
       "tytul_kategoria": "M",
@@ -1137,7 +1128,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "127",
+      "id": "126",
       "id_pzszach": "5889",
       "nazwisko_imie": "LIBERUS Marek",
       "tytul_kategoria": "K",
@@ -1146,7 +1137,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "128",
+      "id": "127",
       "id_pzszach": "6167",
       "nazwisko_imie": "UJMA Jerzy",
       "tytul_kategoria": "K",
@@ -1155,7 +1146,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "129",
+      "id": "128",
       "id_pzszach": "5196",
       "nazwisko_imie": "SZTAJNERT Krzysztof",
       "tytul_kategoria": "I",
@@ -1164,7 +1155,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "130",
+      "id": "129",
       "id_pzszach": "3493",
       "nazwisko_imie": "SZROMBA Krzysztof",
       "tytul_kategoria": "K",
@@ -1173,7 +1164,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "131",
+      "id": "130",
       "id_pzszach": "6159",
       "nazwisko_imie": "TOMASZEWSKI Roman",
       "tytul_kategoria": "IM",
@@ -1182,7 +1173,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "132",
+      "id": "131",
       "id_pzszach": "5903",
       "nazwisko_imie": "MAJCHER Marcin",
       "tytul_kategoria": "K+",
@@ -1191,12 +1182,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "133",
+      "id": "132",
       "id_pzszach": "6126",
       "nazwisko_imie": "SZCZEPANEK Radosław",
       "tytul_kategoria": "CM",
       "rank_fide": "2189",
       "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "133",
+      "id_pzszach": "61463",
+      "nazwisko_imie": "JENDROWIAK Maciej",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2189",
+      "klub": "MKSz Rybnik",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -1264,6 +1264,15 @@
     },
     {
       "id": "141",
+      "id_pzszach": "16683",
+      "nazwisko_imie": "KUBICKA Anna",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2182",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "142",
       "id_pzszach": "73462",
       "nazwisko_imie": "MALIK Maciej",
       "tytul_kategoria": "CM",
@@ -1272,7 +1281,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "142",
+      "id": "143",
       "id_pzszach": "19053",
       "nazwisko_imie": "KUBICA Kamil",
       "tytul_kategoria": "K",
@@ -1281,7 +1290,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "143",
+      "id": "144",
       "id_pzszach": "9949",
       "nazwisko_imie": "RAWICZ Karol",
       "tytul_kategoria": "FM",
@@ -1290,7 +1299,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "144",
+      "id": "145",
       "id_pzszach": "22516",
       "nazwisko_imie": "GAZIKOVA Veronika",
       "tytul_kategoria": "WFM",
@@ -1299,21 +1308,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "145",
+      "id": "146",
       "id_pzszach": "5770",
       "nazwisko_imie": "JUREK Paweł",
       "tytul_kategoria": "K",
       "rank_fide": "2177",
       "klub": "",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "146",
-      "id_pzszach": "61463",
-      "nazwisko_imie": "JENDROWIAK Maciej",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2175",
-      "klub": "MKSz Rybnik",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -1417,15 +1417,6 @@
     },
     {
       "id": "158",
-      "id_pzszach": "6098",
-      "nazwisko_imie": "STACHAŃCZYK Jacek",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2166",
-      "klub": "MCKiS Jaworzno",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "159",
       "id_pzszach": "54293",
       "nazwisko_imie": "WIERZBICKI Dawid",
       "tytul_kategoria": "I+",
@@ -1434,7 +1425,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "160",
+      "id": "159",
       "id_pzszach": "5937",
       "nazwisko_imie": "MOŁDAWSKI Tomasz",
       "tytul_kategoria": "K",
@@ -1443,7 +1434,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "161",
+      "id": "160",
       "id_pzszach": "6026",
       "nazwisko_imie": "POPRAWA Lesław",
       "tytul_kategoria": "I++",
@@ -1452,16 +1443,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "162",
-      "id_pzszach": "38169",
-      "nazwisko_imie": "SHILOV Sergej",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2163",
-      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "163",
+      "id": "161",
       "id_pzszach": "5767",
       "nazwisko_imie": "JOŃCZYK Jerzy",
       "tytul_kategoria": "K",
@@ -1470,7 +1452,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "164",
+      "id": "162",
       "id_pzszach": "58322",
       "nazwisko_imie": "OBORSKI Artur",
       "tytul_kategoria": "K",
@@ -1479,16 +1461,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "165",
-      "id_pzszach": "3722",
-      "nazwisko_imie": "TYMRAKIEWICZ Rafał",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2161",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "166",
+      "id": "163",
       "id_pzszach": "5283",
       "nazwisko_imie": "ŁAPAJ Mateusz",
       "tytul_kategoria": "K+",
@@ -1497,7 +1470,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "167",
+      "id": "164",
       "id_pzszach": "5611",
       "nazwisko_imie": "CHLOST Marlena",
       "tytul_kategoria": "WIM",
@@ -1506,7 +1479,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "168",
+      "id": "165",
       "id_pzszach": "5726",
       "nazwisko_imie": "GRZELAK Krzysztof",
       "tytul_kategoria": "I",
@@ -1515,7 +1488,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "169",
+      "id": "166",
       "id_pzszach": "5640",
       "nazwisko_imie": "DICZEW Filip",
       "tytul_kategoria": "K",
@@ -1524,7 +1497,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "170",
+      "id": "167",
       "id_pzszach": "5912",
       "nazwisko_imie": "MASTERNAK Aleksander",
       "tytul_kategoria": "K",
@@ -1533,7 +1506,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "171",
+      "id": "168",
+      "id_pzszach": "3722",
+      "nazwisko_imie": "TYMRAKIEWICZ Rafał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2156",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "169",
       "id_pzszach": "6233",
       "nazwisko_imie": "ZIĘBA Zdzisław",
       "tytul_kategoria": "I",
@@ -1542,7 +1524,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "172",
+      "id": "170",
       "id_pzszach": "75387",
       "nazwisko_imie": "PRZYBYLSKI Jan",
       "tytul_kategoria": "K",
@@ -1551,7 +1533,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "173",
+      "id": "171",
       "id_pzszach": "22609",
       "nazwisko_imie": "MAJ Kornel",
       "tytul_kategoria": "I+",
@@ -1560,7 +1542,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "174",
+      "id": "172",
       "id_pzszach": "6112",
       "nazwisko_imie": "STYSIAK Szymon",
       "tytul_kategoria": "CM",
@@ -1569,7 +1551,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "175",
+      "id": "173",
       "id_pzszach": "24753",
       "nazwisko_imie": "MUCHA Piotr",
       "tytul_kategoria": "CM",
@@ -1578,7 +1560,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "176",
+      "id": "174",
       "id_pzszach": "3626",
       "nazwisko_imie": "CHOJNACKI Sławomir",
       "tytul_kategoria": "CM",
@@ -1587,7 +1569,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "177",
+      "id": "175",
       "id_pzszach": "5772",
       "nazwisko_imie": "JURKIEWICZ Mirosław",
       "tytul_kategoria": "K",
@@ -1596,7 +1578,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "178",
+      "id": "176",
       "id_pzszach": "6160",
       "nazwisko_imie": "TOMCZYK Marian",
       "tytul_kategoria": "K",
@@ -1605,12 +1587,30 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "179",
+      "id": "177",
       "id_pzszach": "5428",
       "nazwisko_imie": "GRABARA Robert",
       "tytul_kategoria": "I",
       "rank_fide": "2145",
       "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "178",
+      "id_pzszach": "19848",
+      "nazwisko_imie": "MIOZGA Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2145",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "179",
+      "id_pzszach": "38169",
+      "nazwisko_imie": "SHILOV Sergej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2145",
+      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -1660,6 +1660,15 @@
     },
     {
       "id": "185",
+      "id_pzszach": "39560",
+      "nazwisko_imie": "PANEK Bartosz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2139",
+      "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "186",
       "id_pzszach": "5881",
       "nazwisko_imie": "LAMŻA Zenon",
       "tytul_kategoria": "K",
@@ -1668,7 +1677,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "186",
+      "id": "187",
       "id_pzszach": "6012",
       "nazwisko_imie": "PITER Sławomir",
       "tytul_kategoria": "I",
@@ -1677,7 +1686,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "187",
+      "id": "188",
       "id_pzszach": "63647",
       "nazwisko_imie": "GASZKA Zuzanna",
       "tytul_kategoria": "WFM",
@@ -1686,7 +1695,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "188",
+      "id": "189",
       "id_pzszach": "5946",
       "nazwisko_imie": "MUC Tomasz",
       "tytul_kategoria": "M",
@@ -1695,7 +1704,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "189",
+      "id": "190",
+      "id_pzszach": "6098",
+      "nazwisko_imie": "STACHAŃCZYK Jacek",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2136",
+      "klub": "MCKiS Jaworzno",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "191",
       "id_pzszach": "6164",
       "nazwisko_imie": "TWORUSZKA Sebastian",
       "tytul_kategoria": "K",
@@ -1704,7 +1722,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "190",
+      "id": "192",
       "id_pzszach": "5855",
       "nazwisko_imie": "KUBIT Tomasz",
       "tytul_kategoria": "K",
@@ -1713,7 +1731,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "191",
+      "id": "193",
       "id_pzszach": "5762",
       "nazwisko_imie": "JAWORSKI Mirosław",
       "tytul_kategoria": "IM",
@@ -1722,7 +1740,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "192",
+      "id": "194",
+      "id_pzszach": "5980",
+      "nazwisko_imie": "ORZECHOWSKI Jacek",
+      "tytul_kategoria": "M",
+      "rank_fide": "2130",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "195",
       "id_pzszach": "8028",
       "nazwisko_imie": "WOŁYŃSKI Krzysztof",
       "tytul_kategoria": "K",
@@ -1731,16 +1758,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "193",
-      "id_pzszach": "68198",
-      "nazwisko_imie": "KONDYS Piotr",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2129",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "194",
+      "id": "196",
       "id_pzszach": "4711",
       "nazwisko_imie": "KOŁOSOWSKI Paweł",
       "tytul_kategoria": "M",
@@ -1749,7 +1767,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "195",
+      "id": "197",
       "id_pzszach": "16653",
       "nazwisko_imie": "CICHY Kamil",
       "tytul_kategoria": "K+",
@@ -1758,16 +1776,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "196",
-      "id_pzszach": "76019",
-      "nazwisko_imie": "KUKLA Maciej",
-      "tytul_kategoria": "I+",
-      "rank_fide": "2126",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "197",
+      "id": "198",
       "id_pzszach": "6138",
       "nazwisko_imie": "SZOLKOWSKI Ernest",
       "tytul_kategoria": "K",
@@ -1776,7 +1785,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "198",
+      "id": "199",
       "id_pzszach": "33470",
       "nazwisko_imie": "OLSAROVA Tereza",
       "tytul_kategoria": "",
@@ -1785,16 +1794,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "199",
-      "id_pzszach": "39560",
-      "nazwisko_imie": "PANEK Bartosz",
+      "id": "200",
+      "id_pzszach": "68198",
+      "nazwisko_imie": "KONDYS Piotr",
       "tytul_kategoria": "CM",
-      "rank_fide": "2123",
-      "klub": "MKSz Rybnik",
+      "rank_fide": "2125",
+      "klub": "KSz SILESIA Racibórz",
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "200",
+      "id": "201",
       "id_pzszach": "6009",
       "nazwisko_imie": "PIOTROWSKI Łukasz",
       "tytul_kategoria": "I",
@@ -1803,7 +1812,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "201",
+      "id": "202",
       "id_pzszach": "6079",
       "nazwisko_imie": "SŁADKOWSKI Stanisław",
       "tytul_kategoria": "I",
@@ -1812,7 +1821,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "202",
+      "id": "203",
       "id_pzszach": "6193",
       "nazwisko_imie": "WIECZOREK Zbigniew",
       "tytul_kategoria": "FM",
@@ -1821,7 +1830,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "203",
+      "id": "204",
       "id_pzszach": "6232",
       "nazwisko_imie": "ZEGAR Piotr",
       "tytul_kategoria": "I",
@@ -1830,7 +1839,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "204",
+      "id": "205",
       "id_pzszach": "5885",
       "nazwisko_imie": "LATKA Wiesław",
       "tytul_kategoria": "K",
@@ -1839,7 +1848,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "205",
+      "id": "206",
       "id_pzszach": "5940",
       "nazwisko_imie": "MOSKALIK Andrzej",
       "tytul_kategoria": "K",
@@ -1848,7 +1857,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "206",
+      "id": "207",
       "id_pzszach": "5554",
       "nazwisko_imie": "BAJ Michał",
       "tytul_kategoria": "I++",
@@ -1857,7 +1866,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "207",
+      "id": "208",
       "id_pzszach": "5951",
       "nazwisko_imie": "NIEDŹWIEDŹ Marek",
       "tytul_kategoria": "K",
@@ -1866,7 +1875,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "208",
+      "id": "209",
       "id_pzszach": "6119",
       "nazwisko_imie": "ŚWIATŁOCH Michał",
       "tytul_kategoria": "I",
@@ -1875,7 +1884,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "209",
+      "id": "210",
       "id_pzszach": "5411",
       "nazwisko_imie": "SOKOŁOWSKI Jacek",
       "tytul_kategoria": "K",
@@ -1884,7 +1893,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "210",
+      "id": "211",
       "id_pzszach": "5645",
       "nazwisko_imie": "DORS Ryszard",
       "tytul_kategoria": "FM",
@@ -1893,7 +1902,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "211",
+      "id": "212",
       "id_pzszach": "41296",
       "nazwisko_imie": "MARECKOVA Martina",
       "tytul_kategoria": "",
@@ -1902,7 +1911,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "212",
+      "id": "213",
+      "id_pzszach": "75358",
+      "nazwisko_imie": "DYLONG Antoni",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2113",
+      "klub": "SZACH MAT Zabrze",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "214",
       "id_pzszach": "5708",
       "nazwisko_imie": "GÓRECKI Zbigniew",
       "tytul_kategoria": "I",
@@ -1911,7 +1929,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "213",
+      "id": "215",
       "id_pzszach": "3367",
       "nazwisko_imie": "KALETA Błażej",
       "tytul_kategoria": "K",
@@ -1920,7 +1938,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "214",
+      "id": "216",
       "id_pzszach": "5774",
       "nazwisko_imie": "JUZEK Adrian",
       "tytul_kategoria": "K",
@@ -1929,7 +1947,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "215",
+      "id": "217",
       "id_pzszach": "5876",
       "nazwisko_imie": "ŁABĘDŹ Patrycja",
       "tytul_kategoria": "WFM",
@@ -1938,7 +1956,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "216",
+      "id": "218",
       "id_pzszach": "5894",
       "nazwisko_imie": "LUBOSIK Zbigniew",
       "tytul_kategoria": "K",
@@ -1947,7 +1965,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "217",
+      "id": "219",
       "id_pzszach": "5844",
       "nazwisko_imie": "KRUSZYNSKI Adam",
       "tytul_kategoria": "I+",
@@ -1956,7 +1974,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "218",
+      "id": "220",
       "id_pzszach": "6086",
       "nazwisko_imie": "SMAGACZ Dariusz",
       "tytul_kategoria": "K",
@@ -1965,16 +1983,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "219",
-      "id_pzszach": "19848",
-      "nazwisko_imie": "MIOZGA Tomasz",
-      "tytul_kategoria": "K",
-      "rank_fide": "2106",
-      "klub": "",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "220",
+      "id": "221",
       "id_pzszach": "6161",
       "nazwisko_imie": "TURLEJ Łukasz",
       "tytul_kategoria": "K",
@@ -1983,25 +1992,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "221",
-      "id_pzszach": "75358",
-      "nazwisko_imie": "DYLONG Antoni",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2105",
-      "klub": "SZACH MAT Zabrze",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
       "id": "222",
-      "id_pzszach": "5980",
-      "nazwisko_imie": "ORZECHOWSKI Jacek",
-      "tytul_kategoria": "M",
-      "rank_fide": "2103",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "223",
       "id_pzszach": "6003",
       "nazwisko_imie": "PIETROSZEK Stefan",
       "tytul_kategoria": "I+",
@@ -2010,7 +2001,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "224",
+      "id": "223",
       "id_pzszach": "5656",
       "nazwisko_imie": "DUDA Łukasz",
       "tytul_kategoria": "K++",
@@ -2019,7 +2010,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "225",
+      "id": "224",
       "id_pzszach": "5815",
       "nazwisko_imie": "KOBYŁECKI Grzegorz",
       "tytul_kategoria": "I++",
@@ -2028,7 +2019,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "226",
+      "id": "225",
       "id_pzszach": "5613",
       "nazwisko_imie": "CHMIELIŃSKI Maciej",
       "tytul_kategoria": "I++",
@@ -2037,7 +2028,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "227",
+      "id": "226",
       "id_pzszach": "6102",
       "nazwisko_imie": "STANISZ Patryk",
       "tytul_kategoria": "CM",
@@ -2046,7 +2037,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "228",
+      "id": "227",
       "id_pzszach": "5130",
       "nazwisko_imie": "KOBIELA Marek",
       "tytul_kategoria": "I",
@@ -2055,7 +2046,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "229",
+      "id": "228",
       "id_pzszach": "21731",
       "nazwisko_imie": "GARBOWSKI Jakub",
       "tytul_kategoria": "K",
@@ -2064,12 +2055,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "230",
+      "id": "229",
       "id_pzszach": "5700",
       "nazwisko_imie": "GOLA Karol",
       "tytul_kategoria": "K",
       "rank_fide": "2096",
       "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "230",
+      "id_pzszach": "5872",
+      "nazwisko_imie": "KWIECIEŃ Jarosław",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2096",
+      "klub": "",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -2110,15 +2110,6 @@
     },
     {
       "id": "235",
-      "id_pzszach": "26751",
-      "nazwisko_imie": "POSŁUSZNY Tomasz",
-      "tytul_kategoria": "K",
-      "rank_fide": "2094",
-      "klub": "MKSz Rybnik",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "236",
       "id_pzszach": "5335",
       "nazwisko_imie": "TOBOLSKI Jakub",
       "tytul_kategoria": "I+",
@@ -2127,7 +2118,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "237",
+      "id": "236",
       "id_pzszach": "7772",
       "nazwisko_imie": "KASTELIK Adrian",
       "tytul_kategoria": "I++",
@@ -2136,12 +2127,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "238",
+      "id": "237",
       "id_pzszach": "5643",
       "nazwisko_imie": "DOMAŃSKI Jerzy",
       "tytul_kategoria": "K",
       "rank_fide": "2090",
       "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "238",
+      "id_pzszach": "76019",
+      "nazwisko_imie": "KUKLA Maciej",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2090",
+      "klub": "KSz SILESIA Racibórz",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -2308,15 +2308,6 @@
     },
     {
       "id": "257",
-      "id_pzszach": "58319",
-      "nazwisko_imie": "ROJEK Wojciech",
-      "tytul_kategoria": "K",
-      "rank_fide": "2077",
-      "klub": "UKS Pałac Młodzieży Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "258",
       "id_pzszach": "5754",
       "nazwisko_imie": "DRYGLAS Maciej",
       "tytul_kategoria": "K",
@@ -2325,7 +2316,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "259",
+      "id": "258",
       "id_pzszach": "5809",
       "nazwisko_imie": "KLIEMT Grzegorz",
       "tytul_kategoria": "I",
@@ -2334,7 +2325,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "260",
+      "id": "259",
       "id_pzszach": "5698",
       "nazwisko_imie": "GMAJ Krzysztof",
       "tytul_kategoria": "K",
@@ -2343,7 +2334,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "261",
+      "id": "260",
       "id_pzszach": "5898",
       "nazwisko_imie": "MACIOŁ Ryszard",
       "tytul_kategoria": "K",
@@ -2352,7 +2343,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "262",
+      "id": "261",
       "id_pzszach": "5834",
       "nazwisko_imie": "KOZIOLEK Zbigniew",
       "tytul_kategoria": "I+",
@@ -2361,7 +2352,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "263",
+      "id": "262",
       "id_pzszach": "6135",
       "nazwisko_imie": "SZMYD Arkadiusz",
       "tytul_kategoria": "CM",
@@ -2370,7 +2361,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "264",
+      "id": "263",
       "id_pzszach": "5697",
       "nazwisko_imie": "GŁÓD Maciej",
       "tytul_kategoria": "I",
@@ -2379,16 +2370,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "265",
-      "id_pzszach": "43892",
-      "nazwisko_imie": "LICHORAD Mateusz",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2072",
-      "klub": "TG Mat",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "266",
+      "id": "264",
       "id_pzszach": "5157",
       "nazwisko_imie": "CZAICKI Marcin",
       "tytul_kategoria": "I",
@@ -2397,7 +2379,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "267",
+      "id": "265",
       "id_pzszach": "5748",
       "nazwisko_imie": "HOSUMBEK Witold",
       "tytul_kategoria": "I",
@@ -2406,7 +2388,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "268",
+      "id": "266",
+      "id_pzszach": "26751",
+      "nazwisko_imie": "POSŁUSZNY Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2070",
+      "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "267",
       "id_pzszach": "56624",
       "nazwisko_imie": "MYRMUS Mateusz",
       "tytul_kategoria": "K",
@@ -2415,7 +2406,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "269",
+      "id": "268",
       "id_pzszach": "6205",
       "nazwisko_imie": "WILK Krzysztof",
       "tytul_kategoria": "K",
@@ -2424,7 +2415,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "270",
+      "id": "269",
       "id_pzszach": "5537",
       "nazwisko_imie": "PABIS Jerzy",
       "tytul_kategoria": "I",
@@ -2433,7 +2424,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "271",
+      "id": "270",
       "id_pzszach": "5753",
       "nazwisko_imie": "JANIK Grzegorz",
       "tytul_kategoria": "K",
@@ -2442,7 +2433,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "272",
+      "id": "271",
       "id_pzszach": "5896",
       "nazwisko_imie": "ŁUKASZEK Stanisław",
       "tytul_kategoria": "I",
@@ -2451,7 +2442,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "273",
+      "id": "272",
       "id_pzszach": "5586",
       "nazwisko_imie": "BOJDOŁ Robert",
       "tytul_kategoria": "I++",
@@ -2460,7 +2451,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "274",
+      "id": "273",
       "id_pzszach": "5727",
       "nazwisko_imie": "GRZENIA Jerzy",
       "tytul_kategoria": "I++",
@@ -2469,7 +2460,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "275",
+      "id": "274",
       "id_pzszach": "6129",
       "nazwisko_imie": "SZCZYGIEŁ Agnieszka",
       "tytul_kategoria": "WFM",
@@ -2478,7 +2469,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "276",
+      "id": "275",
       "id_pzszach": "5292",
       "nazwisko_imie": "ZOK Robert",
       "tytul_kategoria": "I",
@@ -2487,7 +2478,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "277",
+      "id": "276",
       "id_pzszach": "5612",
       "nazwisko_imie": "CHMIELIŃSKA Alicja",
       "tytul_kategoria": "K",
@@ -2496,7 +2487,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "278",
+      "id": "277",
       "id_pzszach": "5964",
       "nazwisko_imie": "NOWAK Jan",
       "tytul_kategoria": "I",
@@ -2505,7 +2496,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "279",
+      "id": "278",
       "id_pzszach": "6200",
       "nazwisko_imie": "WILICZKIEWICZ Zdzisława",
       "tytul_kategoria": "K",
@@ -2514,7 +2505,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "280",
+      "id": "279",
       "id_pzszach": "6120",
       "nazwisko_imie": "ŚWIATŁOCH Tomasz",
       "tytul_kategoria": "I",
@@ -2523,7 +2514,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "281",
+      "id": "280",
       "id_pzszach": "6140",
       "nazwisko_imie": "SZOPA Andrzej",
       "tytul_kategoria": "I",
@@ -2532,7 +2523,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "282",
+      "id": "281",
       "id_pzszach": "20918",
       "nazwisko_imie": "SARNA Tomasz",
       "tytul_kategoria": "II+",
@@ -2541,7 +2532,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "283",
+      "id": "282",
       "id_pzszach": "5285",
       "nazwisko_imie": "GAWEŁ Łukasz",
       "tytul_kategoria": "I",
@@ -2550,7 +2541,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "284",
+      "id": "283",
       "id_pzszach": "5286",
       "nazwisko_imie": "JELONEK Michał",
       "tytul_kategoria": "K",
@@ -2559,7 +2550,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "285",
+      "id": "284",
       "id_pzszach": "5800",
       "nazwisko_imie": "KEMPA Stefan",
       "tytul_kategoria": "K",
@@ -2568,7 +2559,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "286",
+      "id": "285",
       "id_pzszach": "6058",
       "nazwisko_imie": "SAMBORSKI Henryk",
       "tytul_kategoria": "FM",
@@ -2577,7 +2568,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "287",
+      "id": "286",
       "id_pzszach": "6154",
       "nazwisko_imie": "TEKIELAK Izabela",
       "tytul_kategoria": "M",
@@ -2586,7 +2577,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "288",
+      "id": "287",
       "id_pzszach": "7954",
       "nazwisko_imie": "SZAFORZ Maria",
       "tytul_kategoria": "K",
@@ -2595,7 +2586,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "289",
+      "id": "288",
       "id_pzszach": "52600",
       "nazwisko_imie": "ZĄBROŃ Maksym",
       "tytul_kategoria": "I++",
@@ -2604,7 +2595,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "290",
+      "id": "289",
       "id_pzszach": "3300",
       "nazwisko_imie": "BINKIEWICZ Dariusz",
       "tytul_kategoria": "I++",
@@ -2613,12 +2604,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "291",
+      "id": "290",
       "id_pzszach": "5764",
       "nazwisko_imie": "JĘDRZEJOWSKI Maciej",
       "tytul_kategoria": "I",
       "rank_fide": "2059",
       "klub": "SZACH MAT Zabrze",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "291",
+      "id_pzszach": "23691",
+      "nazwisko_imie": "NAMYŚLAK Piotr",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2057",
+      "klub": "UKS SP1 JEDYNKA Tychy",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -2695,24 +2695,6 @@
     },
     {
       "id": "300",
-      "id_pzszach": "6043",
-      "nazwisko_imie": "RASZKA Janusz",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2050",
-      "klub": "SSz OLIMPIA Goleszów",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "301",
-      "id_pzszach": "93328",
-      "nazwisko_imie": "SMOLIŃSKI Wojciech",
-      "tytul_kategoria": "I+",
-      "rank_fide": "2050",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "302",
       "id_pzszach": "5688",
       "nazwisko_imie": "GAZIK Renata",
       "tytul_kategoria": "WIM",
@@ -2721,7 +2703,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "303",
+      "id": "301",
       "id_pzszach": "5182",
       "nazwisko_imie": "BROŻEK Zbigniew",
       "tytul_kategoria": "I",
@@ -2730,7 +2712,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "304",
+      "id": "302",
       "id_pzszach": "46014",
       "nazwisko_imie": "DZIENDZIEL Mateusz",
       "tytul_kategoria": "I++",
@@ -2739,12 +2721,30 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "305",
+      "id": "303",
       "id_pzszach": "5546",
       "nazwisko_imie": "ADAMOWSKI Jan",
       "tytul_kategoria": "I",
       "rank_fide": "2047",
       "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "304",
+      "id_pzszach": "31175",
+      "nazwisko_imie": "RADECKI Adam",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2047",
+      "klub": "UKS OGNISKO Rydułtowy",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "305",
+      "id_pzszach": "93328",
+      "nazwisko_imie": "SMOLIŃSKI Wojciech",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2047",
+      "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -2776,6 +2776,24 @@
     },
     {
       "id": "309",
+      "id_pzszach": "43892",
+      "nazwisko_imie": "LICHORAD Mateusz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2043",
+      "klub": "TG Mat",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "310",
+      "id_pzszach": "6043",
+      "nazwisko_imie": "RASZKA Janusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2042",
+      "klub": "SSz OLIMPIA Goleszów",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "311",
       "id_pzszach": "19439",
       "nazwisko_imie": "KOZŁOWSKI Waldemar",
       "tytul_kategoria": "II",
@@ -2784,7 +2802,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "310",
+      "id": "312",
       "id_pzszach": "16696",
       "nazwisko_imie": "ROSICKI Marcin",
       "tytul_kategoria": "I++",
@@ -2793,7 +2811,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "311",
+      "id": "313",
       "id_pzszach": "5284",
       "nazwisko_imie": "BEDNARSKI Artur",
       "tytul_kategoria": "I",
@@ -2802,7 +2820,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "312",
+      "id": "314",
       "id_pzszach": "5482",
       "nazwisko_imie": "DZIODZIO Angelika",
       "tytul_kategoria": "WFM",
@@ -2811,16 +2829,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "313",
-      "id_pzszach": "44895",
-      "nazwisko_imie": "HERTLEIN Irena",
-      "tytul_kategoria": "WFM",
-      "rank_fide": "2039",
-      "klub": "UKS HETMAN Częstochowa",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "314",
+      "id": "315",
       "id_pzszach": "55010",
       "nazwisko_imie": "BUGAJ Hanna",
       "tytul_kategoria": "WCM",
@@ -2829,7 +2838,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "315",
+      "id": "316",
       "id_pzszach": "84853",
       "nazwisko_imie": "WANDOR Adam",
       "tytul_kategoria": "K",
@@ -2838,7 +2847,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "316",
+      "id": "317",
       "id_pzszach": "5839",
       "nazwisko_imie": "KARASIŃSKA Magdalena",
       "tytul_kategoria": "WFM",
@@ -2847,21 +2856,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "317",
+      "id": "318",
       "id_pzszach": "6179",
       "nazwisko_imie": "WANIEK Andrzej",
       "tytul_kategoria": "K",
       "rank_fide": "2036",
       "klub": "UKS Pałac Młodzieży Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "318",
-      "id_pzszach": "82324",
-      "nazwisko_imie": "NIESPOREK Franciszek",
-      "tytul_kategoria": "I",
-      "rank_fide": "2036",
-      "klub": "UKS OGNISKO Rydułtowy",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -2911,6 +2911,15 @@
     },
     {
       "id": "324",
+      "id_pzszach": "97026",
+      "nazwisko_imie": "STANICZEK Kacper",
+      "tytul_kategoria": "I",
+      "rank_fide": "2033",
+      "klub": "UKS BASZTA Wodzisław Śląski",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "325",
       "id_pzszach": "20487",
       "nazwisko_imie": "ŻÓŁKIEWSKI Sławomir",
       "tytul_kategoria": "I",
@@ -2919,7 +2928,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "325",
+      "id": "326",
+      "id_pzszach": "44895",
+      "nazwisko_imie": "HERTLEIN Irena",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2032",
+      "klub": "UKS HETMAN Częstochowa",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "327",
       "id_pzszach": "6239",
       "nazwisko_imie": "ZIMNY Joanna",
       "tytul_kategoria": "WFM",
@@ -2928,7 +2946,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "326",
+      "id": "328",
       "id_pzszach": "5172",
       "nazwisko_imie": "SIEDLIŃSKI Piotr",
       "tytul_kategoria": "K",
@@ -2937,7 +2955,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "327",
+      "id": "329",
       "id_pzszach": "5798",
       "nazwisko_imie": "KAZMIERSKA Małgorzata",
       "tytul_kategoria": "K",
@@ -2946,7 +2964,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "328",
+      "id": "330",
       "id_pzszach": "5906",
       "nazwisko_imie": "MALEWSKI Mateusz",
       "tytul_kategoria": "I",
@@ -2955,7 +2973,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "329",
+      "id": "331",
       "id_pzszach": "22980",
       "nazwisko_imie": "JANULEK Dawid",
       "tytul_kategoria": "I++",
@@ -2964,7 +2982,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "330",
+      "id": "332",
+      "id_pzszach": "71082",
+      "nazwisko_imie": "ZEMLICKOVA Olena",
+      "tytul_kategoria": "",
+      "rank_fide": "2030",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "333",
       "id_pzszach": "6201",
       "nazwisko_imie": "WILK Adam",
       "tytul_kategoria": "I",
@@ -2973,16 +3000,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "331",
-      "id_pzszach": "31175",
-      "nazwisko_imie": "RADECKI Adam",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2029",
-      "klub": "UKS OGNISKO Rydułtowy",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "332",
+      "id": "334",
       "id_pzszach": "7848",
       "nazwisko_imie": "MARCINOWSKI Zbigniew",
       "tytul_kategoria": "I+",
@@ -2991,16 +3009,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "333",
-      "id_pzszach": "71082",
-      "nazwisko_imie": "ZEMLICKOVA Olena",
-      "tytul_kategoria": "",
-      "rank_fide": "2028",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "334",
+      "id": "335",
       "id_pzszach": "79920",
       "nazwisko_imie": "BRODOCZ Bartosz",
       "tytul_kategoria": "II",
@@ -3009,21 +3018,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "335",
+      "id": "336",
       "id_pzszach": "5654",
       "nazwisko_imie": "DUBIEL Franciszek",
       "tytul_kategoria": "I",
       "rank_fide": "2026",
       "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "336",
-      "id_pzszach": "63665",
-      "nazwisko_imie": "MACURA Mateusz",
-      "tytul_kategoria": "I",
-      "rank_fide": "2026",
-      "klub": "SSz OLIMPIA Goleszów",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -3082,6 +3082,15 @@
     },
     {
       "id": "343",
+      "id_pzszach": "82324",
+      "nazwisko_imie": "NIESPOREK Franciszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "2022",
+      "klub": "UKS OGNISKO Rydułtowy",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "344",
       "id_pzszach": "5743",
       "nazwisko_imie": "HELIS Tadeusz",
       "tytul_kategoria": "FM",
@@ -3090,16 +3099,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "344",
-      "id_pzszach": "22933",
-      "nazwisko_imie": "DOMAŃSKI Łukasz",
-      "tytul_kategoria": "K",
+      "id": "345",
+      "id_pzszach": "6065",
+      "nazwisko_imie": "SEIFERT Henryk",
+      "tytul_kategoria": "FM",
       "rank_fide": "2020",
-      "klub": "Akademia Szachowa Gliwice",
+      "klub": "",
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "345",
+      "id": "346",
       "id_pzszach": "5330",
       "nazwisko_imie": "MATUSZCZYK Przemysław",
       "tytul_kategoria": "K",
@@ -3108,7 +3117,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "346",
+      "id": "347",
       "id_pzszach": "5553",
       "nazwisko_imie": "BABLOK Maciej",
       "tytul_kategoria": "K",
@@ -3117,7 +3126,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "347",
+      "id": "348",
       "id_pzszach": "5699",
       "nazwisko_imie": "GOCZAŁ Damian",
       "tytul_kategoria": "I",
@@ -3126,7 +3135,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "348",
+      "id": "349",
       "id_pzszach": "23249",
       "nazwisko_imie": "LIS Mateusz",
       "tytul_kategoria": "K",
@@ -3135,7 +3144,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "349",
+      "id": "350",
       "id_pzszach": "68693",
       "nazwisko_imie": "MOŚNY Kamil",
       "tytul_kategoria": "I",
@@ -3144,21 +3153,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "350",
+      "id": "351",
       "id_pzszach": "5658",
       "nazwisko_imie": "DUDEK Adam",
       "tytul_kategoria": "I+",
       "rank_fide": "2018",
       "klub": "TMS ROSZADA Gliwice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "351",
-      "id_pzszach": "6065",
-      "nazwisko_imie": "SEIFERT Henryk",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2018",
-      "klub": "",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -3172,6 +3172,15 @@
     },
     {
       "id": "353",
+      "id_pzszach": "100366",
+      "nazwisko_imie": "MODZELEWSKI Filip",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2017",
+      "klub": "UKS Pałac Młodzieży Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "354",
       "id_pzszach": "5704",
       "nazwisko_imie": "GORCZYCA Aleksandra",
       "tytul_kategoria": "M",
@@ -3180,7 +3189,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "354",
+      "id": "355",
       "id_pzszach": "5780",
       "nazwisko_imie": "KAMIŃSKI Piotr",
       "tytul_kategoria": "K",
@@ -3189,7 +3198,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "355",
+      "id": "356",
       "id_pzszach": "5304",
       "nazwisko_imie": "WOREK Andrzej",
       "tytul_kategoria": "I",
@@ -3198,7 +3207,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "356",
+      "id": "357",
       "id_pzszach": "6213",
       "nazwisko_imie": "WOJCIECHOWSKA Aleksandra",
       "tytul_kategoria": "K",
@@ -3207,7 +3216,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "357",
+      "id": "358",
       "id_pzszach": "5877",
       "nazwisko_imie": "LABUS Zbigniew",
       "tytul_kategoria": "I",
@@ -3216,7 +3225,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "358",
+      "id": "359",
+      "id_pzszach": "58319",
+      "nazwisko_imie": "ROJEK Wojciech",
+      "tytul_kategoria": "K",
+      "rank_fide": "2014",
+      "klub": "UKS Pałac Młodzieży Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "360",
       "id_pzszach": "6042",
       "nazwisko_imie": "RASZEWSKI Zdzisław",
       "tytul_kategoria": "I",
@@ -3225,7 +3243,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "359",
+      "id": "361",
       "id_pzszach": "5627",
       "nazwisko_imie": "CICHOŃ Michał",
       "tytul_kategoria": "K",
@@ -3234,7 +3252,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "360",
+      "id": "362",
       "id_pzszach": "5585",
       "nazwisko_imie": "BOJDOŁ Joanna",
       "tytul_kategoria": "K",
@@ -3243,7 +3261,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "361",
+      "id": "363",
       "id_pzszach": "5565",
       "nazwisko_imie": "BARON Irena",
       "tytul_kategoria": "K",
@@ -3252,7 +3270,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "362",
+      "id": "364",
       "id_pzszach": "5994",
       "nazwisko_imie": "PAWLUS Grzegorz",
       "tytul_kategoria": "I",
@@ -3261,7 +3279,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "363",
+      "id": "365",
       "id_pzszach": "5653",
       "nazwisko_imie": "DRZAZGA Rafał",
       "tytul_kategoria": "I",
@@ -3270,7 +3288,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "364",
+      "id": "366",
       "id_pzszach": "6141",
       "nazwisko_imie": "SZOPA Janusz",
       "tytul_kategoria": "I",
@@ -3279,30 +3297,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "365",
-      "id_pzszach": "516",
-      "nazwisko_imie": "SKRZYCZEK Tomasz",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2008",
-      "klub": "TMS ROSZADA Gliwice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "366",
+      "id": "367",
       "id_pzszach": "5652",
       "nazwisko_imie": "DRYGALSKI Wojciech",
       "tytul_kategoria": "K",
       "rank_fide": "2008",
       "klub": "",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "367",
-      "id_pzszach": "87415",
-      "nazwisko_imie": "KAMIŃSKA Zuzanna",
-      "tytul_kategoria": "WCM",
-      "rank_fide": "2008",
-      "klub": "UKS HETMAN Częstochowa",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -3325,15 +3325,6 @@
     },
     {
       "id": "370",
-      "id_pzszach": "38070",
-      "nazwisko_imie": "KULPA Zuzanna",
-      "tytul_kategoria": "K",
-      "rank_fide": "2007",
-      "klub": "TG Mat",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "371",
       "id_pzszach": "5858",
       "nazwisko_imie": "KUJAWA Tadeusz",
       "tytul_kategoria": "I",
@@ -3342,7 +3333,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "372",
+      "id": "371",
       "id_pzszach": "5939",
       "nazwisko_imie": "MOROZ Henryk",
       "tytul_kategoria": "I",
@@ -3351,7 +3342,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "373",
+      "id": "372",
       "id_pzszach": "5740",
       "nazwisko_imie": "HEBISCH Irena",
       "tytul_kategoria": "K",
@@ -3360,7 +3351,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "374",
+      "id": "373",
       "id_pzszach": "5966",
       "nazwisko_imie": "NOWAK Maciej",
       "tytul_kategoria": "I++",
@@ -3369,25 +3360,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "375",
-      "id_pzszach": "23691",
-      "nazwisko_imie": "NAMYŚLAK Piotr",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2005",
-      "klub": "UKS SP1 JEDYNKA Tychy",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "376",
-      "id_pzszach": "100366",
-      "nazwisko_imie": "MODZELEWSKI Filip",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2005",
-      "klub": "UKS Pałac Młodzieży Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "377",
+      "id": "374",
       "id_pzszach": "5607",
       "nazwisko_imie": "CEKAŁA Leon",
       "tytul_kategoria": "I+",
@@ -3396,7 +3369,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "378",
+      "id": "375",
       "id_pzszach": "5625",
       "nazwisko_imie": "CIEŚLAWSKA Katarzyna",
       "tytul_kategoria": "K",
@@ -3405,7 +3378,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "379",
+      "id": "376",
       "id_pzszach": "18977",
       "nazwisko_imie": "KOCJAN Mirosław",
       "tytul_kategoria": "I",
@@ -3414,7 +3387,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "380",
+      "id": "377",
       "id_pzszach": "19776",
       "nazwisko_imie": "MATUSZCZYK Mateusz",
       "tytul_kategoria": "I+",
@@ -3423,7 +3396,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "381",
+      "id": "378",
       "id_pzszach": "5814",
       "nazwisko_imie": "KNOPIK Krzysztof",
       "tytul_kategoria": "K",
@@ -3432,16 +3405,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "382",
-      "id_pzszach": "97026",
-      "nazwisko_imie": "STANICZEK Kacper",
-      "tytul_kategoria": "I",
+      "id": "379",
+      "id_pzszach": "38070",
+      "nazwisko_imie": "KULPA Zuzanna",
+      "tytul_kategoria": "K",
       "rank_fide": "2002",
-      "klub": "UKS BASZTA Wodzisław Śląski",
+      "klub": "TG Mat",
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "383",
+      "id": "380",
       "id_pzszach": "54927",
       "nazwisko_imie": "KAŁKOWSKI Igor",
       "tytul_kategoria": "I++",
@@ -3450,7 +3423,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "384",
+      "id": "381",
       "id_pzszach": "58094",
       "nazwisko_imie": "KOTOWICZ Kamil",
       "tytul_kategoria": "I+",
@@ -3459,7 +3432,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "385",
+      "id": "382",
       "id_pzszach": "5721",
       "nazwisko_imie": "GRYCZKA Włodzimierz",
       "tytul_kategoria": "I",
@@ -3468,7 +3441,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "386",
+      "id": "383",
       "id_pzszach": "6030",
       "nazwisko_imie": "PRZYBYLKA Damian",
       "tytul_kategoria": "K",
@@ -3477,7 +3450,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "387",
+      "id": "384",
       "id_pzszach": "6178",
       "nazwisko_imie": "WALUSZEK Stanisław",
       "tytul_kategoria": "I",
@@ -3486,7 +3459,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "388",
+      "id": "385",
       "id_pzszach": "8008",
       "nazwisko_imie": "WARUGA Michał",
       "tytul_kategoria": "I",
@@ -3495,7 +3468,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "389",
+      "id": "386",
       "id_pzszach": "56027",
       "nazwisko_imie": "SEEMANN Pola",
       "tytul_kategoria": "K",
@@ -3504,7 +3477,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "390",
+      "id": "387",
       "id_pzszach": "68254",
       "nazwisko_imie": "CIESIELSKI Tomasz",
       "tytul_kategoria": "I+",
@@ -3513,7 +3486,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "391",
+      "id": "388",
       "id_pzszach": "3227",
       "nazwisko_imie": "KUCHCIŃSKI Piotr",
       "tytul_kategoria": "I",
@@ -3522,7 +3495,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "392",
+      "id": "389",
       "id_pzszach": "56119",
       "nazwisko_imie": "KARWACKI Piotr",
       "tytul_kategoria": "I",
@@ -3531,7 +3504,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "393",
+      "id": "390",
       "id_pzszach": "5246",
       "nazwisko_imie": "PACZKOWSKI Adam",
       "tytul_kategoria": "I",
@@ -3540,7 +3513,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "394",
+      "id": "391",
       "id_pzszach": "5361",
       "nazwisko_imie": "MYŚLIWIEC Grzegorz",
       "tytul_kategoria": "I",
@@ -3549,7 +3522,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "395",
+      "id": "392",
       "id_pzszach": "6241",
       "nazwisko_imie": "ZOWADA Kazimierz",
       "tytul_kategoria": "K+",
@@ -3558,12 +3531,39 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "396",
+      "id": "393",
       "id_pzszach": "5365",
       "nazwisko_imie": "SZMUK Mirosław",
       "tytul_kategoria": "I",
       "rank_fide": "1995",
       "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "394",
+      "id_pzszach": "22933",
+      "nazwisko_imie": "DOMAŃSKI Łukasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "1995",
+      "klub": "Akademia Szachowa Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "395",
+      "id_pzszach": "16703",
+      "nazwisko_imie": "SPYRA Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1994",
+      "klub": "Wytworzymy (Forteca) Czeladź",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "396",
+      "id_pzszach": "516",
+      "nazwisko_imie": "SKRZYCZEK Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1992",
+      "klub": "TMS ROSZADA Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -3586,15 +3586,6 @@
     },
     {
       "id": "399",
-      "id_pzszach": "16703",
-      "nazwisko_imie": "SPYRA Piotr",
-      "tytul_kategoria": "I",
-      "rank_fide": "1992",
-      "klub": "Wytworzymy (Forteca) Czeladź",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "400",
       "id_pzszach": "5751",
       "nazwisko_imie": "JABŁOŃSKI Marcin",
       "tytul_kategoria": "I+",
@@ -3603,7 +3594,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "401",
+      "id": "400",
       "id_pzszach": "5972",
       "nazwisko_imie": "OCHODEK Mariusz",
       "tytul_kategoria": "I",
@@ -3612,7 +3603,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "402",
+      "id": "401",
       "id_pzszach": "6234",
       "nazwisko_imie": "ZIĘBIŃSKI Bartosz",
       "tytul_kategoria": "I++",
@@ -3621,7 +3612,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "403",
+      "id": "402",
       "id_pzszach": "5251",
       "nazwisko_imie": "SITEK Tomasz",
       "tytul_kategoria": "I",
@@ -3630,7 +3621,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "404",
+      "id": "403",
       "id_pzszach": "7930",
       "nazwisko_imie": "RADZIKOWSKI Dawid",
       "tytul_kategoria": "I+",
@@ -3639,7 +3630,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "405",
+      "id": "404",
       "id_pzszach": "5075",
       "nazwisko_imie": "BOTOR Michał",
       "tytul_kategoria": "I",
@@ -3648,7 +3639,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "406",
+      "id": "405",
       "id_pzszach": "5463",
       "nazwisko_imie": "MATLAK Marcin",
       "tytul_kategoria": "II+",
@@ -3657,16 +3648,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "407",
-      "id_pzszach": "5935",
-      "nazwisko_imie": "MISZCZAK Dariusz",
-      "tytul_kategoria": "K",
-      "rank_fide": "1988",
-      "klub": "KSz ZEFIR Boguszowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "408",
+      "id": "406",
       "id_pzszach": "70761",
       "nazwisko_imie": "WOJS Alicja",
       "tytul_kategoria": "WFM",
@@ -3675,7 +3657,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "409",
+      "id": "407",
       "id_pzszach": "5187",
       "nazwisko_imie": "JABŁONKA Krzysztof",
       "tytul_kategoria": "I",
@@ -3684,16 +3666,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "410",
-      "id_pzszach": "5811",
-      "nazwisko_imie": "KŁUSAK Piotr",
-      "tytul_kategoria": "K",
+      "id": "408",
+      "id_pzszach": "5197",
+      "nazwisko_imie": "JACEL Łukasz",
+      "tytul_kategoria": "I+",
       "rank_fide": "1987",
-      "klub": "",
+      "klub": "TMS ROSZADA Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "411",
+      "id": "409",
       "id_pzszach": "6019",
       "nazwisko_imie": "POCHCIAŁ Jan",
       "tytul_kategoria": "K",
@@ -3702,7 +3684,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "412",
+      "id": "410",
       "id_pzszach": "6100",
       "nazwisko_imie": "STALA Grzegorz",
       "tytul_kategoria": "I",
@@ -3711,7 +3693,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "413",
+      "id": "411",
       "id_pzszach": "39302",
       "nazwisko_imie": "KUKUŁA Karol",
       "tytul_kategoria": "I++",
@@ -3720,7 +3702,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "414",
+      "id": "412",
       "id_pzszach": "5955",
       "nazwisko_imie": "NIEŚPIELAK Oskar",
       "tytul_kategoria": "I",
@@ -3729,7 +3711,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "415",
+      "id": "413",
       "id_pzszach": "80549",
       "nazwisko_imie": "MAREKWICA Dawid",
       "tytul_kategoria": "I+",
@@ -3738,7 +3720,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "416",
+      "id": "414",
       "id_pzszach": "5778",
       "nazwisko_imie": "KAMINSKI Jacek",
       "tytul_kategoria": "I+",
@@ -3747,7 +3729,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "417",
+      "id": "415",
       "id_pzszach": "24402",
       "nazwisko_imie": "KAWECKI Rafał",
       "tytul_kategoria": "II+",
@@ -3756,7 +3738,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "418",
+      "id": "416",
       "id_pzszach": "5582",
       "nazwisko_imie": "BOBROWSKI Józef",
       "tytul_kategoria": "K",
@@ -3765,7 +3747,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "419",
+      "id": "417",
       "id_pzszach": "6242",
       "nazwisko_imie": "ZWIERZYŃSKI Paweł",
       "tytul_kategoria": "I",
@@ -3774,16 +3756,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "420",
-      "id_pzszach": "7693",
-      "nazwisko_imie": "FALKOWSKI Dawid",
-      "tytul_kategoria": "K",
-      "rank_fide": "1982",
-      "klub": "MCKiS Jaworzno",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "421",
+      "id": "418",
       "id_pzszach": "17326",
       "nazwisko_imie": "SZOLC Grzegorz",
       "tytul_kategoria": "I++",
@@ -3792,7 +3765,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "422",
+      "id": "419",
       "id_pzszach": "5083",
       "nazwisko_imie": "TRENDOTA Dawid",
       "tytul_kategoria": "I",
@@ -3801,7 +3774,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "423",
+      "id": "420",
       "id_pzszach": "5910",
       "nazwisko_imie": "MARTINEK Tomasz",
       "tytul_kategoria": "I",
@@ -3810,7 +3783,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "424",
+      "id": "421",
       "id_pzszach": "6122",
       "nazwisko_imie": "ŚWIECH Piotr",
       "tytul_kategoria": "I+",
@@ -3819,7 +3792,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "425",
+      "id": "422",
       "id_pzszach": "1880",
       "nazwisko_imie": "KAZUBEK Krzysztof",
       "tytul_kategoria": "I",
@@ -3828,7 +3801,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "426",
+      "id": "423",
       "id_pzszach": "3307",
       "nazwisko_imie": "BURY Piotr",
       "tytul_kategoria": "I",
@@ -3837,7 +3810,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "427",
+      "id": "424",
       "id_pzszach": "16654",
       "nazwisko_imie": "CIEŚLAK Patrycjusz",
       "tytul_kategoria": "I",
@@ -3846,7 +3819,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "428",
+      "id": "425",
       "id_pzszach": "22845",
       "nazwisko_imie": "KALETA Łukasz",
       "tytul_kategoria": "II",
@@ -3855,7 +3828,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "429",
+      "id": "426",
       "id_pzszach": "5752",
       "nazwisko_imie": "JANIK Damian",
       "tytul_kategoria": "I",
@@ -3864,7 +3837,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "430",
+      "id": "427",
       "id_pzszach": "5831",
       "nazwisko_imie": "KOZAK Paweł",
       "tytul_kategoria": "I",
@@ -3873,7 +3846,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "431",
+      "id": "428",
       "id_pzszach": "5962",
       "nazwisko_imie": "NOGA Józef",
       "tytul_kategoria": "I++",
@@ -3882,7 +3855,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "432",
+      "id": "429",
       "id_pzszach": "57772",
       "nazwisko_imie": "SMUDA Tomasz",
       "tytul_kategoria": "I+",
@@ -3891,25 +3864,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "433",
-      "id_pzszach": "76131",
-      "nazwisko_imie": "NIESYT Michał",
-      "tytul_kategoria": "I",
-      "rank_fide": "1978",
-      "klub": "SSz OLIMPIA Goleszów",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "434",
-      "id_pzszach": "101017",
-      "nazwisko_imie": "DĘBOWSKA Olga",
-      "tytul_kategoria": "WCM",
-      "rank_fide": "1977",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "435",
+      "id": "430",
       "id_pzszach": "5501",
       "nazwisko_imie": "MATUSIAK Marcin",
       "tytul_kategoria": "I+",
@@ -3918,7 +3873,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "436",
+      "id": "431",
       "id_pzszach": "6029",
       "nazwisko_imie": "PRZEMYK Grzegorz",
       "tytul_kategoria": "I",
@@ -3927,16 +3882,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "437",
-      "id_pzszach": "68983",
-      "nazwisko_imie": "CIUPKA Kamil",
-      "tytul_kategoria": "I",
-      "rank_fide": "1976",
-      "klub": "TG Mat",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "438",
+      "id": "432",
       "id_pzszach": "5161",
       "nazwisko_imie": "KAWALA Maciej",
       "tytul_kategoria": "I",
@@ -3945,7 +3891,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "439",
+      "id": "433",
       "id_pzszach": "16699",
       "nazwisko_imie": "RYDZEWSKI Paweł",
       "tytul_kategoria": "I+",
@@ -3954,7 +3900,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "440",
+      "id": "434",
       "id_pzszach": "66299",
       "nazwisko_imie": "ZMARZŁY Wiktor",
       "tytul_kategoria": "I++",
@@ -3963,7 +3909,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "441",
+      "id": "435",
       "id_pzszach": "75276",
       "nazwisko_imie": "WESOŁOWSKI Jeremi",
       "tytul_kategoria": "I",
@@ -3972,7 +3918,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "442",
+      "id": "436",
       "id_pzszach": "2448",
       "nazwisko_imie": "TOMASZEWSKA Luiza",
       "tytul_kategoria": "I++",
@@ -3981,7 +3927,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "443",
+      "id": "437",
       "id_pzszach": "16707",
       "nazwisko_imie": "SZCZECINA Kamil",
       "tytul_kategoria": "I++",
@@ -3990,7 +3936,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "444",
+      "id": "438",
       "id_pzszach": "6067",
       "nazwisko_imie": "SIEDLECKI Czesław",
       "tytul_kategoria": "I",
@@ -3999,7 +3945,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "445",
+      "id": "439",
+      "id_pzszach": "87415",
+      "nazwisko_imie": "KAMIŃSKA Zuzanna",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "1971",
+      "klub": "UKS HETMAN Częstochowa",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "440",
       "id_pzszach": "21851",
       "nazwisko_imie": "KLEMENTOWSKI Dawid",
       "tytul_kategoria": "I",
@@ -4008,7 +3963,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "446",
+      "id": "441",
       "id_pzszach": "61458",
       "nazwisko_imie": "ŁYSAKOWSKI Kamil",
       "tytul_kategoria": "I",
@@ -4017,7 +3972,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "447",
+      "id": "442",
       "id_pzszach": "5356",
       "nazwisko_imie": "MUCHA Jozef",
       "tytul_kategoria": "I",
@@ -4026,7 +3981,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "448",
+      "id": "443",
       "id_pzszach": "16705",
       "nazwisko_imie": "STEBEL Agata",
       "tytul_kategoria": "K",
@@ -4035,7 +3990,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "449",
+      "id": "444",
       "id_pzszach": "19962",
       "nazwisko_imie": "NIEDBAŁA Rafał",
       "tytul_kategoria": "II+",
@@ -4044,7 +3999,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "450",
+      "id": "445",
+      "id_pzszach": "68983",
+      "nazwisko_imie": "CIUPKA Kamil",
+      "tytul_kategoria": "I",
+      "rank_fide": "1969",
+      "klub": "TG Mat",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "446",
       "id_pzszach": "5803",
       "nazwisko_imie": "KIEŚ Mariusz",
       "tytul_kategoria": "CM",
@@ -4053,7 +4017,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "451",
+      "id": "447",
       "id_pzszach": "5957",
       "nazwisko_imie": "NIGIEL Piotr",
       "tytul_kategoria": "I",
@@ -4062,7 +4026,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "452",
+      "id": "448",
       "id_pzszach": "9917",
       "nazwisko_imie": "LATOCHA Aleksander",
       "tytul_kategoria": "I",
@@ -4071,7 +4035,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "453",
+      "id": "449",
       "id_pzszach": "18986",
       "nazwisko_imie": "KOSMALA Mateusz",
       "tytul_kategoria": "I+",
@@ -4080,7 +4044,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "454",
+      "id": "450",
+      "id_pzszach": "5811",
+      "nazwisko_imie": "KŁUSAK Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "1967",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "451",
       "id_pzszach": "16218",
       "nazwisko_imie": "KARCZ Bartłomiej",
       "tytul_kategoria": "I",
@@ -4089,7 +4062,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "455",
+      "id": "452",
       "id_pzszach": "5755",
       "nazwisko_imie": "SĘKTAS Elżbieta",
       "tytul_kategoria": "K",
@@ -4098,7 +4071,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "456",
+      "id": "453",
+      "id_pzszach": "5935",
+      "nazwisko_imie": "MISZCZAK Dariusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "1965",
+      "klub": "KSz ZEFIR Boguszowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "454",
       "id_pzszach": "5415",
       "nazwisko_imie": "WIĘCEK Paweł",
       "tytul_kategoria": "K",
@@ -4107,7 +4089,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "457",
+      "id": "455",
+      "id_pzszach": "76131",
+      "nazwisko_imie": "NIESYT Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1964",
+      "klub": "SSz OLIMPIA Goleszów",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "456",
       "id_pzszach": "6075",
       "nazwisko_imie": "SKRZYCZEK Bartłomiej",
       "tytul_kategoria": "I",
@@ -4116,7 +4107,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "458",
+      "id": "457",
       "id_pzszach": "5826",
       "nazwisko_imie": "KORNASIEWICZ Stanisław",
       "tytul_kategoria": "FM",
@@ -4125,7 +4116,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "459",
+      "id": "458",
       "id_pzszach": "6103",
       "nazwisko_imie": "STASZCZYK Waldemar",
       "tytul_kategoria": "I",
@@ -4134,7 +4125,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "460",
+      "id": "459",
       "id_pzszach": "5121",
       "nazwisko_imie": "SKWARCZYŃSKI Marcin",
       "tytul_kategoria": "I",
@@ -4143,7 +4134,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "461",
+      "id": "460",
       "id_pzszach": "5159",
       "nazwisko_imie": "DUBIEL Łukasz",
       "tytul_kategoria": "I",
@@ -4152,7 +4143,25 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
+      "id": "461",
+      "id_pzszach": "67858",
+      "nazwisko_imie": "CHMIEL Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1960",
+      "klub": "TG Mat",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
       "id": "462",
+      "id_pzszach": "96889",
+      "nazwisko_imie": "SZUMIEC Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1960",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "463",
       "id_pzszach": "5976",
       "nazwisko_imie": "OLCHOWY Tadeusz",
       "tytul_kategoria": "K",
@@ -4161,7 +4170,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "463",
+      "id": "464",
       "id_pzszach": "43117",
       "nazwisko_imie": "PISAREK Jan",
       "tytul_kategoria": "I++",
@@ -4170,7 +4179,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "464",
+      "id": "465",
       "id_pzszach": "46600",
       "nazwisko_imie": "KOŁOCZEK Maciej",
       "tytul_kategoria": "I++",
@@ -4179,7 +4188,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "465",
+      "id": "466",
       "id_pzszach": "5294",
       "nazwisko_imie": "HARAT Artur",
       "tytul_kategoria": "II+",
@@ -4188,7 +4197,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "466",
+      "id": "467",
       "id_pzszach": "5348",
       "nazwisko_imie": "FOLTYN Łukasz",
       "tytul_kategoria": "I++",
@@ -4197,7 +4206,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "467",
+      "id": "468",
       "id_pzszach": "5862",
       "nazwisko_imie": "STOMA Katarzyna",
       "tytul_kategoria": "K",
@@ -4206,7 +4215,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "468",
+      "id": "469",
       "id_pzszach": "8029",
       "nazwisko_imie": "WOŹNIAK Dawid",
       "tytul_kategoria": "I",
@@ -4215,7 +4224,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "469",
+      "id": "470",
       "id_pzszach": "57475",
       "nazwisko_imie": "KANIA Dominik",
       "tytul_kategoria": "I",
@@ -4224,7 +4233,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "470",
+      "id": "471",
       "id_pzszach": "5483",
       "nazwisko_imie": "KOŁODZIEJ Szymon",
       "tytul_kategoria": "I",
@@ -4233,7 +4242,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "471",
+      "id": "472",
       "id_pzszach": "5879",
       "nazwisko_imie": "LACH Krzysztof",
       "tytul_kategoria": "I+",
@@ -4242,21 +4251,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "472",
+      "id": "473",
       "id_pzszach": "95296",
       "nazwisko_imie": "CZEREMCHA Piotr",
       "tytul_kategoria": "I+",
       "rank_fide": "1956",
       "klub": "UKS Pałac Młodzieży Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "473",
-      "id_pzszach": "6975",
-      "nazwisko_imie": "GRABARA Krzysztof",
-      "tytul_kategoria": "I",
-      "rank_fide": "1955",
-      "klub": "KS Kuźnia Ustroń",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -4279,15 +4279,6 @@
     },
     {
       "id": "476",
-      "id_pzszach": "67858",
-      "nazwisko_imie": "CHMIEL Paweł",
-      "tytul_kategoria": "I",
-      "rank_fide": "1954",
-      "klub": "TG Mat",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "477",
       "id_pzszach": "5154",
       "nazwisko_imie": "BONDAR Patryk",
       "tytul_kategoria": "I",
@@ -4296,7 +4287,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "478",
+      "id": "477",
       "id_pzszach": "5973",
       "nazwisko_imie": "OCZKOWSKI Stanisław",
       "tytul_kategoria": "I++",
@@ -4305,7 +4296,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "479",
+      "id": "478",
       "id_pzszach": "18624",
       "nazwisko_imie": "EKERT Mariusz",
       "tytul_kategoria": "I",
@@ -4314,7 +4305,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "480",
+      "id": "479",
       "id_pzszach": "5575",
       "nazwisko_imie": "BIEŃ Zygmunt",
       "tytul_kategoria": "I",
@@ -4323,12 +4314,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "481",
+      "id": "480",
       "id_pzszach": "5911",
       "nazwisko_imie": "MARZEC Jarosław",
       "tytul_kategoria": "K",
       "rank_fide": "1951",
       "klub": "Klub Szachowy CAISSA Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "481",
+      "id_pzszach": "5933",
+      "nazwisko_imie": "MILANOWSKI Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "1951",
+      "klub": "SSz GMINY PAWŁOWICE",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -4369,20 +4369,20 @@
     },
     {
       "id": "486",
+      "id_pzszach": "101017",
+      "nazwisko_imie": "DĘBOWSKA Olga",
+      "tytul_kategoria": "WCM",
+      "rank_fide": "1949",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "487",
       "id_pzszach": "6082",
       "nazwisko_imie": "ŚLIWIŃSKA Izabela",
       "tytul_kategoria": "K",
       "rank_fide": "1948",
       "klub": "LKS WISŁA Strumień",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "487",
-      "id_pzszach": "6097",
-      "nazwisko_imie": "SROKA Janusz",
-      "tytul_kategoria": "K",
-      "rank_fide": "1948",
-      "klub": "TMS ROSZADA Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -4486,20 +4486,20 @@
     },
     {
       "id": "499",
+      "id_pzszach": "7693",
+      "nazwisko_imie": "FALKOWSKI Dawid",
+      "tytul_kategoria": "K",
+      "rank_fide": "1941",
+      "klub": "MCKiS Jaworzno",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "500",
       "id_pzszach": "19100",
       "nazwisko_imie": "POLASZEK Arkadiusz",
       "tytul_kategoria": "II",
       "rank_fide": "1941",
       "klub": "",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "500",
-      "id_pzszach": "5318",
-      "nazwisko_imie": "BROŻA Eugeniusz",
-      "tytul_kategoria": "K",
-      "rank_fide": "1940",
-      "klub": "MKSz Rybnik",
       "wojewodztwo_zwiazek": "SL"
     }
   ]

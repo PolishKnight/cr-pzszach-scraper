@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:16.077Z",
+  "createdAt": "2026-09-03T06:45:55.990Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "1343",
       "nazwisko_imie": "BRODOWSKI Piotr",
       "tytul_kategoria": "IM",
-      "rank_fide": "2462",
+      "rank_fide": "2475",
       "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     },
@@ -22,6 +22,15 @@
     },
     {
       "id": "3",
+      "id_pzszach": "49896",
+      "nazwisko_imie": "KACPRZAK Karol",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2425",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "4",
       "id_pzszach": "7283",
       "nazwisko_imie": "WODA Jacek",
       "tytul_kategoria": "FM",
@@ -30,21 +39,12 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "4",
+      "id": "5",
       "id_pzszach": "7192",
       "nazwisko_imie": "SIECIECHOWICZ Marcin",
       "tytul_kategoria": "IM",
-      "rank_fide": "2377",
+      "rank_fide": "2379",
       "klub": "KSz LECH-WSUS Poznań",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "5",
-      "id_pzszach": "49896",
-      "nazwisko_imie": "KACPRZAK Karol",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2377",
-      "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     },
     {
@@ -76,20 +76,20 @@
     },
     {
       "id": "9",
-      "id_pzszach": "49895",
-      "nazwisko_imie": "KACPRZAK Kacper",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2353",
-      "klub": "OTSz Ostrów Wielkopolski",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "10",
       "id_pzszach": "6976",
       "nazwisko_imie": "GRABOWSKI Andrzej",
       "tytul_kategoria": "M",
       "rank_fide": "2350",
       "klub": "",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "7160",
+      "nazwisko_imie": "PRZYBYLSKI Wojciech",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2350",
+      "klub": "KS KORONA Zakrzewo",
       "wojewodztwo_zwiazek": "WP"
     }
   ]

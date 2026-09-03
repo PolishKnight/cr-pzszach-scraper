@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:05:52.880Z",
+  "createdAt": "2026-09-03T06:45:32.608Z",
   "totalRecords": 10,
   "data": [
     {
@@ -25,7 +25,7 @@
       "id_pzszach": "29659",
       "nazwisko_imie": "GUMULARZ Szymon",
       "tytul_kategoria": "GM",
-      "rank_fide": "2625",
+      "rank_fide": "2608",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -34,7 +34,7 @@
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
-      "rank_fide": "2619",
+      "rank_fide": "2606",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -43,25 +43,25 @@
       "id_pzszach": "21423",
       "nazwisko_imie": "FEDORCHUK Sergey A",
       "tytul_kategoria": "GM",
-      "rank_fide": "2599",
+      "rank_fide": "2596",
       "klub": "MCKiS Jaworzno",
       "wojewodztwo_zwiazek": "SL"
     },
     {
       "id": "6",
-      "id_pzszach": "6123",
-      "nazwisko_imie": "ŚWIERCZ Dariusz",
+      "id_pzszach": "61585",
+      "nazwisko_imie": "MALEK Jan",
       "tytul_kategoria": "GM",
-      "rank_fide": "2579",
+      "rank_fide": "2587",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
       "id": "7",
-      "id_pzszach": "61585",
-      "nazwisko_imie": "MALEK Jan",
+      "id_pzszach": "6123",
+      "nazwisko_imie": "ŚWIERCZ Dariusz",
       "tytul_kategoria": "GM",
-      "rank_fide": "2573",
+      "rank_fide": "2579",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },

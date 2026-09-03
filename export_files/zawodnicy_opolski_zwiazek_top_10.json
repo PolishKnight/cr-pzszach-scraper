@@ -1,9 +1,18 @@
 {
-  "createdAt": "2026-09-01T07:06:08.935Z",
+  "createdAt": "2026-09-03T06:45:48.259Z",
   "totalRecords": 10,
   "data": [
     {
       "id": "1",
+      "id_pzszach": "40265",
+      "nazwisko_imie": "KOZAK Antoni",
+      "tytul_kategoria": "M",
+      "rank_fide": "2455",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "2",
       "id_pzszach": "23608",
       "nazwisko_imie": "TOMCZAK Mikołaj",
       "tytul_kategoria": "IM",
@@ -12,30 +21,21 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "2",
-      "id_pzszach": "40265",
-      "nazwisko_imie": "KOZAK Antoni",
-      "tytul_kategoria": "M",
-      "rank_fide": "2426",
+      "id": "3",
+      "id_pzszach": "36952",
+      "nazwisko_imie": "MIŚ Mieszko",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2415",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "3",
+      "id": "4",
       "id_pzszach": "9846",
       "nazwisko_imie": "KOVALEV Andrei",
       "tytul_kategoria": "GM",
       "rank_fide": "2402",
       "klub": "",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "4",
-      "id_pzszach": "36952",
-      "nazwisko_imie": "MIŚ Mieszko",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2401",
-      "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
     {
@@ -52,7 +52,7 @@
       "id_pzszach": "56031",
       "nazwisko_imie": "NIEDBAŁA Bartłomiej",
       "tytul_kategoria": "IM",
-      "rank_fide": "2384",
+      "rank_fide": "2389",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:05.689Z",
+  "createdAt": "2026-09-03T06:45:44.832Z",
   "totalRecords": 100,
   "data": [
     {
@@ -400,15 +400,6 @@
     },
     {
       "id": "45",
-      "id_pzszach": "105261",
-      "nazwisko_imie": "MADEJSKI Miłosz",
-      "tytul_kategoria": "I",
-      "rank_fide": "2062",
-      "klub": "SSz Cebularz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "46",
       "id_pzszach": "2016",
       "nazwisko_imie": "DUDZIAK Adam",
       "tytul_kategoria": "I",
@@ -417,7 +408,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "47",
+      "id": "46",
       "id_pzszach": "2076",
       "nazwisko_imie": "MĄKA-POLKOWSKA Magdalena",
       "tytul_kategoria": "K",
@@ -426,7 +417,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "48",
+      "id": "47",
       "id_pzszach": "2003",
       "nazwisko_imie": "CIECHOCIŃSKA-MIEĆKO Zofia",
       "tytul_kategoria": "K",
@@ -435,12 +426,21 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "49",
+      "id": "48",
       "id_pzszach": "20270",
       "nazwisko_imie": "DZIDO Dawid",
       "tytul_kategoria": "I",
       "rank_fide": "2049",
       "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "105261",
+      "nazwisko_imie": "MADEJSKI Miłosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "2048",
+      "klub": "SSz Cebularz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -529,7 +529,7 @@
       "id_pzszach": "1924",
       "nazwisko_imie": "DZIUBIŃSKI Paweł",
       "tytul_kategoria": "I++",
-      "rank_fide": "1986",
+      "rank_fide": "1991",
       "klub": "SSz Cebularz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
@@ -562,11 +562,11 @@
     },
     {
       "id": "63",
-      "id_pzszach": "53746",
-      "nazwisko_imie": "GROCHOWSKI Kosma",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1954",
-      "klub": "LKSz Lublin",
+      "id_pzszach": "139554",
+      "nazwisko_imie": "NOHIN Ernest",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1958",
+      "klub": "MUKS GAMBIT Międzyrzec Podlaski",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -580,15 +580,6 @@
     },
     {
       "id": "65",
-      "id_pzszach": "2115",
-      "nazwisko_imie": "PRASZAK Michał",
-      "tytul_kategoria": "M",
-      "rank_fide": "1949",
-      "klub": "LUKS TEMPO Ożarów",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "66",
       "id_pzszach": "2152",
       "nazwisko_imie": "WOJCIESZYN Zdzisław",
       "tytul_kategoria": "K",
@@ -597,7 +588,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "67",
+      "id": "66",
       "id_pzszach": "17148",
       "nazwisko_imie": "GÓRA Antonina",
       "tytul_kategoria": "K",
@@ -606,7 +597,25 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
+      "id": "67",
+      "id_pzszach": "53746",
+      "nazwisko_imie": "GROCHOWSKI Kosma",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1943",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
       "id": "68",
+      "id_pzszach": "7908",
+      "nazwisko_imie": "PĘKAŁA Adam",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1935",
+      "klub": "Radzyńskie Towarzystwo Szachowe",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "69",
       "id_pzszach": "24298",
       "nazwisko_imie": "CYMBAŁA Ireneusz",
       "tytul_kategoria": "I",
@@ -615,7 +624,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "69",
+      "id": "70",
       "id_pzszach": "24315",
       "nazwisko_imie": "DERUŚ Jerzy",
       "tytul_kategoria": "II+",
@@ -624,7 +633,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "70",
+      "id": "71",
       "id_pzszach": "1894",
       "nazwisko_imie": "SZPAKIEWICZ Andrzej",
       "tytul_kategoria": "II+",
@@ -633,7 +642,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "71",
+      "id": "72",
       "id_pzszach": "10566",
       "nazwisko_imie": "ŻĄDŁO Maciej",
       "tytul_kategoria": "I",
@@ -642,7 +651,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "72",
+      "id": "73",
+      "id_pzszach": "1973",
+      "nazwisko_imie": "KOWALCZYK Marian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1916",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "74",
       "id_pzszach": "1876",
       "nazwisko_imie": "BIEŃ Janusz",
       "tytul_kategoria": "I++",
@@ -651,7 +669,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "73",
+      "id": "75",
       "id_pzszach": "17395",
       "nazwisko_imie": "BARTOSZEK Marcin",
       "tytul_kategoria": "I",
@@ -660,7 +678,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "74",
+      "id": "76",
       "id_pzszach": "1926",
       "nazwisko_imie": "GNATIUK Rafał",
       "tytul_kategoria": "II",
@@ -669,7 +687,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "75",
+      "id": "77",
       "id_pzszach": "115695",
       "nazwisko_imie": "KOZŁOWSKI Mateusz",
       "tytul_kategoria": "I",
@@ -678,7 +696,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "76",
+      "id": "78",
       "id_pzszach": "1985",
       "nazwisko_imie": "ŻĄDŁO Anna",
       "tytul_kategoria": "I",
@@ -687,16 +705,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "77",
-      "id_pzszach": "1973",
-      "nazwisko_imie": "KOWALCZYK Marian",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1902",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "78",
+      "id": "79",
       "id_pzszach": "59213",
       "nazwisko_imie": "KUREK Andrzej",
       "tytul_kategoria": "I",
@@ -705,7 +714,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "79",
+      "id": "80",
+      "id_pzszach": "139115",
+      "nazwisko_imie": "KOŹMALA Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1900",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "81",
       "id_pzszach": "24356",
       "nazwisko_imie": "SWATEK Wojciech",
       "tytul_kategoria": "I",
@@ -714,7 +732,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "80",
+      "id": "82",
       "id_pzszach": "33152",
       "nazwisko_imie": "SIWEK Mateusz",
       "tytul_kategoria": "II",
@@ -723,7 +741,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "81",
+      "id": "83",
+      "id_pzszach": "2115",
+      "nazwisko_imie": "PRASZAK Michał",
+      "tytul_kategoria": "M",
+      "rank_fide": "1898",
+      "klub": "LUKS TEMPO Ożarów",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "84",
       "id_pzszach": "2021",
       "nazwisko_imie": "FRĄCZEK Dariusz",
       "tytul_kategoria": "CM",
@@ -732,7 +759,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "82",
+      "id": "85",
       "id_pzszach": "1920",
       "nazwisko_imie": "CHOMIUK Łukasz",
       "tytul_kategoria": "I",
@@ -741,7 +768,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "83",
+      "id": "86",
       "id_pzszach": "1885",
       "nazwisko_imie": "KRZYŻANOWSKI Wojciech",
       "tytul_kategoria": "I+",
@@ -750,16 +777,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "84",
-      "id_pzszach": "7908",
-      "nazwisko_imie": "PĘKAŁA Adam",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1895",
-      "klub": "Radzyńskie Towarzystwo Szachowe",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "85",
+      "id": "87",
       "id_pzszach": "50276",
       "nazwisko_imie": "WOJCIECHOWSKI Adam",
       "tytul_kategoria": "II",
@@ -768,7 +786,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "86",
+      "id": "88",
       "id_pzszach": "33135",
       "nazwisko_imie": "ROGOZA Andrzej",
       "tytul_kategoria": "I",
@@ -777,7 +795,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "87",
+      "id": "89",
       "id_pzszach": "58022",
       "nazwisko_imie": "CISEK Kamil",
       "tytul_kategoria": "I+",
@@ -786,7 +804,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "88",
+      "id": "90",
       "id_pzszach": "47213",
       "nazwisko_imie": "SKWARZYŃSKI Michał",
       "tytul_kategoria": "II",
@@ -795,7 +813,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "89",
+      "id": "91",
       "id_pzszach": "104564",
       "nazwisko_imie": "LIPIAK Bartosz",
       "tytul_kategoria": "I",
@@ -804,16 +822,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "90",
-      "id_pzszach": "4937",
-      "nazwisko_imie": "SARNOWSKI Witold",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1889",
-      "klub": "",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "91",
+      "id": "92",
       "id_pzszach": "2005",
       "nazwisko_imie": "CIECHOCIŃSKI Stefan",
       "tytul_kategoria": "K",
@@ -822,7 +831,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "92",
+      "id": "93",
       "id_pzszach": "17162",
       "nazwisko_imie": "WAROWNY Marcin",
       "tytul_kategoria": "II+",
@@ -831,7 +840,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "93",
+      "id": "94",
+      "id_pzszach": "2144",
+      "nazwisko_imie": "UŚCIŃSKI Marek",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1887",
+      "klub": "ULKS NIWKA Łomazy",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "95",
       "id_pzszach": "17405",
       "nazwisko_imie": "SIKORA Rafał",
       "tytul_kategoria": "I",
@@ -840,7 +858,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "94",
+      "id": "96",
       "id_pzszach": "27098",
       "nazwisko_imie": "SZCZYGIEŁ Jakub",
       "tytul_kategoria": "I",
@@ -849,7 +867,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "95",
+      "id": "97",
       "id_pzszach": "53350",
       "nazwisko_imie": "PIWOWARCZYK Julia",
       "tytul_kategoria": "K",
@@ -858,16 +876,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "96",
-      "id_pzszach": "27097",
-      "nazwisko_imie": "SZCZYGIEŁ Konrad",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1875",
-      "klub": "KSz Hetman Krynka",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "97",
+      "id": "98",
       "id_pzszach": "2133",
       "nazwisko_imie": "SYKUŁA Andrzej",
       "tytul_kategoria": "I",
@@ -876,30 +885,21 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "98",
-      "id_pzszach": "72028",
-      "nazwisko_imie": "MAZUŚ Jakub",
-      "tytul_kategoria": "I",
-      "rank_fide": "1874",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
       "id": "99",
-      "id_pzszach": "2144",
-      "nazwisko_imie": "UŚCIŃSKI Marek",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1871",
-      "klub": "ULKS NIWKA Łomazy",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "100",
       "id_pzszach": "17153",
       "nazwisko_imie": "KRASOWSKI Piotr",
       "tytul_kategoria": "I",
       "rank_fide": "1870",
       "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "27097",
+      "nazwisko_imie": "SZCZYGIEŁ Konrad",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1870",
+      "klub": "KSz Hetman Krynka",
       "wojewodztwo_zwiazek": "LU"
     }
   ]

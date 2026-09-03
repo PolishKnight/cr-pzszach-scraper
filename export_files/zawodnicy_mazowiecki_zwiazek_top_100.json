@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:06.583Z",
+  "createdAt": "2026-09-03T06:45:45.778Z",
   "totalRecords": 100,
   "data": [
     {
@@ -34,7 +34,7 @@
       "id_pzszach": "5739",
       "nazwisko_imie": "HEBERLA Bartłomiej",
       "tytul_kategoria": "GM",
-      "rank_fide": "2499",
+      "rank_fide": "2496",
       "klub": "KS LAURA Chylice",
       "wojewodztwo_zwiazek": "MA"
     },
@@ -49,15 +49,6 @@
     },
     {
       "id": "6",
-      "id_pzszach": "2009",
-      "nazwisko_imie": "CYBOROWSKI Łukasz",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2455",
-      "klub": "LKS WRZOS Międzyborów",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "7",
       "id_pzszach": "4006",
       "nazwisko_imie": "KUŹMICZ Krystian",
       "tytul_kategoria": "IM",
@@ -66,11 +57,20 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "5551",
       "nazwisko_imie": "ANTONIEWSKI Rafał",
       "tytul_kategoria": "GM",
       "rank_fide": "2454",
+      "klub": "LKS WRZOS Międzyborów",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "2009",
+      "nazwisko_imie": "CYBOROWSKI Łukasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2440",
       "klub": "LKS WRZOS Międzyborów",
       "wojewodztwo_zwiazek": "MA"
     },
@@ -87,22 +87,13 @@
       "id": "10",
       "id_pzszach": "34071",
       "nazwisko_imie": "PACAN-MILEJ Kosma",
-      "tytul_kategoria": "FM",
+      "tytul_kategoria": "IM",
       "rank_fide": "2407",
       "klub": "UKS SPARTA Białołęka",
       "wojewodztwo_zwiazek": "MA"
     },
     {
       "id": "11",
-      "id_pzszach": "506",
-      "nazwisko_imie": "CUKROWSKI Filip",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2403",
-      "klub": "UKS SPARTA Białołęka",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "12",
       "id_pzszach": "2063",
       "nazwisko_imie": "KRYSZTOFIAK Marcin",
       "tytul_kategoria": "IM",
@@ -111,16 +102,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "13",
-      "id_pzszach": "17319",
-      "nazwisko_imie": "PASZEWSKI Mateusz",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2400",
-      "klub": "UKS SPARTA Białołęka",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "14",
+      "id": "12",
       "id_pzszach": "62733",
       "nazwisko_imie": "MULAWA Cyprian",
       "tytul_kategoria": "FM",
@@ -129,7 +111,16 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "15",
+      "id": "13",
+      "id_pzszach": "17319",
+      "nazwisko_imie": "PASZEWSKI Mateusz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2397",
+      "klub": "UKS SPARTA Białołęka",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "14",
       "id_pzszach": "2228",
       "nazwisko_imie": "DEJKALO Stefan",
       "tytul_kategoria": "IM",
@@ -138,16 +129,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "16",
-      "id_pzszach": "7481",
-      "nazwisko_imie": "KULON Klaudia",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2395",
-      "klub": "LKS WRZOS Międzyborów",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "17",
+      "id": "15",
       "id_pzszach": "4855",
       "nazwisko_imie": "SZNAPIK Aleksander",
       "tytul_kategoria": "IM",
@@ -156,7 +138,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "18",
+      "id": "16",
       "id_pzszach": "26451",
       "nazwisko_imie": "KOWALSKI Igor",
       "tytul_kategoria": "IM",
@@ -165,7 +147,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "19",
+      "id": "17",
       "id_pzszach": "4388",
       "nazwisko_imie": "SZYMAŃSKI Marcin",
       "tytul_kategoria": "IM",
@@ -174,7 +156,16 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "20",
+      "id": "18",
+      "id_pzszach": "506",
+      "nazwisko_imie": "CUKROWSKI Filip",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2387",
+      "klub": "UKS SPARTA Białołęka",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "19",
       "id_pzszach": "17073",
       "nazwisko_imie": "EGGINK Ryszard",
       "tytul_kategoria": "FM",
@@ -183,7 +174,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "21",
+      "id": "20",
       "id_pzszach": "2249",
       "nazwisko_imie": "SCHINZEL Władysław",
       "tytul_kategoria": "IM",
@@ -192,7 +183,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "22",
+      "id": "21",
       "id_pzszach": "21421",
       "nazwisko_imie": "SHKAPENKO Pavel",
       "tytul_kategoria": "IM",
@@ -201,11 +192,20 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
+      "id": "22",
+      "id_pzszach": "7481",
+      "nazwisko_imie": "KULON Klaudia",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2375",
+      "klub": "LKS WRZOS Międzyborów",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
       "id": "23",
       "id_pzszach": "2186",
       "nazwisko_imie": "NGUYEN Piotr",
       "tytul_kategoria": "IM",
-      "rank_fide": "2374",
+      "rank_fide": "2368",
       "klub": "KSz Hetman Płock",
       "wojewodztwo_zwiazek": "MA"
     },
@@ -220,6 +220,15 @@
     },
     {
       "id": "25",
+      "id_pzszach": "114186",
+      "nazwisko_imie": "TSIAPKO Andrii",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2364",
+      "klub": "KS LAURA Chylice",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "26",
       "id_pzszach": "19517",
       "nazwisko_imie": "REZA Wojciech",
       "tytul_kategoria": "FM",
@@ -228,21 +237,12 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "26",
+      "id": "27",
       "id_pzszach": "1190",
       "nazwisko_imie": "VOLOSHIN Leon",
       "tytul_kategoria": "GM",
       "rank_fide": "2354",
       "klub": "KSz SKOCZEK TROJAŃSKI",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "27",
-      "id_pzszach": "42391",
-      "nazwisko_imie": "GOLUBKA Petro",
-      "tytul_kategoria": "",
-      "rank_fide": "2354",
-      "klub": "",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -276,22 +276,13 @@
       "id": "31",
       "id_pzszach": "2859",
       "nazwisko_imie": "NURKIEWICZ Maciej",
-      "tytul_kategoria": "M",
+      "tytul_kategoria": "IM",
       "rank_fide": "2349",
       "klub": "LKS WRZOS Międzyborów",
       "wojewodztwo_zwiazek": "MA"
     },
     {
       "id": "32",
-      "id_pzszach": "114186",
-      "nazwisko_imie": "TSIAPKO Andrii",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2349",
-      "klub": "KS LAURA Chylice",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "33",
       "id_pzszach": "2701",
       "nazwisko_imie": "JEDYNAK Radosław",
       "tytul_kategoria": "GM",
@@ -300,7 +291,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "34",
+      "id": "33",
       "id_pzszach": "10901",
       "nazwisko_imie": "KACZMAREK Aleksander",
       "tytul_kategoria": "IM",
@@ -309,12 +300,21 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "35",
+      "id": "34",
       "id_pzszach": "2591",
       "nazwisko_imie": "BRUSTMAN Agnieszka",
       "tytul_kategoria": "WGM",
       "rank_fide": "2344",
       "klub": "KSz POLONIA Warszawa",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "42391",
+      "nazwisko_imie": "GOLUBKA Petro",
+      "tytul_kategoria": "",
+      "rank_fide": "2344",
+      "klub": "",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -403,7 +403,7 @@
       "id_pzszach": "33850",
       "nazwisko_imie": "CHYLEWSKI Patryk",
       "tytul_kategoria": "IM",
-      "rank_fide": "2313",
+      "rank_fide": "2311",
       "klub": "KS LAURA Chylice",
       "wojewodztwo_zwiazek": "MA"
     },
@@ -427,6 +427,15 @@
     },
     {
       "id": "48",
+      "id_pzszach": "17034",
+      "nazwisko_imie": "CHOMCZYK Marek",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2308",
+      "klub": "KSz ZUGZWANG Warszawa",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "49",
       "id_pzszach": "2888",
       "nazwisko_imie": "PATEREK Michał",
       "tytul_kategoria": "FM",
@@ -435,21 +444,12 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "49",
+      "id": "50",
       "id_pzszach": "2538",
       "nazwisko_imie": "SZYSZKO Ignacy",
       "tytul_kategoria": "FM",
       "rank_fide": "2305",
       "klub": "",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "50",
-      "id_pzszach": "17034",
-      "nazwisko_imie": "CHOMCZYK Marek",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2301",
-      "klub": "KSz ZUGZWANG Warszawa",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -472,15 +472,6 @@
     },
     {
       "id": "53",
-      "id_pzszach": "17133",
-      "nazwisko_imie": "KARWOWSKI Kacper",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2297",
-      "klub": "UKS SPARTA Białołęka",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "54",
       "id_pzszach": "2958",
       "nazwisko_imie": "SKURSKI Jan",
       "tytul_kategoria": "K+",
@@ -489,16 +480,16 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "55",
+      "id": "54",
       "id_pzszach": "2672",
       "nazwisko_imie": "GRABARCZYK Mirosław",
       "tytul_kategoria": "GM",
-      "rank_fide": "2290",
+      "rank_fide": "2288",
       "klub": "KSz Hetman Płock",
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "56",
+      "id": "55",
       "id_pzszach": "5880",
       "nazwisko_imie": "ŁAGOWSKI Patryk",
       "tytul_kategoria": "IM",
@@ -507,16 +498,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "57",
-      "id_pzszach": "7502",
-      "nazwisko_imie": "MICKIEWICZ Piotr",
-      "tytul_kategoria": "M",
-      "rank_fide": "2286",
-      "klub": "UKS TSz Zieloni Zielonka",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "58",
+      "id": "56",
       "id_pzszach": "30638",
       "nazwisko_imie": "GOLECKI Jan",
       "tytul_kategoria": "FM",
@@ -525,7 +507,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "59",
+      "id": "57",
       "id_pzszach": "2309",
       "nazwisko_imie": "ADAMSKI Andrzej",
       "tytul_kategoria": "IM",
@@ -534,7 +516,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "60",
+      "id": "58",
       "id_pzszach": "4191",
       "nazwisko_imie": "SOWUL Bartosz",
       "tytul_kategoria": "CM",
@@ -543,7 +525,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "61",
+      "id": "59",
       "id_pzszach": "64345",
       "nazwisko_imie": "BARTODZIEJ Bartosz",
       "tytul_kategoria": "FM",
@@ -552,7 +534,16 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "62",
+      "id": "60",
+      "id_pzszach": "7502",
+      "nazwisko_imie": "MICKIEWICZ Piotr",
+      "tytul_kategoria": "M",
+      "rank_fide": "2271",
+      "klub": "UKS TSz Zieloni Zielonka",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "61",
       "id_pzszach": "73253",
       "nazwisko_imie": "NAWALANIEC Adam",
       "tytul_kategoria": "FM",
@@ -561,7 +552,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "63",
+      "id": "62",
       "id_pzszach": "2992",
       "nazwisko_imie": "SZWIER Eugeniusz",
       "tytul_kategoria": "K++",
@@ -570,7 +561,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "64",
+      "id": "63",
       "id_pzszach": "159",
       "nazwisko_imie": "BEBEL Arkadiusz",
       "tytul_kategoria": "FM",
@@ -579,12 +570,21 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "65",
+      "id": "64",
       "id_pzszach": "707",
       "nazwisko_imie": "SOKOŁOWSKI Stanisław",
       "tytul_kategoria": "K",
       "rank_fide": "2266",
       "klub": "UKSz Hetman Warszawa",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "65",
+      "id_pzszach": "68371",
+      "nazwisko_imie": "RAJLICH Vaclav",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2265",
+      "klub": "UKS Szachowa Dwójka Grodzisk Maz.",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -661,6 +661,15 @@
     },
     {
       "id": "74",
+      "id_pzszach": "17133",
+      "nazwisko_imie": "KARWOWSKI Kacper",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2252",
+      "klub": "UKS SPARTA Białołęka",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "75",
       "id_pzszach": "2568",
       "nazwisko_imie": "BARTEL Marek",
       "tytul_kategoria": "K",
@@ -669,21 +678,12 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "75",
+      "id": "76",
       "id_pzszach": "2677",
       "nazwisko_imie": "GRYCIUK Wojciech",
       "tytul_kategoria": "K",
       "rank_fide": "2245",
       "klub": "",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "76",
-      "id_pzszach": "27314",
-      "nazwisko_imie": "RUDZIŃSKA Michalina",
-      "tytul_kategoria": "WGM",
-      "rank_fide": "2245",
-      "klub": "KS LAURA Chylice",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -724,15 +724,6 @@
     },
     {
       "id": "81",
-      "id_pzszach": "69273",
-      "nazwisko_imie": "SUSKA Szymon",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2231",
-      "klub": "UKS CZTERNASTKA Warszawa",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "82",
       "id_pzszach": "2322",
       "nazwisko_imie": "PAĆKO-MOLĘCKI Krzysztof",
       "tytul_kategoria": "K",
@@ -741,7 +732,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "83",
+      "id": "82",
       "id_pzszach": "2679",
       "nazwisko_imie": "GRZELAK Rafał",
       "tytul_kategoria": "K",
@@ -750,12 +741,21 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "84",
+      "id": "83",
       "id_pzszach": "23209",
       "nazwisko_imie": "SULIBORSKI Jakub",
       "tytul_kategoria": "K",
       "rank_fide": "2227",
       "klub": "UKS SPARTA Białołęka",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "84",
+      "id_pzszach": "27314",
+      "nazwisko_imie": "RUDZIŃSKA Michalina",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2226",
+      "klub": "KS LAURA Chylice",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -796,15 +796,6 @@
     },
     {
       "id": "89",
-      "id_pzszach": "67340",
-      "nazwisko_imie": "JANECZKO Jakub",
-      "tytul_kategoria": "M",
-      "rank_fide": "2221",
-      "klub": "UKS CZTERNASTKA Warszawa",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "90",
       "id_pzszach": "4363",
       "nazwisko_imie": "BARTEL Marta",
       "tytul_kategoria": "WGM",
@@ -813,7 +804,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "91",
+      "id": "90",
       "id_pzszach": "2657",
       "nazwisko_imie": "GAWLIŃSKI Michał",
       "tytul_kategoria": "K",
@@ -822,7 +813,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "92",
+      "id": "91",
       "id_pzszach": "2768",
       "nazwisko_imie": "KRAUZE Dariusz",
       "tytul_kategoria": "K",
@@ -831,7 +822,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "93",
+      "id": "92",
       "id_pzszach": "3030",
       "nazwisko_imie": "ZAKRZEWSKI Marcin",
       "tytul_kategoria": "I+",
@@ -840,7 +831,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "94",
+      "id": "93",
       "id_pzszach": "3191",
       "nazwisko_imie": "DUMAŃSKI Aleksander",
       "tytul_kategoria": "K",
@@ -849,7 +840,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "95",
+      "id": "94",
       "id_pzszach": "25375",
       "nazwisko_imie": "WINIARSKI Mikołaj",
       "tytul_kategoria": "FM",
@@ -858,12 +849,21 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "2995",
       "nazwisko_imie": "SZYMAŃSKI Andrzej",
       "tytul_kategoria": "CM",
       "rank_fide": "2212",
       "klub": "ZUGZWANG Radom",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "96",
+      "id_pzszach": "67340",
+      "nazwisko_imie": "JANECZKO Jakub",
+      "tytul_kategoria": "M",
+      "rank_fide": "2212",
+      "klub": "UKS CZTERNASTKA Warszawa",
       "wojewodztwo_zwiazek": "MA"
     },
     {

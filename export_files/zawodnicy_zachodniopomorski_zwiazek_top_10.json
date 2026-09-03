@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:17.668Z",
+  "createdAt": "2026-09-03T06:45:57.711Z",
   "totalRecords": 10,
   "data": [
     {
@@ -43,7 +43,7 @@
       "id_pzszach": "46732",
       "nazwisko_imie": "KOZIOROWICZ Michał",
       "tytul_kategoria": "FM",
-      "rank_fide": "2317",
+      "rank_fide": "2333",
       "klub": "Myśliborski Klub Szachowy",
       "wojewodztwo_zwiazek": "ZP"
     },
@@ -58,20 +58,20 @@
     },
     {
       "id": "7",
-      "id_pzszach": "17650",
-      "nazwisko_imie": "ANTOLAK Julia",
-      "tytul_kategoria": "WGM",
-      "rank_fide": "2292",
-      "klub": "GKSz SOLNY Grzybowo",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "8",
       "id_pzszach": "7480",
       "nazwisko_imie": "KULA Robert",
       "tytul_kategoria": "FM",
       "rank_fide": "2284",
       "klub": "",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "17650",
+      "nazwisko_imie": "ANTOLAK Julia",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2283",
+      "klub": "GKSz SOLNY Grzybowo",
       "wojewodztwo_zwiazek": "ZP"
     },
     {

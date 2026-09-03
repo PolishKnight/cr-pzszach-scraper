@@ -1,9 +1,18 @@
 {
-  "createdAt": "2026-09-01T07:06:08.935Z",
+  "createdAt": "2026-09-03T06:45:48.260Z",
   "totalRecords": 100,
   "data": [
     {
       "id": "1",
+      "id_pzszach": "40265",
+      "nazwisko_imie": "KOZAK Antoni",
+      "tytul_kategoria": "M",
+      "rank_fide": "2455",
+      "klub": "AZS KU Politechniki Opolskiej",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "2",
       "id_pzszach": "23608",
       "nazwisko_imie": "TOMCZAK Mikołaj",
       "tytul_kategoria": "IM",
@@ -12,30 +21,21 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "2",
-      "id_pzszach": "40265",
-      "nazwisko_imie": "KOZAK Antoni",
-      "tytul_kategoria": "M",
-      "rank_fide": "2426",
+      "id": "3",
+      "id_pzszach": "36952",
+      "nazwisko_imie": "MIŚ Mieszko",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2415",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "3",
+      "id": "4",
       "id_pzszach": "9846",
       "nazwisko_imie": "KOVALEV Andrei",
       "tytul_kategoria": "GM",
       "rank_fide": "2402",
       "klub": "",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "4",
-      "id_pzszach": "36952",
-      "nazwisko_imie": "MIŚ Mieszko",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2401",
-      "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
     {
@@ -52,7 +52,7 @@
       "id_pzszach": "56031",
       "nazwisko_imie": "NIEDBAŁA Bartłomiej",
       "tytul_kategoria": "IM",
-      "rank_fide": "2384",
+      "rank_fide": "2389",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
@@ -589,6 +589,15 @@
     },
     {
       "id": "66",
+      "id_pzszach": "3573",
+      "nazwisko_imie": "KAMIŃSKI Leszek",
+      "tytul_kategoria": "I",
+      "rank_fide": "1944",
+      "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "67",
       "id_pzszach": "3714",
       "nazwisko_imie": "TABOŁA Marcin",
       "tytul_kategoria": "I++",
@@ -597,7 +606,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "67",
+      "id": "68",
       "id_pzszach": "3609",
       "nazwisko_imie": "MARCINKIEWICZ Piotr",
       "tytul_kategoria": "I",
@@ -606,7 +615,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "68",
+      "id": "69",
       "id_pzszach": "116261",
       "nazwisko_imie": "KOWALSKI Maciej",
       "tytul_kategoria": "I",
@@ -615,7 +624,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "69",
+      "id": "70",
       "id_pzszach": "7735",
       "nazwisko_imie": "GWOŹDZIK Zbigniew",
       "tytul_kategoria": "I",
@@ -624,7 +633,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "70",
+      "id": "71",
       "id_pzszach": "51935",
       "nazwisko_imie": "BEDNARCZYK Mateusz",
       "tytul_kategoria": "I",
@@ -633,7 +642,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "71",
+      "id": "72",
       "id_pzszach": "71069",
       "nazwisko_imie": "OGŁAZA Dawid",
       "tytul_kategoria": "I",
@@ -642,7 +651,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "72",
+      "id": "73",
       "id_pzszach": "5634",
       "nazwisko_imie": "CZEMPIEL Henryk",
       "tytul_kategoria": "I",
@@ -651,7 +660,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "73",
+      "id": "74",
       "id_pzszach": "3586",
       "nazwisko_imie": "KLIMEK Marcin",
       "tytul_kategoria": "I+",
@@ -660,7 +669,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "74",
+      "id": "75",
       "id_pzszach": "3686",
       "nazwisko_imie": "CHMIEL Dominika",
       "tytul_kategoria": "M",
@@ -669,7 +678,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "75",
+      "id": "76",
       "id_pzszach": "7934",
       "nazwisko_imie": "REWASIEWICZ Miłosz",
       "tytul_kategoria": "II+",
@@ -678,7 +687,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "76",
+      "id": "77",
       "id_pzszach": "9286",
       "nazwisko_imie": "KOPICA Paulina",
       "tytul_kategoria": "K",
@@ -687,7 +696,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "77",
+      "id": "78",
       "id_pzszach": "3706",
       "nazwisko_imie": "SRUTWA Maciej",
       "tytul_kategoria": "I",
@@ -696,7 +705,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "78",
+      "id": "79",
       "id_pzszach": "9869",
       "nazwisko_imie": "SZMER Aleksander",
       "tytul_kategoria": "I",
@@ -705,7 +714,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "79",
+      "id": "80",
       "id_pzszach": "3703",
       "nazwisko_imie": "SKUPINSKA Anna",
       "tytul_kategoria": "I++",
@@ -714,7 +723,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "80",
+      "id": "81",
       "id_pzszach": "9449",
       "nazwisko_imie": "NOCON Marian",
       "tytul_kategoria": "I",
@@ -723,7 +732,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "81",
+      "id": "82",
       "id_pzszach": "142800",
       "nazwisko_imie": "RIABOV Valeri",
       "tytul_kategoria": "",
@@ -732,7 +741,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "82",
+      "id": "83",
       "id_pzszach": "3594",
       "nazwisko_imie": "WOLSKI Marcin",
       "tytul_kategoria": "I",
@@ -741,7 +750,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "83",
+      "id": "84",
       "id_pzszach": "3728",
       "nazwisko_imie": "WILK Paweł",
       "tytul_kategoria": "II",
@@ -750,7 +759,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "84",
+      "id": "85",
       "id_pzszach": "8998",
       "nazwisko_imie": "AUGUSTYNOWICZ Piotr",
       "tytul_kategoria": "II",
@@ -759,7 +768,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "85",
+      "id": "86",
       "id_pzszach": "3715",
       "nazwisko_imie": "WODECKA Marta",
       "tytul_kategoria": "I",
@@ -768,7 +777,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "86",
+      "id": "87",
       "id_pzszach": "9270",
       "nazwisko_imie": "KLIMEK Piotr",
       "tytul_kategoria": "I",
@@ -777,7 +786,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "87",
+      "id": "88",
       "id_pzszach": "19743",
       "nazwisko_imie": "RACŁAWICKI Kacper",
       "tytul_kategoria": "II+",
@@ -786,7 +795,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "88",
+      "id": "89",
       "id_pzszach": "10614",
       "nazwisko_imie": "MANIA Marek",
       "tytul_kategoria": "I",
@@ -795,7 +804,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "89",
+      "id": "90",
       "id_pzszach": "3623",
       "nazwisko_imie": "BOBOWSKA Joanna",
       "tytul_kategoria": "I+",
@@ -804,21 +813,12 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "90",
+      "id": "91",
       "id_pzszach": "3597",
       "nazwisko_imie": "JANKOWSKI Grzegorz",
       "tytul_kategoria": "I",
       "rank_fide": "1892",
       "klub": "UKS RODŁO Opole",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "91",
-      "id_pzszach": "3573",
-      "nazwisko_imie": "KAMIŃSKI Leszek",
-      "tytul_kategoria": "I",
-      "rank_fide": "1891",
-      "klub": "",
       "wojewodztwo_zwiazek": "OP"
     },
     {

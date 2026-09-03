@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:06.583Z",
+  "createdAt": "2026-09-03T06:45:45.777Z",
   "totalRecords": 10,
   "data": [
     {
@@ -34,7 +34,7 @@
       "id_pzszach": "5739",
       "nazwisko_imie": "HEBERLA Bartłomiej",
       "tytul_kategoria": "GM",
-      "rank_fide": "2499",
+      "rank_fide": "2496",
       "klub": "KS LAURA Chylice",
       "wojewodztwo_zwiazek": "MA"
     },
@@ -49,15 +49,6 @@
     },
     {
       "id": "6",
-      "id_pzszach": "2009",
-      "nazwisko_imie": "CYBOROWSKI Łukasz",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2455",
-      "klub": "LKS WRZOS Międzyborów",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "7",
       "id_pzszach": "4006",
       "nazwisko_imie": "KUŹMICZ Krystian",
       "tytul_kategoria": "IM",
@@ -66,11 +57,20 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "5551",
       "nazwisko_imie": "ANTONIEWSKI Rafał",
       "tytul_kategoria": "GM",
       "rank_fide": "2454",
+      "klub": "LKS WRZOS Międzyborów",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "2009",
+      "nazwisko_imie": "CYBOROWSKI Łukasz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2440",
       "klub": "LKS WRZOS Międzyborów",
       "wojewodztwo_zwiazek": "MA"
     },
@@ -87,7 +87,7 @@
       "id": "10",
       "id_pzszach": "34071",
       "nazwisko_imie": "PACAN-MILEJ Kosma",
-      "tytul_kategoria": "FM",
+      "tytul_kategoria": "IM",
       "rank_fide": "2407",
       "klub": "UKS SPARTA Białołęka",
       "wojewodztwo_zwiazek": "MA"

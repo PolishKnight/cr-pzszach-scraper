@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:15.309Z",
+  "createdAt": "2026-09-03T06:45:55.207Z",
   "totalRecords": 10,
   "data": [
     {
@@ -13,6 +13,15 @@
     },
     {
       "id": "2",
+      "id_pzszach": "108055",
+      "nazwisko_imie": "RZĄP Filip",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2341",
+      "klub": "UKS UZDOWO",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "3",
       "id_pzszach": "9876",
       "nazwisko_imie": "RENKOWSKI Piotr",
       "tytul_kategoria": "M",
@@ -21,20 +30,11 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "3",
-      "id_pzszach": "108055",
-      "nazwisko_imie": "RZĄP Filip",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2297",
-      "klub": "UKS UZDOWO",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
       "id": "4",
       "id_pzszach": "77433",
       "nazwisko_imie": "MURAWSKI Jan",
       "tytul_kategoria": "V",
-      "rank_fide": "2270",
+      "rank_fide": "2307",
       "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:02.941Z",
+  "createdAt": "2026-09-03T06:45:41.994Z",
   "totalRecords": 500,
   "data": [
     {
@@ -97,7 +97,7 @@
       "id_pzszach": "15166",
       "nazwisko_imie": "ŚLIWICKA Alicja",
       "tytul_kategoria": "WGM",
-      "rank_fide": "2304",
+      "rank_fide": "2324",
       "klub": "UKS OPP Toruń",
       "wojewodztwo_zwiazek": "KP"
     },
@@ -247,15 +247,6 @@
     },
     {
       "id": "28",
-      "id_pzszach": "1139",
-      "nazwisko_imie": "SIWIEC Bartłomiej",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2205",
-      "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "29",
       "id_pzszach": "1203",
       "nazwisko_imie": "WIESE Małgorzata",
       "tytul_kategoria": "WIM",
@@ -264,7 +255,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "30",
+      "id": "29",
       "id_pzszach": "1036",
       "nazwisko_imie": "KURLENDA Adam",
       "tytul_kategoria": "K",
@@ -273,7 +264,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "31",
+      "id": "30",
       "id_pzszach": "1123",
       "nazwisko_imie": "RZÓSKA Kamil",
       "tytul_kategoria": "K",
@@ -282,7 +273,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "32",
+      "id": "31",
       "id_pzszach": "901",
       "nazwisko_imie": "BORGULA Rafał",
       "tytul_kategoria": "FM",
@@ -291,7 +282,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "33",
+      "id": "32",
       "id_pzszach": "952",
       "nazwisko_imie": "GRALKA Przemysław",
       "tytul_kategoria": "K",
@@ -300,7 +291,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "34",
+      "id": "33",
       "id_pzszach": "1141",
       "nazwisko_imie": "SMĘTKOWSKI Łukasz",
       "tytul_kategoria": "I+",
@@ -309,7 +300,25 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
+      "id": "34",
+      "id_pzszach": "871",
+      "nazwisko_imie": "ŚLIWICKI Damian",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2187",
+      "klub": "UKS OPP Toruń",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
       "id": "35",
+      "id_pzszach": "1139",
+      "nazwisko_imie": "SIWIEC Bartłomiej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2183",
+      "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "36",
       "id_pzszach": "19853",
       "nazwisko_imie": "POPIÓŁ Michał",
       "tytul_kategoria": "CM",
@@ -318,7 +327,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "36",
+      "id": "37",
       "id_pzszach": "701",
       "nazwisko_imie": "BRZEZIŃSKI Mateusz",
       "tytul_kategoria": "K",
@@ -327,7 +336,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "37",
+      "id": "38",
+      "id_pzszach": "31981",
+      "nazwisko_imie": "PRACZUKOWSKI Stanisław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2175",
+      "klub": "UKS OPP Toruń",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "39",
       "id_pzszach": "951",
       "nazwisko_imie": "GRALKA Julian",
       "tytul_kategoria": "FM",
@@ -336,16 +354,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "38",
-      "id_pzszach": "31981",
-      "nazwisko_imie": "PRACZUKOWSKI Stanisław",
-      "tytul_kategoria": "K",
-      "rank_fide": "2169",
-      "klub": "UKS OPP Toruń",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "39",
+      "id": "40",
       "id_pzszach": "47257",
       "nazwisko_imie": "DIMITRIJESKI Boris Dr",
       "tytul_kategoria": "",
@@ -354,7 +363,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "40",
+      "id": "41",
       "id_pzszach": "72714",
       "nazwisko_imie": "RATAJCZAK Hubert",
       "tytul_kategoria": "I+",
@@ -363,7 +372,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "41",
+      "id": "42",
       "id_pzszach": "1062",
       "nazwisko_imie": "MALISZEWSKI Aleksander",
       "tytul_kategoria": "I",
@@ -372,7 +381,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "42",
+      "id": "43",
       "id_pzszach": "1027",
       "nazwisko_imie": "KUCHARSKI Tomasz",
       "tytul_kategoria": "I",
@@ -381,7 +390,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "43",
+      "id": "44",
       "id_pzszach": "1041",
       "nazwisko_imie": "LESZCZYŃSKI Krzysztof",
       "tytul_kategoria": "I++",
@@ -390,7 +399,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "44",
+      "id": "45",
       "id_pzszach": "2035",
       "nazwisko_imie": "JARACZ Barbara",
       "tytul_kategoria": "WGM",
@@ -399,7 +408,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "45",
+      "id": "46",
       "id_pzszach": "1023",
       "nazwisko_imie": "KRUŻYŃSKI Wiesław",
       "tytul_kategoria": "I+",
@@ -408,7 +417,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "46",
+      "id": "47",
       "id_pzszach": "1033",
       "nazwisko_imie": "KUKUŁA Paweł",
       "tytul_kategoria": "M",
@@ -417,21 +426,12 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "47",
+      "id": "48",
       "id_pzszach": "68309",
       "nazwisko_imie": "ZAJĄC Szymon",
       "tytul_kategoria": "I++",
       "rank_fide": "2149",
       "klub": "BKS CHEMIK Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "48",
-      "id_pzszach": "871",
-      "nazwisko_imie": "ŚLIWICKI Damian",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2148",
-      "klub": "UKS OPP Toruń",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -490,6 +490,15 @@
     },
     {
       "id": "55",
+      "id_pzszach": "57783",
+      "nazwisko_imie": "KARUT Kacper",
+      "tytul_kategoria": "K",
+      "rank_fide": "2132",
+      "klub": "UKS ROTMISTRZ Grudziądz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "56",
       "id_pzszach": "146419",
       "nazwisko_imie": "HACKNER Oskar Anton",
       "tytul_kategoria": "K",
@@ -498,7 +507,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "56",
+      "id": "57",
       "id_pzszach": "1229",
       "nazwisko_imie": "ŻÓŁKIEWICZ Jerzy",
       "tytul_kategoria": "I++",
@@ -507,7 +516,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "57",
+      "id": "58",
+      "id_pzszach": "1100",
+      "nazwisko_imie": "PAPROCKI Jarosław",
+      "tytul_kategoria": "K++",
+      "rank_fide": "2126",
+      "klub": "PKS WIATRAK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "59",
       "id_pzszach": "1125",
       "nazwisko_imie": "SADKIEWICZ Joanna",
       "tytul_kategoria": "WIM",
@@ -516,16 +534,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "58",
-      "id_pzszach": "1100",
-      "nazwisko_imie": "PAPROCKI Jarosław",
-      "tytul_kategoria": "K++",
-      "rank_fide": "2115",
-      "klub": "PKS WIATRAK Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "59",
+      "id": "60",
       "id_pzszach": "2781",
       "nazwisko_imie": "KUJAWSKI Adam",
       "tytul_kategoria": "FM",
@@ -534,7 +543,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "60",
+      "id": "61",
       "id_pzszach": "1116",
       "nazwisko_imie": "ROBAK Zbigniew",
       "tytul_kategoria": "M",
@@ -543,7 +552,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "61",
+      "id": "62",
       "id_pzszach": "898",
       "nazwisko_imie": "BOKIEJ Przemysław",
       "tytul_kategoria": "I++",
@@ -552,19 +561,10 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "62",
+      "id": "63",
       "id_pzszach": "865",
       "nazwisko_imie": "ZWOLAKIEWICZ Krzysztof",
       "tytul_kategoria": "I++",
-      "rank_fide": "2110",
-      "klub": "UKS ROTMISTRZ Grudziądz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "63",
-      "id_pzszach": "57783",
-      "nazwisko_imie": "KARUT Kacper",
-      "tytul_kategoria": "K",
       "rank_fide": "2110",
       "klub": "UKS ROTMISTRZ Grudziądz",
       "wojewodztwo_zwiazek": "KP"
@@ -877,6 +877,15 @@
     },
     {
       "id": "98",
+      "id_pzszach": "107697",
+      "nazwisko_imie": "STAŃCZAK Olaf",
+      "tytul_kategoria": "I",
+      "rank_fide": "2030",
+      "klub": "UKS SZACHY Osielsko",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "99",
       "id_pzszach": "1119",
       "nazwisko_imie": "ROUBO Dariusz",
       "tytul_kategoria": "I+",
@@ -885,7 +894,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "99",
+      "id": "100",
       "id_pzszach": "30619",
       "nazwisko_imie": "HARAZIŃSKA Magdalena",
       "tytul_kategoria": "WFM",
@@ -894,7 +903,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "100",
+      "id": "101",
       "id_pzszach": "1002",
       "nazwisko_imie": "KISIELEWSKI Sławomir",
       "tytul_kategoria": "I",
@@ -903,7 +912,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "101",
+      "id": "102",
       "id_pzszach": "9831",
       "nazwisko_imie": "JANIK Tomasz",
       "tytul_kategoria": "I",
@@ -912,7 +921,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "102",
+      "id": "103",
       "id_pzszach": "1365",
       "nazwisko_imie": "GAŁAT Arkadiusz",
       "tytul_kategoria": "I",
@@ -921,7 +930,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "103",
+      "id": "104",
       "id_pzszach": "47190",
       "nazwisko_imie": "ISPIRJAN Mikael",
       "tytul_kategoria": "",
@@ -930,7 +939,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "104",
+      "id": "105",
       "id_pzszach": "1037",
       "nazwisko_imie": "KURYŁOWICZ Tomasz",
       "tytul_kategoria": "I",
@@ -939,7 +948,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "105",
+      "id": "106",
       "id_pzszach": "69298",
       "nazwisko_imie": "STRZAŁKOWSKI Damian",
       "tytul_kategoria": "I",
@@ -948,7 +957,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "106",
+      "id": "107",
       "id_pzszach": "954",
       "nazwisko_imie": "GROCHOWALSKI Paweł",
       "tytul_kategoria": "K+",
@@ -957,7 +966,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "107",
+      "id": "108",
       "id_pzszach": "917",
       "nazwisko_imie": "CIEMNIAK Krzysztof",
       "tytul_kategoria": "I++",
@@ -966,7 +975,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "108",
+      "id": "109",
       "id_pzszach": "966",
       "nazwisko_imie": "HETMAN Radosław",
       "tytul_kategoria": "I",
@@ -975,7 +984,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "109",
+      "id": "110",
       "id_pzszach": "919",
       "nazwisko_imie": "CZECHOWSKI Paweł",
       "tytul_kategoria": "I",
@@ -984,7 +993,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "110",
+      "id": "111",
       "id_pzszach": "1136",
       "nazwisko_imie": "SIKORSKI Dariusz",
       "tytul_kategoria": "I++",
@@ -993,7 +1002,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "111",
+      "id": "112",
       "id_pzszach": "1222",
       "nazwisko_imie": "ZEMBRZUSKA Monika",
       "tytul_kategoria": "K++",
@@ -1002,7 +1011,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "112",
+      "id": "113",
       "id_pzszach": "1226",
       "nazwisko_imie": "ZIĘTAK Krzysztof",
       "tytul_kategoria": "I+",
@@ -1011,7 +1020,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "113",
+      "id": "114",
       "id_pzszach": "1140",
       "nazwisko_imie": "SKOWROŃSKI Piotr",
       "tytul_kategoria": "I+",
@@ -1020,7 +1029,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "114",
+      "id": "115",
       "id_pzszach": "17810",
       "nazwisko_imie": "BADYRA Wasyl",
       "tytul_kategoria": "I",
@@ -1029,7 +1038,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "115",
+      "id": "116",
       "id_pzszach": "936",
       "nazwisko_imie": "GARBOWSKA Hanna",
       "tytul_kategoria": "WFM",
@@ -1038,7 +1047,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "116",
+      "id": "117",
       "id_pzszach": "1042",
       "nazwisko_imie": "ŁĘTOCHA Adam",
       "tytul_kategoria": "I",
@@ -1047,7 +1056,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "117",
+      "id": "118",
       "id_pzszach": "1199",
       "nazwisko_imie": "OLĘDZKA Magdalena",
       "tytul_kategoria": "K++",
@@ -1056,7 +1065,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "118",
+      "id": "119",
       "id_pzszach": "9914",
       "nazwisko_imie": "MARCHLEWICZ Damian",
       "tytul_kategoria": "II+",
@@ -1065,7 +1074,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "119",
+      "id": "120",
       "id_pzszach": "979",
       "nazwisko_imie": "JAKUBIK Sławomir",
       "tytul_kategoria": "I",
@@ -1074,20 +1083,11 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "120",
+      "id": "121",
       "id_pzszach": "1220",
       "nazwisko_imie": "DECKERT Magdalena",
       "tytul_kategoria": "K",
       "rank_fide": "1985",
-      "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "121",
-      "id_pzszach": "1068",
-      "nazwisko_imie": "MAZALON Mariusz",
-      "tytul_kategoria": "FM",
-      "rank_fide": "1984",
       "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
@@ -1120,6 +1120,15 @@
     },
     {
       "id": "125",
+      "id_pzszach": "1068",
+      "nazwisko_imie": "MAZALON Mariusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "1980",
+      "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "126",
       "id_pzszach": "1216",
       "nazwisko_imie": "WOLAŃSKI Michał",
       "tytul_kategoria": "I++",
@@ -1128,7 +1137,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "126",
+      "id": "127",
       "id_pzszach": "893",
       "nazwisko_imie": "BIEGANOWSKI Roman",
       "tytul_kategoria": "I",
@@ -1137,21 +1146,12 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "127",
+      "id": "128",
       "id_pzszach": "1163",
       "nazwisko_imie": "SWOROWSKI Piotr",
       "tytul_kategoria": "I",
       "rank_fide": "1975",
       "klub": "",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "128",
-      "id_pzszach": "107697",
-      "nazwisko_imie": "STAŃCZAK Olaf",
-      "tytul_kategoria": "I",
-      "rank_fide": "1974",
-      "klub": "UKS SZACHY Osielsko",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -1192,6 +1192,15 @@
     },
     {
       "id": "133",
+      "id_pzszach": "107698",
+      "nazwisko_imie": "BRUDNICKI Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1968",
+      "klub": "UKS SZACHY Osielsko",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "134",
       "id_pzszach": "939",
       "nazwisko_imie": "GAWŁOWSKI Robert",
       "tytul_kategoria": "I",
@@ -1200,7 +1209,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "134",
+      "id": "135",
       "id_pzszach": "1020",
       "nazwisko_imie": "KRAJEWICZ Paweł",
       "tytul_kategoria": "I++",
@@ -1209,7 +1218,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "135",
+      "id": "136",
       "id_pzszach": "1067",
       "nazwisko_imie": "MAZALON Bartłomiej",
       "tytul_kategoria": "I",
@@ -1218,7 +1227,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "136",
+      "id": "137",
       "id_pzszach": "858",
       "nazwisko_imie": "WŁODARSKI Michał",
       "tytul_kategoria": "I",
@@ -1227,7 +1236,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "137",
+      "id": "138",
       "id_pzszach": "1383",
       "nazwisko_imie": "KRÓL Sławomir",
       "tytul_kategoria": "I",
@@ -1236,7 +1245,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "138",
+      "id": "139",
       "id_pzszach": "1198",
       "nazwisko_imie": "WESOŁOWSKA Edyta",
       "tytul_kategoria": "K",
@@ -1245,7 +1254,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "139",
+      "id": "140",
+      "id_pzszach": "33711",
+      "nazwisko_imie": "PALIWODA Borys",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1958",
+      "klub": "ŻTMS BASZTA Żnin",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "141",
       "id_pzszach": "67590",
       "nazwisko_imie": "STAROŚCIAK Szymon",
       "tytul_kategoria": "I++",
@@ -1254,7 +1272,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "140",
+      "id": "142",
       "id_pzszach": "1008",
       "nazwisko_imie": "KONIECZYŃSKI Piotr",
       "tytul_kategoria": "I++",
@@ -1263,7 +1281,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "141",
+      "id": "143",
+      "id_pzszach": "703",
+      "nazwisko_imie": "DAROWICKI Mariusz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1955",
+      "klub": "KS Royal Chess Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "144",
       "id_pzszach": "1214",
       "nazwisko_imie": "WODZYŃSKI Michał",
       "tytul_kategoria": "I+",
@@ -1272,7 +1299,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "142",
+      "id": "145",
       "id_pzszach": "1177",
       "nazwisko_imie": "LEWANDOWSKA Anika",
       "tytul_kategoria": "K",
@@ -1281,7 +1308,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "143",
+      "id": "146",
       "id_pzszach": "1118",
       "nazwisko_imie": "ROMANOWSKI Filip",
       "tytul_kategoria": "I",
@@ -1290,7 +1317,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "144",
+      "id": "147",
       "id_pzszach": "50311",
       "nazwisko_imie": "STRASZEWSKI Tomasz",
       "tytul_kategoria": "I",
@@ -1299,7 +1326,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "145",
+      "id": "148",
       "id_pzszach": "999",
       "nazwisko_imie": "KATAFIASZ Tomasz",
       "tytul_kategoria": "I+",
@@ -1308,16 +1335,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "146",
-      "id_pzszach": "703",
-      "nazwisko_imie": "DAROWICKI Mariusz",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1949",
-      "klub": "KS Royal Chess Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "147",
+      "id": "149",
       "id_pzszach": "761",
       "nazwisko_imie": "GÓRNIEWICZ Oskar",
       "tytul_kategoria": "I",
@@ -1326,7 +1344,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "148",
+      "id": "150",
       "id_pzszach": "1019",
       "nazwisko_imie": "KRAIŃSKI Sławomir",
       "tytul_kategoria": "K",
@@ -1335,7 +1353,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "149",
+      "id": "151",
       "id_pzszach": "53011",
       "nazwisko_imie": "STACHECKI Mikołaj",
       "tytul_kategoria": "I++",
@@ -1344,7 +1362,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "150",
+      "id": "152",
       "id_pzszach": "7535",
       "nazwisko_imie": "SZCZEŚNIAK Andrzej",
       "tytul_kategoria": "K",
@@ -1353,7 +1371,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "151",
+      "id": "153",
       "id_pzszach": "1148",
       "nazwisko_imie": "SOWIŃSKI Artur",
       "tytul_kategoria": "II+",
@@ -1362,7 +1380,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "152",
+      "id": "154",
       "id_pzszach": "1156",
       "nazwisko_imie": "STOPPEL Mariusz",
       "tytul_kategoria": "I+",
@@ -1371,7 +1389,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "153",
+      "id": "155",
       "id_pzszach": "1218",
       "nazwisko_imie": "WRUCK Wiesław",
       "tytul_kategoria": "I",
@@ -1380,7 +1398,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "154",
+      "id": "156",
       "id_pzszach": "943",
       "nazwisko_imie": "GĘZA Tomasz",
       "tytul_kategoria": "I",
@@ -1389,7 +1407,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "155",
+      "id": "157",
       "id_pzszach": "31100",
       "nazwisko_imie": "WŁOCH Mikołaj",
       "tytul_kategoria": "I",
@@ -1398,7 +1416,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "156",
+      "id": "158",
       "id_pzszach": "830",
       "nazwisko_imie": "PRZYBYŁO Sebastian",
       "tytul_kategoria": "II+",
@@ -1407,7 +1425,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "157",
+      "id": "159",
       "id_pzszach": "1003",
       "nazwisko_imie": "KŁOSOWSKI Jacek",
       "tytul_kategoria": "I",
@@ -1416,7 +1434,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "158",
+      "id": "160",
       "id_pzszach": "1024",
       "nazwisko_imie": "KUBIAK Leszek",
       "tytul_kategoria": "I+",
@@ -1425,7 +1443,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "159",
+      "id": "161",
       "id_pzszach": "67555",
       "nazwisko_imie": "SPIONKOWSKI Fabian",
       "tytul_kategoria": "I++",
@@ -1434,7 +1452,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "160",
+      "id": "162",
       "id_pzszach": "1197",
       "nazwisko_imie": "WĘGLARZ Joanna",
       "tytul_kategoria": "K",
@@ -1443,7 +1461,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "161",
+      "id": "163",
       "id_pzszach": "17131",
       "nazwisko_imie": "BRZEZIŃSKA Monika",
       "tytul_kategoria": "K",
@@ -1452,7 +1470,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "162",
+      "id": "164",
       "id_pzszach": "21773",
       "nazwisko_imie": "ŻÓŁTAŃSKI Grzegorz",
       "tytul_kategoria": "II",
@@ -1461,7 +1479,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "163",
+      "id": "165",
       "id_pzszach": "18426",
       "nazwisko_imie": "CIEŚLAK Wiktoria",
       "tytul_kategoria": "WCM",
@@ -1470,7 +1488,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "164",
+      "id": "166",
       "id_pzszach": "906",
       "nazwisko_imie": "BRYŁA Lidia",
       "tytul_kategoria": "I++",
@@ -1479,7 +1497,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "165",
+      "id": "167",
       "id_pzszach": "1170",
       "nazwisko_imie": "SZYBOWICZ Piotr",
       "tytul_kategoria": "I++",
@@ -1488,16 +1506,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "166",
-      "id_pzszach": "33711",
-      "nazwisko_imie": "PALIWODA Borys",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1931",
-      "klub": "ŻTMS BASZTA Żnin",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "167",
+      "id": "168",
       "id_pzszach": "73061",
       "nazwisko_imie": "KAWA Anna",
       "tytul_kategoria": "K",
@@ -1506,7 +1515,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "168",
+      "id": "169",
       "id_pzszach": "1195",
       "nazwisko_imie": "WARGULEC Dariusz",
       "tytul_kategoria": "I",
@@ -1515,7 +1524,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "169",
+      "id": "170",
       "id_pzszach": "1147",
       "nazwisko_imie": "SOSNOWSKI Daniel",
       "tytul_kategoria": "I",
@@ -1524,7 +1533,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "170",
+      "id": "171",
       "id_pzszach": "798",
       "nazwisko_imie": "PLECYNG Waldemar",
       "tytul_kategoria": "I",
@@ -1533,7 +1542,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "171",
+      "id": "172",
       "id_pzszach": "1167",
       "nazwisko_imie": "SZMIDT Przemysław",
       "tytul_kategoria": "I++",
@@ -1542,7 +1551,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "172",
+      "id": "173",
       "id_pzszach": "1180",
       "nazwisko_imie": "TARKOWSKI Michał",
       "tytul_kategoria": "I+",
@@ -1551,7 +1560,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "173",
+      "id": "174",
       "id_pzszach": "920",
       "nazwisko_imie": "DAHM Mikołaj",
       "tytul_kategoria": "I",
@@ -1560,7 +1569,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "174",
+      "id": "175",
       "id_pzszach": "6535",
       "nazwisko_imie": "MACKIEWICZ Anna",
       "tytul_kategoria": "K+",
@@ -1569,7 +1578,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "175",
+      "id": "176",
       "id_pzszach": "1018",
       "nazwisko_imie": "KRAIŃSKI Jarosław",
       "tytul_kategoria": "K",
@@ -1578,7 +1587,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "176",
+      "id": "177",
       "id_pzszach": "1076",
       "nazwisko_imie": "MIZIUŁA Patryk",
       "tytul_kategoria": "II",
@@ -1587,7 +1596,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "177",
+      "id": "178",
       "id_pzszach": "11666",
       "nazwisko_imie": "TOMASZEWSKI Arkadiusz",
       "tytul_kategoria": "II",
@@ -1596,7 +1605,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "178",
+      "id": "179",
       "id_pzszach": "1143",
       "nazwisko_imie": "SMYKOWSKI Mateusz",
       "tytul_kategoria": "I",
@@ -1605,7 +1614,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "179",
+      "id": "180",
+      "id_pzszach": "128113",
+      "nazwisko_imie": "BIAŁKOWSKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1918",
+      "klub": "BKS CHEMIK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "181",
       "id_pzszach": "1091",
       "nazwisko_imie": "ORCIUCH Leszek",
       "tytul_kategoria": "II",
@@ -1614,7 +1632,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "180",
+      "id": "182",
       "id_pzszach": "1231",
       "nazwisko_imie": "ŻURNER Jarosław",
       "tytul_kategoria": "II",
@@ -1623,7 +1641,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "181",
+      "id": "183",
       "id_pzszach": "1131",
       "nazwisko_imie": "ŚCIBOROWSKI Mirosław",
       "tytul_kategoria": "FM",
@@ -1632,7 +1650,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "182",
+      "id": "184",
       "id_pzszach": "15138",
       "nazwisko_imie": "CZARKOWSKI Tomasz",
       "tytul_kategoria": "I++",
@@ -1641,7 +1659,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "183",
+      "id": "185",
+      "id_pzszach": "103893",
+      "nazwisko_imie": "MAKAREWICZ Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "1914",
+      "klub": "UKS SZACHOWA DWÓJKA Szubin",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "186",
       "id_pzszach": "1157",
       "nazwisko_imie": "STRZEMKOWSKI Włodzimierz",
       "tytul_kategoria": "K",
@@ -1650,7 +1677,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "184",
+      "id": "187",
       "id_pzszach": "11546",
       "nazwisko_imie": "TREPKOWSKI Piotr",
       "tytul_kategoria": "I",
@@ -1659,7 +1686,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "185",
+      "id": "188",
       "id_pzszach": "890",
       "nazwisko_imie": "BARTOSIK Piotr",
       "tytul_kategoria": "I+",
@@ -1668,7 +1695,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "186",
+      "id": "189",
       "id_pzszach": "967",
       "nazwisko_imie": "HETMAŃSKI Waldemar",
       "tytul_kategoria": "I",
@@ -1677,7 +1704,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "187",
+      "id": "190",
       "id_pzszach": "17830",
       "nazwisko_imie": "TAMOŃ Radosław",
       "tytul_kategoria": "I",
@@ -1686,7 +1713,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "188",
+      "id": "191",
       "id_pzszach": "15155",
       "nazwisko_imie": "KRUSZYŃSKI Michał",
       "tytul_kategoria": "II+",
@@ -1695,7 +1722,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "189",
+      "id": "192",
       "id_pzszach": "853",
       "nazwisko_imie": "MAJDZIŃSKI Michał",
       "tytul_kategoria": "II",
@@ -1704,7 +1731,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "190",
+      "id": "193",
       "id_pzszach": "1013",
       "nazwisko_imie": "KOTULA Konrad",
       "tytul_kategoria": "I",
@@ -1713,7 +1740,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "191",
+      "id": "194",
       "id_pzszach": "1207",
       "nazwisko_imie": "WIŚNIEWSKI Adam",
       "tytul_kategoria": "I+",
@@ -1722,7 +1749,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "192",
+      "id": "195",
       "id_pzszach": "23489",
       "nazwisko_imie": "KROCZKA Gromosław",
       "tytul_kategoria": "I",
@@ -1731,7 +1758,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "193",
+      "id": "196",
       "id_pzszach": "1004",
       "nazwisko_imie": "KLUGIEWICZ Józef",
       "tytul_kategoria": "I",
@@ -1740,16 +1767,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "194",
-      "id_pzszach": "927",
-      "nazwisko_imie": "DYBOWSKI Rafał",
-      "tytul_kategoria": "I",
-      "rank_fide": "1896",
-      "klub": "UKS Gambit Toruń",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "195",
+      "id": "197",
       "id_pzszach": "832",
       "nazwisko_imie": "ŻMIJEWSKI Bogumił",
       "tytul_kategoria": "II+",
@@ -1758,16 +1776,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "196",
-      "id_pzszach": "100024",
-      "nazwisko_imie": "WEBER Wiktor",
-      "tytul_kategoria": "I",
+      "id": "198",
+      "id_pzszach": "11637",
+      "nazwisko_imie": "JESSE Jacek",
+      "tytul_kategoria": "I++",
       "rank_fide": "1893",
-      "klub": "BKS CHEMIK Bydgoszcz",
+      "klub": "MLKS KRAJNA Sępólno Kraj.",
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "197",
+      "id": "199",
       "id_pzszach": "854",
       "nazwisko_imie": "MARKS Piotr",
       "tytul_kategoria": "II+",
@@ -1776,7 +1794,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "198",
+      "id": "200",
       "id_pzszach": "787",
       "nazwisko_imie": "WÓJCICKI Mateusz",
       "tytul_kategoria": "I",
@@ -1785,7 +1803,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "199",
+      "id": "201",
       "id_pzszach": "910",
       "nazwisko_imie": "PAPROCKA Renata",
       "tytul_kategoria": "WFM",
@@ -1794,7 +1812,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "200",
+      "id": "202",
       "id_pzszach": "6424",
       "nazwisko_imie": "KOBUS Maciej",
       "tytul_kategoria": "I",
@@ -1803,7 +1821,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "201",
+      "id": "203",
       "id_pzszach": "14868",
       "nazwisko_imie": "BŁAJET Radosław",
       "tytul_kategoria": "I+",
@@ -1812,7 +1830,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "202",
+      "id": "204",
       "id_pzszach": "1164",
       "nazwisko_imie": "SZARY Marcin",
       "tytul_kategoria": "II+",
@@ -1821,7 +1839,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "203",
+      "id": "205",
       "id_pzszach": "27114",
       "nazwisko_imie": "BŁOCIŃSKI Maciej",
       "tytul_kategoria": "I",
@@ -1830,7 +1848,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "204",
+      "id": "206",
       "id_pzszach": "59004",
       "nazwisko_imie": "MURAWSKI Miłosz",
       "tytul_kategoria": "I",
@@ -1839,16 +1857,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "205",
-      "id_pzszach": "11637",
-      "nazwisko_imie": "JESSE Jacek",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1885",
-      "klub": "MLKS KRAJNA Sępólno Kraj.",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "206",
+      "id": "207",
       "id_pzszach": "976",
       "nazwisko_imie": "JABŁOŃSKI Mirosław",
       "tytul_kategoria": "I++",
@@ -1857,7 +1866,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "207",
+      "id": "208",
       "id_pzszach": "1090",
       "nazwisko_imie": "OLSZEWSKI Marek",
       "tytul_kategoria": "K+",
@@ -1866,7 +1875,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "208",
+      "id": "209",
       "id_pzszach": "1225",
       "nazwisko_imie": "ZIELIŃSKI Olgierd",
       "tytul_kategoria": "I+",
@@ -1875,21 +1884,12 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "209",
+      "id": "210",
       "id_pzszach": "11675",
       "nazwisko_imie": "JĘDRZEJEWSKI Bartosz",
       "tytul_kategoria": "II+",
       "rank_fide": "1882",
       "klub": "LKS PROMIEŃ Kowalewo Pomorskie",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "210",
-      "id_pzszach": "107698",
-      "nazwisko_imie": "BRUDNICKI Paweł",
-      "tytul_kategoria": "I",
-      "rank_fide": "1882",
-      "klub": "UKS SZACHY Osielsko",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -1957,6 +1957,15 @@
     },
     {
       "id": "218",
+      "id_pzszach": "128909",
+      "nazwisko_imie": "JOACHIMIAK Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1876",
+      "klub": "UKS SZACHY Osielsko",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "219",
       "id_pzszach": "764",
       "nazwisko_imie": "WODZYŃSKI Mieszko",
       "tytul_kategoria": "II+",
@@ -1965,7 +1974,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "219",
+      "id": "220",
       "id_pzszach": "1206",
       "nazwisko_imie": "SERAFIN Monika",
       "tytul_kategoria": "I+",
@@ -1974,7 +1983,25 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "220",
+      "id": "221",
+      "id_pzszach": "21981",
+      "nazwisko_imie": "KACZMARCZYK Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1875",
+      "klub": "Czerwona Królowa Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "222",
+      "id_pzszach": "927",
+      "nazwisko_imie": "DYBOWSKI Rafał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1873",
+      "klub": "UKS Gambit Toruń",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "223",
       "id_pzszach": "15173",
       "nazwisko_imie": "ZWARA Szymon",
       "tytul_kategoria": "II+",
@@ -1983,7 +2010,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "221",
+      "id": "224",
       "id_pzszach": "18651",
       "nazwisko_imie": "WOŹNIAK Krzysztof",
       "tytul_kategoria": "II+",
@@ -1992,7 +2019,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "222",
+      "id": "225",
       "id_pzszach": "937",
       "nazwisko_imie": "GARBOWSKI Jerzy",
       "tytul_kategoria": "I",
@@ -2001,7 +2028,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "223",
+      "id": "226",
       "id_pzszach": "1084",
       "nazwisko_imie": "NOWACKI Krzysztof",
       "tytul_kategoria": "II+",
@@ -2010,7 +2037,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "224",
+      "id": "227",
+      "id_pzszach": "38542",
+      "nazwisko_imie": "BRZOZOWSKI Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1870",
+      "klub": "MKS EMDEK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "228",
       "id_pzszach": "15268",
       "nazwisko_imie": "WIŚNIEWSKI Szymon",
       "tytul_kategoria": "I+",
@@ -2019,7 +2055,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "225",
+      "id": "229",
       "id_pzszach": "93296",
       "nazwisko_imie": "POLAK Aleksander",
       "tytul_kategoria": "I",
@@ -2028,7 +2064,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "226",
+      "id": "230",
       "id_pzszach": "771",
       "nazwisko_imie": "JAHR Przemysław",
       "tytul_kategoria": "II+",
@@ -2037,7 +2073,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "227",
+      "id": "231",
       "id_pzszach": "948",
       "nazwisko_imie": "GRABOWSKI Marek",
       "tytul_kategoria": "I",
@@ -2046,7 +2082,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "228",
+      "id": "232",
       "id_pzszach": "9909",
       "nazwisko_imie": "ŻEBRACKI Jarosław",
       "tytul_kategoria": "I",
@@ -2055,7 +2091,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "229",
+      "id": "233",
       "id_pzszach": "11447",
       "nazwisko_imie": "GRZENKOWICZ Przemysław",
       "tytul_kategoria": "II+",
@@ -2064,7 +2100,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "230",
+      "id": "234",
+      "id_pzszach": "128896",
+      "nazwisko_imie": "GAPPA Adam",
+      "tytul_kategoria": "I",
+      "rank_fide": "1867",
+      "klub": "UKS OPP Toruń",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "235",
       "id_pzszach": "11503",
       "nazwisko_imie": "MACIEJEWSKI Mikołaj",
       "tytul_kategoria": "I",
@@ -2073,16 +2118,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "231",
-      "id_pzszach": "128896",
-      "nazwisko_imie": "GAPPA Adam",
-      "tytul_kategoria": "I",
-      "rank_fide": "1866",
-      "klub": "UKS OPP Toruń",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "232",
+      "id": "236",
       "id_pzszach": "765",
       "nazwisko_imie": "BIEGAŃSKI Zdzisław",
       "tytul_kategoria": "II+",
@@ -2091,16 +2127,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "233",
-      "id_pzszach": "21981",
-      "nazwisko_imie": "KACZMARCZYK Paweł",
-      "tytul_kategoria": "I",
-      "rank_fide": "1865",
-      "klub": "Czerwona Królowa Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "234",
+      "id": "237",
       "id_pzszach": "4364",
       "nazwisko_imie": "RANT Izabela",
       "tytul_kategoria": "I++",
@@ -2109,7 +2136,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "235",
+      "id": "238",
       "id_pzszach": "869",
       "nazwisko_imie": "KIRSZ Krzysztof",
       "tytul_kategoria": "II",
@@ -2118,7 +2145,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "236",
+      "id": "239",
       "id_pzszach": "912",
       "nazwisko_imie": "CHODOROWSKI Dawid",
       "tytul_kategoria": "I",
@@ -2127,7 +2154,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "237",
+      "id": "240",
       "id_pzszach": "14944",
       "nazwisko_imie": "KADUKOWSKI Paweł",
       "tytul_kategoria": "I",
@@ -2136,7 +2163,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "238",
+      "id": "241",
       "id_pzszach": "1096",
       "nazwisko_imie": "PALACZ Tomasz",
       "tytul_kategoria": "I",
@@ -2145,7 +2172,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "239",
+      "id": "242",
       "id_pzszach": "1134",
       "nazwisko_imie": "SIERGIEJ Izabela",
       "tytul_kategoria": "I",
@@ -2154,7 +2181,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "240",
+      "id": "243",
       "id_pzszach": "1014",
       "nazwisko_imie": "KOTULA Oktawia",
       "tytul_kategoria": "I",
@@ -2163,7 +2190,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "241",
+      "id": "244",
       "id_pzszach": "15103",
       "nazwisko_imie": "RADZIEJEWSKI Tomasz",
       "tytul_kategoria": "II",
@@ -2172,7 +2199,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "242",
+      "id": "245",
       "id_pzszach": "23431",
       "nazwisko_imie": "RADTKE Łukasz",
       "tytul_kategoria": "II",
@@ -2181,16 +2208,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "243",
-      "id_pzszach": "38542",
-      "nazwisko_imie": "BRZOZOWSKI Paweł",
-      "tytul_kategoria": "I",
-      "rank_fide": "1851",
-      "klub": "MKS EMDEK Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "244",
+      "id": "246",
       "id_pzszach": "62582",
       "nazwisko_imie": "KAPELA Norbert",
       "tytul_kategoria": "II+",
@@ -2199,7 +2217,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "245",
+      "id": "247",
       "id_pzszach": "92938",
       "nazwisko_imie": "BALCERZAK Robert",
       "tytul_kategoria": "I",
@@ -2208,7 +2226,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "246",
+      "id": "248",
       "id_pzszach": "11456",
       "nazwisko_imie": "SZULGACZ Maciej",
       "tytul_kategoria": "I+",
@@ -2217,7 +2235,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "247",
+      "id": "249",
       "id_pzszach": "15177",
       "nazwisko_imie": "BOLIBOK Adam",
       "tytul_kategoria": "II",
@@ -2226,7 +2244,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "248",
+      "id": "250",
       "id_pzszach": "53441",
       "nazwisko_imie": "ŚLIWICKA Weronika",
       "tytul_kategoria": "I",
@@ -2235,7 +2253,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "249",
+      "id": "251",
       "id_pzszach": "895",
       "nazwisko_imie": "BIELUSZEWSKI Robert",
       "tytul_kategoria": "I+",
@@ -2244,7 +2262,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "250",
+      "id": "252",
       "id_pzszach": "1127",
       "nazwisko_imie": "SARGALSKI Andrzej",
       "tytul_kategoria": "I++",
@@ -2253,16 +2271,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "251",
-      "id_pzszach": "1038",
-      "nazwisko_imie": "KWIATKOWSKI Jacek",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1846",
-      "klub": "ITS FENIKS Inowrocław",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "252",
+      "id": "253",
       "id_pzszach": "15118",
       "nazwisko_imie": "JANKOWSKI Dawid",
       "tytul_kategoria": "II+",
@@ -2271,7 +2280,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "253",
+      "id": "254",
       "id_pzszach": "816",
       "nazwisko_imie": "KARPIŃSKI Bartłomiej",
       "tytul_kategoria": "I",
@@ -2280,7 +2289,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "254",
+      "id": "255",
       "id_pzszach": "48902",
       "nazwisko_imie": "WĄSIOŁEK Adrian",
       "tytul_kategoria": "I",
@@ -2289,7 +2298,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "255",
+      "id": "256",
       "id_pzszach": "69879",
       "nazwisko_imie": "GRIGOROVICH Dmitry",
       "tytul_kategoria": "II+",
@@ -2298,7 +2307,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "256",
+      "id": "257",
       "id_pzszach": "21879",
       "nazwisko_imie": "BARANEK Michał",
       "tytul_kategoria": "II",
@@ -2307,7 +2316,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "257",
+      "id": "258",
       "id_pzszach": "831",
       "nazwisko_imie": "MATUSIAK Andrzej",
       "tytul_kategoria": "II+",
@@ -2316,7 +2325,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "258",
+      "id": "259",
       "id_pzszach": "48242",
       "nazwisko_imie": "SCHILS Heinz",
       "tytul_kategoria": "I",
@@ -2325,7 +2334,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "259",
+      "id": "260",
       "id_pzszach": "77964",
       "nazwisko_imie": "MIODUSZEWSKI Szymon",
       "tytul_kategoria": "I",
@@ -2334,18 +2343,9 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "260",
-      "id_pzszach": "20663",
-      "nazwisko_imie": "LITOWSKI Jakub",
-      "tytul_kategoria": "II",
-      "rank_fide": "1836",
-      "klub": "",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
       "id": "261",
-      "id_pzszach": "103893",
-      "nazwisko_imie": "MAKAREWICZ Jakub",
+      "id_pzszach": "1039",
+      "nazwisko_imie": "LECH Piotr",
       "tytul_kategoria": "I",
       "rank_fide": "1836",
       "klub": "UKS SZACHOWA DWÓJKA Szubin",
@@ -2353,11 +2353,11 @@
     },
     {
       "id": "262",
-      "id_pzszach": "1039",
-      "nazwisko_imie": "LECH Piotr",
-      "tytul_kategoria": "I",
-      "rank_fide": "1835",
-      "klub": "UKS SZACHOWA DWÓJKA Szubin",
+      "id_pzszach": "20663",
+      "nazwisko_imie": "LITOWSKI Jakub",
+      "tytul_kategoria": "II",
+      "rank_fide": "1836",
+      "klub": "",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -2371,11 +2371,11 @@
     },
     {
       "id": "264",
-      "id_pzszach": "128113",
-      "nazwisko_imie": "BIAŁKOWSKI Jan",
+      "id_pzszach": "990",
+      "nazwisko_imie": "JEZIORNY Janusz",
       "tytul_kategoria": "I",
-      "rank_fide": "1830",
-      "klub": "BKS CHEMIK Bydgoszcz",
+      "rank_fide": "1833",
+      "klub": "WKSz 1938 Włocławek",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -2425,15 +2425,6 @@
     },
     {
       "id": "270",
-      "id_pzszach": "990",
-      "nazwisko_imie": "JEZIORNY Janusz",
-      "tytul_kategoria": "I",
-      "rank_fide": "1824",
-      "klub": "WKSz 1938 Włocławek",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "271",
       "id_pzszach": "1132",
       "nazwisko_imie": "SĘDŁAK Andrzej",
       "tytul_kategoria": "I",
@@ -2442,12 +2433,21 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "272",
+      "id": "271",
       "id_pzszach": "1095",
       "nazwisko_imie": "PACUSZKA Wioletta",
       "tytul_kategoria": "WCM",
       "rank_fide": "1823",
       "klub": "UKS ROTMISTRZ Grudziądz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "272",
+      "id_pzszach": "100024",
+      "nazwisko_imie": "WEBER Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "1823",
+      "klub": "BKS CHEMIK Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -2515,6 +2515,15 @@
     },
     {
       "id": "280",
+      "id_pzszach": "1038",
+      "nazwisko_imie": "KWIATKOWSKI Jacek",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1819",
+      "klub": "ITS FENIKS Inowrocław",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "281",
       "id_pzszach": "11647",
       "nazwisko_imie": "ROSIŃSKI Kamil",
       "tytul_kategoria": "II",
@@ -2523,7 +2532,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "281",
+      "id": "282",
       "id_pzszach": "31106",
       "nazwisko_imie": "MUSIAŁ Adam",
       "tytul_kategoria": "I",
@@ -2532,25 +2541,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "282",
-      "id_pzszach": "70321",
-      "nazwisko_imie": "PYRZEWSKI Kamil",
-      "tytul_kategoria": "I",
-      "rank_fide": "1816",
-      "klub": "UKS ROTMISTRZ Grudziądz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
       "id": "283",
-      "id_pzszach": "128909",
-      "nazwisko_imie": "JOACHIMIAK Adam",
-      "tytul_kategoria": "I",
-      "rank_fide": "1816",
-      "klub": "UKS SZACHY Osielsko",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "284",
       "id_pzszach": "804",
       "nazwisko_imie": "CZAPOSKI Jacek",
       "tytul_kategoria": "II",
@@ -2559,7 +2550,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "285",
+      "id": "284",
       "id_pzszach": "815",
       "nazwisko_imie": "DOMŻALSKI Dominik",
       "tytul_kategoria": "II+",
@@ -2568,7 +2559,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "286",
+      "id": "285",
       "id_pzszach": "957",
       "nazwisko_imie": "GRYLEWICZ Bernard",
       "tytul_kategoria": "I",
@@ -2577,7 +2568,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "287",
+      "id": "286",
       "id_pzszach": "1047",
       "nazwisko_imie": "LEWANDOWSKI Marek",
       "tytul_kategoria": "I+",
@@ -2586,7 +2577,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "288",
+      "id": "287",
       "id_pzszach": "9940",
       "nazwisko_imie": "KOWAL Mieczysław",
       "tytul_kategoria": "II",
@@ -2595,7 +2586,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "289",
+      "id": "288",
       "id_pzszach": "883",
       "nazwisko_imie": "RYNARZEWSKI Piotr",
       "tytul_kategoria": "II",
@@ -2604,16 +2595,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "290",
-      "id_pzszach": "56519",
-      "nazwisko_imie": "SIVICKIS Kornelia",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1809",
-      "klub": "AZS UMK Toruń",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "291",
+      "id": "289",
       "id_pzszach": "1070",
       "nazwisko_imie": "MAZUR Stanisław",
       "tytul_kategoria": "I",
@@ -2622,7 +2604,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "292",
+      "id": "290",
       "id_pzszach": "20659",
       "nazwisko_imie": "MARCHLEWICZ Artur",
       "tytul_kategoria": "II+",
@@ -2631,7 +2613,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "293",
+      "id": "291",
       "id_pzszach": "22625",
       "nazwisko_imie": "ŁOSIŃSKA Aleksandra",
       "tytul_kategoria": "I",
@@ -2640,7 +2622,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "294",
+      "id": "292",
       "id_pzszach": "916",
       "nazwisko_imie": "CICHOCKI Konrad",
       "tytul_kategoria": "I+",
@@ -2649,7 +2631,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "295",
+      "id": "293",
       "id_pzszach": "14897",
       "nazwisko_imie": "JANIK Krystian",
       "tytul_kategoria": "I",
@@ -2658,7 +2640,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "296",
+      "id": "294",
       "id_pzszach": "21686",
       "nazwisko_imie": "MAJCHRZAK Mikołaj",
       "tytul_kategoria": "II",
@@ -2667,7 +2649,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "297",
+      "id": "295",
       "id_pzszach": "15251",
       "nazwisko_imie": "MIERKIEWICZ Sławomir",
       "tytul_kategoria": "II+",
@@ -2676,7 +2658,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "298",
+      "id": "296",
       "id_pzszach": "1048",
       "nazwisko_imie": "LEWANDOWSKI Michał",
       "tytul_kategoria": "II",
@@ -2685,7 +2667,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "299",
+      "id": "297",
       "id_pzszach": "996",
       "nazwisko_imie": "KARBOWIAK Sylwia",
       "tytul_kategoria": "II",
@@ -2694,7 +2676,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "300",
+      "id": "298",
       "id_pzszach": "47211",
       "nazwisko_imie": "DĄBROWSKA Aleksandra",
       "tytul_kategoria": "I++",
@@ -2703,7 +2685,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "301",
+      "id": "299",
       "id_pzszach": "859",
       "nazwisko_imie": "JAŻDŻYK Piotr",
       "tytul_kategoria": "II",
@@ -2712,7 +2694,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "302",
+      "id": "300",
       "id_pzszach": "1181",
       "nazwisko_imie": "TARNOWSKI Marian",
       "tytul_kategoria": "I",
@@ -2721,7 +2703,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "303",
+      "id": "301",
+      "id_pzszach": "94672",
+      "nazwisko_imie": "PENDER Mikołaj",
+      "tytul_kategoria": "I",
+      "rank_fide": "1797",
+      "klub": "BKS CHEMIK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "302",
       "id_pzszach": "923",
       "nazwisko_imie": "DOLIŃSKI Piotr",
       "tytul_kategoria": "I",
@@ -2730,7 +2721,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "304",
+      "id": "303",
       "id_pzszach": "15157",
       "nazwisko_imie": "LUDWIŃSKI Daniel",
       "tytul_kategoria": "I",
@@ -2739,7 +2730,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "305",
+      "id": "304",
       "id_pzszach": "9829",
       "nazwisko_imie": "CHABOWSKI Aleksander",
       "tytul_kategoria": "I",
@@ -2748,7 +2739,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "306",
+      "id": "305",
       "id_pzszach": "11536",
       "nazwisko_imie": "SOBKOWSKI Krzysztof",
       "tytul_kategoria": "II",
@@ -2757,12 +2748,21 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "307",
+      "id": "306",
       "id_pzszach": "17899",
       "nazwisko_imie": "SOBIECH Krzysztof",
       "tytul_kategoria": "II+",
       "rank_fide": "1795",
       "klub": "UKS SZACHY Osielsko",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "307",
+      "id_pzszach": "110406",
+      "nazwisko_imie": "LASECKI Szymon",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1795",
+      "klub": "Czerwona Królowa Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -2956,15 +2956,6 @@
     },
     {
       "id": "329",
-      "id_pzszach": "110406",
-      "nazwisko_imie": "LASECKI Szymon",
-      "tytul_kategoria": "II+",
-      "rank_fide": "1778",
-      "klub": "Czerwona Królowa Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "330",
       "id_pzszach": "11766",
       "nazwisko_imie": "NAPIERAŁA Sławomir",
       "tytul_kategoria": "II+",
@@ -2973,7 +2964,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "331",
+      "id": "330",
       "id_pzszach": "978",
       "nazwisko_imie": "JAHR Ulrich",
       "tytul_kategoria": "I",
@@ -2982,7 +2973,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "332",
+      "id": "331",
       "id_pzszach": "850",
       "nazwisko_imie": "BASIŃSKI Michał",
       "tytul_kategoria": "III",
@@ -2991,7 +2982,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "333",
+      "id": "332",
       "id_pzszach": "1075",
       "nazwisko_imie": "MILEWSKI Henryk",
       "tytul_kategoria": "II",
@@ -3000,7 +2991,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "334",
+      "id": "333",
       "id_pzszach": "15194",
       "nazwisko_imie": "NOGAL Jan",
       "tytul_kategoria": "II",
@@ -3009,12 +3000,21 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "335",
+      "id": "334",
       "id_pzszach": "41125",
       "nazwisko_imie": "ŁOSIŃSKI Paweł",
       "tytul_kategoria": "II",
       "rank_fide": "1773",
       "klub": "",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "335",
+      "id_pzszach": "70321",
+      "nazwisko_imie": "PYRZEWSKI Kamil",
+      "tytul_kategoria": "I",
+      "rank_fide": "1772",
+      "klub": "UKS ROTMISTRZ Grudziądz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -3046,20 +3046,20 @@
     },
     {
       "id": "339",
+      "id_pzszach": "56519",
+      "nazwisko_imie": "SIVICKIS Kornelia",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1768",
+      "klub": "AZS UMK Toruń",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "340",
       "id_pzszach": "28273",
       "nazwisko_imie": "KOZAKIEWICZ Gracjan",
       "tytul_kategoria": "I",
       "rank_fide": "1767",
       "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "340",
-      "id_pzszach": "998",
-      "nazwisko_imie": "KARPIŃSKI Andrzej",
-      "tytul_kategoria": "I",
-      "rank_fide": "1766",
-      "klub": "MKS EMDEK Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
@@ -3163,6 +3163,15 @@
     },
     {
       "id": "352",
+      "id_pzszach": "998",
+      "nazwisko_imie": "KARPIŃSKI Andrzej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1757",
+      "klub": "MKS EMDEK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "353",
       "id_pzszach": "45883",
       "nazwisko_imie": "SIVICKIS Wiktoria",
       "tytul_kategoria": "I++",
@@ -3171,7 +3180,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "353",
+      "id": "354",
       "id_pzszach": "39579",
       "nazwisko_imie": "SZARFEMBERG Paweł",
       "tytul_kategoria": "I",
@@ -3180,7 +3189,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "354",
+      "id": "355",
+      "id_pzszach": "101398",
+      "nazwisko_imie": "KOSECKI Oskar",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1756",
+      "klub": "LUKS FENIKS Mrocza",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "356",
       "id_pzszach": "7783",
       "nazwisko_imie": "KNOFF Dariusz",
       "tytul_kategoria": "II",
@@ -3189,7 +3207,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "355",
+      "id": "357",
       "id_pzszach": "45885",
       "nazwisko_imie": "MASŁOWSKI Jakub",
       "tytul_kategoria": "II",
@@ -3198,7 +3216,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "356",
+      "id": "358",
       "id_pzszach": "767",
       "nazwisko_imie": "GOŁĄBIEWSKI Adam",
       "tytul_kategoria": "II",
@@ -3207,7 +3225,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "357",
+      "id": "359",
       "id_pzszach": "698",
       "nazwisko_imie": "NOWAK Dawid",
       "tytul_kategoria": "II",
@@ -3216,7 +3234,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "358",
+      "id": "360",
       "id_pzszach": "44500",
       "nazwisko_imie": "DACZKOWSKI Mirosław",
       "tytul_kategoria": "II",
@@ -3225,7 +3243,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "359",
+      "id": "361",
       "id_pzszach": "856",
       "nazwisko_imie": "NIWIŃSKA Agnieszka",
       "tytul_kategoria": "II",
@@ -3234,7 +3252,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "360",
+      "id": "362",
       "id_pzszach": "15146",
       "nazwisko_imie": "HARASIMOWICZ Andrzej",
       "tytul_kategoria": "II",
@@ -3243,7 +3261,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "361",
+      "id": "363",
+      "id_pzszach": "141444",
+      "nazwisko_imie": "PRZYBYSŁAWSKI Jędrzej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1750",
+      "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "364",
       "id_pzszach": "97170",
       "nazwisko_imie": "PAROL Jan",
       "tytul_kategoria": "II",
@@ -3252,7 +3279,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "362",
+      "id": "365",
       "id_pzszach": "22281",
       "nazwisko_imie": "ALTMAJER Zuzanna",
       "tytul_kategoria": "I+",
@@ -3261,7 +3288,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "363",
+      "id": "366",
       "id_pzszach": "83940",
       "nazwisko_imie": "PROKOPIUK Jakub",
       "tytul_kategoria": "I",
@@ -3270,7 +3297,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "364",
+      "id": "367",
       "id_pzszach": "15307",
       "nazwisko_imie": "SKORUPA Oliwia",
       "tytul_kategoria": "I",
@@ -3279,7 +3306,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "365",
+      "id": "368",
+      "id_pzszach": "97546",
+      "nazwisko_imie": "GAŁĄZKA Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1746",
+      "klub": "AZS UMK Toruń",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "369",
       "id_pzszach": "15178",
       "nazwisko_imie": "BOLIBOK Miłosz",
       "tytul_kategoria": "II",
@@ -3288,7 +3324,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "366",
+      "id": "370",
       "id_pzszach": "1182",
       "nazwisko_imie": "THEUSS Tomasz",
       "tytul_kategoria": "I",
@@ -3297,7 +3333,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "367",
+      "id": "371",
       "id_pzszach": "83774",
       "nazwisko_imie": "MACIEJEWSKI Adam",
       "tytul_kategoria": "II+",
@@ -3306,16 +3342,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "368",
-      "id_pzszach": "97546",
-      "nazwisko_imie": "GAŁĄZKA Michał",
-      "tytul_kategoria": "I",
-      "rank_fide": "1744",
-      "klub": "AZS UMK Toruń",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "369",
+      "id": "372",
       "id_pzszach": "53193",
       "nazwisko_imie": "RAFALSKI Kacper",
       "tytul_kategoria": "II+",
@@ -3324,7 +3351,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "370",
+      "id": "373",
       "id_pzszach": "56675",
       "nazwisko_imie": "WERYHO Mateusz",
       "tytul_kategoria": "I",
@@ -3333,7 +3360,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "371",
+      "id": "374",
       "id_pzszach": "21774",
       "nazwisko_imie": "MICHALAK Jacek",
       "tytul_kategoria": "II",
@@ -3342,7 +3369,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "372",
+      "id": "375",
       "id_pzszach": "55345",
       "nazwisko_imie": "OSTROWSKI Jerzy",
       "tytul_kategoria": "II",
@@ -3351,7 +3378,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "373",
+      "id": "376",
       "id_pzszach": "78655",
       "nazwisko_imie": "SZREDER Leopold",
       "tytul_kategoria": "I",
@@ -3360,7 +3387,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "374",
+      "id": "377",
       "id_pzszach": "1193",
       "nazwisko_imie": "WALCZAK Tadeusz",
       "tytul_kategoria": "I",
@@ -3369,7 +3396,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "375",
+      "id": "378",
       "id_pzszach": "31105",
       "nazwisko_imie": "KOŹLIŃSKI Marcin",
       "tytul_kategoria": "I",
@@ -3378,7 +3405,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "376",
+      "id": "379",
       "id_pzszach": "48367",
       "nazwisko_imie": "SUJKOWSKI Dominik",
       "tytul_kategoria": "II+",
@@ -3387,7 +3414,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "377",
+      "id": "380",
       "id_pzszach": "99926",
       "nazwisko_imie": "JACKOWSKI Marcin",
       "tytul_kategoria": "II",
@@ -3396,7 +3423,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "378",
+      "id": "381",
       "id_pzszach": "40671",
       "nazwisko_imie": "BIENIAK Jerzy",
       "tytul_kategoria": "II",
@@ -3405,7 +3432,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "379",
+      "id": "382",
       "id_pzszach": "44486",
       "nazwisko_imie": "MATUSIAK Marcin",
       "tytul_kategoria": "II+",
@@ -3414,7 +3441,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "380",
+      "id": "383",
       "id_pzszach": "44501",
       "nazwisko_imie": "KUJAWSKI Dawid",
       "tytul_kategoria": "II",
@@ -3423,7 +3450,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "381",
+      "id": "384",
       "id_pzszach": "106597",
       "nazwisko_imie": "KUBACKI Igor",
       "tytul_kategoria": "III",
@@ -3432,7 +3459,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "382",
+      "id": "385",
       "id_pzszach": "23359",
       "nazwisko_imie": "BOROWIAK Karol",
       "tytul_kategoria": "II",
@@ -3441,16 +3468,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "383",
-      "id_pzszach": "94672",
-      "nazwisko_imie": "PENDER Mikołaj",
-      "tytul_kategoria": "I",
-      "rank_fide": "1735",
-      "klub": "BKS CHEMIK Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "384",
+      "id": "386",
       "id_pzszach": "11455",
       "nazwisko_imie": "PROCZEK Mateusz",
       "tytul_kategoria": "I",
@@ -3459,7 +3477,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "385",
+      "id": "387",
       "id_pzszach": "46516",
       "nazwisko_imie": "MIELCZARSKI Zbigniew",
       "tytul_kategoria": "II",
@@ -3468,7 +3486,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "386",
+      "id": "388",
       "id_pzszach": "125554",
       "nazwisko_imie": "PINCZEWSKI Filip",
       "tytul_kategoria": "II",
@@ -3477,7 +3495,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "387",
+      "id": "389",
       "id_pzszach": "759",
       "nazwisko_imie": "KOSZOWSKI Krystian",
       "tytul_kategoria": "I",
@@ -3486,7 +3504,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "388",
+      "id": "390",
       "id_pzszach": "846",
       "nazwisko_imie": "MOLENDA Marcin",
       "tytul_kategoria": "II+",
@@ -3495,7 +3513,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "389",
+      "id": "391",
       "id_pzszach": "1213",
       "nazwisko_imie": "WODZYŃSKA Zofia",
       "tytul_kategoria": "I",
@@ -3504,7 +3522,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "390",
+      "id": "392",
       "id_pzszach": "15169",
       "nazwisko_imie": "TURULA Damian",
       "tytul_kategoria": "II",
@@ -3513,7 +3531,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "391",
+      "id": "393",
       "id_pzszach": "15006",
       "nazwisko_imie": "MOCHOCKI Przemysław",
       "tytul_kategoria": "II",
@@ -3522,7 +3540,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "392",
+      "id": "394",
+      "id_pzszach": "89323",
+      "nazwisko_imie": "MUZAL Konrad",
+      "tytul_kategoria": "II",
+      "rank_fide": "1730",
+      "klub": "AZS UMK Toruń",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "395",
       "id_pzszach": "11615",
       "nazwisko_imie": "DWOJACKI Jakub",
       "tytul_kategoria": "I",
@@ -3531,7 +3558,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "393",
+      "id": "396",
       "id_pzszach": "11644",
       "nazwisko_imie": "MALIŃSKI Waldemar",
       "tytul_kategoria": "II",
@@ -3540,7 +3567,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "394",
+      "id": "397",
       "id_pzszach": "25681",
       "nazwisko_imie": "HUMIN Julia",
       "tytul_kategoria": "I",
@@ -3549,7 +3576,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "395",
+      "id": "398",
       "id_pzszach": "27008",
       "nazwisko_imie": "JODŁOWSKI Krzysztof",
       "tytul_kategoria": "III",
@@ -3558,7 +3585,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "396",
+      "id": "399",
       "id_pzszach": "28746",
       "nazwisko_imie": "IGNACAK Kamil",
       "tytul_kategoria": "II",
@@ -3567,7 +3594,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "397",
+      "id": "400",
       "id_pzszach": "24473",
       "nazwisko_imie": "BOŻENDA Michał",
       "tytul_kategoria": "II+",
@@ -3576,7 +3603,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "398",
+      "id": "401",
       "id_pzszach": "52304",
       "nazwisko_imie": "ŻYGADŁO Kajetan",
       "tytul_kategoria": "II",
@@ -3585,7 +3612,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "399",
+      "id": "402",
       "id_pzszach": "146953",
       "nazwisko_imie": "DEMSKI Dawid",
       "tytul_kategoria": "II",
@@ -3594,7 +3621,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "400",
+      "id": "403",
       "id_pzszach": "806",
       "nazwisko_imie": "GRODZICKI Tomasz",
       "tytul_kategoria": "I",
@@ -3603,7 +3630,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "401",
+      "id": "404",
       "id_pzszach": "15003",
       "nazwisko_imie": "MICHALAK Krzysztof",
       "tytul_kategoria": "II",
@@ -3612,7 +3639,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "402",
+      "id": "405",
       "id_pzszach": "17869",
       "nazwisko_imie": "KACPERSKI Wojciech",
       "tytul_kategoria": "II",
@@ -3621,7 +3648,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "403",
+      "id": "406",
       "id_pzszach": "15112",
       "nazwisko_imie": "MUSIAŁ Marian",
       "tytul_kategoria": "II",
@@ -3630,16 +3657,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "404",
-      "id_pzszach": "101398",
-      "nazwisko_imie": "KOSECKI Oskar",
-      "tytul_kategoria": "II+",
-      "rank_fide": "1718",
-      "klub": "LUKS FENIKS Mrocza",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "405",
+      "id": "407",
       "id_pzszach": "47006",
       "nazwisko_imie": "ROGULSKI Sebastian",
       "tytul_kategoria": "II",
@@ -3648,7 +3666,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "406",
+      "id": "408",
       "id_pzszach": "98292",
       "nazwisko_imie": "SEMRAU Kamil",
       "tytul_kategoria": "III",
@@ -3657,7 +3675,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "407",
+      "id": "409",
       "id_pzszach": "14962",
       "nazwisko_imie": "KOŁODZIEJSKI Paweł",
       "tytul_kategoria": "II",
@@ -3666,7 +3684,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "408",
+      "id": "410",
       "id_pzszach": "15279",
       "nazwisko_imie": "SZORTYKA Dominik",
       "tytul_kategoria": "II",
@@ -3675,7 +3693,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "409",
+      "id": "411",
       "id_pzszach": "21565",
       "nazwisko_imie": "OKOŃSKI Mateusz",
       "tytul_kategoria": "II",
@@ -3684,16 +3702,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "410",
-      "id_pzszach": "11640",
-      "nazwisko_imie": "KOZIELSKI Mirosław",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1711",
-      "klub": "LUKS FENIKS Mrocza",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "411",
+      "id": "412",
       "id_pzszach": "94390",
       "nazwisko_imie": "PAWEŁCZYK Jan",
       "tytul_kategoria": "II+",
@@ -3702,7 +3711,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "412",
+      "id": "413",
       "id_pzszach": "20870",
       "nazwisko_imie": "SURAŻYŃSKI Kacper",
       "tytul_kategoria": "II",
@@ -3711,7 +3720,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "413",
+      "id": "414",
       "id_pzszach": "56665",
       "nazwisko_imie": "GRZECHOWIAK Kacper",
       "tytul_kategoria": "II+",
@@ -3720,7 +3729,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "414",
+      "id": "415",
       "id_pzszach": "100335",
       "nazwisko_imie": "ŻEGLIŃSKI Jakub",
       "tytul_kategoria": "II+",
@@ -3729,7 +3738,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "415",
+      "id": "416",
       "id_pzszach": "100336",
       "nazwisko_imie": "ASZTEMBORSKI Olivier",
       "tytul_kategoria": "V",
@@ -3738,7 +3747,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "416",
+      "id": "417",
       "id_pzszach": "11658",
       "nazwisko_imie": "BIAŁKOWSKI Józef",
       "tytul_kategoria": "II",
@@ -3747,7 +3756,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "417",
+      "id": "418",
       "id_pzszach": "11474",
       "nazwisko_imie": "KOWALSKI Roman",
       "tytul_kategoria": "II",
@@ -3756,7 +3765,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "418",
+      "id": "419",
       "id_pzszach": "33465",
       "nazwisko_imie": "WALCZAK Mikołaj",
       "tytul_kategoria": "II",
@@ -3765,7 +3774,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "419",
+      "id": "420",
       "id_pzszach": "42227",
       "nazwisko_imie": "MAŚLANKOWSKI Maciej",
       "tytul_kategoria": "II+",
@@ -3774,7 +3783,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "420",
+      "id": "421",
+      "id_pzszach": "117702",
+      "nazwisko_imie": "STAŃDO Antoni",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1707",
+      "klub": "UKS ROTMISTRZ Grudziądz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "422",
       "id_pzszach": "14982",
       "nazwisko_imie": "BIELUSZEWSKI Łukasz",
       "tytul_kategoria": "II+",
@@ -3783,7 +3801,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "421",
+      "id": "423",
       "id_pzszach": "44507",
       "nazwisko_imie": "PAPIS Patryk",
       "tytul_kategoria": "I",
@@ -3792,7 +3810,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "422",
+      "id": "424",
       "id_pzszach": "1152",
       "nazwisko_imie": "CICHOCKA Katarzyna",
       "tytul_kategoria": "I++",
@@ -3801,7 +3819,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "423",
+      "id": "425",
       "id_pzszach": "37800",
       "nazwisko_imie": "JANKOWSKI Igor",
       "tytul_kategoria": "I",
@@ -3810,7 +3828,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "424",
+      "id": "426",
       "id_pzszach": "14907",
       "nazwisko_imie": "SZALA Jan",
       "tytul_kategoria": "II",
@@ -3819,7 +3837,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "425",
+      "id": "427",
       "id_pzszach": "28830",
       "nazwisko_imie": "STOJKE Krzysztof",
       "tytul_kategoria": "II",
@@ -3828,7 +3846,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "426",
+      "id": "428",
       "id_pzszach": "11445",
       "nazwisko_imie": "BARTOSZEWSKI Bartosz",
       "tytul_kategoria": "III",
@@ -3837,7 +3855,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "427",
+      "id": "429",
       "id_pzszach": "15259",
       "nazwisko_imie": "SKOCZEK Karolina",
       "tytul_kategoria": "II+",
@@ -3846,7 +3864,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "428",
+      "id": "430",
       "id_pzszach": "62579",
       "nazwisko_imie": "SOKULSKI Maurycy",
       "tytul_kategoria": "II+",
@@ -3855,7 +3873,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "429",
+      "id": "431",
       "id_pzszach": "111578",
       "nazwisko_imie": "Palacz Franciszek",
       "tytul_kategoria": "II",
@@ -3864,7 +3882,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "430",
+      "id": "432",
+      "id_pzszach": "113967",
+      "nazwisko_imie": "Dybowski Leon",
+      "tytul_kategoria": "II",
+      "rank_fide": "1698",
+      "klub": "UKS Gambit Toruń",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "433",
       "id_pzszach": "821",
       "nazwisko_imie": "RACZYŃSKA Maja",
       "tytul_kategoria": "II",
@@ -3873,7 +3900,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "431",
+      "id": "434",
       "id_pzszach": "11705",
       "nazwisko_imie": "PASTWIK Barbara",
       "tytul_kategoria": "II",
@@ -3882,7 +3909,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "432",
+      "id": "435",
       "id_pzszach": "91102",
       "nazwisko_imie": "ROGACZEWSKI Sebastian",
       "tytul_kategoria": "II",
@@ -3891,7 +3918,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "433",
+      "id": "436",
+      "id_pzszach": "725",
+      "nazwisko_imie": "CZARNOLEWSKI Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1696",
+      "klub": "ITS FENIKS Inowrocław",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "437",
       "id_pzszach": "11444",
       "nazwisko_imie": "BEDNARKIEWICZ Jakub",
       "tytul_kategoria": "II",
@@ -3900,7 +3936,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "434",
+      "id": "438",
       "id_pzszach": "1089",
       "nazwisko_imie": "OLEJNIK Bernard",
       "tytul_kategoria": "I",
@@ -3909,7 +3945,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "435",
+      "id": "439",
       "id_pzszach": "50305",
       "nazwisko_imie": "DAHMS Medard",
       "tytul_kategoria": "II",
@@ -3918,7 +3954,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "436",
+      "id": "440",
       "id_pzszach": "108577",
       "nazwisko_imie": "TEREKHOV Roman",
       "tytul_kategoria": "II",
@@ -3927,7 +3963,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "437",
+      "id": "441",
       "id_pzszach": "1061",
       "nazwisko_imie": "MALINOWSKI Tomasz",
       "tytul_kategoria": "I",
@@ -3936,7 +3972,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "438",
+      "id": "442",
       "id_pzszach": "14946",
       "nazwisko_imie": "BIAŁAS Jerzy",
       "tytul_kategoria": "I",
@@ -3945,16 +3981,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "439",
-      "id_pzszach": "89323",
-      "nazwisko_imie": "MUZAL Konrad",
-      "tytul_kategoria": "II",
-      "rank_fide": "1693",
-      "klub": "AZS UMK Toruń",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "440",
+      "id": "443",
       "id_pzszach": "8032",
       "nazwisko_imie": "WYDRA Michał",
       "tytul_kategoria": "II",
@@ -3963,7 +3990,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "441",
+      "id": "444",
       "id_pzszach": "45996",
       "nazwisko_imie": "STOLARSKI Cyprian",
       "tytul_kategoria": "III",
@@ -3972,7 +3999,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "442",
+      "id": "445",
       "id_pzszach": "73186",
       "nazwisko_imie": "SIARNOWSKI Kacper",
       "tytul_kategoria": "II",
@@ -3981,25 +4008,25 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "443",
-      "id_pzszach": "135996",
-      "nazwisko_imie": "PUBANC Adrian",
-      "tytul_kategoria": "II+",
-      "rank_fide": "1691",
-      "klub": "MLKS KRAJNA Sępólno Kraj.",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "444",
+      "id": "446",
       "id_pzszach": "131454",
       "nazwisko_imie": "NIKODEM Fryderyk",
       "tytul_kategoria": "III",
-      "rank_fide": "1690",
+      "rank_fide": "1691",
       "klub": "UKS SZACHOWA DWÓJKA Szubin",
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "445",
+      "id": "447",
+      "id_pzszach": "38831",
+      "nazwisko_imie": "JUSZCZAK Miłosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1690",
+      "klub": "MKS EMDEK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "448",
       "id_pzszach": "15148",
       "nazwisko_imie": "JABŁOŃSKI Michał",
       "tytul_kategoria": "III",
@@ -4008,7 +4035,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "446",
+      "id": "449",
       "id_pzszach": "30347",
       "nazwisko_imie": "DUDZIŃSKI Adam",
       "tytul_kategoria": "III",
@@ -4017,7 +4044,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "447",
+      "id": "450",
       "id_pzszach": "11781",
       "nazwisko_imie": "KRZYŻANIAK Jan",
       "tytul_kategoria": "II",
@@ -4026,7 +4053,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "448",
+      "id": "451",
       "id_pzszach": "23488",
       "nazwisko_imie": "ZIELIŃSKI Adam",
       "tytul_kategoria": "II",
@@ -4035,7 +4062,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "449",
+      "id": "452",
       "id_pzszach": "28749",
       "nazwisko_imie": "WOLSKI Łukasz",
       "tytul_kategoria": "II",
@@ -4044,7 +4071,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "450",
+      "id": "453",
       "id_pzszach": "71757",
       "nazwisko_imie": "BYCHOWSKA Marta",
       "tytul_kategoria": "I",
@@ -4053,7 +4080,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "451",
+      "id": "454",
       "id_pzszach": "120090",
       "nazwisko_imie": "FEDUS Kamil",
       "tytul_kategoria": "III",
@@ -4062,7 +4089,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "452",
+      "id": "455",
       "id_pzszach": "11624",
       "nazwisko_imie": "NOWORACKI Kajetan",
       "tytul_kategoria": "II",
@@ -4071,7 +4098,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "453",
+      "id": "456",
       "id_pzszach": "40568",
       "nazwisko_imie": "MIŁECKI Robert",
       "tytul_kategoria": "II",
@@ -4080,16 +4107,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "454",
-      "id_pzszach": "38831",
-      "nazwisko_imie": "JUSZCZAK Miłosz",
-      "tytul_kategoria": "II",
-      "rank_fide": "1680",
-      "klub": "MKS EMDEK Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "455",
+      "id": "457",
       "id_pzszach": "53522",
       "nazwisko_imie": "JANIAK Rafał",
       "tytul_kategoria": "II",
@@ -4098,7 +4116,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "456",
+      "id": "458",
       "id_pzszach": "59405",
       "nazwisko_imie": "SZTUKA Cezary",
       "tytul_kategoria": "II",
@@ -4107,7 +4125,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "457",
+      "id": "459",
       "id_pzszach": "80021",
       "nazwisko_imie": "PERDOMO ORTEGA Abel",
       "tytul_kategoria": "III",
@@ -4116,7 +4134,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "458",
+      "id": "460",
+      "id_pzszach": "79860",
+      "nazwisko_imie": "ŁUKASIK Aleksandra",
+      "tytul_kategoria": "I",
+      "rank_fide": "1679",
+      "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "461",
       "id_pzszach": "98676",
       "nazwisko_imie": "ZAKASZEWSKI Tymon",
       "tytul_kategoria": "II",
@@ -4125,7 +4152,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "459",
+      "id": "462",
+      "id_pzszach": "99379",
+      "nazwisko_imie": "CHRAPKOWSKA Alicja",
+      "tytul_kategoria": "I",
+      "rank_fide": "1678",
+      "klub": "BKS CHEMIK Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "463",
       "id_pzszach": "15203",
       "nazwisko_imie": "SZYGOWSKI Jakub",
       "tytul_kategoria": "II",
@@ -4134,7 +4170,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "460",
+      "id": "464",
       "id_pzszach": "23589",
       "nazwisko_imie": "PASTEWSKI Fabian",
       "tytul_kategoria": "II",
@@ -4143,7 +4179,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "461",
+      "id": "465",
       "id_pzszach": "27738",
       "nazwisko_imie": "MAŁKOWSKI Leszek",
       "tytul_kategoria": "II",
@@ -4152,7 +4188,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "462",
+      "id": "466",
       "id_pzszach": "96402",
       "nazwisko_imie": "PIEKARCZYK Bartosz",
       "tytul_kategoria": "II",
@@ -4161,7 +4197,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "463",
+      "id": "467",
       "id_pzszach": "22624",
       "nazwisko_imie": "PERENC Paweł",
       "tytul_kategoria": "II",
@@ -4170,7 +4206,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "464",
+      "id": "468",
       "id_pzszach": "11627",
       "nazwisko_imie": "RABĘDA Grzegorz",
       "tytul_kategoria": "II",
@@ -4179,7 +4215,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "465",
+      "id": "469",
       "id_pzszach": "11670",
       "nazwisko_imie": "ARBART Adam Jr",
       "tytul_kategoria": "II",
@@ -4188,7 +4224,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "466",
+      "id": "470",
       "id_pzszach": "15158",
       "nazwisko_imie": "MARZEC Konrad",
       "tytul_kategoria": "II+",
@@ -4197,7 +4233,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "467",
+      "id": "471",
+      "id_pzszach": "101528",
+      "nazwisko_imie": "TREPTO Sebastian",
+      "tytul_kategoria": "II",
+      "rank_fide": "1675",
+      "klub": "Czerwona Królowa Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "472",
       "id_pzszach": "42382",
       "nazwisko_imie": "STASZEWSKA Aleksandra",
       "tytul_kategoria": "II",
@@ -4206,7 +4251,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "468",
+      "id": "473",
       "id_pzszach": "31101",
       "nazwisko_imie": "DUDZIŃSKI Jan",
       "tytul_kategoria": "III",
@@ -4215,16 +4260,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "469",
-      "id_pzszach": "79860",
-      "nazwisko_imie": "ŁUKASIK Aleksandra",
-      "tytul_kategoria": "I",
-      "rank_fide": "1671",
-      "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "470",
+      "id": "474",
       "id_pzszach": "62234",
       "nazwisko_imie": "TARASIUK Adam",
       "tytul_kategoria": "I",
@@ -4233,16 +4269,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "471",
-      "id_pzszach": "725",
-      "nazwisko_imie": "CZARNOLEWSKI Piotr",
-      "tytul_kategoria": "I",
-      "rank_fide": "1668",
-      "klub": "ITS FENIKS Inowrocław",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "472",
+      "id": "475",
       "id_pzszach": "971",
       "nazwisko_imie": "KAMIŃSKA Anna",
       "tytul_kategoria": "I",
@@ -4251,7 +4278,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "473",
+      "id": "476",
       "id_pzszach": "30346",
       "nazwisko_imie": "MOSZCZYŃSKI Michał",
       "tytul_kategoria": "II",
@@ -4260,7 +4287,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "474",
+      "id": "477",
       "id_pzszach": "82035",
       "nazwisko_imie": "Janicki Adam",
       "tytul_kategoria": "IV",
@@ -4269,7 +4296,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "475",
+      "id": "478",
       "id_pzszach": "81889",
       "nazwisko_imie": "POĆWIARDOWSKI Mikołaj",
       "tytul_kategoria": "II",
@@ -4278,7 +4305,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "476",
+      "id": "479",
       "id_pzszach": "1102",
       "nazwisko_imie": "PAWŁOWSKI Paweł",
       "tytul_kategoria": "I",
@@ -4287,7 +4314,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "477",
+      "id": "480",
       "id_pzszach": "799",
       "nazwisko_imie": "LUCHOWSKI Ferdynand",
       "tytul_kategoria": "II+",
@@ -4296,7 +4323,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "478",
+      "id": "481",
       "id_pzszach": "11614",
       "nazwisko_imie": "DWOJACKI Grzegorz",
       "tytul_kategoria": "II",
@@ -4305,7 +4332,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "479",
+      "id": "482",
       "id_pzszach": "54745",
       "nazwisko_imie": "NOWAK Karol",
       "tytul_kategoria": "III",
@@ -4314,7 +4341,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "480",
+      "id": "483",
       "id_pzszach": "77381",
       "nazwisko_imie": "JANUSZEWSKI Marek",
       "tytul_kategoria": "II",
@@ -4323,7 +4350,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "481",
+      "id": "484",
+      "id_pzszach": "135996",
+      "nazwisko_imie": "PUBANC Adrian",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1664",
+      "klub": "MLKS KRAJNA Sępólno Kraj.",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "485",
       "id_pzszach": "22532",
       "nazwisko_imie": "KRUK Ryszard",
       "tytul_kategoria": "II",
@@ -4332,7 +4368,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "482",
+      "id": "486",
       "id_pzszach": "33871",
       "nazwisko_imie": "ZIELIŃSKI Michał",
       "tytul_kategoria": "II",
@@ -4341,7 +4377,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "483",
+      "id": "487",
       "id_pzszach": "38910",
       "nazwisko_imie": "WIŚNIEWSKI Wiktor",
       "tytul_kategoria": "II",
@@ -4350,7 +4386,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "484",
+      "id": "488",
       "id_pzszach": "95211",
       "nazwisko_imie": "MATŁOKA Mateusz",
       "tytul_kategoria": "II",
@@ -4359,7 +4395,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "485",
+      "id": "489",
       "id_pzszach": "108582",
       "nazwisko_imie": "TEREKHOV Bohdan",
       "tytul_kategoria": "II",
@@ -4368,16 +4404,16 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "486",
-      "id_pzszach": "137378",
-      "nazwisko_imie": "KRAWCZYK Wojciech",
-      "tytul_kategoria": "II+",
+      "id": "490",
+      "id_pzszach": "132436",
+      "nazwisko_imie": "GRZENKOWICZ Mikołaj",
+      "tytul_kategoria": "III",
       "rank_fide": "1660",
-      "klub": "Czerwona Królowa Bydgoszcz",
+      "klub": "UKS Rycerz Golub-Dobrzyń",
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "487",
+      "id": "491",
       "id_pzszach": "26955",
       "nazwisko_imie": "MÓWIŃSKI Rafał",
       "tytul_kategoria": "III",
@@ -4386,7 +4422,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "488",
+      "id": "492",
       "id_pzszach": "28754",
       "nazwisko_imie": "KINCZEWSKI Franciszek",
       "tytul_kategoria": "II",
@@ -4395,16 +4431,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "489",
-      "id_pzszach": "38365",
-      "nazwisko_imie": "RAFALSKI Krzysztof",
-      "tytul_kategoria": "II",
-      "rank_fide": "1659",
-      "klub": "WKSz 1938 Włocławek",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "490",
+      "id": "493",
       "id_pzszach": "57209",
       "nazwisko_imie": "KAMIŃSKI Mateusz",
       "tytul_kategoria": "II+",
@@ -4413,7 +4440,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "491",
+      "id": "494",
       "id_pzszach": "43855",
       "nazwisko_imie": "MARCINIAK Anna",
       "tytul_kategoria": "II",
@@ -4422,7 +4449,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "492",
+      "id": "495",
       "id_pzszach": "51196",
       "nazwisko_imie": "RETZ Adrian",
       "tytul_kategoria": "II+",
@@ -4431,7 +4458,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "493",
+      "id": "496",
       "id_pzszach": "38238",
       "nazwisko_imie": "GABRYSZEWSKI Hubert",
       "tytul_kategoria": "II",
@@ -4440,7 +4467,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "494",
+      "id": "497",
       "id_pzszach": "82904",
       "nazwisko_imie": "ŚLIWA Krzysztof",
       "tytul_kategoria": "II",
@@ -4449,7 +4476,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "495",
+      "id": "498",
       "id_pzszach": "65391",
       "nazwisko_imie": "KITA Andrzej",
       "tytul_kategoria": "III",
@@ -4458,7 +4485,7 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "496",
+      "id": "499",
       "id_pzszach": "78562",
       "nazwisko_imie": "TALARCZYK Ignacy",
       "tytul_kategoria": "III",
@@ -4467,39 +4494,12 @@
       "wojewodztwo_zwiazek": "KP"
     },
     {
-      "id": "497",
+      "id": "500",
       "id_pzszach": "20875",
       "nazwisko_imie": "CHAŁAS Dawid",
       "tytul_kategoria": "II",
       "rank_fide": "1654",
       "klub": "UKS MDK Nr 1 - Hetman Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "498",
-      "id_pzszach": "716",
-      "nazwisko_imie": "BROSZKIEWICZ Piotr",
-      "tytul_kategoria": "II",
-      "rank_fide": "1653",
-      "klub": "",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "499",
-      "id_pzszach": "27552",
-      "nazwisko_imie": "ŁOSIŃSKI Piotr",
-      "tytul_kategoria": "II",
-      "rank_fide": "1653",
-      "klub": "",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "500",
-      "id_pzszach": "11760",
-      "nazwisko_imie": "KUBICKI Mariusz",
-      "tytul_kategoria": "I",
-      "rank_fide": "1652",
-      "klub": "ITS FENIKS Inowrocław",
       "wojewodztwo_zwiazek": "KP"
     }
   ]

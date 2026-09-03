@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:13.228Z",
+  "createdAt": "2026-09-03T06:45:52.826Z",
   "totalRecords": 500,
   "data": [
     {
@@ -52,7 +52,7 @@
       "id_pzszach": "17264",
       "nazwisko_imie": "JĘDRAS Piotr",
       "tytul_kategoria": "K",
-      "rank_fide": "2152",
+      "rank_fide": "2155",
       "klub": "KMKSzach VICTORIA KOMPLEXBUD",
       "wojewodztwo_zwiazek": "SK"
     },
@@ -148,15 +148,24 @@
     },
     {
       "id": "17",
-      "id_pzszach": "97042",
-      "nazwisko_imie": "KAWKA Milena",
-      "tytul_kategoria": "WFM",
-      "rank_fide": "2047",
-      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "id_pzszach": "117534",
+      "nazwisko_imie": "DOMAŃSKI Wiktor",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2055",
+      "klub": "Fundacja DOBRY RUCH",
       "wojewodztwo_zwiazek": "SK"
     },
     {
       "id": "18",
+      "id_pzszach": "97042",
+      "nazwisko_imie": "KAWKA Milena",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2045",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "19",
       "id_pzszach": "1556",
       "nazwisko_imie": "SZCZERBAK Jarosław",
       "tytul_kategoria": "I",
@@ -165,7 +174,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "19",
+      "id": "20",
       "id_pzszach": "5069",
       "nazwisko_imie": "WOZNIAK Pawel",
       "tytul_kategoria": "I",
@@ -174,7 +183,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "20",
+      "id": "21",
       "id_pzszach": "4968",
       "nazwisko_imie": "ZAREBA Grzegorz",
       "tytul_kategoria": "I",
@@ -183,7 +192,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "21",
+      "id": "22",
       "id_pzszach": "5032",
       "nazwisko_imie": "PAŁOSZ Andrzej",
       "tytul_kategoria": "K",
@@ -192,7 +201,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "22",
+      "id": "23",
       "id_pzszach": "5050",
       "nazwisko_imie": "SKRZYPCZAK Anna",
       "tytul_kategoria": "K+",
@@ -201,7 +210,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "23",
+      "id": "24",
       "id_pzszach": "4612",
       "nazwisko_imie": "WALCZAK Krystian",
       "tytul_kategoria": "I+",
@@ -210,7 +219,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "24",
+      "id": "25",
       "id_pzszach": "21985",
       "nazwisko_imie": "DUDA Marcin",
       "tytul_kategoria": "I++",
@@ -219,7 +228,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "25",
+      "id": "26",
       "id_pzszach": "137636",
       "nazwisko_imie": "BILENKIY Maksym",
       "tytul_kategoria": "I",
@@ -228,7 +237,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "26",
+      "id": "27",
       "id_pzszach": "5051",
       "nazwisko_imie": "SKRZYPCZAK Tomasz",
       "tytul_kategoria": "I",
@@ -237,7 +246,25 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "27",
+      "id": "28",
+      "id_pzszach": "49296",
+      "nazwisko_imie": "SEREWA Antoni",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1999",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "65195",
+      "nazwisko_imie": "PARTYKA Wiktor",
+      "tytul_kategoria": "I",
+      "rank_fide": "1998",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "30",
       "id_pzszach": "5022",
       "nazwisko_imie": "MARCINKOWSKI Paweł",
       "tytul_kategoria": "I+",
@@ -246,7 +273,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "28",
+      "id": "31",
       "id_pzszach": "62612",
       "nazwisko_imie": "BARTKIEWICZ Paweł",
       "tytul_kategoria": "I++",
@@ -255,7 +282,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "29",
+      "id": "32",
       "id_pzszach": "2496",
       "nazwisko_imie": "POŚNIK Maurycy",
       "tytul_kategoria": "I+",
@@ -264,7 +291,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "30",
+      "id": "33",
       "id_pzszach": "39556",
       "nazwisko_imie": "SZCZEPANOWSKI Tomasz",
       "tytul_kategoria": "I",
@@ -273,7 +300,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "31",
+      "id": "34",
+      "id_pzszach": "50651",
+      "nazwisko_imie": "KOZERA Dawid",
+      "tytul_kategoria": "I+",
+      "rank_fide": "1985",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "35",
       "id_pzszach": "37107",
       "nazwisko_imie": "MATVIYCHUK Andrey",
       "tytul_kategoria": "II+",
@@ -282,7 +318,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "32",
+      "id": "36",
       "id_pzszach": "4934",
       "nazwisko_imie": "RUTKOWSKI Wojciech",
       "tytul_kategoria": "II",
@@ -291,16 +327,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "33",
-      "id_pzszach": "49296",
-      "nazwisko_imie": "SEREWA Antoni",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1979",
-      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "34",
+      "id": "37",
       "id_pzszach": "7792",
       "nazwisko_imie": "KOMPERDA Robert",
       "tytul_kategoria": "I",
@@ -309,7 +336,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "35",
+      "id": "38",
       "id_pzszach": "4975",
       "nazwisko_imie": "KOZIEJ Maciej",
       "tytul_kategoria": "FM",
@@ -318,7 +345,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "36",
+      "id": "39",
       "id_pzszach": "5036",
       "nazwisko_imie": "PLICNER Justyna",
       "tytul_kategoria": "I",
@@ -327,25 +354,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "37",
-      "id_pzszach": "65195",
-      "nazwisko_imie": "PARTYKA Wiktor",
-      "tytul_kategoria": "I",
-      "rank_fide": "1964",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "38",
-      "id_pzszach": "50651",
-      "nazwisko_imie": "KOZERA Dawid",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1958",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "39",
+      "id": "40",
       "id_pzszach": "2848",
       "nazwisko_imie": "MRÓZ Waldemar",
       "tytul_kategoria": "I++",
@@ -354,7 +363,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "40",
+      "id": "41",
       "id_pzszach": "4969",
       "nazwisko_imie": "BORATYŃSKI Piotr",
       "tytul_kategoria": "I",
@@ -363,7 +372,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "41",
+      "id": "42",
       "id_pzszach": "5062",
       "nazwisko_imie": "SZYMANSKI Grzegorz",
       "tytul_kategoria": "I",
@@ -372,21 +381,12 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "42",
+      "id": "43",
       "id_pzszach": "4976",
       "nazwisko_imie": "KUSPAK Aleksander",
       "tytul_kategoria": "I+",
       "rank_fide": "1940",
       "klub": "LUKKS OLIMPIA Kielce",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "43",
-      "id_pzszach": "117534",
-      "nazwisko_imie": "DOMAŃSKI Wiktor",
-      "tytul_kategoria": "I+",
-      "rank_fide": "1939",
-      "klub": "Fundacja DOBRY RUCH",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -490,15 +490,6 @@
     },
     {
       "id": "55",
-      "id_pzszach": "109427",
-      "nazwisko_imie": "DOROWSKI Nataniel",
-      "tytul_kategoria": "I",
-      "rank_fide": "1911",
-      "klub": "LUKKS OLIMPIA Kielce",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "56",
       "id_pzszach": "4995",
       "nazwisko_imie": "CZECH Jan",
       "tytul_kategoria": "K",
@@ -507,7 +498,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "57",
+      "id": "56",
       "id_pzszach": "5070",
       "nazwisko_imie": "ZOLOBOWSKI Grzegorz",
       "tytul_kategoria": "I",
@@ -516,7 +507,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "58",
+      "id": "57",
       "id_pzszach": "2495",
       "nazwisko_imie": "POMAGALSKI Marcin",
       "tytul_kategoria": "I++",
@@ -525,7 +516,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "59",
+      "id": "58",
       "id_pzszach": "5027",
       "nazwisko_imie": "MORANDA Katarzyna",
       "tytul_kategoria": "I",
@@ -534,7 +525,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "60",
+      "id": "59",
       "id_pzszach": "4970",
       "nazwisko_imie": "FURMAN Bartosz",
       "tytul_kategoria": "II",
@@ -543,7 +534,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "61",
+      "id": "60",
       "id_pzszach": "4986",
       "nazwisko_imie": "BAKALARZ Leszek",
       "tytul_kategoria": "FM",
@@ -552,7 +543,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "62",
+      "id": "61",
       "id_pzszach": "5048",
       "nazwisko_imie": "SAJTYNA Krzysztof",
       "tytul_kategoria": "I",
@@ -561,7 +552,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "63",
+      "id": "62",
       "id_pzszach": "46399",
       "nazwisko_imie": "CHOINA Jan",
       "tytul_kategoria": "I",
@@ -570,7 +561,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "64",
+      "id": "63",
       "id_pzszach": "5065",
       "nazwisko_imie": "URBAN Wojciech",
       "tytul_kategoria": "I",
@@ -579,16 +570,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "65",
-      "id_pzszach": "120610",
-      "nazwisko_imie": "KOWALCZYK Piotr",
-      "tytul_kategoria": "I",
-      "rank_fide": "1899",
-      "klub": "Fundacja DOBRY RUCH",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "66",
+      "id": "64",
       "id_pzszach": "3451",
       "nazwisko_imie": "PYTEL Piotr",
       "tytul_kategoria": "I",
@@ -597,7 +579,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "67",
+      "id": "65",
       "id_pzszach": "5035",
       "nazwisko_imie": "PLICNER Adam",
       "tytul_kategoria": "I",
@@ -606,7 +588,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "68",
+      "id": "66",
       "id_pzszach": "4917",
       "nazwisko_imie": "MISZTAL Piotr",
       "tytul_kategoria": "II+",
@@ -615,7 +597,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "69",
+      "id": "67",
+      "id_pzszach": "120610",
+      "nazwisko_imie": "KOWALCZYK Piotr",
+      "tytul_kategoria": "I",
+      "rank_fide": "1889",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "68",
       "id_pzszach": "4988",
       "nazwisko_imie": "BARTOSIK Lech",
       "tytul_kategoria": "I",
@@ -624,12 +615,21 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "70",
+      "id": "69",
       "id_pzszach": "5042",
       "nazwisko_imie": "REGA Marek",
       "tytul_kategoria": "I",
       "rank_fide": "1870",
       "klub": "HETMAN Ostrowiec Świętokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "70",
+      "id_pzszach": "85987",
+      "nazwisko_imie": "OŻÓG Bartosz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1867",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -679,6 +679,15 @@
     },
     {
       "id": "76",
+      "id_pzszach": "109427",
+      "nazwisko_imie": "DOROWSKI Nataniel",
+      "tytul_kategoria": "I",
+      "rank_fide": "1853",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "77",
       "id_pzszach": "5010",
       "nazwisko_imie": "JUSZCZAK Anna",
       "tytul_kategoria": "K",
@@ -687,7 +696,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "77",
+      "id": "78",
       "id_pzszach": "30130",
       "nazwisko_imie": "ZAJĄCZKOWSKI Michał",
       "tytul_kategoria": "II+",
@@ -696,7 +705,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "78",
+      "id": "79",
+      "id_pzszach": "64570",
+      "nazwisko_imie": "KOZERA Patryk",
+      "tytul_kategoria": "I",
+      "rank_fide": "1851",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "80",
       "id_pzszach": "75039",
       "nazwisko_imie": "POŻOGA Adam",
       "tytul_kategoria": "I",
@@ -705,7 +723,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "79",
+      "id": "81",
       "id_pzszach": "86442",
       "nazwisko_imie": "DASZKIEWICZ Adrian",
       "tytul_kategoria": "I+",
@@ -714,7 +732,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "80",
+      "id": "82",
+      "id_pzszach": "84142",
+      "nazwisko_imie": "NOWAK Karol",
+      "tytul_kategoria": "I",
+      "rank_fide": "1849",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "83",
       "id_pzszach": "20478",
       "nazwisko_imie": "KILJAŃSKI Jędrzej",
       "tytul_kategoria": "I",
@@ -723,7 +750,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "81",
+      "id": "84",
       "id_pzszach": "52103",
       "nazwisko_imie": "FIDOR Łukasz",
       "tytul_kategoria": "IV",
@@ -732,7 +759,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "82",
+      "id": "85",
       "id_pzszach": "20479",
       "nazwisko_imie": "KOŁODZIEJ Przemysław",
       "tytul_kategoria": "II+",
@@ -741,7 +768,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "83",
+      "id": "86",
       "id_pzszach": "56335",
       "nazwisko_imie": "OLESIŃSKI Michał",
       "tytul_kategoria": "I",
@@ -750,7 +777,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "84",
+      "id": "87",
       "id_pzszach": "7927",
       "nazwisko_imie": "PRZYBYL Jozef",
       "tytul_kategoria": "I",
@@ -759,7 +786,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "85",
+      "id": "88",
       "id_pzszach": "5026",
       "nazwisko_imie": "MICHALSKI Artur",
       "tytul_kategoria": "II+",
@@ -768,7 +795,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "86",
+      "id": "89",
       "id_pzszach": "49613",
       "nazwisko_imie": "PRZEPIÓRA Anna",
       "tytul_kategoria": "I++",
@@ -777,7 +804,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "87",
+      "id": "90",
       "id_pzszach": "20481",
       "nazwisko_imie": "SZYMANOWICZ Maksymilian",
       "tytul_kategoria": "I",
@@ -786,7 +813,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "88",
+      "id": "91",
       "id_pzszach": "5013",
       "nazwisko_imie": "KARPETA Robert",
       "tytul_kategoria": "I",
@@ -795,7 +822,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "89",
+      "id": "92",
       "id_pzszach": "46787",
       "nazwisko_imie": "PAŹDZIERZ Piotr",
       "tytul_kategoria": "I",
@@ -804,7 +831,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "90",
+      "id": "93",
       "id_pzszach": "50778",
       "nazwisko_imie": "MOĆKO Maciej",
       "tytul_kategoria": "I",
@@ -813,7 +840,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "91",
+      "id": "94",
       "id_pzszach": "5056",
       "nazwisko_imie": "STOLARSKI Janusz",
       "tytul_kategoria": "I",
@@ -822,7 +849,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "92",
+      "id": "95",
       "id_pzszach": "38805",
       "nazwisko_imie": "KOCIA Kamil",
       "tytul_kategoria": "I",
@@ -831,25 +858,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "93",
-      "id_pzszach": "87273",
-      "nazwisko_imie": "GOŁĄB Antoni",
-      "tytul_kategoria": "II",
-      "rank_fide": "1813",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "94",
-      "id_pzszach": "84142",
-      "nazwisko_imie": "NOWAK Karol",
-      "tytul_kategoria": "I",
-      "rank_fide": "1812",
-      "klub": "",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "49017",
       "nazwisko_imie": "SŁONIEWSKA Alicja",
       "tytul_kategoria": "I++",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "4929",
       "nazwisko_imie": "SZCZYPKOWSKI Piotr",
       "tytul_kategoria": "II",
@@ -867,7 +876,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "97",
+      "id": "98",
       "id_pzszach": "63074",
       "nazwisko_imie": "NOWAK Maciej",
       "tytul_kategoria": "II+",
@@ -876,7 +885,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "98",
+      "id": "99",
       "id_pzszach": "67809",
       "nazwisko_imie": "BARAŃSKI Zbigniew",
       "tytul_kategoria": "II",
@@ -885,7 +894,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "99",
+      "id": "100",
       "id_pzszach": "13505",
       "nazwisko_imie": "KAPUSTA Paweł",
       "tytul_kategoria": "II",
@@ -894,7 +903,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "100",
+      "id": "101",
       "id_pzszach": "28605",
       "nazwisko_imie": "BUREK Marcin",
       "tytul_kategoria": "I",
@@ -903,7 +912,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "101",
+      "id": "102",
       "id_pzszach": "20477",
       "nazwisko_imie": "JASZEWSKA Oliwia",
       "tytul_kategoria": "I",
@@ -912,7 +921,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "102",
+      "id": "103",
       "id_pzszach": "5047",
       "nazwisko_imie": "RYBAK Mariusz",
       "tytul_kategoria": "I",
@@ -921,7 +930,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "103",
+      "id": "104",
       "id_pzszach": "37678",
       "nazwisko_imie": "SKAWIŃSKI Szymon",
       "tytul_kategoria": "I",
@@ -930,7 +939,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "104",
+      "id": "105",
       "id_pzszach": "38803",
       "nazwisko_imie": "DETKA Wojciech",
       "tytul_kategoria": "II",
@@ -939,7 +948,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "105",
+      "id": "106",
       "id_pzszach": "5046",
       "nazwisko_imie": "RÓŻYCKI Jarosław",
       "tytul_kategoria": "I+",
@@ -948,7 +957,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "106",
+      "id": "107",
+      "id_pzszach": "97619",
+      "nazwisko_imie": "JEDLIKOWSKI Jan",
+      "tytul_kategoria": "I",
+      "rank_fide": "1784",
+      "klub": "SSz ROSZADA Końskie",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "108",
       "id_pzszach": "39854",
       "nazwisko_imie": "JANIK Marcin",
       "tytul_kategoria": "I",
@@ -957,7 +975,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "107",
+      "id": "109",
       "id_pzszach": "115153",
       "nazwisko_imie": "BROŻEK Adrian",
       "tytul_kategoria": "IV",
@@ -966,7 +984,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "108",
+      "id": "110",
       "id_pzszach": "5053",
       "nazwisko_imie": "SMYŁA Zbigniew",
       "tytul_kategoria": "I",
@@ -975,7 +993,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "109",
+      "id": "111",
       "id_pzszach": "30131",
       "nazwisko_imie": "WIADERNY Łukasz",
       "tytul_kategoria": "II+",
@@ -984,7 +1002,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "110",
+      "id": "112",
       "id_pzszach": "1888",
       "nazwisko_imie": "MAZUR Wojciech",
       "tytul_kategoria": "I",
@@ -993,16 +1011,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "111",
-      "id_pzszach": "64570",
-      "nazwisko_imie": "KOZERA Patryk",
-      "tytul_kategoria": "I",
-      "rank_fide": "1774",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "112",
+      "id": "113",
       "id_pzszach": "137635",
       "nazwisko_imie": "KOSICH Lesia",
       "tytul_kategoria": "I",
@@ -1011,7 +1020,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "113",
+      "id": "114",
       "id_pzszach": "30134",
       "nazwisko_imie": "SOKOLNICKI Marek",
       "tytul_kategoria": "II",
@@ -1020,7 +1029,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "114",
+      "id": "115",
+      "id_pzszach": "74031",
+      "nazwisko_imie": "KULPIŃSKI Maciej",
+      "tytul_kategoria": "II",
+      "rank_fide": "1769",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "116",
       "id_pzszach": "77522",
       "nazwisko_imie": "STEFANIEC Mateusz",
       "tytul_kategoria": "II",
@@ -1029,7 +1047,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "115",
+      "id": "117",
+      "id_pzszach": "66738",
+      "nazwisko_imie": "STAWECKI Bartłomiej",
+      "tytul_kategoria": "I",
+      "rank_fide": "1767",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "118",
       "id_pzszach": "37710",
       "nazwisko_imie": "UGREWICZ Ludwik",
       "tytul_kategoria": "I",
@@ -1038,7 +1065,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "116",
+      "id": "119",
       "id_pzszach": "21605",
       "nazwisko_imie": "SYNOWIEC Jakub",
       "tytul_kategoria": "II",
@@ -1047,7 +1074,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "117",
+      "id": "120",
       "id_pzszach": "29632",
       "nazwisko_imie": "MACKIEWICZ Artur",
       "tytul_kategoria": "I",
@@ -1056,16 +1083,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "118",
-      "id_pzszach": "85987",
-      "nazwisko_imie": "OŻÓG Bartosz",
-      "tytul_kategoria": "I",
-      "rank_fide": "1762",
-      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "119",
+      "id": "121",
       "id_pzszach": "30261",
       "nazwisko_imie": "KOŁACZYŃSKI Jerzy",
       "tytul_kategoria": "II",
@@ -1074,7 +1092,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "120",
+      "id": "122",
       "id_pzszach": "24813",
       "nazwisko_imie": "OBARA Damian",
       "tytul_kategoria": "II",
@@ -1083,7 +1101,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "121",
+      "id": "123",
       "id_pzszach": "39833",
       "nazwisko_imie": "FRĄK Marian",
       "tytul_kategoria": "II",
@@ -1092,7 +1110,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "122",
+      "id": "124",
       "id_pzszach": "5045",
       "nazwisko_imie": "RÓŻYCKA Justyna",
       "tytul_kategoria": "II",
@@ -1101,7 +1119,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "123",
+      "id": "125",
       "id_pzszach": "72579",
       "nazwisko_imie": "GRACZYKOWSKI Wojciech",
       "tytul_kategoria": "I",
@@ -1110,7 +1128,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "124",
+      "id": "126",
       "id_pzszach": "105723",
       "nazwisko_imie": "MOROZOV Artem",
       "tytul_kategoria": "II+",
@@ -1119,7 +1137,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "125",
+      "id": "127",
+      "id_pzszach": "107566",
+      "nazwisko_imie": "RÓŻAŃSKI Miłosz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1753",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "128",
       "id_pzszach": "50773",
       "nazwisko_imie": "JÓZEFIK Aleksander",
       "tytul_kategoria": "I",
@@ -1128,7 +1155,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "126",
+      "id": "129",
       "id_pzszach": "1303",
       "nazwisko_imie": "KORYCKI Jozef",
       "tytul_kategoria": "I",
@@ -1137,7 +1164,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "127",
+      "id": "130",
       "id_pzszach": "81132",
       "nazwisko_imie": "GRACZYKOWSKI Marcin",
       "tytul_kategoria": "I",
@@ -1146,7 +1173,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "128",
+      "id": "131",
       "id_pzszach": "5020",
       "nazwisko_imie": "KRZECZOWSKI Tadeusz",
       "tytul_kategoria": "I",
@@ -1155,7 +1182,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "129",
+      "id": "132",
       "id_pzszach": "20484",
       "nazwisko_imie": "WÓJCIK Karol",
       "tytul_kategoria": "II",
@@ -1164,7 +1191,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "130",
+      "id": "133",
+      "id_pzszach": "2602",
+      "nazwisko_imie": "CIECHOŃSKI Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "1747",
+      "klub": "KLIM UKSz Gambit Starachowice",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "134",
       "id_pzszach": "26079",
       "nazwisko_imie": "NOWOSAD Jan",
       "tytul_kategoria": "II+",
@@ -1173,7 +1209,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "131",
+      "id": "135",
       "id_pzszach": "109432",
       "nazwisko_imie": "SKOREK Szymon",
       "tytul_kategoria": "II",
@@ -1182,7 +1218,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "132",
+      "id": "136",
       "id_pzszach": "4961",
       "nazwisko_imie": "KOMORNICZAK Zdzislaw",
       "tytul_kategoria": "I",
@@ -1191,7 +1227,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "133",
+      "id": "137",
       "id_pzszach": "43531",
       "nazwisko_imie": "GÓŹDŹ Rafał",
       "tytul_kategoria": "III",
@@ -1200,7 +1236,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "134",
+      "id": "138",
       "id_pzszach": "50647",
       "nazwisko_imie": "ANYŻ Monika",
       "tytul_kategoria": "I++",
@@ -1209,7 +1245,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "135",
+      "id": "139",
       "id_pzszach": "27405",
       "nazwisko_imie": "GOŁUCH Bartosz",
       "tytul_kategoria": "I",
@@ -1218,7 +1254,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "136",
+      "id": "140",
+      "id_pzszach": "100454",
+      "nazwisko_imie": "SZCZUKIEWICZ Wojciech",
+      "tytul_kategoria": "II",
+      "rank_fide": "1740",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "141",
       "id_pzszach": "114796",
       "nazwisko_imie": "KLYMUK Maksym",
       "tytul_kategoria": "II",
@@ -1227,7 +1272,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "137",
+      "id": "142",
       "id_pzszach": "26637",
       "nazwisko_imie": "GÓRZYŃSKI Zbigniew",
       "tytul_kategoria": "II",
@@ -1236,16 +1281,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "138",
-      "id_pzszach": "2602",
-      "nazwisko_imie": "CIECHOŃSKI Piotr",
-      "tytul_kategoria": "K",
-      "rank_fide": "1736",
-      "klub": "KLIM UKSz Gambit Starachowice",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "139",
+      "id": "143",
       "id_pzszach": "127314",
       "nazwisko_imie": "STOCH Maja",
       "tytul_kategoria": "I+",
@@ -1254,7 +1290,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "140",
+      "id": "144",
       "id_pzszach": "61658",
       "nazwisko_imie": "SŁAWIŃSKI Tomasz",
       "tytul_kategoria": "II+",
@@ -1263,7 +1299,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "141",
+      "id": "145",
       "id_pzszach": "104679",
       "nazwisko_imie": "KRYSTEL Bartłomiej",
       "tytul_kategoria": "II",
@@ -1272,7 +1308,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "142",
+      "id": "146",
       "id_pzszach": "38281",
       "nazwisko_imie": "JĘDRAS Tomasz",
       "tytul_kategoria": "III",
@@ -1281,7 +1317,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "143",
+      "id": "147",
       "id_pzszach": "21600",
       "nazwisko_imie": "KACZOR Mateusz",
       "tytul_kategoria": "II",
@@ -1290,7 +1326,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "144",
+      "id": "148",
       "id_pzszach": "27413",
       "nazwisko_imie": "PELA Konrad",
       "tytul_kategoria": "III",
@@ -1299,7 +1335,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "145",
+      "id": "149",
       "id_pzszach": "27426",
       "nazwisko_imie": "TOMKOWSKI Dariusz",
       "tytul_kategoria": "II",
@@ -1308,7 +1344,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "146",
+      "id": "150",
       "id_pzszach": "56957",
       "nazwisko_imie": "CHEBDA Bartosz",
       "tytul_kategoria": "II",
@@ -1317,7 +1353,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "147",
+      "id": "151",
       "id_pzszach": "29716",
       "nazwisko_imie": "ZAJĄC Władysław",
       "tytul_kategoria": "II",
@@ -1326,7 +1362,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "148",
+      "id": "152",
       "id_pzszach": "4925",
       "nazwisko_imie": "PIETRZYKOWSKI Jakub",
       "tytul_kategoria": "II",
@@ -1335,7 +1371,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "149",
+      "id": "153",
       "id_pzszach": "5030",
       "nazwisko_imie": "OLEKSA Marcin",
       "tytul_kategoria": "II",
@@ -1344,7 +1380,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "150",
+      "id": "154",
       "id_pzszach": "41401",
       "nazwisko_imie": "LIBURA Julianna",
       "tytul_kategoria": "I++",
@@ -1353,7 +1389,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "151",
+      "id": "155",
       "id_pzszach": "7840",
       "nazwisko_imie": "ŁUKOMSKI Łukasz",
       "tytul_kategoria": "II+",
@@ -1362,7 +1398,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "152",
+      "id": "156",
       "id_pzszach": "21604",
       "nazwisko_imie": "SYBIS Iwona",
       "tytul_kategoria": "II+",
@@ -1371,16 +1407,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "153",
-      "id_pzszach": "107566",
-      "nazwisko_imie": "RÓŻAŃSKI Miłosz",
-      "tytul_kategoria": "II",
-      "rank_fide": "1707",
-      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "154",
+      "id": "157",
       "id_pzszach": "29769",
       "nazwisko_imie": "ŁYŻWA Krzysztof",
       "tytul_kategoria": "II",
@@ -1389,16 +1416,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "155",
-      "id_pzszach": "93132",
-      "nazwisko_imie": "JEDLIKOWSKA Maja",
-      "tytul_kategoria": "I",
-      "rank_fide": "1705",
-      "klub": "SSz ROSZADA Końskie",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "156",
+      "id": "158",
       "id_pzszach": "24810",
       "nazwisko_imie": "SĘKOWSKI Piotr",
       "tytul_kategoria": "II",
@@ -1407,7 +1425,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "157",
+      "id": "159",
       "id_pzszach": "109438",
       "nazwisko_imie": "JEZIORSKI Remigiusz",
       "tytul_kategoria": "II",
@@ -1416,7 +1434,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "158",
+      "id": "160",
       "id_pzszach": "28549",
       "nazwisko_imie": "LINART Gracjan",
       "tytul_kategoria": "II",
@@ -1425,7 +1443,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "159",
+      "id": "161",
       "id_pzszach": "40174",
       "nazwisko_imie": "GAWRON Łukasz",
       "tytul_kategoria": "II",
@@ -1434,7 +1452,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "160",
+      "id": "162",
       "id_pzszach": "96696",
       "nazwisko_imie": "BUDZEŃ Wojciech",
       "tytul_kategoria": "II",
@@ -1443,7 +1461,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "161",
+      "id": "163",
       "id_pzszach": "82465",
       "nazwisko_imie": "KANAREK Hubert",
       "tytul_kategoria": "II",
@@ -1452,16 +1470,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "162",
-      "id_pzszach": "74031",
-      "nazwisko_imie": "KULPIŃSKI Maciej",
+      "id": "164",
+      "id_pzszach": "87273",
+      "nazwisko_imie": "GOŁĄB Antoni",
       "tytul_kategoria": "II",
-      "rank_fide": "1696",
-      "klub": "LUKKS OLIMPIA Kielce",
+      "rank_fide": "1697",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "163",
+      "id": "165",
       "id_pzszach": "21599",
       "nazwisko_imie": "KACZOR Katarzyna",
       "tytul_kategoria": "II+",
@@ -1470,7 +1488,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "164",
+      "id": "166",
       "id_pzszach": "72536",
       "nazwisko_imie": "Pabis Robert",
       "tytul_kategoria": "II",
@@ -1479,7 +1497,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "165",
+      "id": "167",
       "id_pzszach": "20483",
       "nazwisko_imie": "WÓJCIK Dawid",
       "tytul_kategoria": "II+",
@@ -1488,7 +1506,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "166",
+      "id": "168",
       "id_pzszach": "27430",
       "nazwisko_imie": "OLBRYŚ Karol",
       "tytul_kategoria": "II",
@@ -1497,7 +1515,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "167",
+      "id": "169",
       "id_pzszach": "38582",
       "nazwisko_imie": "SYBIS Elżbieta",
       "tytul_kategoria": "II",
@@ -1506,7 +1524,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "168",
+      "id": "170",
       "id_pzszach": "119288",
       "nazwisko_imie": "JAMROŻEK Jan",
       "tytul_kategoria": "II",
@@ -1515,7 +1533,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "169",
+      "id": "171",
       "id_pzszach": "74963",
       "nazwisko_imie": "TARŁOWSKI Bartosz",
       "tytul_kategoria": "II",
@@ -1524,7 +1542,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "170",
+      "id": "172",
       "id_pzszach": "4914",
       "nazwisko_imie": "JAROSZ Patryk",
       "tytul_kategoria": "III",
@@ -1533,7 +1551,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "171",
+      "id": "173",
       "id_pzszach": "40175",
       "nazwisko_imie": "KURCZYNA Patryk",
       "tytul_kategoria": "II+",
@@ -1542,7 +1560,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "172",
+      "id": "174",
       "id_pzszach": "76291",
       "nazwisko_imie": "KALETA Jan",
       "tytul_kategoria": "II",
@@ -1551,7 +1569,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "173",
+      "id": "175",
       "id_pzszach": "82394",
       "nazwisko_imie": "BONDZINSKI Olaf",
       "tytul_kategoria": "II",
@@ -1560,7 +1578,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "174",
+      "id": "176",
       "id_pzszach": "29303",
       "nazwisko_imie": "HUDZIEC Władysław",
       "tytul_kategoria": "II",
@@ -1569,7 +1587,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "175",
+      "id": "177",
       "id_pzszach": "142165",
       "nazwisko_imie": "MUCHA Mateusz",
       "tytul_kategoria": "II",
@@ -1578,7 +1596,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "176",
+      "id": "178",
       "id_pzszach": "25927",
       "nazwisko_imie": "KWIECIEŃ Michał",
       "tytul_kategoria": "III",
@@ -1587,7 +1605,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "177",
+      "id": "179",
       "id_pzszach": "60579",
       "nazwisko_imie": "KUPIS Paweł",
       "tytul_kategoria": "II+",
@@ -1596,16 +1614,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "178",
-      "id_pzszach": "97619",
-      "nazwisko_imie": "JEDLIKOWSKI Jan",
-      "tytul_kategoria": "I",
-      "rank_fide": "1673",
-      "klub": "SSz ROSZADA Końskie",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "179",
+      "id": "180",
       "id_pzszach": "30213",
       "nazwisko_imie": "CICHOCKI Mariusz",
       "tytul_kategoria": "II",
@@ -1614,7 +1623,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "180",
+      "id": "181",
       "id_pzszach": "64123",
       "nazwisko_imie": "KARYŚ Jakub",
       "tytul_kategoria": "II",
@@ -1623,7 +1632,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "181",
+      "id": "182",
       "id_pzszach": "110289",
       "nazwisko_imie": "MLECZKO Michał",
       "tytul_kategoria": "II",
@@ -1632,7 +1641,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "182",
+      "id": "183",
       "id_pzszach": "63073",
       "nazwisko_imie": "KOPROWSKI Mikołaj",
       "tytul_kategoria": "II",
@@ -1641,7 +1650,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "183",
+      "id": "184",
       "id_pzszach": "27514",
       "nazwisko_imie": "SADŁOCHA Jan",
       "tytul_kategoria": "II+",
@@ -1650,7 +1659,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "184",
+      "id": "185",
       "id_pzszach": "83866",
       "nazwisko_imie": "OPALA Natalia",
       "tytul_kategoria": "I",
@@ -1659,7 +1668,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "185",
+      "id": "186",
       "id_pzszach": "39013",
       "nazwisko_imie": "CZEPIEC Marek",
       "tytul_kategoria": "II",
@@ -1668,7 +1677,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "186",
+      "id": "187",
       "id_pzszach": "63850",
       "nazwisko_imie": "STĘPIEŃ Paweł",
       "tytul_kategoria": "I",
@@ -1677,21 +1686,12 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "187",
+      "id": "188",
       "id_pzszach": "46781",
       "nazwisko_imie": "GÓRECKI Mateusz",
       "tytul_kategoria": "II",
       "rank_fide": "1660",
       "klub": "Fundacja DOBRY RUCH",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "188",
-      "id_pzszach": "29714",
-      "nazwisko_imie": "SZCZUKIEWICZ Michał",
-      "tytul_kategoria": "II",
-      "rank_fide": "1658",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -1732,15 +1732,6 @@
     },
     {
       "id": "193",
-      "id_pzszach": "66738",
-      "nazwisko_imie": "STAWECKI Bartłomiej",
-      "tytul_kategoria": "I",
-      "rank_fide": "1653",
-      "klub": "Fundacja DOBRY RUCH",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "194",
       "id_pzszach": "30214",
       "nazwisko_imie": "DULĘBA Janusz",
       "tytul_kategoria": "II",
@@ -1749,7 +1740,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "195",
+      "id": "194",
       "id_pzszach": "126034",
       "nazwisko_imie": "KANISZEWSKI Olaf",
       "tytul_kategoria": "II",
@@ -1758,7 +1749,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "196",
+      "id": "195",
       "id_pzszach": "27432",
       "nazwisko_imie": "CHRZANOWSKI Jerzy",
       "tytul_kategoria": "I",
@@ -1767,7 +1758,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "197",
+      "id": "196",
       "id_pzszach": "4923",
       "nazwisko_imie": "HANUSZKIEWICZ Kazimierz",
       "tytul_kategoria": "II+",
@@ -1776,16 +1767,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "198",
-      "id_pzszach": "63629",
-      "nazwisko_imie": "CIS Karol",
-      "tytul_kategoria": "II",
-      "rank_fide": "1644",
-      "klub": "",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "199",
+      "id": "197",
       "id_pzszach": "77676",
       "nazwisko_imie": "GEMBSKI Mateusz",
       "tytul_kategoria": "II",
@@ -1794,7 +1776,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "200",
+      "id": "198",
       "id_pzszach": "21986",
       "nazwisko_imie": "DETKO Wiesław",
       "tytul_kategoria": "II+",
@@ -1803,12 +1785,30 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "201",
+      "id": "199",
       "id_pzszach": "29462",
       "nazwisko_imie": "PIŁKA Kazimierz",
       "tytul_kategoria": "II",
       "rank_fide": "1641",
       "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "200",
+      "id_pzszach": "63629",
+      "nazwisko_imie": "CIS Karol",
+      "tytul_kategoria": "II",
+      "rank_fide": "1639",
+      "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "201",
+      "id_pzszach": "93132",
+      "nazwisko_imie": "JEDLIKOWSKA Maja",
+      "tytul_kategoria": "I",
+      "rank_fide": "1639",
+      "klub": "SSz ROSZADA Końskie",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -1840,6 +1840,15 @@
     },
     {
       "id": "205",
+      "id_pzszach": "75413",
+      "nazwisko_imie": "KARYŚ Małgorzata",
+      "tytul_kategoria": "I",
+      "rank_fide": "1631",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "206",
       "id_pzszach": "59220",
       "nazwisko_imie": "OKRĘT Wojciech",
       "tytul_kategoria": "II",
@@ -1848,7 +1857,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "206",
+      "id": "207",
+      "id_pzszach": "90990",
+      "nazwisko_imie": "MIESZCZANKOWSKI Adam",
+      "tytul_kategoria": "II",
+      "rank_fide": "1619",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "208",
       "id_pzszach": "92145",
       "nazwisko_imie": "CHYC Jan",
       "tytul_kategoria": "II",
@@ -1857,7 +1875,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "207",
+      "id": "209",
+      "id_pzszach": "136723",
+      "nazwisko_imie": "KASIŃSKI Jan",
+      "tytul_kategoria": "II",
+      "rank_fide": "1616",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "210",
       "id_pzszach": "26300",
       "nazwisko_imie": "KĘDZIERSKI Aleksander",
       "tytul_kategoria": "II+",
@@ -1866,7 +1893,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "208",
+      "id": "211",
       "id_pzszach": "50781",
       "nazwisko_imie": "KUMOROWSKI Patryk",
       "tytul_kategoria": "II",
@@ -1875,7 +1902,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "209",
+      "id": "212",
       "id_pzszach": "59286",
       "nazwisko_imie": "NAGLIK Maciej",
       "tytul_kategoria": "II",
@@ -1884,7 +1911,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "210",
+      "id": "213",
       "id_pzszach": "99550",
       "nazwisko_imie": "CIEPLIŃSKI Adrian",
       "tytul_kategoria": "II",
@@ -1893,7 +1920,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "211",
+      "id": "214",
       "id_pzszach": "119096",
       "nazwisko_imie": "HARA Ksawier",
       "tytul_kategoria": "II",
@@ -1902,7 +1929,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "212",
+      "id": "215",
       "id_pzszach": "52100",
       "nazwisko_imie": "SIŃCZAK Michał",
       "tytul_kategoria": "II",
@@ -1911,16 +1938,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "213",
-      "id_pzszach": "90990",
-      "nazwisko_imie": "MIESZCZANKOWSKI Adam",
-      "tytul_kategoria": "II",
-      "rank_fide": "1612",
-      "klub": "Fundacja DOBRY RUCH",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "214",
+      "id": "216",
       "id_pzszach": "152943",
       "nazwisko_imie": "LODZIŃSKI Karol",
       "tytul_kategoria": "III",
@@ -1929,7 +1947,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "215",
+      "id": "217",
       "id_pzszach": "123705",
       "nazwisko_imie": "SIDWA Piotr",
       "tytul_kategoria": "III",
@@ -1938,7 +1956,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "216",
+      "id": "218",
       "id_pzszach": "65481",
       "nazwisko_imie": "MAZONIK Oliwier",
       "tytul_kategoria": "II",
@@ -1947,16 +1965,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "217",
-      "id_pzszach": "106643",
-      "nazwisko_imie": "LITWAJTIS Pola",
-      "tytul_kategoria": "II",
-      "rank_fide": "1607",
-      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "218",
+      "id": "219",
       "id_pzszach": "155733",
       "nazwisko_imie": "KOLANKOWSKI Albert",
       "tytul_kategoria": "III",
@@ -1965,7 +1974,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "219",
+      "id": "220",
       "id_pzszach": "119934",
       "nazwisko_imie": "MOSKAL Michał",
       "tytul_kategoria": "III",
@@ -1974,7 +1983,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "220",
+      "id": "221",
       "id_pzszach": "17038",
       "nazwisko_imie": "BARSZCZ Milena",
       "tytul_kategoria": "II",
@@ -1983,21 +1992,12 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "221",
+      "id": "222",
       "id_pzszach": "37815",
       "nazwisko_imie": "CIEŚLIK Krzysztof",
       "tytul_kategoria": "II",
       "rank_fide": "1601",
       "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "222",
-      "id_pzszach": "136723",
-      "nazwisko_imie": "KASIŃSKI Jan",
-      "tytul_kategoria": "II",
-      "rank_fide": "1600",
-      "klub": "Fundacja DOBRY RUCH",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -2020,6 +2020,15 @@
     },
     {
       "id": "225",
+      "id_pzszach": "29714",
+      "nazwisko_imie": "SZCZUKIEWICZ Michał",
+      "tytul_kategoria": "II",
+      "rank_fide": "1591",
+      "klub": "HETMAN Ostrowiec Świętokrzyski",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "226",
       "id_pzszach": "140537",
       "nazwisko_imie": "ZIEJA Brajan",
       "tytul_kategoria": "III",
@@ -2028,7 +2037,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "226",
+      "id": "227",
       "id_pzszach": "29732",
       "nazwisko_imie": "GORECKI Jarosław",
       "tytul_kategoria": "II+",
@@ -2037,19 +2046,10 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "227",
+      "id": "228",
       "id_pzszach": "38354",
       "nazwisko_imie": "OLSZEWSKI Tomasz",
       "tytul_kategoria": "II",
-      "rank_fide": "1587",
-      "klub": "Fundacja DOBRY RUCH",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "228",
-      "id_pzszach": "75413",
-      "nazwisko_imie": "KARYŚ Małgorzata",
-      "tytul_kategoria": "I",
       "rank_fide": "1587",
       "klub": "Fundacja DOBRY RUCH",
       "wojewodztwo_zwiazek": "SK"
@@ -2218,11 +2218,11 @@
     },
     {
       "id": "247",
-      "id_pzszach": "108670",
-      "nazwisko_imie": "STELMACH Tomasz",
-      "tytul_kategoria": "II",
-      "rank_fide": "1572",
-      "klub": "Fundacja DOBRY RUCH",
+      "id_pzszach": "78830",
+      "nazwisko_imie": "PARTYKA Marek",
+      "tytul_kategoria": "III",
+      "rank_fide": "1571",
+      "klub": "",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -2254,15 +2254,6 @@
     },
     {
       "id": "251",
-      "id_pzszach": "100454",
-      "nazwisko_imie": "SZCZUKIEWICZ Wojciech",
-      "tytul_kategoria": "II",
-      "rank_fide": "1566",
-      "klub": "HETMAN Ostrowiec Świętokrzyski",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "252",
       "id_pzszach": "118351",
       "nazwisko_imie": "WÓJCICKI Błażej",
       "tytul_kategoria": "II",
@@ -2271,12 +2262,21 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "253",
+      "id": "252",
       "id_pzszach": "103032",
       "nazwisko_imie": "SZCZUKIEWICZ Gustaw",
       "tytul_kategoria": "II",
       "rank_fide": "1563",
       "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "253",
+      "id_pzszach": "106643",
+      "nazwisko_imie": "LITWAJTIS Pola",
+      "tytul_kategoria": "II",
+      "rank_fide": "1563",
+      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -2533,15 +2533,6 @@
     },
     {
       "id": "282",
-      "id_pzszach": "106607",
-      "nazwisko_imie": "CZEKAJ Aleksandra",
-      "tytul_kategoria": "I",
-      "rank_fide": "1537",
-      "klub": "Fundacja DOBRY RUCH",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "283",
       "id_pzszach": "28636",
       "nazwisko_imie": "KUBICZ Piotr",
       "tytul_kategoria": "II",
@@ -2550,7 +2541,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "284",
+      "id": "283",
       "id_pzszach": "123407",
       "nazwisko_imie": "SOBCZAK Fiodor",
       "tytul_kategoria": "III",
@@ -2559,7 +2550,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "285",
+      "id": "284",
       "id_pzszach": "27419",
       "nazwisko_imie": "MASTERNAK Konrad",
       "tytul_kategoria": "II",
@@ -2568,7 +2559,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "286",
+      "id": "285",
       "id_pzszach": "99381",
       "nazwisko_imie": "FREJ Filip",
       "tytul_kategoria": "III",
@@ -2577,12 +2568,21 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "287",
+      "id": "286",
       "id_pzszach": "46785",
       "nazwisko_imie": "JEDYNAK Jakub",
       "tytul_kategoria": "II",
       "rank_fide": "1530",
       "klub": "KMKSzach VICTORIA KOMPLEXBUD",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "287",
+      "id_pzszach": "108670",
+      "nazwisko_imie": "STELMACH Tomasz",
+      "tytul_kategoria": "II",
+      "rank_fide": "1530",
+      "klub": "Fundacja DOBRY RUCH",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -2704,15 +2704,6 @@
     },
     {
       "id": "301",
-      "id_pzszach": "132189",
-      "nazwisko_imie": "OLESIŃSKA Laura",
-      "tytul_kategoria": "II+",
-      "rank_fide": "1518",
-      "klub": "LKS Skała Tumlin",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "302",
       "id_pzszach": "104565",
       "nazwisko_imie": "GÓRAK Jakub",
       "tytul_kategoria": "II",
@@ -2721,7 +2712,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "303",
+      "id": "302",
       "id_pzszach": "129982",
       "nazwisko_imie": "SZWAGIERCZAK Mateusz",
       "tytul_kategoria": "III",
@@ -2730,7 +2721,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "304",
+      "id": "303",
       "id_pzszach": "95293",
       "nazwisko_imie": "JAKUBCZYK Andrzej",
       "tytul_kategoria": "IV",
@@ -2739,7 +2730,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "305",
+      "id": "304",
       "id_pzszach": "83862",
       "nazwisko_imie": "STAŃCZAK Tomasz",
       "tytul_kategoria": "II",
@@ -2748,7 +2739,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "306",
+      "id": "305",
       "id_pzszach": "99602",
       "nazwisko_imie": "Wypych Dawid",
       "tytul_kategoria": "III",
@@ -2757,7 +2748,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "307",
+      "id": "306",
       "id_pzszach": "107308",
       "nazwisko_imie": "TOMCZYK Jan",
       "tytul_kategoria": "II",
@@ -2766,7 +2757,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "308",
+      "id": "307",
       "id_pzszach": "129917",
       "nazwisko_imie": "KANGIER Krzysztof",
       "tytul_kategoria": "III",
@@ -2775,16 +2766,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "309",
-      "id_pzszach": "111028",
-      "nazwisko_imie": "LEŚKIEWICZ Barbara",
-      "tytul_kategoria": "III",
-      "rank_fide": "1505",
-      "klub": "",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "310",
+      "id": "308",
       "id_pzszach": "137961",
       "nazwisko_imie": "TKACHUK Roman",
       "tytul_kategoria": "III",
@@ -2793,7 +2775,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "311",
+      "id": "309",
       "id_pzszach": "63304",
       "nazwisko_imie": "MUEHSAM Karol",
       "tytul_kategoria": "III",
@@ -2802,7 +2784,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "312",
+      "id": "310",
       "id_pzszach": "69509",
       "nazwisko_imie": "Kania Konrad",
       "tytul_kategoria": "IV",
@@ -2811,7 +2793,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "313",
+      "id": "311",
       "id_pzszach": "93347",
       "nazwisko_imie": "GAJEWSKI Paweł",
       "tytul_kategoria": "II",
@@ -2820,7 +2802,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "314",
+      "id": "312",
       "id_pzszach": "117449",
       "nazwisko_imie": "MLECZKO Błażej",
       "tytul_kategoria": "III",
@@ -2829,7 +2811,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "315",
+      "id": "313",
       "id_pzszach": "62493",
       "nazwisko_imie": "PRZESŁAŃSKI Bartosz",
       "tytul_kategoria": "II",
@@ -2838,7 +2820,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "316",
+      "id": "314",
       "id_pzszach": "62945",
       "nazwisko_imie": "MICHALCZYK Adam",
       "tytul_kategoria": "III",
@@ -2847,7 +2829,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "317",
+      "id": "315",
       "id_pzszach": "83869",
       "nazwisko_imie": "MACIĄŻEK Albin",
       "tytul_kategoria": "II",
@@ -2856,7 +2838,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "318",
+      "id": "316",
       "id_pzszach": "143885",
       "nazwisko_imie": "WÓJCICKI Kacper",
       "tytul_kategoria": "II",
@@ -2865,7 +2847,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "319",
+      "id": "317",
       "id_pzszach": "90817",
       "nazwisko_imie": "MINAUT Kamil",
       "tytul_kategoria": "III",
@@ -2874,7 +2856,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "320",
+      "id": "318",
       "id_pzszach": "104481",
       "nazwisko_imie": "MAJCHER Maciej",
       "tytul_kategoria": "II",
@@ -2883,7 +2865,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "321",
+      "id": "319",
       "id_pzszach": "88078",
       "nazwisko_imie": "TROCZYŃSKI Dawid",
       "tytul_kategoria": "III",
@@ -2892,7 +2874,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "322",
+      "id": "320",
       "id_pzszach": "93478",
       "nazwisko_imie": "WALAS Leon",
       "tytul_kategoria": "II",
@@ -2901,7 +2883,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "323",
+      "id": "321",
       "id_pzszach": "107122",
       "nazwisko_imie": "WOŁCZYŃSKI Antoni",
       "tytul_kategoria": "II",
@@ -2910,7 +2892,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "324",
+      "id": "322",
       "id_pzszach": "123707",
       "nazwisko_imie": "SIDWA Mieszko",
       "tytul_kategoria": "II",
@@ -2919,7 +2901,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "325",
+      "id": "323",
       "id_pzszach": "105729",
       "nazwisko_imie": "PĘKALA Szymon",
       "tytul_kategoria": "II",
@@ -2928,7 +2910,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "326",
+      "id": "324",
       "id_pzszach": "29603",
       "nazwisko_imie": "ŻABICKI Krzysztof",
       "tytul_kategoria": "II",
@@ -2937,7 +2919,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "327",
+      "id": "325",
       "id_pzszach": "130463",
       "nazwisko_imie": "KOKOSZA Filip",
       "tytul_kategoria": "III",
@@ -2946,7 +2928,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "328",
+      "id": "326",
       "id_pzszach": "96704",
       "nazwisko_imie": "KRAJEWSKI Filip",
       "tytul_kategoria": "II",
@@ -2955,7 +2937,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "329",
+      "id": "327",
       "id_pzszach": "98070",
       "nazwisko_imie": "JABŁOŃSKI Łukasz",
       "tytul_kategoria": "III",
@@ -2964,7 +2946,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "330",
+      "id": "328",
       "id_pzszach": "83105",
       "nazwisko_imie": "DYMIŃSKI Jan",
       "tytul_kategoria": "II",
@@ -2973,7 +2955,16 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "331",
+      "id": "329",
+      "id_pzszach": "106607",
+      "nazwisko_imie": "CZEKAJ Aleksandra",
+      "tytul_kategoria": "I",
+      "rank_fide": "1477",
+      "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "330",
       "id_pzszach": "105825",
       "nazwisko_imie": "SNOCH Emilia",
       "tytul_kategoria": "II+",
@@ -2982,7 +2973,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "332",
+      "id": "331",
       "id_pzszach": "113750",
       "nazwisko_imie": "POBOCHA Piotr",
       "tytul_kategoria": "V",
@@ -2991,7 +2982,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "333",
+      "id": "332",
       "id_pzszach": "97172",
       "nazwisko_imie": "BEDNARCZYK Andrzej",
       "tytul_kategoria": "IV",
@@ -3000,7 +2991,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "334",
+      "id": "333",
       "id_pzszach": "107754",
       "nazwisko_imie": "MAC Jan",
       "tytul_kategoria": "III",
@@ -3009,7 +3000,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "335",
+      "id": "334",
       "id_pzszach": "132625",
       "nazwisko_imie": "GUL Sebastian",
       "tytul_kategoria": "III",
@@ -3018,7 +3009,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "336",
+      "id": "335",
       "id_pzszach": "40088",
       "nazwisko_imie": "SIDOR Andrzej",
       "tytul_kategoria": "II",
@@ -3027,7 +3018,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "337",
+      "id": "336",
       "id_pzszach": "76544",
       "nazwisko_imie": "CZOBANIAN Geworg",
       "tytul_kategoria": "II",
@@ -3036,7 +3027,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "338",
+      "id": "337",
       "id_pzszach": "94107",
       "nazwisko_imie": "MAGIEROWSKI Antoni",
       "tytul_kategoria": "II",
@@ -3045,7 +3036,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "339",
+      "id": "338",
       "id_pzszach": "88984",
       "nazwisko_imie": "PISANA Inka",
       "tytul_kategoria": "II",
@@ -3054,12 +3045,21 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "340",
+      "id": "339",
       "id_pzszach": "56849",
       "nazwisko_imie": "RASIŃSKI Jan",
       "tytul_kategoria": "III",
       "rank_fide": "1467",
       "klub": "",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "340",
+      "id_pzszach": "132189",
+      "nazwisko_imie": "OLESIŃSKA Laura",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1466",
+      "klub": "LKS Skała Tumlin",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -3109,10 +3109,10 @@
     },
     {
       "id": "346",
-      "id_pzszach": "24715",
-      "nazwisko_imie": "SYBIS Roman",
-      "tytul_kategoria": "II",
-      "rank_fide": "1459",
+      "id_pzszach": "111028",
+      "nazwisko_imie": "LEŚKIEWICZ Barbara",
+      "tytul_kategoria": "III",
+      "rank_fide": "1463",
       "klub": "",
       "wojewodztwo_zwiazek": "SK"
     },
@@ -3145,6 +3145,15 @@
     },
     {
       "id": "350",
+      "id_pzszach": "109905",
+      "nazwisko_imie": "SŁAWSKI Filip",
+      "tytul_kategoria": "II",
+      "rank_fide": "1455",
+      "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "351",
       "id_pzszach": "141752",
       "nazwisko_imie": "STOKOWIEC Stanisław",
       "tytul_kategoria": "III",
@@ -3153,7 +3162,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "351",
+      "id": "352",
       "id_pzszach": "99749",
       "nazwisko_imie": "METERA Tomasz",
       "tytul_kategoria": "II",
@@ -3162,21 +3171,12 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "352",
+      "id": "353",
       "id_pzszach": "95200",
       "nazwisko_imie": "CADERA Ignacy",
       "tytul_kategoria": "III",
       "rank_fide": "1447",
       "klub": "LKS Skała Tumlin",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "353",
-      "id_pzszach": "109905",
-      "nazwisko_imie": "SŁAWSKI Filip",
-      "tytul_kategoria": "II",
-      "rank_fide": "1447",
-      "klub": "LUKKS OLIMPIA Kielce",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -3343,20 +3343,20 @@
     },
     {
       "id": "372",
-      "id_pzszach": "62046",
-      "nazwisko_imie": "SŁONIEWSKI Wojciech",
-      "tytul_kategoria": "II",
-      "rank_fide": "1421",
-      "klub": "KMKSzach VICTORIA KOMPLEXBUD",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "373",
       "id_pzszach": "62480",
       "nazwisko_imie": "SYSKA Maciej",
       "tytul_kategoria": "III",
       "rank_fide": "1420",
       "klub": "LUKKS OLIMPIA Kielce",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "373",
+      "id_pzszach": "24715",
+      "nazwisko_imie": "SYBIS Roman",
+      "tytul_kategoria": "II",
+      "rank_fide": "1419",
+      "klub": "",
       "wojewodztwo_zwiazek": "SK"
     },
     {

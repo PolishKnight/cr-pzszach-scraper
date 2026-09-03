@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:13.957Z",
+  "createdAt": "2026-09-03T06:45:53.670Z",
   "totalRecords": 100,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
-      "rank_fide": "2619",
+      "rank_fide": "2606",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -16,7 +16,7 @@
       "id_pzszach": "21423",
       "nazwisko_imie": "FEDORCHUK Sergey A",
       "tytul_kategoria": "GM",
-      "rank_fide": "2599",
+      "rank_fide": "2596",
       "klub": "MCKiS Jaworzno",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -67,20 +67,20 @@
     },
     {
       "id": "8",
-      "id_pzszach": "65730",
-      "nazwisko_imie": "SEEMANN Jakub",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2543",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "9",
       "id_pzszach": "4396",
       "nazwisko_imie": "WARAKOMSKI Tomasz",
       "tytul_kategoria": "GM",
       "rank_fide": "2541",
       "klub": "Akademia Szachowa Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "1778",
+      "nazwisko_imie": "PIORUN Kacper",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2532",
+      "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -94,24 +94,6 @@
     },
     {
       "id": "11",
-      "id_pzszach": "23650",
-      "nazwisko_imie": "SZPAR Miłosz",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2523",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "12",
-      "id_pzszach": "1778",
-      "nazwisko_imie": "PIORUN Kacper",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2519",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "13",
       "id_pzszach": "90395",
       "nazwisko_imie": "CVEK Robert",
       "tytul_kategoria": "GM",
@@ -120,20 +102,38 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
+      "id": "12",
+      "id_pzszach": "65730",
+      "nazwisko_imie": "SEEMANN Jakub",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2515",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "23650",
+      "nazwisko_imie": "SZPAR Miłosz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2507",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
       "id": "14",
-      "id_pzszach": "91671",
-      "nazwisko_imie": "CIEŚLAK Patryk",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2511",
+      "id_pzszach": "64249",
+      "nazwisko_imie": "KLIMKOWSKI Jan",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2501",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
       "id": "15",
-      "id_pzszach": "64249",
-      "nazwisko_imie": "KLIMKOWSKI Jan",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2500",
+      "id_pzszach": "91671",
+      "nazwisko_imie": "CIEŚLAK Patryk",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2498",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -193,15 +193,6 @@
     },
     {
       "id": "22",
-      "id_pzszach": "32002",
-      "nazwisko_imie": "BAUM Jonasz",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2470",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "23",
       "id_pzszach": "2608",
       "nazwisko_imie": "CZAKON Jakub",
       "tytul_kategoria": "IM",
@@ -210,7 +201,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "24",
+      "id": "23",
       "id_pzszach": "3317",
       "nazwisko_imie": "CZARNOTA Paweł",
       "tytul_kategoria": "GM",
@@ -219,11 +210,20 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
+      "id": "24",
+      "id_pzszach": "32002",
+      "nazwisko_imie": "BAUM Jonasz",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2460",
+      "klub": "KSz SILESIA Racibórz",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
       "id": "25",
       "id_pzszach": "19849",
       "nazwisko_imie": "ROZENTALIS Eduardas",
       "tytul_kategoria": "GM",
-      "rank_fide": "2447",
+      "rank_fide": "2458",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -256,15 +256,6 @@
     },
     {
       "id": "29",
-      "id_pzszach": "4321",
-      "nazwisko_imie": "JAKUBOWSKI Krzysztof",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2424",
-      "klub": "KSz SILESIA Racibórz",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "30",
       "id_pzszach": "5563",
       "nazwisko_imie": "BANY Jerzy",
       "tytul_kategoria": "IM",
@@ -273,12 +264,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "31",
+      "id": "30",
       "id_pzszach": "5517",
       "nazwisko_imie": "PIESIK Piotr",
       "tytul_kategoria": "IM",
       "rank_fide": "2418",
       "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "4321",
+      "nazwisko_imie": "JAKUBOWSKI Krzysztof",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2417",
+      "klub": "KSz SILESIA Racibórz",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -310,6 +310,24 @@
     },
     {
       "id": "35",
+      "id_pzszach": "91335",
+      "nazwisko_imie": "BRZEZINA Piotr",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2403",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "46621",
+      "nazwisko_imie": "PÓŁTORAK Sebastian",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2402",
+      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "37",
       "id_pzszach": "8146",
       "nazwisko_imie": "ZEZULKIN Jurij",
       "tytul_kategoria": "GM",
@@ -318,16 +336,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "36",
-      "id_pzszach": "91335",
-      "nazwisko_imie": "BRZEZINA Piotr",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2398",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "37",
+      "id": "38",
       "id_pzszach": "7240",
       "nazwisko_imie": "SZELĄG Marcin",
       "tytul_kategoria": "IM",
@@ -336,21 +345,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "38",
+      "id": "39",
       "id_pzszach": "5091",
       "nazwisko_imie": "WANDZIK Wojciech",
       "tytul_kategoria": "M",
       "rank_fide": "2384",
       "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "39",
-      "id_pzszach": "46621",
-      "nazwisko_imie": "PÓŁTORAK Sebastian",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2383",
-      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -364,15 +364,6 @@
     },
     {
       "id": "41",
-      "id_pzszach": "26002",
-      "nazwisko_imie": "SANZ WAWER Daniel",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2377",
-      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "42",
       "id_pzszach": "2200",
       "nazwisko_imie": "PETRYK Henryk",
       "tytul_kategoria": "M",
@@ -381,16 +372,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "43",
-      "id_pzszach": "2967",
-      "nazwisko_imie": "SOĆKO Monika",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2365",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "44",
+      "id": "42",
       "id_pzszach": "17383",
       "nazwisko_imie": "CZERW Dawid",
       "tytul_kategoria": "IM",
@@ -399,7 +381,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "45",
+      "id": "43",
       "id_pzszach": "5943",
       "nazwisko_imie": "MOTYKA Michał",
       "tytul_kategoria": "FM",
@@ -408,7 +390,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "46",
+      "id": "44",
       "id_pzszach": "37359",
       "nazwisko_imie": "ŻYŁKA Stanisław",
       "tytul_kategoria": "IM",
@@ -417,7 +399,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "47",
+      "id": "45",
       "id_pzszach": "20274",
       "nazwisko_imie": "MOLENDA Marcin",
       "tytul_kategoria": "IM",
@@ -426,7 +408,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "48",
+      "id": "46",
+      "id_pzszach": "2967",
+      "nazwisko_imie": "SOĆKO Monika",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2350",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "47",
       "id_pzszach": "10564",
       "nazwisko_imie": "TOMASZEWSKI Kacper",
       "tytul_kategoria": "FM",
@@ -435,7 +426,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "49",
+      "id": "48",
       "id_pzszach": "6425",
       "nazwisko_imie": "KOLAGO Marcin",
       "tytul_kategoria": "M",
@@ -444,12 +435,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "50",
+      "id": "49",
       "id_pzszach": "5635",
       "nazwisko_imie": "DABEK Roman",
       "tytul_kategoria": "FM",
       "rank_fide": "2338",
       "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "26002",
+      "nazwisko_imie": "SANZ WAWER Daniel",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2335",
+      "klub": "SzSON ZAGŁĘBIE Dąbrowa Górnicza",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -499,6 +499,15 @@
     },
     {
       "id": "56",
+      "id_pzszach": "6145",
+      "nazwisko_imie": "SZWED Jacek",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2319",
+      "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "57",
       "id_pzszach": "6127",
       "nazwisko_imie": "CYFKA Karina",
       "tytul_kategoria": "IM",
@@ -507,7 +516,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "57",
+      "id": "58",
       "id_pzszach": "5550",
       "nazwisko_imie": "ANTOŃCZYK Adam",
       "tytul_kategoria": "K",
@@ -516,7 +525,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "58",
+      "id": "59",
       "id_pzszach": "5908",
       "nazwisko_imie": "MARKIEWICZ Jacek",
       "tytul_kategoria": "FM",
@@ -525,7 +534,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "59",
+      "id": "60",
       "id_pzszach": "5793",
       "nazwisko_imie": "KAULA Roman",
       "tytul_kategoria": "FM",
@@ -534,7 +543,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "60",
+      "id": "61",
       "id_pzszach": "5195",
       "nazwisko_imie": "MROZIAK Maciej",
       "tytul_kategoria": "IM",
@@ -543,7 +552,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "61",
+      "id": "62",
       "id_pzszach": "5845",
       "nazwisko_imie": "KRUSZYŃSKI Włodzimierz",
       "tytul_kategoria": "IM",
@@ -552,7 +561,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "62",
+      "id": "63",
       "id_pzszach": "23596",
       "nazwisko_imie": "WALTER Szymon",
       "tytul_kategoria": "FM",
@@ -561,7 +570,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "63",
+      "id": "64",
       "id_pzszach": "5785",
       "nazwisko_imie": "KARPIK Tadeusz",
       "tytul_kategoria": "FM",
@@ -570,7 +579,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "64",
+      "id": "65",
       "id_pzszach": "6173",
       "nazwisko_imie": "WAŁACH Marcin",
       "tytul_kategoria": "FM",
@@ -579,25 +588,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "65",
-      "id_pzszach": "84117",
-      "nazwisko_imie": "ŁĘCKI Leonard",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2303",
-      "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
       "id": "66",
-      "id_pzszach": "6145",
-      "nazwisko_imie": "SZWED Jacek",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2301",
-      "klub": "MKSz Rybnik",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "67",
       "id_pzszach": "5840",
       "nazwisko_imie": "KRASOŃ Józef",
       "tytul_kategoria": "FM",
@@ -606,7 +597,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "68",
+      "id": "67",
       "id_pzszach": "2945",
       "nazwisko_imie": "SARWIŃSKI Mirosław",
       "tytul_kategoria": "IM",
@@ -615,7 +606,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "69",
+      "id": "68",
       "id_pzszach": "5918",
       "nazwisko_imie": "MATRAS-CLEMENT Agnieszka",
       "tytul_kategoria": "WIM",
@@ -624,16 +615,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "70",
-      "id_pzszach": "106808",
-      "nazwisko_imie": "ROSOL Philip",
+      "id": "69",
+      "id_pzszach": "63659",
+      "nazwisko_imie": "WARCHOŁ Kamil",
       "tytul_kategoria": "FM",
       "rank_fide": "2293",
       "klub": "UKS PIONIER Jastrzębie-Zdrój",
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "71",
+      "id": "70",
       "id_pzszach": "6032",
       "nazwisko_imie": "PUCHALA Jozef",
       "tytul_kategoria": "FM",
@@ -642,16 +633,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "72",
-      "id_pzszach": "68111",
-      "nazwisko_imie": "DOBOSIEWICZ Dawid",
+      "id": "71",
+      "id_pzszach": "84117",
+      "nazwisko_imie": "ŁĘCKI Leonard",
       "tytul_kategoria": "FM",
-      "rank_fide": "2289",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "rank_fide": "2290",
+      "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "73",
+      "id": "72",
       "id_pzszach": "5913",
       "nazwisko_imie": "MASTERNAK Grzegorz",
       "tytul_kategoria": "IM",
@@ -660,12 +651,21 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "74",
+      "id": "73",
       "id_pzszach": "18088",
       "nazwisko_imie": "KOZIOŁ Kamil",
       "tytul_kategoria": "FM",
       "rank_fide": "2286",
       "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "74",
+      "id_pzszach": "68111",
+      "nazwisko_imie": "DOBOSIEWICZ Dawid",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2285",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
       "wojewodztwo_zwiazek": "SL"
     },
     {
@@ -679,6 +679,24 @@
     },
     {
       "id": "76",
+      "id_pzszach": "91336",
+      "nazwisko_imie": "BRZEZINA Paweł",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2280",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "77",
+      "id_pzszach": "106808",
+      "nazwisko_imie": "ROSOL Philip",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2279",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "78",
       "id_pzszach": "3026",
       "nazwisko_imie": "WOREK Joanna",
       "tytul_kategoria": "WGM",
@@ -687,16 +705,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "77",
-      "id_pzszach": "46071",
-      "nazwisko_imie": "JAROCKA Liwia",
-      "tytul_kategoria": "WIM",
-      "rank_fide": "2278",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "78",
+      "id": "79",
       "id_pzszach": "5802",
       "nazwisko_imie": "KEMPYS Marek",
       "tytul_kategoria": "FM",
@@ -705,7 +714,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "79",
+      "id": "80",
       "id_pzszach": "6091",
       "nazwisko_imie": "SOBURA Henryk",
       "tytul_kategoria": "M",
@@ -714,7 +723,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "80",
+      "id": "81",
       "id_pzszach": "6219",
       "nazwisko_imie": "WOLNY Jan",
       "tytul_kategoria": "K",
@@ -723,7 +732,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "81",
+      "id": "82",
       "id_pzszach": "984",
       "nazwisko_imie": "JAROCH Karol",
       "tytul_kategoria": "M",
@@ -732,25 +741,25 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "82",
-      "id_pzszach": "53092",
-      "nazwisko_imie": "DZIEWOŃSKI Dariusz",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2266",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
       "id": "83",
-      "id_pzszach": "64651",
-      "nazwisko_imie": "MUSIAŁ Igor",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2266",
-      "klub": "MCKiS Jaworzno",
+      "id_pzszach": "87931",
+      "nazwisko_imie": "PYCIŃSKI Władysław",
+      "tytul_kategoria": "K",
+      "rank_fide": "2269",
+      "klub": "UKS Pałac Młodzieży Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
       "id": "84",
+      "id_pzszach": "109935",
+      "nazwisko_imie": "NIEZHENTSEV Kyrylo",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2267",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "85",
       "id_pzszach": "6163",
       "nazwisko_imie": "TWORUSZKA Michał",
       "tytul_kategoria": "FM",
@@ -759,7 +768,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "85",
+      "id": "86",
       "id_pzszach": "4395",
       "nazwisko_imie": "WARAKOMSKA Anna",
       "tytul_kategoria": "WGM",
@@ -768,7 +777,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "86",
+      "id": "87",
       "id_pzszach": "5624",
       "nazwisko_imie": "CIEŚLA Adam",
       "tytul_kategoria": "M",
@@ -777,7 +786,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "87",
+      "id": "88",
       "id_pzszach": "5756",
       "nazwisko_imie": "JANOTA Henryk",
       "tytul_kategoria": "K",
@@ -786,7 +795,34 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "88",
+      "id": "89",
+      "id_pzszach": "31108",
+      "nazwisko_imie": "SZCZUREK Krzysztof",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2258",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "90",
+      "id_pzszach": "31066",
+      "nazwisko_imie": "KOKOSZCZYŃSKI Jan",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2257",
+      "klub": "KS ROSZADA Żory",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "91",
+      "id_pzszach": "53092",
+      "nazwisko_imie": "DZIEWOŃSKI Dariusz",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2256",
+      "klub": "UKS PIONIER Jastrzębie-Zdrój",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "92",
       "id_pzszach": "5854",
       "nazwisko_imie": "KUBIK Jan",
       "tytul_kategoria": "K",
@@ -795,43 +831,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "89",
-      "id_pzszach": "87931",
-      "nazwisko_imie": "PYCIŃSKI Władysław",
-      "tytul_kategoria": "K",
-      "rank_fide": "2252",
-      "klub": "UKS Pałac Młodzieży Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "90",
-      "id_pzszach": "109935",
-      "nazwisko_imie": "NIEZHENTSEV Kyrylo",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2252",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "91",
-      "id_pzszach": "63659",
-      "nazwisko_imie": "WARCHOŁ Kamil",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2250",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "92",
-      "id_pzszach": "31108",
-      "nazwisko_imie": "SZCZUREK Krzysztof",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2247",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
       "id": "93",
+      "id_pzszach": "64651",
+      "nazwisko_imie": "MUSIAŁ Igor",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2252",
+      "klub": "MCKiS Jaworzno",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "94",
       "id_pzszach": "2007",
       "nazwisko_imie": "CISZEK Mieczysław",
       "tytul_kategoria": "K",
@@ -840,7 +849,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "94",
+      "id": "95",
       "id_pzszach": "5255",
       "nazwisko_imie": "OBRUŚNIK Michał",
       "tytul_kategoria": "FM",
@@ -849,7 +858,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "5598",
       "nazwisko_imie": "BUBNOWSKI Arkadiusz",
       "tytul_kategoria": "K",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "6133",
       "nazwisko_imie": "SZKATUŁA Leszek",
       "tytul_kategoria": "K",
@@ -867,7 +876,16 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "97",
+      "id": "98",
+      "id_pzszach": "46071",
+      "nazwisko_imie": "JAROCKA Liwia",
+      "tytul_kategoria": "WIM",
+      "rank_fide": "2242",
+      "klub": "KSz HETMAN Katowice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "99",
       "id_pzszach": "5416",
       "nazwisko_imie": "WIEWIÓRA Eneasz",
       "tytul_kategoria": "FM",
@@ -876,30 +894,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "98",
+      "id": "100",
       "id_pzszach": "5717",
       "nazwisko_imie": "GROBORZ Michał",
       "tytul_kategoria": "K",
       "rank_fide": "2240",
       "klub": "MKSz Rybnik",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "99",
-      "id_pzszach": "5990",
-      "nazwisko_imie": "PASZEK Adam",
-      "tytul_kategoria": "K",
-      "rank_fide": "2237",
-      "klub": "MKSz Rybnik",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "16683",
-      "nazwisko_imie": "KUBICKA Anna",
-      "tytul_kategoria": "WIM",
-      "rank_fide": "2236",
-      "klub": "UKS PIONIER Jastrzębie-Zdrój",
       "wojewodztwo_zwiazek": "SL"
     }
   ]

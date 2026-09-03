@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:09.761Z",
+  "createdAt": "2026-09-03T06:45:49.147Z",
   "totalRecords": 10,
   "data": [
     {
@@ -60,7 +60,7 @@
       "id": "7",
       "id_pzszach": "68423",
       "nazwisko_imie": "ZIELONKA Adam",
-      "tytul_kategoria": "FM",
+      "tytul_kategoria": "IM",
       "rank_fide": "2420",
       "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
@@ -70,26 +70,26 @@
       "id_pzszach": "43029",
       "nazwisko_imie": "CZERNEK Tymon",
       "tytul_kategoria": "FM",
-      "rank_fide": "2412",
+      "rank_fide": "2413",
       "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "9",
-      "id_pzszach": "87285",
-      "nazwisko_imie": "RADZIMSKI Antoni",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2405",
-      "klub": "LKSz GCKiP Czarna",
+      "id_pzszach": "45824",
+      "nazwisko_imie": "TURSKI Bartłomiej",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2397",
+      "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "10",
-      "id_pzszach": "45824",
-      "nazwisko_imie": "TURSKI Bartłomiej",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2391",
-      "klub": "KSz OZ Rzeszów",
+      "id_pzszach": "87285",
+      "nazwisko_imie": "RADZIMSKI Antoni",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2386",
+      "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     }
   ]

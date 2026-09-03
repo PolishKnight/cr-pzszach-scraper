@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:01.565Z",
+  "createdAt": "2026-09-03T06:45:40.674Z",
   "totalRecords": 100,
   "data": [
     {
@@ -7,25 +7,25 @@
       "id_pzszach": "29659",
       "nazwisko_imie": "GUMULARZ Szymon",
       "tytul_kategoria": "GM",
-      "rank_fide": "2625",
+      "rank_fide": "2608",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
       "id": "2",
-      "id_pzszach": "6123",
-      "nazwisko_imie": "ŚWIERCZ Dariusz",
+      "id_pzszach": "61585",
+      "nazwisko_imie": "MALEK Jan",
       "tytul_kategoria": "GM",
-      "rank_fide": "2579",
+      "rank_fide": "2587",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
       "id": "3",
-      "id_pzszach": "61585",
-      "nazwisko_imie": "MALEK Jan",
+      "id_pzszach": "6123",
+      "nazwisko_imie": "ŚWIERCZ Dariusz",
       "tytul_kategoria": "GM",
-      "rank_fide": "2573",
+      "rank_fide": "2579",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -49,20 +49,20 @@
     },
     {
       "id": "6",
-      "id_pzszach": "27934",
-      "nazwisko_imie": "KOSAKOWSKI Jakub",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2540",
-      "klub": "KSz. WIEŻA Pęgów",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "7",
       "id_pzszach": "49998",
       "nazwisko_imie": "MASTROVASILIS Dimitrios",
       "tytul_kategoria": "GM",
       "rank_fide": "2525",
       "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "27934",
+      "nazwisko_imie": "KOSAKOWSKI Jakub",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2520",
+      "klub": "KSz. WIEŻA Pęgów",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -85,15 +85,6 @@
     },
     {
       "id": "10",
-      "id_pzszach": "2998",
-      "nazwisko_imie": "TAZBIR Marcin",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2496",
-      "klub": "KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "11",
       "id_pzszach": "438",
       "nazwisko_imie": "WIECZOREK Oskar",
       "tytul_kategoria": "GM",
@@ -102,11 +93,20 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
+      "id": "11",
+      "id_pzszach": "2998",
+      "nazwisko_imie": "TAZBIR Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2489",
+      "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
       "id": "12",
       "id_pzszach": "64505",
       "nazwisko_imie": "RACZEK Krzysztof",
       "tytul_kategoria": "IM",
-      "rank_fide": "2483",
+      "rank_fide": "2479",
       "klub": "Fundacja KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -115,7 +115,7 @@
       "id_pzszach": "50004",
       "nazwisko_imie": "SIVUK Vitaly",
       "tytul_kategoria": "",
-      "rank_fide": "2481",
+      "rank_fide": "2476",
       "klub": "KSz. WIEŻA Pęgów",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -148,15 +148,6 @@
     },
     {
       "id": "17",
-      "id_pzszach": "41913",
-      "nazwisko_imie": "CZOPOR Maciej",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2455",
-      "klub": "KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "18",
       "id_pzszach": "2962",
       "nazwisko_imie": "SŁABY Jerzy",
       "tytul_kategoria": "IM",
@@ -165,7 +156,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "19",
+      "id": "18",
       "id_pzszach": "523",
       "nazwisko_imie": "SZABLOWSKI Paweł",
       "tytul_kategoria": "IM",
@@ -174,12 +165,21 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "20",
+      "id": "19",
       "id_pzszach": "21398",
       "nazwisko_imie": "SULYPA Aleksander",
       "tytul_kategoria": "",
       "rank_fide": "2450",
       "klub": "",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "41913",
+      "nazwisko_imie": "CZOPOR Maciej",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2448",
+      "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -211,6 +211,24 @@
     },
     {
       "id": "24",
+      "id_pzszach": "85837",
+      "nazwisko_imie": "GIBAŁA Adam",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2430",
+      "klub": "MUKS MDK Śródmieście Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "136821",
+      "nazwisko_imie": "BORISCHIK Sergey",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2429",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "26",
       "id_pzszach": "453",
       "nazwisko_imie": "ZAWADZKI Stanisław",
       "tytul_kategoria": "IM",
@@ -219,30 +237,12 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "25",
-      "id_pzszach": "136821",
-      "nazwisko_imie": "BORISCHIK Sergey",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2417",
-      "klub": "Fundacja KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "26",
+      "id": "27",
       "id_pzszach": "3948",
       "nazwisko_imie": "FRĄCZEK Daniel",
       "tytul_kategoria": "IM",
       "rank_fide": "2402",
       "klub": "KSz MIEDŹ Legnica",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "27",
-      "id_pzszach": "85837",
-      "nazwisko_imie": "GIBAŁA Adam",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2398",
-      "klub": "MUKS MDK Śródmieście Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -295,7 +295,7 @@
       "id_pzszach": "21639",
       "nazwisko_imie": "KIOŁBASA Oliwia",
       "tytul_kategoria": "IM",
-      "rank_fide": "2391",
+      "rank_fide": "2386",
       "klub": "KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
@@ -328,15 +328,24 @@
     },
     {
       "id": "37",
-      "id_pzszach": "42096",
-      "nazwisko_imie": "FIEDOREK Michał",
+      "id_pzszach": "50840",
+      "nazwisko_imie": "KEJNA Piotr",
       "tytul_kategoria": "FM",
-      "rank_fide": "2359",
+      "rank_fide": "2363",
       "klub": "UKS GIECEK Radków",
       "wojewodztwo_zwiazek": "DS"
     },
     {
       "id": "38",
+      "id_pzszach": "107401",
+      "nazwisko_imie": "MALTSEVSKAYA Aleksandra",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2363",
+      "klub": "KSz. WIEŻA Pęgów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "39",
       "id_pzszach": "3659",
       "nazwisko_imie": "JASIK Krzysztof",
       "tytul_kategoria": "FM",
@@ -345,7 +354,16 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "39",
+      "id": "40",
+      "id_pzszach": "42096",
+      "nazwisko_imie": "FIEDOREK Michał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2357",
+      "klub": "UKS GIECEK Radków",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "41",
       "id_pzszach": "3941",
       "nazwisko_imie": "DOBROWOLSKI Piotr",
       "tytul_kategoria": "IM",
@@ -354,16 +372,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "40",
-      "id_pzszach": "107401",
-      "nazwisko_imie": "MALTSEVSKAYA Aleksandra",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2352",
-      "klub": "KSz. WIEŻA Pęgów",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "41",
+      "id": "42",
       "id_pzszach": "3893",
       "nazwisko_imie": "KOZIAK Vitali",
       "tytul_kategoria": "IM",
@@ -372,21 +381,12 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "42",
+      "id": "43",
       "id_pzszach": "74",
       "nazwisko_imie": "DOWGIRD Filip",
       "tytul_kategoria": "FM",
       "rank_fide": "2348",
       "klub": "Biały Król Wisznia Mała",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "43",
-      "id_pzszach": "50840",
-      "nazwisko_imie": "KEJNA Piotr",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2343",
-      "klub": "UKS GIECEK Radków",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -454,20 +454,20 @@
     },
     {
       "id": "51",
-      "id_pzszach": "390",
-      "nazwisko_imie": "SABUK Piotr",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2323",
-      "klub": "Biały Król Wisznia Mała",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "52",
       "id_pzszach": "451",
       "nazwisko_imie": "ZAWADZKA Jolanta",
       "tytul_kategoria": "WGM",
       "rank_fide": "2314",
       "klub": "KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "390",
+      "nazwisko_imie": "SABUK Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2313",
+      "klub": "Biały Król Wisznia Mała",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -517,6 +517,15 @@
     },
     {
       "id": "58",
+      "id_pzszach": "73313",
+      "nazwisko_imie": "OCHĘDZAN Filip",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2298",
+      "klub": "Fundacja KSz Polonia Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "59",
       "id_pzszach": "55314",
       "nazwisko_imie": "GROT Błażej",
       "tytul_kategoria": "FM",
@@ -525,7 +534,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "59",
+      "id": "60",
       "id_pzszach": "155",
       "nazwisko_imie": "BALICKI Cezary",
       "tytul_kategoria": "FM",
@@ -534,7 +543,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "60",
+      "id": "61",
       "id_pzszach": "412",
       "nazwisko_imie": "ŚWICARZ Maciej",
       "tytul_kategoria": "M",
@@ -543,7 +552,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "61",
+      "id": "62",
       "id_pzszach": "345",
       "nazwisko_imie": "MORCINEK Marian",
       "tytul_kategoria": "K",
@@ -552,16 +561,25 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "62",
+      "id": "63",
       "id_pzszach": "100634",
       "nazwisko_imie": "KISZKIEL Oskar",
       "tytul_kategoria": "CM",
-      "rank_fide": "2273",
+      "rank_fide": "2272",
       "klub": "Fundacja KSz Polonia Wrocław",
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "63",
+      "id": "64",
+      "id_pzszach": "84179",
+      "nazwisko_imie": "LECHOWSKI Witold",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2268",
+      "klub": "MUKS MDK Śródmieście Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "65",
       "id_pzszach": "192",
       "nazwisko_imie": "FIGIEL Marek",
       "tytul_kategoria": "M",
@@ -570,30 +588,12 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "64",
-      "id_pzszach": "84179",
-      "nazwisko_imie": "LECHOWSKI Witold",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2266",
-      "klub": "MUKS MDK Śródmieście Wrocław",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "65",
+      "id": "66",
       "id_pzszach": "232",
       "nazwisko_imie": "NIŻYŃSKI Maciej",
       "tytul_kategoria": "K",
       "rank_fide": "2260",
       "klub": "KS AZS Wratislavia",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "66",
-      "id_pzszach": "580",
-      "nazwisko_imie": "KOWALCZYK Paweł",
-      "tytul_kategoria": "M",
-      "rank_fide": "2260",
-      "klub": "WKSz HETMAN Wałbrzych",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -652,15 +652,6 @@
     },
     {
       "id": "73",
-      "id_pzszach": "56949",
-      "nazwisko_imie": "MADEJ Marek",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2255",
-      "klub": "UKS GIECEK Radków",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "74",
       "id_pzszach": "411",
       "nazwisko_imie": "SULEJA Jarosław",
       "tytul_kategoria": "K",
@@ -669,7 +660,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "75",
+      "id": "74",
       "id_pzszach": "13968",
       "nazwisko_imie": "PIOTROWSKI Przemysław",
       "tytul_kategoria": "FM",
@@ -678,12 +669,21 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "76",
+      "id": "75",
       "id_pzszach": "441",
       "nazwisko_imie": "WŁODARCZYK Robert",
       "tytul_kategoria": "FM",
       "rank_fide": "2252",
       "klub": "KS AZS Wratislavia",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "68752",
+      "nazwisko_imie": "KOMENDECKI Antoni",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2252",
+      "klub": "KSz MIEDŹ Legnica",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -697,6 +697,15 @@
     },
     {
       "id": "78",
+      "id_pzszach": "66406",
+      "nazwisko_imie": "KŁYS Kacper",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2249",
+      "klub": "MUKS MDK Śródmieście Wrocław",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "79",
       "id_pzszach": "392",
       "nazwisko_imie": "SASKOWSKI Jacek",
       "tytul_kategoria": "K",
@@ -705,7 +714,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "79",
+      "id": "80",
       "id_pzszach": "196",
       "nazwisko_imie": "GAŁAŻEWSKI Tomasz",
       "tytul_kategoria": "FM",
@@ -714,7 +723,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "80",
+      "id": "81",
       "id_pzszach": "168",
       "nazwisko_imie": "BUKOWCZYK Andrzej",
       "tytul_kategoria": "K",
@@ -723,21 +732,12 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "81",
+      "id": "82",
       "id_pzszach": "169",
       "nazwisko_imie": "BURZYNSKI Krzysztof",
       "tytul_kategoria": "K",
       "rank_fide": "2240",
       "klub": "",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "82",
-      "id_pzszach": "68752",
-      "nazwisko_imie": "KOMENDECKI Antoni",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2236",
-      "klub": "KSz MIEDŹ Legnica",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -760,15 +760,6 @@
     },
     {
       "id": "85",
-      "id_pzszach": "344",
-      "nazwisko_imie": "MONDRZYCKI Bartłomiej",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2230",
-      "klub": "Biały Król Wisznia Mała",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "86",
       "id_pzszach": "417",
       "nazwisko_imie": "SZUMILAS Piotr",
       "tytul_kategoria": "I++",
@@ -777,7 +768,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "87",
+      "id": "86",
       "id_pzszach": "373",
       "nazwisko_imie": "POPEK Tomasz",
       "tytul_kategoria": "K",
@@ -786,7 +777,25 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
+      "id": "87",
+      "id_pzszach": "580",
+      "nazwisko_imie": "KOWALCZYK Paweł",
+      "tytul_kategoria": "M",
+      "rank_fide": "2227",
+      "klub": "WKSz HETMAN Wałbrzych",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
       "id": "88",
+      "id_pzszach": "344",
+      "nazwisko_imie": "MONDRZYCKI Bartłomiej",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2225",
+      "klub": "Biały Król Wisznia Mała",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "89",
       "id_pzszach": "359",
       "nazwisko_imie": "PANKIEWICZ Tomasz",
       "tytul_kategoria": "K",
@@ -795,21 +804,12 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "89",
-      "id_pzszach": "73313",
-      "nazwisko_imie": "OCHĘDZAN Filip",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2217",
-      "klub": "Fundacja KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
       "id": "90",
-      "id_pzszach": "225",
-      "nazwisko_imie": "JANOCHA Wiesław",
+      "id_pzszach": "56949",
+      "nazwisko_imie": "MADEJ Marek",
       "tytul_kategoria": "FM",
-      "rank_fide": "2215",
-      "klub": "MUKS MDK Śródmieście Wrocław",
+      "rank_fide": "2220",
+      "klub": "UKS GIECEK Radków",
       "wojewodztwo_zwiazek": "DS"
     },
     {
@@ -868,6 +868,15 @@
     },
     {
       "id": "97",
+      "id_pzszach": "77523",
+      "nazwisko_imie": "KAWULSKI-CHODKIEWICZ Alexander",
+      "tytul_kategoria": "K",
+      "rank_fide": "2213",
+      "klub": "KSz MIEDŹ Legnica",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "98",
       "id_pzszach": "3719",
       "nazwisko_imie": "TUSTANOWSKI Robert",
       "tytul_kategoria": "M",
@@ -876,7 +885,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "98",
+      "id": "99",
       "id_pzszach": "219",
       "nazwisko_imie": "KANTANE Anna",
       "tytul_kategoria": "WIM",
@@ -885,21 +894,12 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "99",
-      "id_pzszach": "374",
-      "nazwisko_imie": "PRZEWOŹNIK Dariusz",
-      "tytul_kategoria": "K",
-      "rank_fide": "2210",
-      "klub": "",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
       "id": "100",
-      "id_pzszach": "65569",
-      "nazwisko_imie": "ŚMIETAŃSKA Wiktoria",
-      "tytul_kategoria": "WIM",
-      "rank_fide": "2208",
-      "klub": "Fundacja KSz Polonia Wrocław",
+      "id_pzszach": "225",
+      "nazwisko_imie": "JANOCHA Wiesław",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2210",
+      "klub": "MUKS MDK Śródmieście Wrocław",
       "wojewodztwo_zwiazek": "DS"
     }
   ]

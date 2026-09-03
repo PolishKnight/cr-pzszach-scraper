@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-01T07:06:13.957Z",
+  "createdAt": "2026-09-03T06:45:53.669Z",
   "totalRecords": 10,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "5950",
       "nazwisko_imie": "NAVARA David",
       "tytul_kategoria": "GM",
-      "rank_fide": "2619",
+      "rank_fide": "2606",
       "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -16,7 +16,7 @@
       "id_pzszach": "21423",
       "nazwisko_imie": "FEDORCHUK Sergey A",
       "tytul_kategoria": "GM",
-      "rank_fide": "2599",
+      "rank_fide": "2596",
       "klub": "MCKiS Jaworzno",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -67,20 +67,20 @@
     },
     {
       "id": "8",
-      "id_pzszach": "65730",
-      "nazwisko_imie": "SEEMANN Jakub",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2543",
-      "klub": "KSz HETMAN Katowice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "9",
       "id_pzszach": "4396",
       "nazwisko_imie": "WARAKOMSKI Tomasz",
       "tytul_kategoria": "GM",
       "rank_fide": "2541",
       "klub": "Akademia Szachowa Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "1778",
+      "nazwisko_imie": "PIORUN Kacper",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2532",
+      "klub": "KSz HETMAN Katowice",
       "wojewodztwo_zwiazek": "SL"
     },
     {
