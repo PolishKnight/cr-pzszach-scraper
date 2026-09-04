@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-09-03T06:45:46.790Z",
-  "totalRecords": 73,
+  "createdAt": "2026-09-04T06:55:45.809Z",
+  "totalRecords": 74,
   "data": [
     {
       "id": "1",
@@ -704,6 +704,16 @@
     },
     {
       "id": "71",
+      "nr_pzszach": "1131/MA",
+      "nazwa": "ULKS SARNAKI",
+      "miasto": "Sarnaki",
+      "licencja": "07100109",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "72",
       "nr_pzszach": "1116/MA",
       "nazwa": "UKS PITAGORAS Rusiec",
       "miasto": "Rusiec",
@@ -713,7 +723,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "72",
+      "id": "73",
       "nr_pzszach": "1039/MA",
       "nazwa": "UKS III Ogród Jordanowski",
       "miasto": "Warszawa",
@@ -723,7 +733,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "73",
+      "id": "74",
       "nr_pzszach": "450/MA",
       "nazwa": "ZMCh Polska YMCA Warszawa",
       "miasto": "Warszawa",

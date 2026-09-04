@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-03T06:45:55.611Z",
+  "createdAt": "2026-09-04T06:55:54.096Z",
   "totalRecords": 10,
   "data": [
     {
@@ -54,6 +54,16 @@
     },
     {
       "id": "6",
+      "nr_pzszach": "1132/WM",
+      "nazwa": "KSz Roszada Iława",
+      "miasto": "Iława",
+      "licencja": "14100033",
+      "wojewodztwo_zwiazek": "WM",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "7",
       "nr_pzszach": "172/WM",
       "nazwa": "MKS MRĄGOVIA Mrągowo",
       "miasto": "Mrągowo",
@@ -63,7 +73,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "7",
+      "id": "8",
       "nr_pzszach": "178/WM",
       "nazwa": "MKSz HETMAN-PIONIER Kętrzyn",
       "miasto": "Kętrzyn",
@@ -73,7 +83,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "8",
+      "id": "9",
       "nr_pzszach": "179/WM",
       "nazwa": "MLKS OSTRÓDZIANKA Ostróda",
       "miasto": "Ostróda",
@@ -83,7 +93,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "9",
+      "id": "10",
       "nr_pzszach": "174/WM",
       "nazwa": "MLKS CZARNI Olecko",
       "miasto": "Olecko",
@@ -91,16 +101,6 @@
       "wojewodztwo_zwiazek": "WM",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": "400.00 PLN"
-    },
-    {
-      "id": "10",
-      "nr_pzszach": "1125/WM",
-      "nazwa": "SDT Orły Rumian",
-      "miasto": "Rybno",
-      "licencja": "14100031",
-      "wojewodztwo_zwiazek": "WM",
-      "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": ""
     }
   ]
 }
