@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-06T06:45:37.147Z",
+  "createdAt": "2026-09-07T06:54:23.386Z",
   "totalRecords": 10,
   "data": [
     {
@@ -40,15 +40,6 @@
     },
     {
       "id": "5",
-      "id_pzszach": "46732",
-      "nazwisko_imie": "KOZIOROWICZ Michał",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2333",
-      "klub": "Myśliborski Klub Szachowy",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "6",
       "id_pzszach": "7495",
       "nazwisko_imie": "MAŚLANKA Robert",
       "tytul_kategoria": "K",
@@ -57,7 +48,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "7",
+      "id": "6",
       "id_pzszach": "7480",
       "nazwisko_imie": "KULA Robert",
       "tytul_kategoria": "FM",
@@ -66,7 +57,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "17650",
       "nazwisko_imie": "ANTOLAK Julia",
       "tytul_kategoria": "WGM",
@@ -75,7 +66,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "9",
+      "id": "8",
       "id_pzszach": "7427",
       "nazwisko_imie": "CHOCHULSKI Artur",
       "tytul_kategoria": "K",
@@ -84,11 +75,20 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "7498",
       "nazwisko_imie": "MATUSIAK Janusz",
       "tytul_kategoria": "K",
       "rank_fide": "2235",
+      "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "7323",
+      "nazwisko_imie": "MASŁOWSKI Michał",
+      "tytul_kategoria": "K",
+      "rank_fide": "2205",
       "klub": "KSz HETMAN Koszalin",
       "wojewodztwo_zwiazek": "ZP"
     }

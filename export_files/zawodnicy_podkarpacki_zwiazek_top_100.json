@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-06T06:45:29.621Z",
+  "createdAt": "2026-09-07T06:54:15.571Z",
   "totalRecords": 100,
   "data": [
     {
@@ -413,7 +413,7 @@
       "nazwisko_imie": "DŹWIERZYŃSKI Bartosz",
       "tytul_kategoria": "K",
       "rank_fide": "2174",
-      "klub": "KS Roszada Przemyśl",
+      "klub": "KSz Gambit Przeworsk",
       "wojewodztwo_zwiazek": "PK"
     },
     {
@@ -859,15 +859,6 @@
     },
     {
       "id": "96",
-      "id_pzszach": "17847",
-      "nazwisko_imie": "ZIMA Teofil",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2045",
-      "klub": "RzKSz Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "97",
       "id_pzszach": "23496",
       "nazwisko_imie": "MIKUŁA Michał",
       "tytul_kategoria": "I++",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "3778",
       "nazwisko_imie": "BEŁZO Łukasz",
       "tytul_kategoria": "I",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "3820",
       "nazwisko_imie": "SZELC Adam",
       "tytul_kategoria": "I++",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "4019",
       "nazwisko_imie": "LORENC Marian",
       "tytul_kategoria": "K",
       "rank_fide": "2039",
       "klub": "KKSz URANIA Krosno",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "3985",
+      "nazwisko_imie": "KOBAK Jakub",
+      "tytul_kategoria": "I",
+      "rank_fide": "2037",
+      "klub": "",
       "wojewodztwo_zwiazek": "PK"
     }
   ]
