@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-07T06:54:10.903Z",
+  "createdAt": "2026-09-08T06:49:47.440Z",
   "totalRecords": 10,
   "data": [
     {
@@ -31,15 +31,6 @@
     },
     {
       "id": "4",
-      "id_pzszach": "79030",
-      "nazwisko_imie": "BUTKIEWICZ Jan",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2345",
-      "klub": "Łódzka Liga Szachowa",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "5",
       "id_pzszach": "1834",
       "nazwisko_imie": "WOLNY Ryszard",
       "tytul_kategoria": "FM",
@@ -48,7 +39,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "6",
+      "id": "5",
       "id_pzszach": "1814",
       "nazwisko_imie": "ŚWIĆ Waldemar",
       "tytul_kategoria": "FM",
@@ -57,7 +48,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "7",
+      "id": "6",
       "id_pzszach": "1538",
       "nazwisko_imie": "MACHAJ Andrzej",
       "tytul_kategoria": "K",
@@ -66,7 +57,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "1844",
       "nazwisko_imie": "ZIELIŃSKI Marek",
       "tytul_kategoria": "M",
@@ -75,7 +66,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "9",
+      "id": "8",
       "id_pzszach": "1800",
       "nazwisko_imie": "SKÓRA Waldemar",
       "tytul_kategoria": "K",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "1740",
       "nazwisko_imie": "KWIECIŃSKI Ryszard",
       "tytul_kategoria": "K",
       "rank_fide": "2239",
       "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "1529",
+      "nazwisko_imie": "KLEPACZKA Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2237",
+      "klub": "KS LogIN Skierniewice",
       "wojewodztwo_zwiazek": "LD"
     }
   ]

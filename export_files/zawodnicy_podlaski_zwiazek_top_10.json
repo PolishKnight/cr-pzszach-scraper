@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-07T06:54:17.184Z",
+  "createdAt": "2026-09-08T06:49:54.505Z",
   "totalRecords": 10,
   "data": [
     {
@@ -49,6 +49,15 @@
     },
     {
       "id": "6",
+      "id_pzszach": "79030",
+      "nazwisko_imie": "BUTKIEWICZ Jan",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2345",
+      "klub": "KSz HAŃCZA Suwałki",
+      "wojewodztwo_zwiazek": "PL"
+    },
+    {
+      "id": "7",
       "id_pzszach": "4322",
       "nazwisko_imie": "JAKUBOWSKI Maciej",
       "tytul_kategoria": "FM",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "4359",
       "nazwisko_imie": "OSTROWSKI Leszek",
       "tytul_kategoria": "IM",
@@ -66,7 +75,7 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "4317",
       "nazwisko_imie": "GRYCEL Kamil",
       "tytul_kategoria": "FM",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "PL"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "4307",
       "nazwisko_imie": "DRZEMICKI Dariusz",
       "tytul_kategoria": "M",
       "rank_fide": "2300",
       "klub": "KSz HAŃCZA Suwałki",
-      "wojewodztwo_zwiazek": "PL"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "4334",
-      "nazwisko_imie": "KOŚCIUK Jan",
-      "tytul_kategoria": "K",
-      "rank_fide": "2295",
-      "klub": "",
       "wojewodztwo_zwiazek": "PL"
     }
   ]
