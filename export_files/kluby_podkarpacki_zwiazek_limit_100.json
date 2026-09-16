@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-09-15T07:04:30.396Z",
-  "totalRecords": 49,
+  "createdAt": "2026-09-16T07:05:42.383Z",
+  "totalRecords": 50,
   "data": [
     {
       "id": "1",
@@ -147,7 +147,7 @@
       "nr_pzszach": "1133/PK",
       "nazwa": "KSz HETMAN Cmolas",
       "miasto": "Cmolas",
-      "licencja": "",
+      "licencja": "09100072",
       "wojewodztwo_zwiazek": "PK",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": ""
@@ -244,6 +244,16 @@
     },
     {
       "id": "25",
+      "nr_pzszach": "1134/PK",
+      "nazwa": "LKS MARKOVIA",
+      "miasto": "Markowa",
+      "licencja": "09100073",
+      "wojewodztwo_zwiazek": "PK",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "26",
       "nr_pzszach": "065/PK",
       "nazwa": "LKS MECHANIZATOR Ustrzyki Dolne",
       "miasto": "Ustrzyki Dolne",
@@ -253,7 +263,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "26",
+      "id": "27",
       "nr_pzszach": "109/PK",
       "nazwa": "LKS PARNAS Stara Wieś",
       "miasto": "Stara Wieś",
@@ -263,7 +273,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "27",
+      "id": "28",
       "nr_pzszach": "157/PK",
       "nazwa": "LKS SANOVIA Lesko",
       "miasto": "Lesko",
@@ -273,7 +283,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "28",
+      "id": "29",
       "nr_pzszach": "998/PK",
       "nazwa": "LKS START Wola Mielecka",
       "miasto": "Wola Mielecka",
@@ -283,7 +293,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "29",
+      "id": "30",
       "nr_pzszach": "403/PK",
       "nazwa": "LKS Ujkowice",
       "miasto": "Maćkowice",
@@ -293,7 +303,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "30",
+      "id": "31",
       "nr_pzszach": "051/PK",
       "nazwa": "LKSz GCKiP Czarna",
       "miasto": "Czarna",
@@ -303,7 +313,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "31",
+      "id": "32",
       "nr_pzszach": "062/PK",
       "nazwa": "MKS POLONIA Przemyśl",
       "miasto": "Przemyśl",
@@ -313,7 +323,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "32",
+      "id": "33",
       "nr_pzszach": "735/PK",
       "nazwa": "MKSz GRYF Dębica",
       "miasto": "Dębica",
@@ -323,7 +333,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "33",
+      "id": "34",
       "nr_pzszach": "",
       "nazwa": "PkZSzach Rzeszów",
       "miasto": "Rzeszów",
@@ -333,7 +343,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "34",
+      "id": "35",
       "nr_pzszach": "399/PK",
       "nazwa": "PKSiR NiS PODKARPACIE",
       "miasto": "Przemyśl",
@@ -343,7 +353,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "35",
+      "id": "36",
       "nr_pzszach": "742/PK",
       "nazwa": "RzKSz Rzeszów",
       "miasto": "Rzeszów",
@@ -353,7 +363,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "36",
+      "id": "37",
       "nr_pzszach": "050/PK",
       "nazwa": "S-KKS Przemyśl",
       "miasto": "Przemyśl",
@@ -363,7 +373,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "37",
+      "id": "38",
       "nr_pzszach": "756/PK",
       "nazwa": "Stowarzyszenie NASZ RYMANÓW w Rymanowie",
       "miasto": "Rymanów",
@@ -373,7 +383,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "38",
+      "id": "39",
       "nr_pzszach": "647/PK",
       "nazwa": "SS-T LUBCZA Racławówka",
       "miasto": "Niechobrz",
@@ -383,7 +393,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "39",
+      "id": "40",
       "nr_pzszach": "108/PK",
       "nazwa": "TKSzach Tarnobrzeg",
       "miasto": "Tarnobrzeg",
@@ -393,7 +403,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "40",
+      "id": "41",
       "nr_pzszach": "968/PK",
       "nazwa": "TC SZACH MIELEC",
       "miasto": "Mielec",
@@ -403,7 +413,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "41",
+      "id": "42",
       "nr_pzszach": "066/PK",
       "nazwa": "TG SOKÓŁ Mielec",
       "miasto": "Mielec",
@@ -413,7 +423,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "42",
+      "id": "43",
       "nr_pzszach": "805/PK",
       "nazwa": "TSz / KSz BYSTROVIA Bystrowice",
       "miasto": "Bystrowice",
@@ -423,7 +433,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "43",
+      "id": "44",
       "nr_pzszach": "754/PK",
       "nazwa": "TSz SKOCZEK Sędziszów Małopolski",
       "miasto": "Sędziszów Małopolski",
@@ -433,7 +443,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "44",
+      "id": "45",
       "nr_pzszach": "871/PK",
       "nazwa": "UKS CEBULKA Warzyce",
       "miasto": "Jasło",
@@ -443,7 +453,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "45",
+      "id": "46",
       "nr_pzszach": "788/PK",
       "nazwa": "UKS ORLIK Rudnik n/Sanem",
       "miasto": "Rudnik n/Sanem",
@@ -453,7 +463,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "46",
+      "id": "47",
       "nr_pzszach": "591/PK",
       "nazwa": "UKS SP1 Leżajsk",
       "miasto": "Leżajsk",
@@ -463,7 +473,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "47",
+      "id": "48",
       "nr_pzszach": "820/PK",
       "nazwa": "UKS REKORD Iwla",
       "miasto": "Dukla",
@@ -473,7 +483,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "48",
+      "id": "49",
       "nr_pzszach": "769/PK",
       "nazwa": "UKS SP 1 Brzozów",
       "miasto": "Brzozów",
@@ -483,7 +493,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "49",
+      "id": "50",
       "nr_pzszach": "048/PK",
       "nazwa": "WKS GÓRNOVIA Górno",
       "miasto": "Górno",
