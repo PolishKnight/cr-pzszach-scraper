@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-25T07:00:21.950Z",
+  "createdAt": "2026-09-26T06:58:38.238Z",
   "totalRecords": 100,
   "data": [
     {
@@ -868,6 +868,15 @@
     },
     {
       "id": "97",
+      "id_pzszach": "24379",
+      "nazwisko_imie": "SACHRYŃ Krystian",
+      "tytul_kategoria": "II+",
+      "rank_fide": "1938",
+      "klub": "KSz RENOVATIO Świnoujście",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "98",
       "id_pzszach": "124457",
       "nazwisko_imie": "PENZA Denis",
       "tytul_kategoria": "I",
@@ -876,7 +885,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "98",
+      "id": "99",
       "id_pzszach": "10860",
       "nazwisko_imie": "WĘGROWSKI Henryk",
       "tytul_kategoria": "I",
@@ -885,21 +894,12 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "99",
+      "id": "100",
       "id_pzszach": "27053",
       "nazwisko_imie": "PAWLICZ Adam",
       "tytul_kategoria": "I",
       "rank_fide": "1928",
       "klub": "KSz Gryf Szczecin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "7410",
-      "nazwisko_imie": "WEŁNA Łukasz",
-      "tytul_kategoria": "I",
-      "rank_fide": "1924",
-      "klub": "UKS BIAŁY PION Gryfino",
       "wojewodztwo_zwiazek": "ZP"
     }
   ]
