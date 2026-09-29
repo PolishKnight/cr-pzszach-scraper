@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-28T08:06:19.861Z",
+  "createdAt": "2026-09-29T07:46:57.391Z",
   "totalRecords": 10,
   "data": [
     {
@@ -67,6 +67,15 @@
     },
     {
       "id": "8",
+      "id_pzszach": "1402",
+      "nazwisko_imie": "MICHALSKI Olaf",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2259",
+      "klub": "Myśliborski Klub Szachowy",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "9",
       "id_pzszach": "7498",
       "nazwisko_imie": "MATUSIAK Janusz",
       "tytul_kategoria": "K",
@@ -75,18 +84,9 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "7323",
       "nazwisko_imie": "MASŁOWSKI Michał",
-      "tytul_kategoria": "K",
-      "rank_fide": "2205",
-      "klub": "KSz HETMAN Koszalin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "7511",
-      "nazwisko_imie": "PELC Zbigniew",
       "tytul_kategoria": "K",
       "rank_fide": "2205",
       "klub": "KSz HETMAN Koszalin",
