@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-30T07:49:51.994Z",
+  "createdAt": "2026-10-01T08:09:40.901Z",
   "totalRecords": 100,
   "data": [
     {
@@ -58,20 +58,20 @@
     },
     {
       "id": "7",
-      "id_pzszach": "68423",
-      "nazwisko_imie": "ZIELONKA Adam",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2420",
-      "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "8",
       "id_pzszach": "43029",
       "nazwisko_imie": "CZERNEK Tymon",
       "tytul_kategoria": "FM",
       "rank_fide": "2413",
       "klub": "LKSz GCKiP Czarna",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "68423",
+      "nazwisko_imie": "ZIELONKA Adam",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2411",
+      "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
     {
@@ -211,6 +211,15 @@
     },
     {
       "id": "24",
+      "id_pzszach": "60995",
+      "nazwisko_imie": "ZIĘBA Hubert",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2297",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "25",
       "id_pzszach": "2837",
       "nazwisko_imie": "MARSZAŁEK Maciej",
       "tytul_kategoria": "FM",
@@ -219,21 +228,12 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "25",
+      "id": "26",
       "id_pzszach": "3996",
       "nazwisko_imie": "KROGULSKI Grzegorz",
       "tytul_kategoria": "M",
       "rank_fide": "2294",
       "klub": "GKSz HETMAN Pilzno",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "26",
-      "id_pzszach": "60995",
-      "nazwisko_imie": "ZIĘBA Hubert",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2291",
-      "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
     {

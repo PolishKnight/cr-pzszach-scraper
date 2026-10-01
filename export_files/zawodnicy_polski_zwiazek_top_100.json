@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-30T07:49:36.334Z",
+  "createdAt": "2026-10-01T08:09:25.224Z",
   "totalRecords": 100,
   "data": [
     {
@@ -886,20 +886,20 @@
     },
     {
       "id": "99",
-      "id_pzszach": "68423",
-      "nazwisko_imie": "ZIELONKA Adam",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2420",
-      "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "100",
       "id_pzszach": "5517",
       "nazwisko_imie": "PIESIK Piotr",
       "tytul_kategoria": "IM",
       "rank_fide": "2418",
       "klub": "MKSz Rybnik",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "4321",
+      "nazwisko_imie": "JAKUBOWSKI Krzysztof",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2417",
+      "klub": "KSz SILESIA Racibórz",
       "wojewodztwo_zwiazek": "SL"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-30T07:49:55.960Z",
+  "createdAt": "2026-10-01T08:09:44.914Z",
   "totalRecords": 500,
   "data": [
     {
@@ -391,17 +391,17 @@
     },
     {
       "id": "44",
-      "id_pzszach": "37359",
-      "nazwisko_imie": "ŻYŁKA Stanisław",
+      "id_pzszach": "20274",
+      "nazwisko_imie": "MOLENDA Marcin",
       "tytul_kategoria": "IM",
-      "rank_fide": "2360",
+      "rank_fide": "2359",
       "klub": "UKS PIONIER Jastrzębie-Zdrój",
       "wojewodztwo_zwiazek": "SL"
     },
     {
       "id": "45",
-      "id_pzszach": "20274",
-      "nazwisko_imie": "MOLENDA Marcin",
+      "id_pzszach": "37359",
+      "nazwisko_imie": "ŻYŁKA Stanisław",
       "tytul_kategoria": "IM",
       "rank_fide": "2359",
       "klub": "UKS PIONIER Jastrzębie-Zdrój",
@@ -1084,6 +1084,15 @@
     },
     {
       "id": "121",
+      "id_pzszach": "6215",
+      "nazwisko_imie": "WOJCIECHOWSKI Piotr",
+      "tytul_kategoria": "M",
+      "rank_fide": "2204",
+      "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "122",
       "id_pzszach": "22747",
       "nazwisko_imie": "POLCZYK Mikołaj",
       "tytul_kategoria": "K",
@@ -1092,7 +1101,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "122",
+      "id": "123",
       "id_pzszach": "5714",
       "nazwisko_imie": "GRĄDALSKI Przemysław",
       "tytul_kategoria": "FM",
@@ -1101,7 +1110,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "123",
+      "id": "124",
       "id_pzszach": "79502",
       "nazwisko_imie": "KUBIK Rafał",
       "tytul_kategoria": "CM",
@@ -1110,7 +1119,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "124",
+      "id": "125",
       "id_pzszach": "5696",
       "nazwisko_imie": "GLEŃ Adrian",
       "tytul_kategoria": "I",
@@ -1119,20 +1128,11 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "125",
+      "id": "126",
       "id_pzszach": "52323",
       "nazwisko_imie": "GROCHOL Kamil",
       "tytul_kategoria": "CM",
       "rank_fide": "2197",
-      "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "126",
-      "id_pzszach": "6215",
-      "nazwisko_imie": "WOJCIECHOWSKI Piotr",
-      "tytul_kategoria": "M",
-      "rank_fide": "2196",
       "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
@@ -2353,6 +2353,15 @@
     },
     {
       "id": "262",
+      "id_pzszach": "52600",
+      "nazwisko_imie": "ZĄBROŃ Maksym",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2074",
+      "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
+      "wojewodztwo_zwiazek": "SL"
+    },
+    {
+      "id": "263",
       "id_pzszach": "5834",
       "nazwisko_imie": "KOZIOLEK Zbigniew",
       "tytul_kategoria": "I+",
@@ -2361,7 +2370,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "263",
+      "id": "264",
       "id_pzszach": "6135",
       "nazwisko_imie": "SZMYD Arkadiusz",
       "tytul_kategoria": "CM",
@@ -2370,7 +2379,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "264",
+      "id": "265",
       "id_pzszach": "5697",
       "nazwisko_imie": "GŁÓD Maciej",
       "tytul_kategoria": "I",
@@ -2379,7 +2388,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "265",
+      "id": "266",
       "id_pzszach": "5157",
       "nazwisko_imie": "CZAICKI Marcin",
       "tytul_kategoria": "I",
@@ -2388,7 +2397,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "266",
+      "id": "267",
       "id_pzszach": "5748",
       "nazwisko_imie": "HOSUMBEK Witold",
       "tytul_kategoria": "I",
@@ -2397,7 +2406,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "267",
+      "id": "268",
       "id_pzszach": "26751",
       "nazwisko_imie": "POSŁUSZNY Tomasz",
       "tytul_kategoria": "K",
@@ -2406,7 +2415,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "268",
+      "id": "269",
       "id_pzszach": "56624",
       "nazwisko_imie": "MYRMUS Mateusz",
       "tytul_kategoria": "K",
@@ -2415,7 +2424,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "269",
+      "id": "270",
       "id_pzszach": "6205",
       "nazwisko_imie": "WILK Krzysztof",
       "tytul_kategoria": "K",
@@ -2424,7 +2433,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "270",
+      "id": "271",
       "id_pzszach": "5537",
       "nazwisko_imie": "PABIS Jerzy",
       "tytul_kategoria": "I",
@@ -2433,7 +2442,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "271",
+      "id": "272",
       "id_pzszach": "5753",
       "nazwisko_imie": "JANIK Grzegorz",
       "tytul_kategoria": "K",
@@ -2442,7 +2451,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "272",
+      "id": "273",
       "id_pzszach": "5896",
       "nazwisko_imie": "ŁUKASZEK Stanisław",
       "tytul_kategoria": "I",
@@ -2451,7 +2460,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "273",
+      "id": "274",
       "id_pzszach": "5586",
       "nazwisko_imie": "BOJDOŁ Robert",
       "tytul_kategoria": "I++",
@@ -2460,7 +2469,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "274",
+      "id": "275",
       "id_pzszach": "5727",
       "nazwisko_imie": "GRZENIA Jerzy",
       "tytul_kategoria": "I++",
@@ -2469,7 +2478,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "275",
+      "id": "276",
       "id_pzszach": "6129",
       "nazwisko_imie": "SZCZYGIEŁ Agnieszka",
       "tytul_kategoria": "WFM",
@@ -2478,7 +2487,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "276",
+      "id": "277",
       "id_pzszach": "5292",
       "nazwisko_imie": "ZOK Robert",
       "tytul_kategoria": "I",
@@ -2487,7 +2496,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "277",
+      "id": "278",
       "id_pzszach": "5612",
       "nazwisko_imie": "CHMIELIŃSKA Alicja",
       "tytul_kategoria": "K",
@@ -2496,7 +2505,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "278",
+      "id": "279",
       "id_pzszach": "5964",
       "nazwisko_imie": "NOWAK Jan",
       "tytul_kategoria": "I",
@@ -2505,7 +2514,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "279",
+      "id": "280",
       "id_pzszach": "6200",
       "nazwisko_imie": "WILICZKIEWICZ Zdzisława",
       "tytul_kategoria": "K",
@@ -2514,7 +2523,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "280",
+      "id": "281",
       "id_pzszach": "6120",
       "nazwisko_imie": "ŚWIATŁOCH Tomasz",
       "tytul_kategoria": "I",
@@ -2523,7 +2532,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "281",
+      "id": "282",
       "id_pzszach": "6140",
       "nazwisko_imie": "SZOPA Andrzej",
       "tytul_kategoria": "I",
@@ -2532,7 +2541,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "282",
+      "id": "283",
       "id_pzszach": "20918",
       "nazwisko_imie": "SARNA Tomasz",
       "tytul_kategoria": "II+",
@@ -2541,7 +2550,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "283",
+      "id": "284",
       "id_pzszach": "5285",
       "nazwisko_imie": "GAWEŁ Łukasz",
       "tytul_kategoria": "I",
@@ -2550,7 +2559,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "284",
+      "id": "285",
       "id_pzszach": "5286",
       "nazwisko_imie": "JELONEK Michał",
       "tytul_kategoria": "K",
@@ -2559,7 +2568,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "285",
+      "id": "286",
       "id_pzszach": "5800",
       "nazwisko_imie": "KEMPA Stefan",
       "tytul_kategoria": "K",
@@ -2568,7 +2577,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "286",
+      "id": "287",
       "id_pzszach": "6058",
       "nazwisko_imie": "SAMBORSKI Henryk",
       "tytul_kategoria": "FM",
@@ -2577,7 +2586,7 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "287",
+      "id": "288",
       "id_pzszach": "6154",
       "nazwisko_imie": "TEKIELAK Izabela",
       "tytul_kategoria": "M",
@@ -2586,21 +2595,12 @@
       "wojewodztwo_zwiazek": "SL"
     },
     {
-      "id": "288",
+      "id": "289",
       "id_pzszach": "7954",
       "nazwisko_imie": "SZAFORZ Maria",
       "tytul_kategoria": "K",
       "rank_fide": "2062",
       "klub": "",
-      "wojewodztwo_zwiazek": "SL"
-    },
-    {
-      "id": "289",
-      "id_pzszach": "52600",
-      "nazwisko_imie": "ZĄBROŃ Maksym",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2061",
-      "klub": "KŚ AZS Politechniki Śląskiej Gliwice",
       "wojewodztwo_zwiazek": "SL"
     },
     {

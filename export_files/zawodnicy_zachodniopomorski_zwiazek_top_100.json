@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-30T07:49:59.501Z",
+  "createdAt": "2026-10-01T08:09:48.616Z",
   "totalRecords": 100,
   "data": [
     {
@@ -229,15 +229,6 @@
     },
     {
       "id": "26",
-      "id_pzszach": "100097",
-      "nazwisko_imie": "WITES Adam",
-      "tytul_kategoria": "I+",
-      "rank_fide": "2136",
-      "klub": "KSz Gryf Szczecin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "27",
       "id_pzszach": "7366",
       "nazwisko_imie": "SIBIK Marcin",
       "tytul_kategoria": "I+",
@@ -246,7 +237,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "28",
+      "id": "27",
       "id_pzszach": "7528",
       "nazwisko_imie": "SOIŃSKI Kamil",
       "tytul_kategoria": "I+",
@@ -255,7 +246,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "29",
+      "id": "28",
       "id_pzszach": "70430",
       "nazwisko_imie": "BOCHNIAK Franciszek",
       "tytul_kategoria": "K",
@@ -264,7 +255,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "30",
+      "id": "29",
       "id_pzszach": "7413",
       "nazwisko_imie": "BACZYNSKI Paweł",
       "tytul_kategoria": "I",
@@ -273,7 +264,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "31",
+      "id": "30",
       "id_pzszach": "7415",
       "nazwisko_imie": "BARAN Paweł",
       "tytul_kategoria": "I++",
@@ -282,7 +273,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "32",
+      "id": "31",
       "id_pzszach": "7409",
       "nazwisko_imie": "KORBAL Arkadiusz",
       "tytul_kategoria": "K++",
@@ -291,7 +282,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "33",
+      "id": "32",
       "id_pzszach": "7496",
       "nazwisko_imie": "MASZKOWSKI Tadeusz",
       "tytul_kategoria": "K",
@@ -300,7 +291,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "34",
+      "id": "33",
       "id_pzszach": "7342",
       "nazwisko_imie": "BUCZAK Krzysztof",
       "tytul_kategoria": "I+",
@@ -309,7 +300,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "35",
+      "id": "34",
       "id_pzszach": "7894",
       "nazwisko_imie": "OCIEPKA Adrian",
       "tytul_kategoria": "I",
@@ -318,7 +309,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "36",
+      "id": "35",
       "id_pzszach": "10854",
       "nazwisko_imie": "BŁASZCZYKIEWICZ Wojciech",
       "tytul_kategoria": "I",
@@ -327,7 +318,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "37",
+      "id": "36",
       "id_pzszach": "17142",
       "nazwisko_imie": "JANUSZKIEWICZ Wojciech",
       "tytul_kategoria": "I++",
@@ -336,12 +327,21 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "38",
+      "id": "37",
       "id_pzszach": "7529",
       "nazwisko_imie": "SOKOŁOWSKI Ryszard",
       "tytul_kategoria": "FM",
       "rank_fide": "2101",
       "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "100097",
+      "nazwisko_imie": "WITES Adam",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2099",
+      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
@@ -607,20 +607,20 @@
     },
     {
       "id": "68",
+      "id_pzszach": "1269",
+      "nazwisko_imie": "WODNICZAK Arkadiusz",
+      "tytul_kategoria": "I",
+      "rank_fide": "1999",
+      "klub": "Myśliborski Klub Szachowy",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "69",
       "id_pzszach": "7359",
       "nazwisko_imie": "CZAJA Roman",
       "tytul_kategoria": "K+",
       "rank_fide": "1994",
       "klub": "",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "69",
-      "id_pzszach": "1269",
-      "nazwisko_imie": "WODNICZAK Arkadiusz",
-      "tytul_kategoria": "I",
-      "rank_fide": "1992",
-      "klub": "Myśliborski Klub Szachowy",
       "wojewodztwo_zwiazek": "ZP"
     },
     {

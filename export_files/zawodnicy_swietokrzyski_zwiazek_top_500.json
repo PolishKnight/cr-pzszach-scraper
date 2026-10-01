@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-30T07:49:55.235Z",
+  "createdAt": "2026-10-01T08:09:44.186Z",
   "totalRecords": 500,
   "data": [
     {
@@ -2236,15 +2236,6 @@
     },
     {
       "id": "249",
-      "id_pzszach": "25669",
-      "nazwisko_imie": "WIDALSKI Wacław",
-      "tytul_kategoria": "III",
-      "rank_fide": "1566",
-      "klub": "",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "250",
       "id_pzszach": "71877",
       "nazwisko_imie": "KOSIERADZKA Małgorzata",
       "tytul_kategoria": "II+",
@@ -2253,7 +2244,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "251",
+      "id": "250",
       "id_pzszach": "118351",
       "nazwisko_imie": "WÓJCICKI Błażej",
       "tytul_kategoria": "II",
@@ -2262,7 +2253,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "252",
+      "id": "251",
       "id_pzszach": "103032",
       "nazwisko_imie": "SZCZUKIEWICZ Gustaw",
       "tytul_kategoria": "II",
@@ -2271,7 +2262,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "253",
+      "id": "252",
       "id_pzszach": "106643",
       "nazwisko_imie": "LITWAJTIS Pola",
       "tytul_kategoria": "II",
@@ -2280,7 +2271,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "254",
+      "id": "253",
       "id_pzszach": "75746",
       "nazwisko_imie": "KARAPETYAN Varduhi",
       "tytul_kategoria": "I",
@@ -2289,7 +2280,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "255",
+      "id": "254",
       "id_pzszach": "107120",
       "nazwisko_imie": "KOZŁOWSKI Bartłomiej",
       "tytul_kategoria": "II",
@@ -2298,7 +2289,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "256",
+      "id": "255",
       "id_pzszach": "30135",
       "nazwisko_imie": "SIEK Jerzy",
       "tytul_kategoria": "II",
@@ -2307,7 +2298,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "257",
+      "id": "256",
       "id_pzszach": "114514",
       "nazwisko_imie": "DZIOBA Mateusz",
       "tytul_kategoria": "III",
@@ -2316,7 +2307,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "258",
+      "id": "257",
       "id_pzszach": "96820",
       "nazwisko_imie": "RAJCA Mateusz",
       "tytul_kategoria": "IV",
@@ -2325,7 +2316,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "259",
+      "id": "258",
       "id_pzszach": "104377",
       "nazwisko_imie": "WÓJCIK Piotr",
       "tytul_kategoria": "III",
@@ -2334,7 +2325,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "260",
+      "id": "259",
       "id_pzszach": "148452",
       "nazwisko_imie": "STASIAK Wiktor",
       "tytul_kategoria": "III",
@@ -2343,12 +2334,21 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "261",
+      "id": "260",
       "id_pzszach": "136729",
       "nazwisko_imie": "KOCAŃDA Stanisław",
       "tytul_kategoria": "II+",
       "rank_fide": "1557",
       "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "261",
+      "id_pzszach": "25669",
+      "nazwisko_imie": "WIDALSKI Wacław",
+      "tytul_kategoria": "III",
+      "rank_fide": "1556",
+      "klub": "",
       "wojewodztwo_zwiazek": "SK"
     },
     {
@@ -2911,15 +2911,6 @@
     },
     {
       "id": "324",
-      "id_pzszach": "29603",
-      "nazwisko_imie": "ŻABICKI Krzysztof",
-      "tytul_kategoria": "II",
-      "rank_fide": "1480",
-      "klub": "KSz HETMAN Kielce",
-      "wojewodztwo_zwiazek": "SK"
-    },
-    {
-      "id": "325",
       "id_pzszach": "130463",
       "nazwisko_imie": "KOKOSZA Filip",
       "tytul_kategoria": "III",
@@ -2928,7 +2919,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "326",
+      "id": "325",
       "id_pzszach": "96704",
       "nazwisko_imie": "KRAJEWSKI Filip",
       "tytul_kategoria": "II",
@@ -2937,7 +2928,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "327",
+      "id": "326",
       "id_pzszach": "98070",
       "nazwisko_imie": "JABŁOŃSKI Łukasz",
       "tytul_kategoria": "III",
@@ -2946,7 +2937,7 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "328",
+      "id": "327",
       "id_pzszach": "83105",
       "nazwisko_imie": "DYMIŃSKI Jan",
       "tytul_kategoria": "II",
@@ -2955,12 +2946,21 @@
       "wojewodztwo_zwiazek": "SK"
     },
     {
-      "id": "329",
+      "id": "328",
       "id_pzszach": "106607",
       "nazwisko_imie": "CZEKAJ Aleksandra",
       "tytul_kategoria": "I",
       "rank_fide": "1477",
       "klub": "Fundacja DOBRY RUCH",
+      "wojewodztwo_zwiazek": "SK"
+    },
+    {
+      "id": "329",
+      "id_pzszach": "29603",
+      "nazwisko_imie": "ŻABICKI Krzysztof",
+      "tytul_kategoria": "II",
+      "rank_fide": "1475",
+      "klub": "KSz HETMAN Kielce",
       "wojewodztwo_zwiazek": "SK"
     },
     {

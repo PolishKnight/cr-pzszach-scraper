@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-30T07:49:50.233Z",
+  "createdAt": "2026-10-01T08:09:39.049Z",
   "totalRecords": 100,
   "data": [
     {
@@ -418,15 +418,6 @@
     },
     {
       "id": "47",
-      "id_pzszach": "79916",
-      "nazwisko_imie": "WOLAK Jan",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2196",
-      "klub": "KKSz Kraków",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "48",
       "id_pzszach": "3513",
       "nazwisko_imie": "WOJTCZAK Maciej",
       "tytul_kategoria": "I",
@@ -435,7 +426,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "49",
+      "id": "48",
       "id_pzszach": "3794",
       "nazwisko_imie": "JASKÓŁKA Tomasz",
       "tytul_kategoria": "CM",
@@ -444,7 +435,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "50",
+      "id": "49",
       "id_pzszach": "44555",
       "nazwisko_imie": "KRAWCZYK Wojciech",
       "tytul_kategoria": "CM",
@@ -453,7 +444,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "51",
+      "id": "50",
       "id_pzszach": "53494",
       "nazwisko_imie": "WNĘK Filip",
       "tytul_kategoria": "K",
@@ -462,7 +453,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "52",
+      "id": "51",
       "id_pzszach": "3193",
       "nazwisko_imie": "LEPIARCZYK Wojciech",
       "tytul_kategoria": "I",
@@ -471,7 +462,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "53",
+      "id": "52",
       "id_pzszach": "3316",
       "nazwisko_imie": "KIKA Dorota",
       "tytul_kategoria": "WIM",
@@ -480,7 +471,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "54",
+      "id": "53",
       "id_pzszach": "17208",
       "nazwisko_imie": "CHMIEL Marcin",
       "tytul_kategoria": "K+",
@@ -489,7 +480,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "55",
+      "id": "54",
       "id_pzszach": "30561",
       "nazwisko_imie": "BABIARZ Arkadiusz",
       "tytul_kategoria": "CM",
@@ -498,11 +489,20 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "56",
+      "id": "55",
       "id_pzszach": "3325",
       "nazwisko_imie": "DONIEC Andrzej",
       "tytul_kategoria": "K",
       "rank_fide": "2175",
+      "klub": "KKSz Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "79916",
+      "nazwisko_imie": "WOLAK Jan",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2174",
       "klub": "KKSz Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
@@ -859,15 +859,6 @@
     },
     {
       "id": "96",
-      "id_pzszach": "44443",
-      "nazwisko_imie": "WNUK Piotr",
-      "tytul_kategoria": "I+",
-      "rank_fide": "2076",
-      "klub": "UKS GONIEC Staniątki",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "97",
       "id_pzszach": "5605",
       "nazwisko_imie": "BZOWSKI Błażej",
       "tytul_kategoria": "K",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "3223",
       "nazwisko_imie": "HAMUDA Mieczysław",
       "tytul_kategoria": "I",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "98167",
       "nazwisko_imie": "BEDNAREK Jan",
       "tytul_kategoria": "K",
@@ -894,12 +885,21 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "3506",
       "nazwisko_imie": "WĘGLOWSKI Zbigniew",
       "tytul_kategoria": "K",
       "rank_fide": "2068",
       "klub": "KKSz Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "6081",
+      "nazwisko_imie": "ŚLĘZAK Robert",
+      "tytul_kategoria": "K",
+      "rank_fide": "2068",
+      "klub": "",
       "wojewodztwo_zwiazek": "MP"
     }
   ]

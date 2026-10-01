@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-30T07:49:51.220Z",
+  "createdAt": "2026-10-01T08:09:40.089Z",
   "totalRecords": 500,
   "data": [
     {
@@ -373,20 +373,20 @@
     },
     {
       "id": "42",
+      "id_pzszach": "3736",
+      "nazwisko_imie": "ZGADZAJ Rafał",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2029",
+      "klub": "UKS Gekon Nysa",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "43",
       "id_pzszach": "3699",
       "nazwisko_imie": "RACZYNSKI Marcin",
       "tytul_kategoria": "I",
       "rank_fide": "2027",
       "klub": "",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "43",
-      "id_pzszach": "3736",
-      "nazwisko_imie": "ZGADZAJ Rafał",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2021",
-      "klub": "UKS Gekon Nysa",
       "wojewodztwo_zwiazek": "OP"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-30T07:49:44.335Z",
+  "createdAt": "2026-10-01T08:09:32.758Z",
   "totalRecords": 100,
   "data": [
     {
@@ -571,6 +571,15 @@
     },
     {
       "id": "64",
+      "id_pzszach": "67585",
+      "nazwisko_imie": "WILGOSZ Szczepan",
+      "tytul_kategoria": "K",
+      "rank_fide": "2271",
+      "klub": "MGLKS PARNAS Oława",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "65",
       "id_pzszach": "84179",
       "nazwisko_imie": "LECHOWSKI Witold",
       "tytul_kategoria": "FM",
@@ -579,7 +588,7 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "65",
+      "id": "66",
       "id_pzszach": "192",
       "nazwisko_imie": "FIGIEL Marek",
       "tytul_kategoria": "M",
@@ -588,21 +597,12 @@
       "wojewodztwo_zwiazek": "DS"
     },
     {
-      "id": "66",
+      "id": "67",
       "id_pzszach": "232",
       "nazwisko_imie": "NIŻYŃSKI Maciej",
       "tytul_kategoria": "K",
       "rank_fide": "2260",
       "klub": "KS AZS Wratislavia",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "67",
-      "id_pzszach": "67585",
-      "nazwisko_imie": "WILGOSZ Szczepan",
-      "tytul_kategoria": "K",
-      "rank_fide": "2259",
-      "klub": "MGLKS PARNAS Oława",
       "wojewodztwo_zwiazek": "DS"
     },
     {
