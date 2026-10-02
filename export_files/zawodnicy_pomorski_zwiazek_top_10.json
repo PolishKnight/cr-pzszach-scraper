@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:43.328Z",
+  "createdAt": "2026-10-02T07:50:49.786Z",
   "totalRecords": 10,
   "data": [
     {
@@ -40,6 +40,15 @@
     },
     {
       "id": "5",
+      "id_pzszach": "85693",
+      "nazwisko_imie": "KORSZAŃSKI Stanisław",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2327",
+      "klub": "UKS KORONA Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "6",
       "id_pzszach": "4884",
       "nazwisko_imie": "WISMONT Ryszard",
       "tytul_kategoria": "K",
@@ -48,21 +57,12 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "6",
-      "id_pzszach": "71658",
-      "nazwisko_imie": "LIŚKIEWICZ Jakub",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2315",
-      "klub": "UKS GEDANENSIS Gdańsk",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
       "id": "7",
-      "id_pzszach": "85693",
-      "nazwisko_imie": "KORSZAŃSKI Stanisław",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2299",
-      "klub": "UKS KORONA Gdańsk",
+      "id_pzszach": "4758",
+      "nazwisko_imie": "MIRSKI Stanisław",
+      "tytul_kategoria": "K++",
+      "rank_fide": "2302",
+      "klub": "UKS GEDANENSIS Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     },
     {
@@ -70,26 +70,26 @@
       "id_pzszach": "1166",
       "nazwisko_imie": "SZCZEPIŃSKI Michał",
       "tytul_kategoria": "FM",
-      "rank_fide": "2298",
+      "rank_fide": "2291",
       "klub": "KS Olimpijczyk Kwakowo",
       "wojewodztwo_zwiazek": "PO"
     },
     {
       "id": "9",
+      "id_pzszach": "71658",
+      "nazwisko_imie": "LIŚKIEWICZ Jakub",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2291",
+      "klub": "UKS GEDANENSIS Gdańsk",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "10",
       "id_pzszach": "4663",
       "nazwisko_imie": "DŁUGOSZ Jędrzej",
       "tytul_kategoria": "M",
       "rank_fide": "2285",
       "klub": "UKS KORONA Gdańsk",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "949",
-      "nazwisko_imie": "GRABOWSKI Paweł",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2281",
-      "klub": "UKS ALFIL Gniew",
       "wojewodztwo_zwiazek": "PO"
     }
   ]

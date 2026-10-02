@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:36.085Z",
+  "createdAt": "2026-10-02T07:50:42.015Z",
   "totalRecords": 10,
   "data": [
     {
@@ -16,7 +16,7 @@
       "id_pzszach": "1803",
       "nazwisko_imie": "SOPUR Lech",
       "tytul_kategoria": "M",
-      "rank_fide": "2396",
+      "rank_fide": "2371",
       "klub": "Łódzka Liga Szachowa",
       "wojewodztwo_zwiazek": "LD"
     },
@@ -67,6 +67,15 @@
     },
     {
       "id": "8",
+      "id_pzszach": "80899",
+      "nazwisko_imie": "HAŁADAJ Adam",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2268",
+      "klub": "UKS JEDYNKA Bełchatów",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "9",
       "id_pzszach": "1800",
       "nazwisko_imie": "SKÓRA Waldemar",
       "tytul_kategoria": "K",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "1740",
       "nazwisko_imie": "KWIECIŃSKI Ryszard",
       "tytul_kategoria": "K",
       "rank_fide": "2239",
       "klub": "",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "61673",
-      "nazwisko_imie": "ZALEGA Maciej",
-      "tytul_kategoria": "K++",
-      "rank_fide": "2238",
-      "klub": "LKS Opocznianka Opoczno",
       "wojewodztwo_zwiazek": "LD"
     }
   ]

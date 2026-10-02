@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:36.804Z",
+  "createdAt": "2026-10-02T07:50:42.799Z",
   "totalRecords": 100,
   "data": [
     {
@@ -40,19 +40,19 @@
     },
     {
       "id": "5",
-      "id_pzszach": "2071",
-      "nazwisko_imie": "ŁOBEJKO Rafał",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2300",
+      "id_pzszach": "2130",
+      "nazwisko_imie": "STOMA Paweł",
+      "tytul_kategoria": "M",
+      "rank_fide": "2290",
       "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
       "id": "6",
-      "id_pzszach": "2130",
-      "nazwisko_imie": "STOMA Paweł",
-      "tytul_kategoria": "M",
-      "rank_fide": "2286",
+      "id_pzszach": "2071",
+      "nazwisko_imie": "ŁOBEJKO Rafał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2283",
       "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
@@ -94,20 +94,20 @@
     },
     {
       "id": "11",
-      "id_pzszach": "2118",
-      "nazwisko_imie": "PYDA Zbigniew",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2217",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "12",
       "id_pzszach": "7849",
       "nazwisko_imie": "MARDAROWICZ Jacek",
       "tytul_kategoria": "K",
       "rank_fide": "2215",
       "klub": "",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "2118",
+      "nazwisko_imie": "PYDA Zbigniew",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2214",
+      "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -142,7 +142,7 @@
       "id_pzszach": "2082",
       "nazwisko_imie": "MIROSŁAW Michał",
       "tytul_kategoria": "FM",
-      "rank_fide": "2194",
+      "rank_fide": "2190",
       "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
@@ -166,15 +166,6 @@
     },
     {
       "id": "19",
-      "id_pzszach": "47233",
-      "nazwisko_imie": "IWAŃCZUK Krzysztof",
-      "tytul_kategoria": "K",
-      "rank_fide": "2169",
-      "klub": "MKS AGROS Chełm",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "20",
       "id_pzszach": "2043",
       "nazwisko_imie": "JUSIAK Grzegorz",
       "tytul_kategoria": "K",
@@ -183,7 +174,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "21",
+      "id": "20",
       "id_pzszach": "39430",
       "nazwisko_imie": "WASZCZUK Patrycja",
       "tytul_kategoria": "WFM",
@@ -192,7 +183,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "22",
+      "id": "21",
       "id_pzszach": "4230",
       "nazwisko_imie": "KAMYS Stanislaw",
       "tytul_kategoria": "K",
@@ -201,7 +192,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "23",
+      "id": "22",
       "id_pzszach": "2057",
       "nazwisko_imie": "KOPEĆ Zenon",
       "tytul_kategoria": "I",
@@ -210,11 +201,20 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
+      "id": "23",
+      "id_pzszach": "47233",
+      "nazwisko_imie": "IWAŃCZUK Krzysztof",
+      "tytul_kategoria": "K",
+      "rank_fide": "2150",
+      "klub": "MKS AGROS Chełm",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
       "id": "24",
       "id_pzszach": "2099",
       "nazwisko_imie": "PANAS Paweł",
       "tytul_kategoria": "K",
-      "rank_fide": "2144",
+      "rank_fide": "2142",
       "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
@@ -256,6 +256,15 @@
     },
     {
       "id": "29",
+      "id_pzszach": "85830",
+      "nazwisko_imie": "BARAN Franciszek",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2106",
+      "klub": "SSz Cebularz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "30",
       "id_pzszach": "2056",
       "nazwisko_imie": "KOMORZYCKI Jakub",
       "tytul_kategoria": "K",
@@ -264,7 +273,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "30",
+      "id": "31",
       "id_pzszach": "2116",
       "nazwisko_imie": "PROBOLA Ryszard",
       "tytul_kategoria": "K",
@@ -273,7 +282,16 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "31",
+      "id": "32",
+      "id_pzszach": "2111",
+      "nazwisko_imie": "POLKOWSKI Piotr",
+      "tytul_kategoria": "K",
+      "rank_fide": "2097",
+      "klub": "LKSz Lublin",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "33",
       "id_pzszach": "1982",
       "nazwisko_imie": "PROBOLA Bartosz",
       "tytul_kategoria": "K",
@@ -282,16 +300,7 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "32",
-      "id_pzszach": "2111",
-      "nazwisko_imie": "POLKOWSKI Piotr",
-      "tytul_kategoria": "K",
-      "rank_fide": "2089",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "33",
+      "id": "34",
       "id_pzszach": "1986",
       "nazwisko_imie": "ŻĄDŁO Tomasz",
       "tytul_kategoria": "I++",
@@ -300,21 +309,12 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "34",
+      "id": "35",
       "id_pzszach": "6467",
       "nazwisko_imie": "MICHAŁEK Bartosz",
       "tytul_kategoria": "I",
       "rank_fide": "2087",
       "klub": "",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "35",
-      "id_pzszach": "85830",
-      "nazwisko_imie": "BARAN Franciszek",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2087",
-      "klub": "SSz Cebularz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -589,20 +589,20 @@
     },
     {
       "id": "66",
+      "id_pzszach": "17148",
+      "nazwisko_imie": "GÓRA Antonina",
+      "tytul_kategoria": "K",
+      "rank_fide": "1947",
+      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "67",
       "id_pzszach": "2152",
       "nazwisko_imie": "WOJCIESZYN Zdzisław",
       "tytul_kategoria": "K",
       "rank_fide": "1946",
       "klub": "",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "67",
-      "id_pzszach": "17148",
-      "nazwisko_imie": "GÓRA Antonina",
-      "tytul_kategoria": "K",
-      "rank_fide": "1946",
-      "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -661,15 +661,6 @@
     },
     {
       "id": "74",
-      "id_pzszach": "1973",
-      "nazwisko_imie": "KOWALCZYK Marian",
-      "tytul_kategoria": "I++",
-      "rank_fide": "1916",
-      "klub": "LKSz Lublin",
-      "wojewodztwo_zwiazek": "LU"
-    },
-    {
-      "id": "75",
       "id_pzszach": "1876",
       "nazwisko_imie": "BIEŃ Janusz",
       "tytul_kategoria": "I++",
@@ -678,12 +669,21 @@
       "wojewodztwo_zwiazek": "LU"
     },
     {
-      "id": "76",
+      "id": "75",
       "id_pzszach": "17395",
       "nazwisko_imie": "BARTOSZEK Marcin",
       "tytul_kategoria": "I",
       "rank_fide": "1914",
       "klub": "UKS GIM DWÓJKA Tomaszów Lubelski",
+      "wojewodztwo_zwiazek": "LU"
+    },
+    {
+      "id": "76",
+      "id_pzszach": "1973",
+      "nazwisko_imie": "KOWALCZYK Marian",
+      "tytul_kategoria": "I++",
+      "rank_fide": "1913",
+      "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
@@ -895,11 +895,11 @@
     },
     {
       "id": "100",
-      "id_pzszach": "17153",
-      "nazwisko_imie": "KRASOWSKI Piotr",
-      "tytul_kategoria": "I",
+      "id_pzszach": "4937",
+      "nazwisko_imie": "SARNOWSKI Witold",
+      "tytul_kategoria": "I+",
       "rank_fide": "1870",
-      "klub": "LKSz Lublin",
+      "klub": "",
       "wojewodztwo_zwiazek": "LU"
     }
   ]

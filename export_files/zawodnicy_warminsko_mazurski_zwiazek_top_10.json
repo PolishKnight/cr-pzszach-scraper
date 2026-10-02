@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:46.236Z",
+  "createdAt": "2026-10-02T07:50:52.982Z",
   "totalRecords": 10,
   "data": [
     {
@@ -13,29 +13,29 @@
     },
     {
       "id": "2",
-      "id_pzszach": "108055",
-      "nazwisko_imie": "RZĄP Filip",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2341",
-      "klub": "UKS UZDOWO",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "3",
       "id_pzszach": "9876",
       "nazwisko_imie": "RENKOWSKI Piotr",
       "tytul_kategoria": "M",
-      "rank_fide": "2329",
+      "rank_fide": "2331",
       "klub": "KSz CKTiS Biskupiec",
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "4",
+      "id": "3",
       "id_pzszach": "77433",
       "nazwisko_imie": "MURAWSKI Jan",
       "tytul_kategoria": "V",
       "rank_fide": "2307",
       "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "108055",
+      "nazwisko_imie": "RZĄP Filip",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2292",
+      "klub": "UKS UZDOWO",
       "wojewodztwo_zwiazek": "WM"
     },
     {

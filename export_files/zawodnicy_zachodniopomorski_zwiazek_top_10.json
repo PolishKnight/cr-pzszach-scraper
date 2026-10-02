@@ -1,22 +1,22 @@
 {
-  "createdAt": "2026-10-01T08:09:48.616Z",
+  "createdAt": "2026-10-02T07:50:55.480Z",
   "totalRecords": 10,
   "data": [
     {
       "id": "1",
-      "id_pzszach": "4091",
-      "nazwisko_imie": "SYGULSKI Artur",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2378",
+      "id_pzszach": "44526",
+      "nazwisko_imie": "ŁUCZAK Filip",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2385",
       "klub": "KSz HETMAN Koszalin",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
       "id": "2",
-      "id_pzszach": "44526",
-      "nazwisko_imie": "ŁUCZAK Filip",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2358",
+      "id_pzszach": "4091",
+      "nazwisko_imie": "SYGULSKI Artur",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2378",
       "klub": "KSz HETMAN Koszalin",
       "wojewodztwo_zwiazek": "ZP"
     },
@@ -76,19 +76,19 @@
     },
     {
       "id": "9",
-      "id_pzszach": "7498",
-      "nazwisko_imie": "MATUSIAK Janusz",
-      "tytul_kategoria": "K",
-      "rank_fide": "2235",
-      "klub": "KSz HETMAN Koszalin",
+      "id_pzszach": "82988",
+      "nazwisko_imie": "ZARĘBA Piotr",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2251",
+      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     },
     {
       "id": "10",
-      "id_pzszach": "7323",
-      "nazwisko_imie": "MASŁOWSKI Michał",
+      "id_pzszach": "7498",
+      "nazwisko_imie": "MATUSIAK Janusz",
       "tytul_kategoria": "K",
-      "rank_fide": "2205",
+      "rank_fide": "2235",
       "klub": "KSz HETMAN Koszalin",
       "wojewodztwo_zwiazek": "ZP"
     }

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:39.049Z",
+  "createdAt": "2026-10-02T07:50:45.176Z",
   "totalRecords": 100,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "3187",
       "nazwisko_imie": "DUDA Jan-Krzysztof",
       "tytul_kategoria": "GM",
-      "rank_fide": "2743",
+      "rank_fide": "2741",
       "klub": "MKS MOS Wieliczka",
       "wojewodztwo_zwiazek": "MP"
     },
@@ -88,12 +88,21 @@
       "id_pzszach": "104677",
       "nazwisko_imie": "SUSHCHOV Oleksandr",
       "tytul_kategoria": "IM",
-      "rank_fide": "2339",
+      "rank_fide": "2327",
       "klub": "Ognisko TKKF w Dobczycach",
       "wojewodztwo_zwiazek": "MP"
     },
     {
       "id": "11",
+      "id_pzszach": "683",
+      "nazwisko_imie": "STOPA Jacek",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2326",
+      "klub": "KS KINGSOFCHESS Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "12",
       "id_pzszach": "3424",
       "nazwisko_imie": "MIKRUT Dariusz",
       "tytul_kategoria": "IM",
@@ -102,7 +111,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "12",
+      "id": "13",
       "id_pzszach": "40927",
       "nazwisko_imie": "USTIANOVICH Nazar",
       "tytul_kategoria": "FM",
@@ -111,16 +120,16 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "13",
-      "id_pzszach": "683",
-      "nazwisko_imie": "STOPA Jacek",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2315",
-      "klub": "KS KINGSOFCHESS Kraków",
+      "id": "14",
+      "id_pzszach": "25772",
+      "nazwisko_imie": "GOLENIA Jan",
+      "tytul_kategoria": "K++",
+      "rank_fide": "2312",
+      "klub": "MKS MOS Wieliczka",
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "14",
+      "id": "15",
       "id_pzszach": "3141",
       "nazwisko_imie": "KOSTRO Jerzy",
       "tytul_kategoria": "IM",
@@ -129,21 +138,12 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "15",
+      "id": "16",
       "id_pzszach": "23195",
       "nazwisko_imie": "KLEPEK Witold",
       "tytul_kategoria": "FM",
-      "rank_fide": "2305",
+      "rank_fide": "2304",
       "klub": "AZS AGH Kraków",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "16",
-      "id_pzszach": "52967",
-      "nazwisko_imie": "PAPROCKI Antoni",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2301",
-      "klub": "Gens Una Sumus Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
     {
@@ -157,24 +157,33 @@
     },
     {
       "id": "18",
-      "id_pzszach": "25772",
-      "nazwisko_imie": "GOLENIA Jan",
-      "tytul_kategoria": "K++",
-      "rank_fide": "2284",
+      "id_pzszach": "116643",
+      "nazwisko_imie": "NAKONECHNYI Oleksii",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2295",
       "klub": "MKS MOS Wieliczka",
       "wojewodztwo_zwiazek": "MP"
     },
     {
       "id": "19",
-      "id_pzszach": "86151",
-      "nazwisko_imie": "KRACZEK Cezary",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2268",
-      "klub": "UKS HETMAN KORONNY Trzebinia",
+      "id_pzszach": "52967",
+      "nazwisko_imie": "PAPROCKI Antoni",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2294",
+      "klub": "Gens Una Sumus Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
     {
       "id": "20",
+      "id_pzszach": "86151",
+      "nazwisko_imie": "KRACZEK Cezary",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2272",
+      "klub": "UKS HETMAN KORONNY Trzebinia",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "21",
       "id_pzszach": "3410",
       "nazwisko_imie": "LEWICKI Bogusław",
       "tytul_kategoria": "K",
@@ -183,25 +192,25 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "21",
-      "id_pzszach": "116643",
-      "nazwisko_imie": "NAKONECHNYI Oleksii",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2263",
-      "klub": "MKS MOS Wieliczka",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
       "id": "22",
-      "id_pzszach": "17812",
-      "nazwisko_imie": "BUŚ Konrad",
-      "tytul_kategoria": "K",
-      "rank_fide": "2260",
-      "klub": "MKS MOS Wieliczka",
+      "id_pzszach": "49193",
+      "nazwisko_imie": "MEERS Hubert",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2264",
+      "klub": "UKS HETMAN KORONNY Trzebinia",
       "wojewodztwo_zwiazek": "MP"
     },
     {
       "id": "23",
+      "id_pzszach": "17812",
+      "nazwisko_imie": "BUŚ Konrad",
+      "tytul_kategoria": "K",
+      "rank_fide": "2261",
+      "klub": "MKS MOS Wieliczka",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "24",
       "id_pzszach": "3336",
       "nazwisko_imie": "FURDZIK Rafał",
       "tytul_kategoria": "K",
@@ -210,16 +219,16 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "24",
-      "id_pzszach": "17194",
-      "nazwisko_imie": "MARCZUK Dominik",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2259",
-      "klub": "KKSz Kraków",
+      "id": "25",
+      "id_pzszach": "43965",
+      "nazwisko_imie": "MUSIAŁ Tomasz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2256",
+      "klub": "AZS AGH Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "25",
+      "id": "26",
       "id_pzszach": "7751",
       "nazwisko_imie": "JACHIMCZYK Maciej",
       "tytul_kategoria": "K",
@@ -228,30 +237,21 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "26",
+      "id": "27",
+      "id_pzszach": "25771",
+      "nazwisko_imie": "GOLENIA Wojciech",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2254",
+      "klub": "MKS MOS Wieliczka",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "28",
       "id_pzszach": "3356",
       "nazwisko_imie": "JANIK Krzysztof",
       "tytul_kategoria": "K",
       "rank_fide": "2250",
       "klub": "KS Cracovia 1906 Kraków",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "27",
-      "id_pzszach": "43965",
-      "nazwisko_imie": "MUSIAŁ Tomasz",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2248",
-      "klub": "AZS AGH Kraków",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "28",
-      "id_pzszach": "49193",
-      "nazwisko_imie": "MEERS Hubert",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2247",
-      "klub": "UKS HETMAN KORONNY Trzebinia",
       "wojewodztwo_zwiazek": "MP"
     },
     {
@@ -274,11 +274,11 @@
     },
     {
       "id": "31",
-      "id_pzszach": "25771",
-      "nazwisko_imie": "GOLENIA Wojciech",
+      "id_pzszach": "17194",
+      "nazwisko_imie": "MARCZUK Dominik",
       "tytul_kategoria": "FM",
-      "rank_fide": "2241",
-      "klub": "MKS MOS Wieliczka",
+      "rank_fide": "2242",
+      "klub": "KKSz Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
     {
@@ -346,24 +346,15 @@
     },
     {
       "id": "39",
-      "id_pzszach": "5574",
-      "nazwisko_imie": "BIELCZYK Jacek",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2220",
-      "klub": "OLIMPIJCZYK Chrzanów",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "40",
       "id_pzszach": "49697",
       "nazwisko_imie": "BROŻYNA Mateusz",
       "tytul_kategoria": "FM",
-      "rank_fide": "2218",
+      "rank_fide": "2217",
       "klub": "Ognisko TKKF w Dobczycach",
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "41",
+      "id": "40",
       "id_pzszach": "3405",
       "nazwisko_imie": "LAPTOS Krzysztof",
       "tytul_kategoria": "K",
@@ -372,7 +363,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "42",
+      "id": "41",
       "id_pzszach": "21647",
       "nazwisko_imie": "MUCHA Roman",
       "tytul_kategoria": "K",
@@ -381,12 +372,21 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "43",
+      "id": "42",
       "id_pzszach": "3431",
       "nazwisko_imie": "OSTROWSKI Andrzej",
       "tytul_kategoria": "K",
       "rank_fide": "2208",
       "klub": "PUKS KAROLINA Tarnów",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "5574",
+      "nazwisko_imie": "BIELCZYK Jacek",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2206",
+      "klub": "OLIMPIJCZYK Chrzanów",
       "wojewodztwo_zwiazek": "MP"
     },
     {
@@ -427,24 +427,15 @@
     },
     {
       "id": "48",
-      "id_pzszach": "3794",
-      "nazwisko_imie": "JASKÓŁKA Tomasz",
+      "id_pzszach": "30561",
+      "nazwisko_imie": "BABIARZ Arkadiusz",
       "tytul_kategoria": "CM",
-      "rank_fide": "2192",
-      "klub": "KSz Królewscy Tarnów",
+      "rank_fide": "2191",
+      "klub": "AZS AGH Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
     {
       "id": "49",
-      "id_pzszach": "44555",
-      "nazwisko_imie": "KRAWCZYK Wojciech",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2191",
-      "klub": "MKS MOS Wieliczka",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "50",
       "id_pzszach": "53494",
       "nazwisko_imie": "WNĘK Filip",
       "tytul_kategoria": "K",
@@ -453,7 +444,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "51",
+      "id": "50",
       "id_pzszach": "3193",
       "nazwisko_imie": "LEPIARCZYK Wojciech",
       "tytul_kategoria": "I",
@@ -462,7 +453,25 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
+      "id": "51",
+      "id_pzszach": "3794",
+      "nazwisko_imie": "JASKÓŁKA Tomasz",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2187",
+      "klub": "KSz Królewscy Tarnów",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
       "id": "52",
+      "id_pzszach": "17845",
+      "nazwisko_imie": "ŻARNOWSKI Krzysztof",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2185",
+      "klub": "AZS AGH Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "53",
       "id_pzszach": "3316",
       "nazwisko_imie": "KIKA Dorota",
       "tytul_kategoria": "WIM",
@@ -471,21 +480,12 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "53",
-      "id_pzszach": "17208",
-      "nazwisko_imie": "CHMIEL Marcin",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2178",
-      "klub": "KKSz Kraków",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
       "id": "54",
-      "id_pzszach": "30561",
-      "nazwisko_imie": "BABIARZ Arkadiusz",
+      "id_pzszach": "44555",
+      "nazwisko_imie": "KRAWCZYK Wojciech",
       "tytul_kategoria": "CM",
       "rank_fide": "2176",
-      "klub": "AZS AGH Kraków",
+      "klub": "MKS MOS Wieliczka",
       "wojewodztwo_zwiazek": "MP"
     },
     {
@@ -517,6 +517,15 @@
     },
     {
       "id": "58",
+      "id_pzszach": "70523",
+      "nazwisko_imie": "KUTOWSKI Marcel",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2168",
+      "klub": "UKS przy SP 8 Chrzanów",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "59",
       "id_pzszach": "3081",
       "nazwisko_imie": "ŚWIĘCH Przemysław",
       "tytul_kategoria": "K",
@@ -525,7 +534,16 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "59",
+      "id": "60",
+      "id_pzszach": "17208",
+      "nazwisko_imie": "CHMIEL Marcin",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2166",
+      "klub": "KKSz Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "61",
       "id_pzszach": "3318",
       "nazwisko_imie": "CZARNOTA Waldemar",
       "tytul_kategoria": "I",
@@ -534,7 +552,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "60",
+      "id": "62",
       "id_pzszach": "3417",
       "nazwisko_imie": "MAREK Mariusz",
       "tytul_kategoria": "K",
@@ -543,7 +561,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "61",
+      "id": "63",
       "id_pzszach": "3470",
       "nazwisko_imie": "SERWA Ryszard",
       "tytul_kategoria": "K",
@@ -552,7 +570,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "62",
+      "id": "64",
       "id_pzszach": "3437",
       "nazwisko_imie": "PILARSKA Czesława",
       "tytul_kategoria": "WIM",
@@ -561,16 +579,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "63",
-      "id_pzszach": "3332",
-      "nazwisko_imie": "FISTEK Dariusz",
-      "tytul_kategoria": "K+",
-      "rank_fide": "2152",
-      "klub": "KSz Królewscy Tarnów",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "64",
+      "id": "65",
       "id_pzszach": "59282",
       "nazwisko_imie": "WILK Igor",
       "tytul_kategoria": "CM",
@@ -579,21 +588,12 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "65",
+      "id": "66",
       "id_pzszach": "3496",
       "nazwisko_imie": "TOMSIA Kamil",
       "tytul_kategoria": "I++",
       "rank_fide": "2150",
       "klub": "UKS HETMAN KORONNY Trzebinia",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "66",
-      "id_pzszach": "4040",
-      "nazwisko_imie": "MUC Marcin",
-      "tytul_kategoria": "K",
-      "rank_fide": "2150",
-      "klub": "KSz Królewscy Tarnów",
       "wojewodztwo_zwiazek": "MP"
     },
     {
@@ -607,24 +607,15 @@
     },
     {
       "id": "68",
-      "id_pzszach": "70523",
-      "nazwisko_imie": "KUTOWSKI Marcel",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2148",
-      "klub": "UKS przy SP 8 Chrzanów",
+      "id_pzszach": "43635",
+      "nazwisko_imie": "DYLĄG Emilia",
+      "tytul_kategoria": "WFM",
+      "rank_fide": "2150",
+      "klub": "KKSz Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
     {
       "id": "69",
-      "id_pzszach": "17845",
-      "nazwisko_imie": "ŻARNOWSKI Krzysztof",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2147",
-      "klub": "AZS AGH Kraków",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "70",
       "id_pzszach": "3441",
       "nazwisko_imie": "POKOJSKA Daria",
       "tytul_kategoria": "M",
@@ -633,16 +624,34 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "71",
-      "id_pzszach": "3907",
-      "nazwisko_imie": "SKOMIAŁ Mateusz",
+      "id": "70",
+      "id_pzszach": "19850",
+      "nazwisko_imie": "MIRSKI Michał",
       "tytul_kategoria": "K",
-      "rank_fide": "2145",
-      "klub": "Gens Una Sumus Kraków",
+      "rank_fide": "2144",
+      "klub": "UKS GONIEC Staniątki",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "71",
+      "id_pzszach": "52277",
+      "nazwisko_imie": "CICHOŃ Bartłomiej",
+      "tytul_kategoria": "K",
+      "rank_fide": "2143",
+      "klub": "MKS CENTRUM Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
     {
       "id": "72",
+      "id_pzszach": "3907",
+      "nazwisko_imie": "SKOMIAŁ Mateusz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2142",
+      "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "73",
       "id_pzszach": "53301",
       "nazwisko_imie": "WEISSBEIN Thomas",
       "tytul_kategoria": "K+",
@@ -651,7 +660,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "73",
+      "id": "74",
       "id_pzszach": "3315",
       "nazwisko_imie": "CZAPLAK Tomasz",
       "tytul_kategoria": "I+",
@@ -660,7 +669,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "74",
+      "id": "75",
       "id_pzszach": "3433",
       "nazwisko_imie": "PATLA Robert",
       "tytul_kategoria": "K",
@@ -669,7 +678,16 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "75",
+      "id": "76",
+      "id_pzszach": "4040",
+      "nazwisko_imie": "MUC Marcin",
+      "tytul_kategoria": "K",
+      "rank_fide": "2136",
+      "klub": "KSz Królewscy Tarnów",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "77",
       "id_pzszach": "3142",
       "nazwisko_imie": "KUREK Jerzy",
       "tytul_kategoria": "I",
@@ -678,16 +696,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "76",
-      "id_pzszach": "43635",
-      "nazwisko_imie": "DYLĄG Emilia",
-      "tytul_kategoria": "WFM",
-      "rank_fide": "2135",
-      "klub": "KKSz Kraków",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "77",
+      "id": "78",
       "id_pzszach": "3446",
       "nazwisko_imie": "POPIOŁEK Hubert",
       "tytul_kategoria": "CM",
@@ -696,7 +705,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "78",
+      "id": "79",
       "id_pzszach": "3512",
       "nazwisko_imie": "WÓJCIK Wacław",
       "tytul_kategoria": "I",
@@ -705,16 +714,16 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "79",
-      "id_pzszach": "52277",
-      "nazwisko_imie": "CICHOŃ Bartłomiej",
-      "tytul_kategoria": "K",
-      "rank_fide": "2131",
-      "klub": "MKS CENTRUM Kraków",
+      "id": "80",
+      "id_pzszach": "3332",
+      "nazwisko_imie": "FISTEK Dariusz",
+      "tytul_kategoria": "K+",
+      "rank_fide": "2133",
+      "klub": "KSz Królewscy Tarnów",
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "80",
+      "id": "81",
       "id_pzszach": "3366",
       "nazwisko_imie": "KALECIŃSKI Mateusz",
       "tytul_kategoria": "I",
@@ -723,7 +732,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "81",
+      "id": "82",
       "id_pzszach": "3491",
       "nazwisko_imie": "SZCZECHOWICZ Bartosz",
       "tytul_kategoria": "FM",
@@ -732,7 +741,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "82",
+      "id": "83",
       "id_pzszach": "3516",
       "nazwisko_imie": "ZADORA Krzysztof",
       "tytul_kategoria": "I",
@@ -741,7 +750,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "83",
+      "id": "84",
       "id_pzszach": "3060",
       "nazwisko_imie": "KULESZA Kamil",
       "tytul_kategoria": "I",
@@ -750,7 +759,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "84",
+      "id": "85",
       "id_pzszach": "90314",
       "nazwisko_imie": "MAJ Samuel",
       "tytul_kategoria": "I++",
@@ -759,16 +768,16 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "85",
-      "id_pzszach": "19850",
-      "nazwisko_imie": "MIRSKI Michał",
-      "tytul_kategoria": "K",
-      "rank_fide": "2118",
-      "klub": "UKS GONIEC Staniątki",
+      "id": "86",
+      "id_pzszach": "2718",
+      "nazwisko_imie": "KAIM Piotr",
+      "tytul_kategoria": "M",
+      "rank_fide": "2117",
+      "klub": "UKS Bakcyl Bielany",
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "86",
+      "id": "87",
       "id_pzszach": "3429",
       "nazwisko_imie": "NOWAK Piotr",
       "tytul_kategoria": "I",
@@ -777,7 +786,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "87",
+      "id": "88",
       "id_pzszach": "3403",
       "nazwisko_imie": "LANGER Krzysztof",
       "tytul_kategoria": "I",
@@ -786,7 +795,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "88",
+      "id": "89",
       "id_pzszach": "7821",
       "nazwisko_imie": "KUDAS Damian",
       "tytul_kategoria": "K",
@@ -795,7 +804,16 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "89",
+      "id": "90",
+      "id_pzszach": "98167",
+      "nazwisko_imie": "BEDNAREK Jan",
+      "tytul_kategoria": "K",
+      "rank_fide": "2099",
+      "klub": "Gens Una Sumus Kraków",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "91",
       "id_pzszach": "5329",
       "nazwisko_imie": "LEKS Maria",
       "tytul_kategoria": "WFM",
@@ -804,7 +822,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "90",
+      "id": "92",
       "id_pzszach": "34020",
       "nazwisko_imie": "DIXA Oskar",
       "tytul_kategoria": "K",
@@ -813,7 +831,16 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "91",
+      "id": "93",
+      "id_pzszach": "44156",
+      "nazwisko_imie": "PIETRZAK Tomasz",
+      "tytul_kategoria": "K",
+      "rank_fide": "2091",
+      "klub": "MAT Myślenice",
+      "wojewodztwo_zwiazek": "MP"
+    },
+    {
+      "id": "94",
       "id_pzszach": "3323",
       "nazwisko_imie": "DĄBEK Marek",
       "tytul_kategoria": "I",
@@ -822,25 +849,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "92",
-      "id_pzszach": "2718",
-      "nazwisko_imie": "KAIM Piotr",
-      "tytul_kategoria": "M",
-      "rank_fide": "2083",
-      "klub": "UKS Bakcyl Bielany",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "93",
-      "id_pzszach": "44156",
-      "nazwisko_imie": "PIETRZAK Tomasz",
-      "tytul_kategoria": "K",
-      "rank_fide": "2082",
-      "klub": "MAT Myślenice",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "94",
+      "id": "95",
       "id_pzszach": "3483",
       "nazwisko_imie": "SUTOR Marek",
       "tytul_kategoria": "K",
@@ -849,7 +858,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "3416",
       "nazwisko_imie": "MARCOWSKI Tomasz",
       "tytul_kategoria": "I",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "5605",
       "nazwisko_imie": "BZOWSKI Błażej",
       "tytul_kategoria": "K",
@@ -867,21 +876,12 @@
       "wojewodztwo_zwiazek": "MP"
     },
     {
-      "id": "97",
+      "id": "98",
       "id_pzszach": "3223",
       "nazwisko_imie": "HAMUDA Mieczysław",
       "tytul_kategoria": "I",
       "rank_fide": "2072",
       "klub": "Szachownica Kłaj",
-      "wojewodztwo_zwiazek": "MP"
-    },
-    {
-      "id": "98",
-      "id_pzszach": "98167",
-      "nazwisko_imie": "BEDNAREK Jan",
-      "tytul_kategoria": "K",
-      "rank_fide": "2071",
-      "klub": "Gens Una Sumus Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
     {

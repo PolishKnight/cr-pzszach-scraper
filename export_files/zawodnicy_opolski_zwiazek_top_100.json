@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:40.089Z",
+  "createdAt": "2026-10-02T07:50:46.440Z",
   "totalRecords": 100,
   "data": [
     {
@@ -25,7 +25,7 @@
       "id_pzszach": "36952",
       "nazwisko_imie": "MIŚ Mieszko",
       "tytul_kategoria": "IM",
-      "rank_fide": "2415",
+      "rank_fide": "2418",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
@@ -52,7 +52,7 @@
       "id_pzszach": "56031",
       "nazwisko_imie": "NIEDBAŁA Bartłomiej",
       "tytul_kategoria": "IM",
-      "rank_fide": "2389",
+      "rank_fide": "2376",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
@@ -169,7 +169,7 @@
       "id_pzszach": "3672",
       "nazwisko_imie": "KRZYWDA Andrzej",
       "tytul_kategoria": "CM",
-      "rank_fide": "2206",
+      "rank_fide": "2191",
       "klub": "LZS VICTORIA Chróścice",
       "wojewodztwo_zwiazek": "OP"
     },
@@ -238,6 +238,15 @@
     },
     {
       "id": "27",
+      "id_pzszach": "3710",
+      "nazwisko_imie": "SZCZEŚNIAK Konrad",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2137",
+      "klub": "UKS Gekon Nysa",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "28",
       "id_pzszach": "3669",
       "nazwisko_imie": "KOWOLIK Krzysztof",
       "tytul_kategoria": "K",
@@ -246,7 +255,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "28",
+      "id": "29",
       "id_pzszach": "15729",
       "nazwisko_imie": "ADAMCZEWSKI Maciej",
       "tytul_kategoria": "K+",
@@ -255,21 +264,12 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "29",
+      "id": "30",
       "id_pzszach": "5818",
       "nazwisko_imie": "KOCWIN Bartosz",
       "tytul_kategoria": "FM",
       "rank_fide": "2118",
       "klub": "STRZELEC Strzelce Opolskie",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "30",
-      "id_pzszach": "3710",
-      "nazwisko_imie": "SZCZEŚNIAK Konrad",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2117",
-      "klub": "UKS Gekon Nysa",
       "wojewodztwo_zwiazek": "OP"
     },
     {
@@ -481,6 +481,15 @@
     },
     {
       "id": "54",
+      "id_pzszach": "3686",
+      "nazwisko_imie": "CHMIEL Dominika",
+      "tytul_kategoria": "M",
+      "rank_fide": "1973",
+      "klub": "LZS VICTORIA Chróścice",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "55",
       "id_pzszach": "3702",
       "nazwisko_imie": "SIEKANIEC Jan",
       "tytul_kategoria": "K",
@@ -489,7 +498,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "55",
+      "id": "56",
       "id_pzszach": "9659",
       "nazwisko_imie": "SZARATA Adrian",
       "tytul_kategoria": "I",
@@ -498,7 +507,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "56",
+      "id": "57",
       "id_pzszach": "50872",
       "nazwisko_imie": "TALIK Patryk",
       "tytul_kategoria": "I+",
@@ -507,7 +516,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "57",
+      "id": "58",
       "id_pzszach": "28959",
       "nazwisko_imie": "ADAMCZYK Zuzanna",
       "tytul_kategoria": "WCM",
@@ -516,7 +525,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "58",
+      "id": "59",
       "id_pzszach": "3559",
       "nazwisko_imie": "POPEK Jacek",
       "tytul_kategoria": "II+",
@@ -525,7 +534,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "59",
+      "id": "60",
       "id_pzszach": "3566",
       "nazwisko_imie": "SZYBKA Andrzej",
       "tytul_kategoria": "I++",
@@ -534,7 +543,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "60",
+      "id": "61",
       "id_pzszach": "2906",
       "nazwisko_imie": "POZNAŃSKA Katarzyna",
       "tytul_kategoria": "K++",
@@ -543,7 +552,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "61",
+      "id": "62",
       "id_pzszach": "3638",
       "nazwisko_imie": "DZIEDZIC Robert",
       "tytul_kategoria": "I",
@@ -552,7 +561,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "62",
+      "id": "63",
       "id_pzszach": "9386",
       "nazwisko_imie": "MARCHEWKA Jakub",
       "tytul_kategoria": "I",
@@ -561,7 +570,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "63",
+      "id": "64",
       "id_pzszach": "19539",
       "nazwisko_imie": "KUĆMIERZ Łukasz",
       "tytul_kategoria": "II",
@@ -570,7 +579,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "64",
+      "id": "65",
       "id_pzszach": "7944",
       "nazwisko_imie": "RUDZKI Maciej",
       "tytul_kategoria": "II",
@@ -579,7 +588,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "65",
+      "id": "66",
       "id_pzszach": "3709",
       "nazwisko_imie": "SZAJDA Marcin",
       "tytul_kategoria": "I++",
@@ -588,7 +597,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "66",
+      "id": "67",
       "id_pzszach": "3573",
       "nazwisko_imie": "KAMIŃSKI Leszek",
       "tytul_kategoria": "I",
@@ -597,7 +606,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "67",
+      "id": "68",
       "id_pzszach": "3714",
       "nazwisko_imie": "TABOŁA Marcin",
       "tytul_kategoria": "I++",
@@ -606,7 +615,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "68",
+      "id": "69",
       "id_pzszach": "3609",
       "nazwisko_imie": "MARCINKIEWICZ Piotr",
       "tytul_kategoria": "I",
@@ -615,7 +624,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "69",
+      "id": "70",
       "id_pzszach": "116261",
       "nazwisko_imie": "KOWALSKI Maciej",
       "tytul_kategoria": "I",
@@ -624,7 +633,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "70",
+      "id": "71",
       "id_pzszach": "7735",
       "nazwisko_imie": "GWOŹDZIK Zbigniew",
       "tytul_kategoria": "I",
@@ -633,7 +642,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "71",
+      "id": "72",
       "id_pzszach": "51935",
       "nazwisko_imie": "BEDNARCZYK Mateusz",
       "tytul_kategoria": "I",
@@ -642,7 +651,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "72",
+      "id": "73",
       "id_pzszach": "71069",
       "nazwisko_imie": "OGŁAZA Dawid",
       "tytul_kategoria": "I",
@@ -651,7 +660,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "73",
+      "id": "74",
       "id_pzszach": "5634",
       "nazwisko_imie": "CZEMPIEL Henryk",
       "tytul_kategoria": "I",
@@ -660,21 +669,12 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "74",
+      "id": "75",
       "id_pzszach": "3586",
       "nazwisko_imie": "KLIMEK Marcin",
       "tytul_kategoria": "I+",
       "rank_fide": "1932",
       "klub": "UKS RODŁO Opole",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "75",
-      "id_pzszach": "3686",
-      "nazwisko_imie": "CHMIEL Dominika",
-      "tytul_kategoria": "M",
-      "rank_fide": "1929",
-      "klub": "LZS VICTORIA Chróścice",
       "wojewodztwo_zwiazek": "OP"
     },
     {
@@ -805,6 +805,15 @@
     },
     {
       "id": "90",
+      "id_pzszach": "58173",
+      "nazwisko_imie": "KOCIERZ Paweł",
+      "tytul_kategoria": "I",
+      "rank_fide": "1894",
+      "klub": "UKS Gekon Nysa",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "91",
       "id_pzszach": "3623",
       "nazwisko_imie": "BOBOWSKA Joanna",
       "tytul_kategoria": "I+",
@@ -813,7 +822,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "91",
+      "id": "92",
       "id_pzszach": "3597",
       "nazwisko_imie": "JANKOWSKI Grzegorz",
       "tytul_kategoria": "I",
@@ -822,7 +831,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "92",
+      "id": "93",
       "id_pzszach": "12860",
       "nazwisko_imie": "WRÓBEL Maciej",
       "tytul_kategoria": "I++",
@@ -831,7 +840,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "93",
+      "id": "94",
       "id_pzszach": "3666",
       "nazwisko_imie": "KOCON Wiktor",
       "tytul_kategoria": "I+",
@@ -840,7 +849,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "94",
+      "id": "95",
       "id_pzszach": "3596",
       "nazwisko_imie": "BAZAN Szymon",
       "tytul_kategoria": "II",
@@ -849,21 +858,12 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "95",
+      "id": "96",
       "id_pzszach": "3549",
       "nazwisko_imie": "JEZIORSKA Iwona",
       "tytul_kategoria": "I",
       "rank_fide": "1876",
       "klub": "",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "96",
-      "id_pzszach": "30018",
-      "nazwisko_imie": "ORLIK Sandra",
-      "tytul_kategoria": "K",
-      "rank_fide": "1874",
-      "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
     {

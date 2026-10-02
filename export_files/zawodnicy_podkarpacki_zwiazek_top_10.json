@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:40.901Z",
+  "createdAt": "2026-10-02T07:50:47.319Z",
   "totalRecords": 10,
   "data": [
     {
@@ -13,15 +13,6 @@
     },
     {
       "id": "2",
-      "id_pzszach": "2736",
-      "nazwisko_imie": "KEMPIŃSKI Robert",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2513",
-      "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "3",
       "id_pzszach": "41665",
       "nazwisko_imie": "KAZAKOV Mikhail",
       "tytul_kategoria": "",
@@ -30,16 +21,34 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
+      "id": "3",
+      "id_pzszach": "2736",
+      "nazwisko_imie": "KEMPIŃSKI Robert",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2507",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
       "id": "4",
       "id_pzszach": "2019",
       "nazwisko_imie": "DZIUBA Marcin",
       "tytul_kategoria": "GM",
-      "rank_fide": "2503",
+      "rank_fide": "2505",
       "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
     {
       "id": "5",
+      "id_pzszach": "30627",
+      "nazwisko_imie": "FUS Jakub",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2455",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "6",
       "id_pzszach": "59641",
       "nazwisko_imie": "FIRMAN Nazar",
       "tytul_kategoria": "",
@@ -48,20 +57,11 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "6",
-      "id_pzszach": "30627",
-      "nazwisko_imie": "FUS Jakub",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2450",
-      "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
       "id": "7",
       "id_pzszach": "43029",
       "nazwisko_imie": "CZERNEK Tymon",
       "tytul_kategoria": "FM",
-      "rank_fide": "2413",
+      "rank_fide": "2419",
       "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
@@ -79,7 +79,7 @@
       "id_pzszach": "45824",
       "nazwisko_imie": "TURSKI Bartłomiej",
       "tytul_kategoria": "FM",
-      "rank_fide": "2397",
+      "rank_fide": "2402",
       "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
@@ -88,7 +88,7 @@
       "id_pzszach": "87285",
       "nazwisko_imie": "RADZIMSKI Antoni",
       "tytul_kategoria": "IM",
-      "rank_fide": "2386",
+      "rank_fide": "2392",
       "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     }

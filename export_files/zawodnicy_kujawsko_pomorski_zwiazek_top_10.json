@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:33.954Z",
+  "createdAt": "2026-10-02T07:50:39.823Z",
   "totalRecords": 10,
   "data": [
     {
@@ -25,26 +25,26 @@
       "id_pzszach": "4353",
       "nazwisko_imie": "NASUTA Grzegorz",
       "tytul_kategoria": "GM",
-      "rank_fide": "2483",
+      "rank_fide": "2487",
       "klub": "KS GWIAZDA Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {
       "id": "4",
-      "id_pzszach": "1343",
-      "nazwisko_imie": "BRODOWSKI Piotr",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2475",
-      "klub": "BKS CHEMIK Bydgoszcz",
-      "wojewodztwo_zwiazek": "KP"
-    },
-    {
-      "id": "5",
       "id_pzszach": "100547",
       "nazwisko_imie": "KASHLINSKAYA Alina",
       "tytul_kategoria": "IM",
       "rank_fide": "2474",
       "klub": "KS GWIAZDA Bydgoszcz",
+      "wojewodztwo_zwiazek": "KP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "1343",
+      "nazwisko_imie": "BRODOWSKI Piotr",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2466",
+      "klub": "BKS CHEMIK Bydgoszcz",
       "wojewodztwo_zwiazek": "KP"
     },
     {

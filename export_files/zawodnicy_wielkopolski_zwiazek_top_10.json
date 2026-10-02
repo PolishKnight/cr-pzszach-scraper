@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:47.026Z",
+  "createdAt": "2026-10-02T07:50:53.789Z",
   "totalRecords": 10,
   "data": [
     {
@@ -16,7 +16,7 @@
       "id_pzszach": "49896",
       "nazwisko_imie": "KACPRZAK Karol",
       "tytul_kategoria": "FM",
-      "rank_fide": "2425",
+      "rank_fide": "2417",
       "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     },
@@ -34,7 +34,7 @@
       "id_pzszach": "7192",
       "nazwisko_imie": "SIECIECHOWICZ Marcin",
       "tytul_kategoria": "IM",
-      "rank_fide": "2379",
+      "rank_fide": "2378",
       "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
@@ -67,6 +67,15 @@
     },
     {
       "id": "8",
+      "id_pzszach": "39962",
+      "nazwisko_imie": "PIEKIELNY Paweł",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2351",
+      "klub": "OTSz Ostrów Wielkopolski",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "9",
       "id_pzszach": "6976",
       "nazwisko_imie": "GRABOWSKI Andrzej",
       "tytul_kategoria": "M",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "7160",
       "nazwisko_imie": "PRZYBYLSKI Wojciech",
       "tytul_kategoria": "FM",
       "rank_fide": "2350",
       "klub": "KS KORONA Zakrzewo",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "49895",
-      "nazwisko_imie": "KACPRZAK Kacper",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2341",
-      "klub": "OTSz Ostrów Wielkopolski",
       "wojewodztwo_zwiazek": "WP"
     }
   ]

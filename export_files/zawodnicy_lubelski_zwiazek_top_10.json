@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:36.804Z",
+  "createdAt": "2026-10-02T07:50:42.799Z",
   "totalRecords": 10,
   "data": [
     {
@@ -40,19 +40,19 @@
     },
     {
       "id": "5",
-      "id_pzszach": "2071",
-      "nazwisko_imie": "ŁOBEJKO Rafał",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2300",
+      "id_pzszach": "2130",
+      "nazwisko_imie": "STOMA Paweł",
+      "tytul_kategoria": "M",
+      "rank_fide": "2290",
       "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },
     {
       "id": "6",
-      "id_pzszach": "2130",
-      "nazwisko_imie": "STOMA Paweł",
-      "tytul_kategoria": "M",
-      "rank_fide": "2286",
+      "id_pzszach": "2071",
+      "nazwisko_imie": "ŁOBEJKO Rafał",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2283",
       "klub": "LKSz Lublin",
       "wojewodztwo_zwiazek": "LU"
     },

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-01T08:09:37.697Z",
+  "createdAt": "2026-10-02T07:50:43.805Z",
   "totalRecords": 10,
   "data": [
     {
@@ -13,15 +13,6 @@
     },
     {
       "id": "2",
-      "id_pzszach": "2870",
-      "nazwisko_imie": "OLSZEWSKI Michał",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2509",
-      "klub": "KSz SKOCZEK TROJAŃSKI",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "3",
       "id_pzszach": "2580",
       "nazwisko_imie": "BLEHM Paweł",
       "tytul_kategoria": "GM",
@@ -30,11 +21,20 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
+      "id": "3",
+      "id_pzszach": "2870",
+      "nazwisko_imie": "OLSZEWSKI Michał",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2503",
+      "klub": "KSz SKOCZEK TROJAŃSKI",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
       "id": "4",
       "id_pzszach": "5739",
       "nazwisko_imie": "HEBERLA Bartłomiej",
       "tytul_kategoria": "GM",
-      "rank_fide": "2496",
+      "rank_fide": "2494",
       "klub": "KS LAURA Chylice",
       "wojewodztwo_zwiazek": "MA"
     },
@@ -49,6 +49,15 @@
     },
     {
       "id": "6",
+      "id_pzszach": "5807",
+      "nazwisko_imie": "KLEKOWSKI Maciej",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2470",
+      "klub": "ZUGZWANG Radom",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "7",
       "id_pzszach": "4006",
       "nazwisko_imie": "KUŹMICZ Krystian",
       "tytul_kategoria": "IM",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "5551",
       "nazwisko_imie": "ANTONIEWSKI Rafał",
       "tytul_kategoria": "GM",
@@ -66,7 +75,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "2009",
       "nazwisko_imie": "CYBOROWSKI Łukasz",
       "tytul_kategoria": "GM",
@@ -75,20 +84,11 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "9",
-      "id_pzszach": "26053",
-      "nazwisko_imie": "JARMUŁA Łukasz",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2408",
-      "klub": "KSz Hetman Płock",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
       "id": "10",
-      "id_pzszach": "34071",
-      "nazwisko_imie": "PACAN-MILEJ Kosma",
+      "id_pzszach": "506",
+      "nazwisko_imie": "CUKROWSKI Filip",
       "tytul_kategoria": "IM",
-      "rank_fide": "2407",
+      "rank_fide": "2401",
       "klub": "UKS SPARTA Białołęka",
       "wojewodztwo_zwiazek": "MA"
     }
