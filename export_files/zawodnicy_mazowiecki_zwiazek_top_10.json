@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-02T07:50:43.805Z",
+  "createdAt": "2026-10-03T07:27:26.032Z",
   "totalRecords": 10,
   "data": [
     {
@@ -35,11 +35,20 @@
       "nazwisko_imie": "HEBERLA Bartłomiej",
       "tytul_kategoria": "GM",
       "rank_fide": "2494",
-      "klub": "KS LAURA Chylice",
+      "klub": "UKS TWIERDZA Mokotów",
       "wojewodztwo_zwiazek": "MA"
     },
     {
       "id": "5",
+      "id_pzszach": "4353",
+      "nazwisko_imie": "NASUTA Grzegorz",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2487",
+      "klub": "UKS TWIERDZA Mokotów",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "6",
       "id_pzszach": "7465",
       "nazwisko_imie": "KANAREK Marcel",
       "tytul_kategoria": "GM",
@@ -48,7 +57,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "6",
+      "id": "7",
       "id_pzszach": "5807",
       "nazwisko_imie": "KLEKOWSKI Maciej",
       "tytul_kategoria": "GM",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "4006",
       "nazwisko_imie": "KUŹMICZ Krystian",
       "tytul_kategoria": "IM",
@@ -66,7 +75,7 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "5551",
       "nazwisko_imie": "ANTONIEWSKI Rafał",
       "tytul_kategoria": "GM",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "MA"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "2009",
       "nazwisko_imie": "CYBOROWSKI Łukasz",
       "tytul_kategoria": "GM",
       "rank_fide": "2440",
       "klub": "LKS WRZOS Międzyborów",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "506",
-      "nazwisko_imie": "CUKROWSKI Filip",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2401",
-      "klub": "UKS SPARTA Białołęka",
       "wojewodztwo_zwiazek": "MA"
     }
   ]
