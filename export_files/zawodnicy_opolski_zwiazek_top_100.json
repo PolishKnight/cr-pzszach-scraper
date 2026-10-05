@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-04T07:40:14.356Z",
+  "createdAt": "2026-10-05T08:07:22.028Z",
   "totalRecords": 100,
   "data": [
     {
@@ -850,6 +850,15 @@
     },
     {
       "id": "95",
+      "id_pzszach": "50392",
+      "nazwisko_imie": "KOPESTYŃSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1880",
+      "klub": "KS Feniks Brzeg",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "96",
       "id_pzszach": "3596",
       "nazwisko_imie": "BAZAN Szymon",
       "tytul_kategoria": "II",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "3549",
       "nazwisko_imie": "JEZIORSKA Iwona",
       "tytul_kategoria": "I",
@@ -867,7 +876,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "97",
+      "id": "98",
       "id_pzszach": "3556",
       "nazwisko_imie": "PILARSKI Dawid",
       "tytul_kategoria": "II",
@@ -876,7 +885,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "98",
+      "id": "99",
       "id_pzszach": "3707",
       "nazwisko_imie": "STRZĘP Marek",
       "tytul_kategoria": "I",
@@ -885,21 +894,12 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "99",
+      "id": "100",
       "id_pzszach": "3695",
       "nazwisko_imie": "PRANDZIOCH Dorota",
       "tytul_kategoria": "I",
       "rank_fide": "1872",
       "klub": "UKS RODŁO Opole",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "3712",
-      "nazwisko_imie": "SZYMAŃSKI Zbigniew",
-      "tytul_kategoria": "I",
-      "rank_fide": "1869",
-      "klub": "",
       "wojewodztwo_zwiazek": "OP"
     }
   ]
