@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-05T08:07:05.906Z",
+  "createdAt": "2026-10-06T08:26:33.254Z",
   "totalRecords": 500,
   "data": [
     {
@@ -1682,8 +1682,8 @@
       "nazwisko_imie": "ALIAUDZIN Mikołaj",
       "tytul_kategoria": "IM",
       "rank_fide": "2352",
-      "klub": "UKSz SKOCZEK Choszczno",
-      "wojewodztwo_zwiazek": "ZP"
+      "klub": "HARCOWNIK Zielona Góra",
+      "wojewodztwo_zwiazek": "LB"
     },
     {
       "id": "188",
@@ -2598,7 +2598,7 @@
       "id": "289",
       "id_pzszach": "66406",
       "nazwisko_imie": "KŁYS Kacper",
-      "tytul_kategoria": "CM",
+      "tytul_kategoria": "FM",
       "rank_fide": "2306",
       "klub": "MUKS MDK Śródmieście Wrocław",
       "wojewodztwo_zwiazek": "DS"
@@ -2715,7 +2715,7 @@
       "id": "302",
       "id_pzszach": "95912",
       "nazwisko_imie": "MROZOWSKI Nikodem",
-      "tytul_kategoria": "K",
+      "tytul_kategoria": "FM",
       "rank_fide": "2304",
       "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
@@ -3579,7 +3579,7 @@
       "id": "398",
       "id_pzszach": "80899",
       "nazwisko_imie": "HAŁADAJ Adam",
-      "tytul_kategoria": "I++",
+      "tytul_kategoria": "CM",
       "rank_fide": "2268",
       "klub": "UKS JEDYNKA Bełchatów",
       "wojewodztwo_zwiazek": "LD"

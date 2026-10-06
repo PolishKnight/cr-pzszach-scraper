@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-05T08:07:25.272Z",
+  "createdAt": "2026-10-06T08:26:51.469Z",
   "totalRecords": 100,
   "data": [
     {
@@ -850,6 +850,15 @@
     },
     {
       "id": "95",
+      "id_pzszach": "4874",
+      "nazwisko_imie": "WALKUSZ Witosław",
+      "tytul_kategoria": "FM",
+      "rank_fide": "1996",
+      "klub": "KSz Biało-Czarni Bolszewo",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "96",
       "id_pzszach": "1204",
       "nazwisko_imie": "WINDORPSKI Jacek",
       "tytul_kategoria": "I",
@@ -858,7 +867,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "96",
+      "id": "97",
       "id_pzszach": "6383",
       "nazwisko_imie": "DEMIANOWICZ Maciej",
       "tytul_kategoria": "I",
@@ -867,7 +876,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "97",
+      "id": "98",
       "id_pzszach": "7316",
       "nazwisko_imie": "FRANCKOWSKI Janusz",
       "tytul_kategoria": "I",
@@ -876,7 +885,7 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "98",
+      "id": "99",
       "id_pzszach": "77448",
       "nazwisko_imie": "BRUDZYŃSKI Wojciech",
       "tytul_kategoria": "I++",
@@ -885,21 +894,12 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "99",
+      "id": "100",
       "id_pzszach": "4658",
       "nazwisko_imie": "CZAPIEWSKA Izabela",
       "tytul_kategoria": "K",
       "rank_fide": "1991",
       "klub": "UKS JANTAR Pruszcz Gdański",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "4890",
-      "nazwisko_imie": "WRZESINSKI Bartosz",
-      "tytul_kategoria": "I",
-      "rank_fide": "1991",
-      "klub": "UKS GEDANENSIS Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-05T08:07:30.995Z",
+  "createdAt": "2026-10-06T08:26:56.686Z",
   "totalRecords": 10,
   "data": [
     {
@@ -31,15 +31,6 @@
     },
     {
       "id": "4",
-      "id_pzszach": "50017",
-      "nazwisko_imie": "ALIAUDZIN Mikołaj",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2352",
-      "klub": "UKSz SKOCZEK Choszczno",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "5",
       "id_pzszach": "7495",
       "nazwisko_imie": "MAŚLANKA Robert",
       "tytul_kategoria": "K",
@@ -48,7 +39,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "6",
+      "id": "5",
       "id_pzszach": "7480",
       "nazwisko_imie": "KULA Robert",
       "tytul_kategoria": "FM",
@@ -57,7 +48,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "7",
+      "id": "6",
       "id_pzszach": "7427",
       "nazwisko_imie": "CHOCHULSKI Artur",
       "tytul_kategoria": "K",
@@ -66,7 +57,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "8",
+      "id": "7",
       "id_pzszach": "1402",
       "nazwisko_imie": "MICHALSKI Olaf",
       "tytul_kategoria": "FM",
@@ -75,7 +66,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "9",
+      "id": "8",
       "id_pzszach": "82988",
       "nazwisko_imie": "ZARĘBA Piotr",
       "tytul_kategoria": "CM",
@@ -84,12 +75,21 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "10",
+      "id": "9",
       "id_pzszach": "7498",
       "nazwisko_imie": "MATUSIAK Janusz",
       "tytul_kategoria": "K",
       "rank_fide": "2235",
       "klub": "KSz HETMAN Koszalin",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "93939",
+      "nazwisko_imie": "GBIORCZYK Mikołaj",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2206",
+      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     }
   ]
