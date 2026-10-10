@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-09T08:20:09.467Z",
+  "createdAt": "2026-10-10T07:59:27.236Z",
   "totalRecords": 500,
   "data": [
     {
@@ -4301,7 +4301,7 @@
       "nazwisko_imie": "ŻELAK Władysław",
       "tytul_kategoria": "I",
       "rank_fide": "1908",
-      "klub": "",
+      "klub": "UKS CAISSA Warszawa",
       "wojewodztwo_zwiazek": "MA"
     },
     {
@@ -4486,20 +4486,20 @@
     },
     {
       "id": "499",
+      "id_pzszach": "18246",
+      "nazwisko_imie": "BINKOWSKA Agata",
+      "tytul_kategoria": "K+",
+      "rank_fide": "1897",
+      "klub": "KSz ZUGZWANG Warszawa",
+      "wojewodztwo_zwiazek": "MA"
+    },
+    {
+      "id": "500",
       "id_pzszach": "27341",
       "nazwisko_imie": "LESZCZYŃSKI Bartosz",
       "tytul_kategoria": "I+",
       "rank_fide": "1897",
       "klub": "",
-      "wojewodztwo_zwiazek": "MA"
-    },
-    {
-      "id": "500",
-      "id_pzszach": "2728",
-      "nazwisko_imie": "KANIAK Monika",
-      "tytul_kategoria": "K",
-      "rank_fide": "1896",
-      "klub": "FWCI KS Mogalo Warszawa",
       "wojewodztwo_zwiazek": "MA"
     }
   ]

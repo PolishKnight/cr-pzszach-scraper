@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-09T08:20:08.000Z",
+  "createdAt": "2026-10-10T07:59:25.534Z",
   "totalRecords": 500,
   "data": [
     {
@@ -4423,6 +4423,15 @@
     },
     {
       "id": "492",
+      "id_pzszach": "164109",
+      "nazwisko_imie": "CZUPRYNIAK Łukasz",
+      "tytul_kategoria": "IV",
+      "rank_fide": "1413",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "493",
       "id_pzszach": "51873",
       "nazwisko_imie": "PLACEK Artur",
       "tytul_kategoria": "III",
@@ -4431,7 +4440,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "493",
+      "id": "494",
       "id_pzszach": "139503",
       "nazwisko_imie": "SOŁTYSIAK Igor",
       "tytul_kategoria": "II",
@@ -4440,7 +4449,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "494",
+      "id": "495",
       "id_pzszach": "58015",
       "nazwisko_imie": "SZCZEPANIK Magdalena",
       "tytul_kategoria": "II",
@@ -4449,7 +4458,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "495",
+      "id": "496",
       "id_pzszach": "95611",
       "nazwisko_imie": "BARTOS Aleksander",
       "tytul_kategoria": "III",
@@ -4458,7 +4467,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "496",
+      "id": "497",
       "id_pzszach": "41345",
       "nazwisko_imie": "JAJCZAK KATARZYNA",
       "tytul_kategoria": "II",
@@ -4467,7 +4476,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "497",
+      "id": "498",
       "id_pzszach": "81060",
       "nazwisko_imie": "MIŁAK Bartosz",
       "tytul_kategoria": "III",
@@ -4476,7 +4485,7 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "498",
+      "id": "499",
       "id_pzszach": "132239",
       "nazwisko_imie": "BŁASZCZYK Mateusz",
       "tytul_kategoria": "III",
@@ -4485,18 +4494,9 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "499",
+      "id": "500",
       "id_pzszach": "59407",
       "nazwisko_imie": "DUMIN Monika",
-      "tytul_kategoria": "II",
-      "rank_fide": "1404",
-      "klub": "UKS JEDYNKA Bełchatów",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "500",
-      "id_pzszach": "74159",
-      "nazwisko_imie": "KRUSZEWSKA Małgorzata",
       "tytul_kategoria": "II",
       "rank_fide": "1404",
       "klub": "UKS JEDYNKA Bełchatów",
