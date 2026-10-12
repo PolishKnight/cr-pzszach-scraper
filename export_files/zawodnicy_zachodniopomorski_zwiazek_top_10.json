@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-11T08:09:52.726Z",
+  "createdAt": "2026-10-12T08:26:37.016Z",
   "totalRecords": 10,
   "data": [
     {
@@ -49,6 +49,15 @@
     },
     {
       "id": "6",
+      "id_pzszach": "17650",
+      "nazwisko_imie": "ANTOLAK Julia",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2283",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "7",
       "id_pzszach": "7427",
       "nazwisko_imie": "CHOCHULSKI Artur",
       "tytul_kategoria": "K",
@@ -57,7 +66,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "7",
+      "id": "8",
       "id_pzszach": "1402",
       "nazwisko_imie": "MICHALSKI Olaf",
       "tytul_kategoria": "FM",
@@ -66,7 +75,7 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "8",
+      "id": "9",
       "id_pzszach": "82988",
       "nazwisko_imie": "ZARĘBA Piotr",
       "tytul_kategoria": "CM",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "ZP"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "7498",
       "nazwisko_imie": "MATUSIAK Janusz",
       "tytul_kategoria": "K",
       "rank_fide": "2235",
       "klub": "KSz HETMAN Koszalin",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "93939",
-      "nazwisko_imie": "GBIORCZYK Mikołaj",
-      "tytul_kategoria": "CM",
-      "rank_fide": "2206",
-      "klub": "KSz Gryf Szczecin",
       "wojewodztwo_zwiazek": "ZP"
     }
   ]

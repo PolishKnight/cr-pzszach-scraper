@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-11T08:09:45.296Z",
+  "createdAt": "2026-10-12T08:26:29.339Z",
   "totalRecords": 100,
   "data": [
     {
@@ -841,15 +841,6 @@
     },
     {
       "id": "94",
-      "id_pzszach": "128260",
-      "nazwisko_imie": "SIENNICKI Ludwik",
-      "tytul_kategoria": "K",
-      "rank_fide": "2046",
-      "klub": "KSz. Czarno na Białym Iwonicz-Zdrój",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
-      "id": "95",
       "id_pzszach": "3964",
       "nazwisko_imie": "JAMRÓZ Grzegorz",
       "tytul_kategoria": "I+",
@@ -858,7 +849,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "96",
+      "id": "95",
       "id_pzszach": "3778",
       "nazwisko_imie": "BEŁZO Łukasz",
       "tytul_kategoria": "I",
@@ -867,7 +858,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "97",
+      "id": "96",
       "id_pzszach": "3820",
       "nazwisko_imie": "SZELC Adam",
       "tytul_kategoria": "I++",
@@ -876,7 +867,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "98",
+      "id": "97",
       "id_pzszach": "97613",
       "nazwisko_imie": "RABIEJ Mateusz",
       "tytul_kategoria": "I++",
@@ -885,7 +876,7 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "99",
+      "id": "98",
       "id_pzszach": "4019",
       "nazwisko_imie": "LORENC Marian",
       "tytul_kategoria": "K",
@@ -894,10 +885,19 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "100",
+      "id": "99",
       "id_pzszach": "3985",
       "nazwisko_imie": "KOBAK Jakub",
       "tytul_kategoria": "I",
+      "rank_fide": "2037",
+      "klub": "",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "100",
+      "id_pzszach": "4041",
+      "nazwisko_imie": "NALEPA Czesław",
+      "tytul_kategoria": "I++",
       "rank_fide": "2037",
       "klub": "",
       "wojewodztwo_zwiazek": "PK"
