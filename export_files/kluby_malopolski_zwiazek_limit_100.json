@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-10-14T06:59:54.378Z",
-  "totalRecords": 52,
+  "createdAt": "2026-10-15T06:51:03.075Z",
+  "totalRecords": 53,
   "data": [
     {
       "id": "1",
@@ -484,6 +484,16 @@
     },
     {
       "id": "49",
+      "nr_pzszach": "1036/MP",
+      "nazwa": "UKS Szkoła Rajska Kraków",
+      "miasto": "Kraków",
+      "licencja": "06100063",
+      "wojewodztwo_zwiazek": "MP",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "50",
       "nr_pzszach": "876/MP",
       "nazwa": "ULKS LIPINKI",
       "miasto": "Lipinki",
@@ -493,7 +503,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "50",
+      "id": "51",
       "nr_pzszach": "1093/MP",
       "nazwa": "Akademia Szachowa OPP Andrychów",
       "miasto": "Andrychów",
@@ -503,7 +513,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "51",
+      "id": "52",
       "nr_pzszach": "301/MP",
       "nazwa": "UKS przy SP 8 Chrzanów",
       "miasto": "Chrzanów",
@@ -513,7 +523,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "52",
+      "id": "53",
       "nr_pzszach": "922/MP",
       "nazwa": "WKS Uran Łukowica",
       "miasto": "Łukowica",
