@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-17T06:27:43.694Z",
+  "createdAt": "2026-10-18T06:52:50.431Z",
   "totalRecords": 500,
   "data": [
     {
@@ -4477,6 +4477,15 @@
     },
     {
       "id": "498",
+      "id_pzszach": "165331",
+      "nazwisko_imie": "OLCESE Roman",
+      "tytul_kategoria": "",
+      "rank_fide": "1407",
+      "klub": "",
+      "wojewodztwo_zwiazek": "LD"
+    },
+    {
+      "id": "499",
       "id_pzszach": "81060",
       "nazwisko_imie": "MIŁAK Bartosz",
       "tytul_kategoria": "III",
@@ -4485,21 +4494,12 @@
       "wojewodztwo_zwiazek": "LD"
     },
     {
-      "id": "499",
+      "id": "500",
       "id_pzszach": "132239",
       "nazwisko_imie": "BŁASZCZYK Mateusz",
       "tytul_kategoria": "III",
       "rank_fide": "1405",
       "klub": "UKS PAŁAC Nieborów",
-      "wojewodztwo_zwiazek": "LD"
-    },
-    {
-      "id": "500",
-      "id_pzszach": "59407",
-      "nazwisko_imie": "DUMIN Monika",
-      "tytul_kategoria": "II",
-      "rank_fide": "1404",
-      "klub": "UKS JEDYNKA Bełchatów",
       "wojewodztwo_zwiazek": "LD"
     }
   ]
