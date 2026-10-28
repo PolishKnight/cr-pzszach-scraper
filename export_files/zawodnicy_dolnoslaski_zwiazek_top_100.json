@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-27T07:11:06.911Z",
+  "createdAt": "2026-10-28T07:49:51.260Z",
   "totalRecords": 100,
   "data": [
     {
@@ -886,20 +886,20 @@
     },
     {
       "id": "99",
+      "id_pzszach": "110673",
+      "nazwisko_imie": "ACHYNOVYCH Oleh",
+      "tytul_kategoria": "CM",
+      "rank_fide": "2212",
+      "klub": "GLKS Goniec Żarów",
+      "wojewodztwo_zwiazek": "DS"
+    },
+    {
+      "id": "100",
       "id_pzszach": "219",
       "nazwisko_imie": "KANTANE Anna",
       "tytul_kategoria": "WIM",
       "rank_fide": "2210",
       "klub": "KSz Polonia Wrocław",
-      "wojewodztwo_zwiazek": "DS"
-    },
-    {
-      "id": "100",
-      "id_pzszach": "225",
-      "nazwisko_imie": "JANOCHA Wiesław",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2210",
-      "klub": "MUKS MDK Śródmieście Wrocław",
       "wojewodztwo_zwiazek": "DS"
     }
   ]
