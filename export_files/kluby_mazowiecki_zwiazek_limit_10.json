@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-10-29T07:55:14.662Z",
+  "createdAt": "2026-10-30T07:58:02.958Z",
   "totalRecords": 10,
   "data": [
     {
@@ -34,6 +34,16 @@
     },
     {
       "id": "4",
+      "nr_pzszach": "1137/MA",
+      "nazwa": "Fundacja DMS Nowy Dwór Mazowiecki",
+      "miasto": "Nowy Dwór Mazowiecki",
+      "licencja": "07100112",
+      "wojewodztwo_zwiazek": "MA",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "5",
       "nr_pzszach": "909/MA",
       "nazwa": "Groteka",
       "miasto": "Warszawa",
@@ -43,7 +53,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "5",
+      "id": "6",
       "nr_pzszach": "1057/MA",
       "nazwa": "Fundacja Inicjatyw Niebanalnych",
       "miasto": "Warszawa",
@@ -53,7 +63,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "6",
+      "id": "7",
       "nr_pzszach": "1054/MA",
       "nazwa": "VOLAT",
       "miasto": "Warszawa",
@@ -63,7 +73,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "7",
+      "id": "8",
       "nr_pzszach": "1081/MA",
       "nazwa": "Legia Warszawa",
       "miasto": "Warszawa",
@@ -73,7 +83,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "8",
+      "id": "9",
       "nr_pzszach": "568/MA",
       "nazwa": "Fundacja Szachowa Warszawa",
       "miasto": "Warszawa",
@@ -83,7 +93,7 @@
       "oplata_roczna": ""
     },
     {
-      "id": "9",
+      "id": "10",
       "nr_pzszach": "980/MA",
       "nazwa": "Fundacja Szachy w Szkołach",
       "miasto": "Warszawa",
@@ -91,16 +101,6 @@
       "wojewodztwo_zwiazek": "MA",
       "typ_czlonka": "Członek zwyczajny",
       "oplata_roczna": ""
-    },
-    {
-      "id": "10",
-      "nr_pzszach": "1055/MA",
-      "nazwa": "Szansa",
-      "miasto": "Warszawa",
-      "licencja": "07100108",
-      "wojewodztwo_zwiazek": "MA",
-      "typ_czlonka": "Członek zwyczajny",
-      "oplata_roczna": "400.00 PLN"
     }
   ]
 }
