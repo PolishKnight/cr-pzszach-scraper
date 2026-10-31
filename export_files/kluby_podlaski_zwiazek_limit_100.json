@@ -1,6 +1,6 @@
 {
-  "createdAt": "2026-10-30T07:58:07.009Z",
-  "totalRecords": 16,
+  "createdAt": "2026-10-31T07:53:22.226Z",
+  "totalRecords": 17,
   "data": [
     {
       "id": "1",
@@ -144,6 +144,16 @@
     },
     {
       "id": "15",
+      "nr_pzszach": "1138/PL",
+      "nazwa": "ArtefacumGames",
+      "miasto": "Białystok",
+      "licencja": "101000027",
+      "wojewodztwo_zwiazek": "PL",
+      "typ_czlonka": "Członek zwyczajny",
+      "oplata_roczna": ""
+    },
+    {
+      "id": "16",
       "nr_pzszach": "1090/PL",
       "nazwa": "UKS Augustovia Augustów",
       "miasto": "Augustów",
@@ -153,7 +163,7 @@
       "oplata_roczna": "400.00 PLN"
     },
     {
-      "id": "16",
+      "id": "17",
       "nr_pzszach": "006/PL",
       "nazwa": "UKS ŻAK Łomża",
       "miasto": "Łomża",
