@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-11-01T08:34:55.765Z",
+  "createdAt": "2026-11-02T08:44:27.565Z",
   "totalRecords": 10,
   "data": [
     {
@@ -22,6 +22,15 @@
     },
     {
       "id": "3",
+      "id_pzszach": "2019",
+      "nazwisko_imie": "DZIUBA Marcin",
+      "tytul_kategoria": "GM",
+      "rank_fide": "2507",
+      "klub": "KSz OZ Rzeszów",
+      "wojewodztwo_zwiazek": "PK"
+    },
+    {
+      "id": "4",
       "id_pzszach": "2736",
       "nazwisko_imie": "KEMPIŃSKI Robert",
       "tytul_kategoria": "GM",
@@ -30,20 +39,11 @@
       "wojewodztwo_zwiazek": "PK"
     },
     {
-      "id": "4",
-      "id_pzszach": "2019",
-      "nazwisko_imie": "DZIUBA Marcin",
-      "tytul_kategoria": "GM",
-      "rank_fide": "2505",
-      "klub": "KSz OZ Rzeszów",
-      "wojewodztwo_zwiazek": "PK"
-    },
-    {
       "id": "5",
       "id_pzszach": "30627",
       "nazwisko_imie": "FUS Jakub",
       "tytul_kategoria": "IM",
-      "rank_fide": "2455",
+      "rank_fide": "2452",
       "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },
@@ -61,7 +61,7 @@
       "id_pzszach": "43029",
       "nazwisko_imie": "CZERNEK Tymon",
       "tytul_kategoria": "FM",
-      "rank_fide": "2419",
+      "rank_fide": "2432",
       "klub": "LKSz GCKiP Czarna",
       "wojewodztwo_zwiazek": "PK"
     },
@@ -70,7 +70,7 @@
       "id_pzszach": "68423",
       "nazwisko_imie": "ZIELONKA Adam",
       "tytul_kategoria": "IM",
-      "rank_fide": "2411",
+      "rank_fide": "2406",
       "klub": "KSz OZ Rzeszów",
       "wojewodztwo_zwiazek": "PK"
     },

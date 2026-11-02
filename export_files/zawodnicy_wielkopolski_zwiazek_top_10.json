@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-11-01T08:35:01.597Z",
+  "createdAt": "2026-11-02T08:44:33.809Z",
   "totalRecords": 10,
   "data": [
     {
@@ -22,19 +22,19 @@
     },
     {
       "id": "3",
-      "id_pzszach": "7283",
-      "nazwisko_imie": "WODA Jacek",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2383",
+      "id_pzszach": "7192",
+      "nazwisko_imie": "SIECIECHOWICZ Marcin",
+      "tytul_kategoria": "IM",
+      "rank_fide": "2387",
       "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
     {
       "id": "4",
-      "id_pzszach": "7192",
-      "nazwisko_imie": "SIECIECHOWICZ Marcin",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2378",
+      "id_pzszach": "7283",
+      "nazwisko_imie": "WODA Jacek",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2383",
       "klub": "KSz LECH-WSUS Poznań",
       "wojewodztwo_zwiazek": "WP"
     },
@@ -67,6 +67,15 @@
     },
     {
       "id": "8",
+      "id_pzszach": "7160",
+      "nazwisko_imie": "PRZYBYLSKI Wojciech",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2358",
+      "klub": "KS KORONA Zakrzewo",
+      "wojewodztwo_zwiazek": "WP"
+    },
+    {
+      "id": "9",
       "id_pzszach": "39962",
       "nazwisko_imie": "PIEKIELNY Paweł",
       "tytul_kategoria": "IM",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "WP"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "6976",
       "nazwisko_imie": "GRABOWSKI Andrzej",
       "tytul_kategoria": "M",
       "rank_fide": "2350",
       "klub": "",
-      "wojewodztwo_zwiazek": "WP"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "7160",
-      "nazwisko_imie": "PRZYBYLSKI Wojciech",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2350",
-      "klub": "KS KORONA Zakrzewo",
       "wojewodztwo_zwiazek": "WP"
     }
   ]

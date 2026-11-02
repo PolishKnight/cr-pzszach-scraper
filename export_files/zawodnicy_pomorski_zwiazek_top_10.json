@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-11-01T08:34:58.028Z",
+  "createdAt": "2026-11-02T08:44:30.021Z",
   "totalRecords": 10,
   "data": [
     {
@@ -67,6 +67,15 @@
     },
     {
       "id": "8",
+      "id_pzszach": "949",
+      "nazwisko_imie": "GRABOWSKI Paweł",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2292",
+      "klub": "UKS ALFIL Gniew",
+      "wojewodztwo_zwiazek": "PO"
+    },
+    {
+      "id": "9",
       "id_pzszach": "1166",
       "nazwisko_imie": "SZCZEPIŃSKI Michał",
       "tytul_kategoria": "FM",
@@ -75,21 +84,12 @@
       "wojewodztwo_zwiazek": "PO"
     },
     {
-      "id": "9",
+      "id": "10",
       "id_pzszach": "71658",
       "nazwisko_imie": "LIŚKIEWICZ Jakub",
       "tytul_kategoria": "FM",
       "rank_fide": "2291",
       "klub": "UKS GEDANENSIS Gdańsk",
-      "wojewodztwo_zwiazek": "PO"
-    },
-    {
-      "id": "10",
-      "id_pzszach": "4663",
-      "nazwisko_imie": "DŁUGOSZ Jędrzej",
-      "tytul_kategoria": "M",
-      "rank_fide": "2285",
-      "klub": "UKS KORONA Gdańsk",
       "wojewodztwo_zwiazek": "PO"
     }
   ]

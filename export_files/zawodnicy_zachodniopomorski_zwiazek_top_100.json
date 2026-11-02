@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-11-01T08:35:03.498Z",
+  "createdAt": "2026-11-02T08:44:35.436Z",
   "totalRecords": 100,
   "data": [
     {
@@ -7,7 +7,7 @@
       "id_pzszach": "44526",
       "nazwisko_imie": "ŁUCZAK Filip",
       "tytul_kategoria": "FM",
-      "rank_fide": "2385",
+      "rank_fide": "2405",
       "klub": "KSz HETMAN Koszalin",
       "wojewodztwo_zwiazek": "ZP"
     },
@@ -40,20 +40,20 @@
     },
     {
       "id": "5",
+      "id_pzszach": "17650",
+      "nazwisko_imie": "ANTOLAK Julia",
+      "tytul_kategoria": "WGM",
+      "rank_fide": "2292",
+      "klub": "GKSz SOLNY Grzybowo",
+      "wojewodztwo_zwiazek": "ZP"
+    },
+    {
+      "id": "6",
       "id_pzszach": "7480",
       "nazwisko_imie": "KULA Robert",
       "tytul_kategoria": "FM",
       "rank_fide": "2284",
       "klub": "",
-      "wojewodztwo_zwiazek": "ZP"
-    },
-    {
-      "id": "6",
-      "id_pzszach": "17650",
-      "nazwisko_imie": "ANTOLAK Julia",
-      "tytul_kategoria": "WGM",
-      "rank_fide": "2283",
-      "klub": "GKSz SOLNY Grzybowo",
       "wojewodztwo_zwiazek": "ZP"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-11-01T08:35:00.840Z",
+  "createdAt": "2026-11-02T08:44:33.041Z",
   "totalRecords": 100,
   "data": [
     {
@@ -25,7 +25,7 @@
       "id_pzszach": "77433",
       "nazwisko_imie": "MURAWSKI Jan",
       "tytul_kategoria": "V",
-      "rank_fide": "2307",
+      "rank_fide": "2300",
       "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },
@@ -214,7 +214,7 @@
       "id_pzszach": "6349",
       "nazwisko_imie": "BARTOSZEWSKI Marcin",
       "tytul_kategoria": "K",
-      "rank_fide": "2144",
+      "rank_fide": "2148",
       "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },
@@ -400,15 +400,6 @@
     },
     {
       "id": "45",
-      "id_pzszach": "61930",
-      "nazwisko_imie": "WARCABA Jakub",
-      "tytul_kategoria": "I+",
-      "rank_fide": "2048",
-      "klub": "",
-      "wojewodztwo_zwiazek": "WM"
-    },
-    {
-      "id": "46",
       "id_pzszach": "6528",
       "nazwisko_imie": "SŁAWIŃSKI Mirosław",
       "tytul_kategoria": "K",
@@ -417,7 +408,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "47",
+      "id": "46",
       "id_pzszach": "6458",
       "nazwisko_imie": "MALCZYK Radosław",
       "tytul_kategoria": "K",
@@ -426,16 +417,16 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "48",
-      "id_pzszach": "87461",
-      "nazwisko_imie": "Krasowski Tomasz",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2038",
-      "klub": "UKS Skoczek Elbląg",
+      "id": "47",
+      "id_pzszach": "61930",
+      "nazwisko_imie": "WARCABA Jakub",
+      "tytul_kategoria": "I+",
+      "rank_fide": "2039",
+      "klub": "",
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "49",
+      "id": "48",
       "id_pzszach": "6377",
       "nazwisko_imie": "CZAUS Piotr",
       "tytul_kategoria": "I+",
@@ -444,7 +435,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "50",
+      "id": "49",
       "id_pzszach": "970",
       "nazwisko_imie": "HORODYSKI Roman",
       "tytul_kategoria": "K",
@@ -453,7 +444,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "51",
+      "id": "50",
       "id_pzszach": "6489",
       "nazwisko_imie": "PLESIUK Andrzej",
       "tytul_kategoria": "CM",
@@ -462,7 +453,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "52",
+      "id": "51",
       "id_pzszach": "6453",
       "nazwisko_imie": "SADOWSKA Angelika",
       "tytul_kategoria": "K",
@@ -471,7 +462,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "53",
+      "id": "52",
       "id_pzszach": "6448",
       "nazwisko_imie": "LISOWSKI Krzysztof",
       "tytul_kategoria": "K",
@@ -480,7 +471,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "54",
+      "id": "53",
       "id_pzszach": "84716",
       "nazwisko_imie": "KOPACKI Aleksander",
       "tytul_kategoria": "I+",
@@ -489,7 +480,7 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "55",
+      "id": "54",
       "id_pzszach": "6416",
       "nazwisko_imie": "KAŹMIERCZAK Marcin",
       "tytul_kategoria": "I",
@@ -498,12 +489,21 @@
       "wojewodztwo_zwiazek": "WM"
     },
     {
-      "id": "56",
+      "id": "55",
       "id_pzszach": "6356",
       "nazwisko_imie": "BORKOWSKI Marek",
       "tytul_kategoria": "I",
       "rank_fide": "2018",
       "klub": "",
+      "wojewodztwo_zwiazek": "WM"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "87461",
+      "nazwisko_imie": "Krasowski Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2017",
+      "klub": "UKS Skoczek Elbląg",
       "wojewodztwo_zwiazek": "WM"
     },
     {

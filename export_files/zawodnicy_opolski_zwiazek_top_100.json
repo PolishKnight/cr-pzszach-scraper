@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-11-01T08:34:55.029Z",
+  "createdAt": "2026-11-02T08:44:26.740Z",
   "totalRecords": 100,
   "data": [
     {
@@ -25,7 +25,7 @@
       "id_pzszach": "36952",
       "nazwisko_imie": "MIŚ Mieszko",
       "tytul_kategoria": "IM",
-      "rank_fide": "2418",
+      "rank_fide": "2414",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
@@ -34,7 +34,7 @@
       "id_pzszach": "9846",
       "nazwisko_imie": "KOVALEV Andrei",
       "tytul_kategoria": "GM",
-      "rank_fide": "2402",
+      "rank_fide": "2394",
       "klub": "",
       "wojewodztwo_zwiazek": "OP"
     },
@@ -52,7 +52,7 @@
       "id_pzszach": "56031",
       "nazwisko_imie": "NIEDBAŁA Bartłomiej",
       "tytul_kategoria": "IM",
-      "rank_fide": "2376",
+      "rank_fide": "2374",
       "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
@@ -169,21 +169,12 @@
       "id_pzszach": "3672",
       "nazwisko_imie": "KRZYWDA Andrzej",
       "tytul_kategoria": "CM",
-      "rank_fide": "2191",
+      "rank_fide": "2182",
       "klub": "KS Feniks Brzeg",
       "wojewodztwo_zwiazek": "OP"
     },
     {
       "id": "20",
-      "id_pzszach": "3618",
-      "nazwisko_imie": "BANASIK Krzysztof",
-      "tytul_kategoria": "FM",
-      "rank_fide": "2163",
-      "klub": "LKS ZARZEWIE Prudnik",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "21",
       "id_pzszach": "33531",
       "nazwisko_imie": "HASTEROK Mateusz",
       "tytul_kategoria": "K",
@@ -192,7 +183,7 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "22",
+      "id": "21",
       "id_pzszach": "3679",
       "nazwisko_imie": "LUDWIKOWSKI Dariusz",
       "tytul_kategoria": "FM",
@@ -201,12 +192,21 @@
       "wojewodztwo_zwiazek": "OP"
     },
     {
-      "id": "23",
+      "id": "22",
       "id_pzszach": "3683",
       "nazwisko_imie": "MEINERT Tomasz",
       "tytul_kategoria": "K",
       "rank_fide": "2159",
       "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "3618",
+      "nazwisko_imie": "BANASIK Krzysztof",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2155",
+      "klub": "LKS ZARZEWIE Prudnik",
       "wojewodztwo_zwiazek": "OP"
     },
     {
@@ -337,20 +337,20 @@
     },
     {
       "id": "38",
-      "id_pzszach": "7736",
-      "nazwisko_imie": "HADZICKI Tomasz",
-      "tytul_kategoria": "I++",
-      "rank_fide": "2063",
-      "klub": "LKS ZARZEWIE Prudnik",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "39",
       "id_pzszach": "3585",
       "nazwisko_imie": "JACHYM Adam",
       "tytul_kategoria": "I",
       "rank_fide": "2057",
       "klub": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "7736",
+      "nazwisko_imie": "HADZICKI Tomasz",
+      "tytul_kategoria": "I++",
+      "rank_fide": "2054",
+      "klub": "LKS ZARZEWIE Prudnik",
       "wojewodztwo_zwiazek": "OP"
     },
     {
@@ -421,7 +421,7 @@
       "id_pzszach": "52299",
       "nazwisko_imie": "CZERNECKI Andrzej",
       "tytul_kategoria": "I+",
-      "rank_fide": "1996",
+      "rank_fide": "2001",
       "klub": "MDK Opole",
       "wojewodztwo_zwiazek": "OP"
     },
@@ -616,11 +616,11 @@
     },
     {
       "id": "69",
-      "id_pzszach": "116261",
-      "nazwisko_imie": "KOWALSKI Maciej",
+      "id_pzszach": "51935",
+      "nazwisko_imie": "BEDNARCZYK Mateusz",
       "tytul_kategoria": "I",
       "rank_fide": "1942",
-      "klub": "AZS KU Politechniki Opolskiej",
+      "klub": "KS Feniks Brzeg",
       "wojewodztwo_zwiazek": "OP"
     },
     {
@@ -634,11 +634,11 @@
     },
     {
       "id": "71",
-      "id_pzszach": "51935",
-      "nazwisko_imie": "BEDNARCZYK Mateusz",
+      "id_pzszach": "116261",
+      "nazwisko_imie": "KOWALSKI Maciej",
       "tytul_kategoria": "I",
       "rank_fide": "1938",
-      "klub": "KS Feniks Brzeg",
+      "klub": "AZS KU Politechniki Opolskiej",
       "wojewodztwo_zwiazek": "OP"
     },
     {
@@ -832,20 +832,20 @@
     },
     {
       "id": "93",
+      "id_pzszach": "50392",
+      "nazwisko_imie": "KOPESTYŃSKI Michał",
+      "tytul_kategoria": "I",
+      "rank_fide": "1889",
+      "klub": "KS Feniks Brzeg",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "94",
       "id_pzszach": "3666",
       "nazwisko_imie": "KOCON Wiktor",
       "tytul_kategoria": "I+",
       "rank_fide": "1884",
       "klub": "",
-      "wojewodztwo_zwiazek": "OP"
-    },
-    {
-      "id": "94",
-      "id_pzszach": "50392",
-      "nazwisko_imie": "KOPESTYŃSKI Michał",
-      "tytul_kategoria": "I",
-      "rank_fide": "1880",
-      "klub": "KS Feniks Brzeg",
       "wojewodztwo_zwiazek": "OP"
     },
     {

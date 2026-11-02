@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-11-01T08:34:53.987Z",
+  "createdAt": "2026-11-02T08:44:25.573Z",
   "totalRecords": 10,
   "data": [
     {
@@ -16,7 +16,7 @@
       "id_pzszach": "2880",
       "nazwisko_imie": "PAKLEZA Zbigniew",
       "tytul_kategoria": "GM",
-      "rank_fide": "2492",
+      "rank_fide": "2490",
       "klub": "KS KINGSOFCHESS Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
@@ -52,7 +52,7 @@
       "id_pzszach": "2694",
       "nazwisko_imie": "JAKUBIEC Artur",
       "tytul_kategoria": "GM",
-      "rank_fide": "2420",
+      "rank_fide": "2416",
       "klub": "KS KINGSOFCHESS Kraków",
       "wojewodztwo_zwiazek": "MP"
     },
@@ -85,11 +85,11 @@
     },
     {
       "id": "10",
-      "id_pzszach": "104677",
-      "nazwisko_imie": "SUSHCHOV Oleksandr",
-      "tytul_kategoria": "IM",
-      "rank_fide": "2327",
-      "klub": "Ognisko TKKF w Dobczycach",
+      "id_pzszach": "116643",
+      "nazwisko_imie": "NAKONECHNYI Oleksii",
+      "tytul_kategoria": "FM",
+      "rank_fide": "2343",
+      "klub": "MKS MOS Wieliczka",
       "wojewodztwo_zwiazek": "MP"
     }
   ]
