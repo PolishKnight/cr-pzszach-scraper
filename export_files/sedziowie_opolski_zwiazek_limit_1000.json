@@ -1,0 +1,537 @@
+{
+  "createdAt": "2026-11-27T21:31:18.276Z",
+  "totalRecords": 59,
+  "data": [
+    {
+      "id": "1",
+      "id_pzszach": "3544",
+      "nazwisko_imie": "ZARZECKI Lech",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300014",
+      "data_oplaty_licencji": "2010-07-10",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "2",
+      "id_pzszach": "31918",
+      "nazwisko_imie": "KACHEL Piotr",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "3",
+      "id_pzszach": "10660",
+      "nazwisko_imie": "+PANEK Adrian",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300015",
+      "data_oplaty_licencji": "2010-07-10",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "4",
+      "id_pzszach": "9692",
+      "nazwisko_imie": "TYMRAKIEWICZ Tadeusz",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300019",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "5",
+      "id_pzszach": "42698",
+      "nazwisko_imie": "KACHEL Krzysztof",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300030",
+      "data_oplaty_licencji": "2016-10-20",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "6",
+      "id_pzszach": "7934",
+      "nazwisko_imie": "REWASIEWICZ Miłosz",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300027",
+      "data_oplaty_licencji": "2013-05-10",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "7",
+      "id_pzszach": "51936",
+      "nazwisko_imie": "SYDOR Radosław",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300031",
+      "data_oplaty_licencji": "2018-02-04",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "8",
+      "id_pzszach": "5634",
+      "nazwisko_imie": "CZEMPIEL Henryk",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300017",
+      "data_oplaty_licencji": "2010-07-10",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "9",
+      "id_pzszach": "58173",
+      "nazwisko_imie": "KOCIERZ Paweł",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300037",
+      "data_oplaty_licencji": "2019-08-16",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "10",
+      "id_pzszach": "3648",
+      "nazwisko_imie": "GOROL Anna",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300021",
+      "data_oplaty_licencji": "2011-05-15",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "11",
+      "id_pzszach": "3551",
+      "nazwisko_imie": "+GNIAZDOWSKI Roman",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300008",
+      "data_oplaty_licencji": "2007-05-31",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "12",
+      "id_pzszach": "3596",
+      "nazwisko_imie": "BAZAN Szymon",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300020",
+      "data_oplaty_licencji": "2011-05-15",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "13",
+      "id_pzszach": "3629",
+      "nazwisko_imie": "CISZEWSKI Maciej",
+      "klasa_sedziowska": "",
+      "licencja_sedziowska": "08300032",
+      "data_oplaty_licencji": "2018-02-04",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "14",
+      "id_pzszach": "33531",
+      "nazwisko_imie": "HASTEROK Mateusz",
+      "klasa_sedziowska": "FA",
+      "licencja_sedziowska": "08300033",
+      "data_oplaty_licencji": "2026-01-22",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "15",
+      "id_pzszach": "51935",
+      "nazwisko_imie": "BEDNARCZYK Mateusz",
+      "klasa_sedziowska": "FA",
+      "licencja_sedziowska": "01300134",
+      "data_oplaty_licencji": "2026-01-22",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "16",
+      "id_pzszach": "3645",
+      "nazwisko_imie": "GORAJEK Henryk",
+      "klasa_sedziowska": "I",
+      "licencja_sedziowska": "",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "17",
+      "id_pzszach": "3654",
+      "nazwisko_imie": "+HANUSEK Eugeniusz",
+      "klasa_sedziowska": "I",
+      "licencja_sedziowska": "00300001",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "18",
+      "id_pzszach": "3658",
+      "nazwisko_imie": "JANOCHA Jan",
+      "klasa_sedziowska": "I",
+      "licencja_sedziowska": "08300013",
+      "data_oplaty_licencji": "2014-02-05",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "19",
+      "id_pzszach": "50392",
+      "nazwisko_imie": "KOPESTYŃSKI Michał",
+      "klasa_sedziowska": "I",
+      "licencja_sedziowska": "01300158",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "20",
+      "id_pzszach": "4379",
+      "nazwisko_imie": "KRZYWDA Małgorzata",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "21",
+      "id_pzszach": "39891",
+      "nazwisko_imie": "HASTEROK Łukasz",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300039",
+      "data_oplaty_licencji": "2026-01-18",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "22",
+      "id_pzszach": "3594",
+      "nazwisko_imie": "WOLSKI Marcin",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300016",
+      "data_oplaty_licencji": "2025-01-02",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "23",
+      "id_pzszach": "3600",
+      "nazwisko_imie": "+TABOŁA Waldemar",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300005",
+      "data_oplaty_licencji": "2007-05-31",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "24",
+      "id_pzszach": "91526",
+      "nazwisko_imie": "OGRODNIK Szymon",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300044",
+      "data_oplaty_licencji": "2026-01-18",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "25",
+      "id_pzszach": "3710",
+      "nazwisko_imie": "SZCZEŚNIAK Konrad",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300035",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "26",
+      "id_pzszach": "3681",
+      "nazwisko_imie": "MARSZALEK Zdzisław",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300006",
+      "data_oplaty_licencji": "2007-05-13",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "27",
+      "id_pzszach": "3680",
+      "nazwisko_imie": "MAŁECKI Rafał",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300009",
+      "data_oplaty_licencji": "2007-08-28",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "28",
+      "id_pzszach": "3664",
+      "nazwisko_imie": "+KISIEL Gerhard",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300002",
+      "data_oplaty_licencji": "2007-03-13",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "29",
+      "id_pzszach": "3653",
+      "nazwisko_imie": "+GULANOWSKI Kazimierz",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300003",
+      "data_oplaty_licencji": "2007-03-13",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "30",
+      "id_pzszach": "3621",
+      "nazwisko_imie": "BIEGALSKI Arkadiusz",
+      "klasa_sedziowska": "II",
+      "licencja_sedziowska": "08300025",
+      "data_oplaty_licencji": "2026-02-18",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "31",
+      "id_pzszach": "62980",
+      "nazwisko_imie": "SOWA Piotr",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300046",
+      "data_oplaty_licencji": "2025-01-02",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "32",
+      "id_pzszach": "55698",
+      "nazwisko_imie": "KLUCZNIK Andre",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300029",
+      "data_oplaty_licencji": "2016-09-13",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "33",
+      "id_pzszach": "72891",
+      "nazwisko_imie": "LISOWSKI Dariusz",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300038",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "34",
+      "id_pzszach": "53657",
+      "nazwisko_imie": "SOWA Wiktoria",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300045",
+      "data_oplaty_licencji": "2025-01-02",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "35",
+      "id_pzszach": "52299",
+      "nazwisko_imie": "CZERNECKI Andrzej",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "12300174",
+      "data_oplaty_licencji": "2023-04-06",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "36",
+      "id_pzszach": "87889",
+      "nazwisko_imie": "HADRIAN Patryk",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300049",
+      "data_oplaty_licencji": "2026-07-12",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "37",
+      "id_pzszach": "89983",
+      "nazwisko_imie": "GŁÓWKA Wiesław",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "38",
+      "id_pzszach": "94403",
+      "nazwisko_imie": "WRÓBEL Mateusz",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300052",
+      "data_oplaty_licencji": "2026-08-19",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "39",
+      "id_pzszach": "2906",
+      "nazwisko_imie": "POZNAŃSKA Katarzyna",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "40",
+      "id_pzszach": "148698",
+      "nazwisko_imie": "MARCINKOWSKI Radosław",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300051",
+      "data_oplaty_licencji": "2026-08-13",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "41",
+      "id_pzszach": "6143",
+      "nazwisko_imie": "SZTWIERTNIA Jan Krzysztof",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300042",
+      "data_oplaty_licencji": "2023-06-30",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "42",
+      "id_pzszach": "3557",
+      "nazwisko_imie": "PILARSKI Piotr",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300026",
+      "data_oplaty_licencji": "2013-05-10",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "43",
+      "id_pzszach": "3558",
+      "nazwisko_imie": "PODKÓWKA Mirosław",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300007",
+      "data_oplaty_licencji": "2007-05-31",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "44",
+      "id_pzszach": "3618",
+      "nazwisko_imie": "BANASIK Krzysztof",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300050",
+      "data_oplaty_licencji": "2026-07-12",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "45",
+      "id_pzszach": "3687",
+      "nazwisko_imie": "NOWAKOWSKI Jan",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300011",
+      "data_oplaty_licencji": "2007-09-13",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "46",
+      "id_pzszach": "3689",
+      "nazwisko_imie": "OLSZOWSKI Andrzej",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300048",
+      "data_oplaty_licencji": "2025-01-25",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "47",
+      "id_pzszach": "3736",
+      "nazwisko_imie": "ZGADZAJ Rafał",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300010",
+      "data_oplaty_licencji": "2007-08-28",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "48",
+      "id_pzszach": "4389",
+      "nazwisko_imie": "SZYMAŃSKI Piotr",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "07300128",
+      "data_oplaty_licencji": "2020-02-04",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "49",
+      "id_pzszach": "21778",
+      "nazwisko_imie": "GIL Czesław",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300023",
+      "data_oplaty_licencji": "2012-10-30",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "50",
+      "id_pzszach": "6209",
+      "nazwisko_imie": "WIŚNIEWSKI Adrian",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "12300022",
+      "data_oplaty_licencji": "2007-04-19",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "51",
+      "id_pzszach": "7735",
+      "nazwisko_imie": "GWOŹDZIK Zbigniew",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300041",
+      "data_oplaty_licencji": "2023-06-30",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "52",
+      "id_pzszach": "9483",
+      "nazwisko_imie": "PANEK Andrzej",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300040",
+      "data_oplaty_licencji": "2026-06-11",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "53",
+      "id_pzszach": "9535",
+      "nazwisko_imie": "+PTASZEK Przemysław",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300024",
+      "data_oplaty_licencji": "2012-10-30",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "54",
+      "id_pzszach": "9684",
+      "nazwisko_imie": "TOPOROWSKI Jacek",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300043",
+      "data_oplaty_licencji": "2024-05-19",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "55",
+      "id_pzszach": "10836",
+      "nazwisko_imie": "KOLENDER Adam",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300047",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "56",
+      "id_pzszach": "12860",
+      "nazwisko_imie": "WRÓBEL Maciej",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "01300057",
+      "data_oplaty_licencji": "2010-05-31",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "57",
+      "id_pzszach": "19743",
+      "nazwisko_imie": "RACŁAWICKI Kacper",
+      "klasa_sedziowska": "III",
+      "licencja_sedziowska": "08300035",
+      "data_oplaty_licencji": "",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "58",
+      "id_pzszach": "3714",
+      "nazwisko_imie": "TABOŁA Marcin",
+      "klasa_sedziowska": "P",
+      "licencja_sedziowska": "08300001",
+      "data_oplaty_licencji": "2026-06-01",
+      "wojewodztwo_zwiazek": "OP"
+    },
+    {
+      "id": "59",
+      "id_pzszach": "3697",
+      "nazwisko_imie": "PROKOPCZUK Antoni",
+      "klasa_sedziowska": "P",
+      "licencja_sedziowska": "08300012",
+      "data_oplaty_licencji": "2019-02-27",
+      "wojewodztwo_zwiazek": "OP"
+    }
+  ]
+}

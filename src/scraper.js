@@ -110,6 +110,26 @@ function parseKluby($) {
   return wyniki;
 }
 
+function parseSedziowie($) {
+  const wyniki = [];
+  $("table tr").each((i, el) => {
+    const tds = $(el).find("td");
+    const lp = clean($(tds[0]));
+    if (lp && !isNaN(lp)) {
+      wyniki.push({
+        id: lp,
+        id_pzszach: clean($(tds[1])),
+        nazwisko_imie: clean($(tds[2])),
+        klasa_sedziowska: clean($(tds[3])),
+        licencja_sedziowska: clean($(tds[4])),
+        data_oplaty_licencji: clean($(tds[5])),
+        wojewodztwo_zwiazek: clean($(tds[6])),
+      });
+    }
+  });
+  return wyniki;
+}
+
 /**
  * Funkcja zwracająca listę zadań dla konkretnego kodu związku
  */
@@ -126,7 +146,19 @@ const getTasks = (code) => [
     parser: parseKluby,
     limits: [10, 100],
   },
+  ...(code
+    ? [
+        {
+          type: "sedziowie",
+          url: `https://www.cr-pzszach.pl/ew/viewpage.php?page_id=1&zwiazek=${code}&typ_czlonka=2&sort=KLASA_SEDZIOWSKA`,
+          parser: parseSedziowie,
+          limits: [1000],
+        },
+      ]
+    : []),
 ];
+
+const pauza = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 /**
  * @typedef {Object} ScrapedData
@@ -155,6 +187,7 @@ async function scrape() {
     const tasks = getTasks(zwiazek.code);
 
     for (const source of tasks) {
+      await pauza(1000);
       try {
         const response = await axios.get(source.url, {
           responseType: "arraybuffer",
